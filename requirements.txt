@@ -1,14 +1,21 @@
-streamlit
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
-langchain-groq
-chromadb
-pypdf
-python-docx
-python-dotenv
-docx2txt
-sentence-transformers
-tiktoken
-unstructured
+# Brag & Bev AI Agent — pinned for reproducible Render deploys
+# Python 3.11 recommended (see runtime.txt / .python-version)
+
+streamlit>=1.28.0,<2.0.0
+python-dotenv>=1.0.0,<2.0.0
+pypdf>=3.0.0,<5.0.0
+python-docx>=1.0.0,<2.0.0
+
+# LangChain — modern modular packages (no deprecated langchain_community.embeddings)
+langchain-core>=0.3.0,<0.4.0
+langchain-community>=0.3.0,<0.4.0
+langchain-text-splitters>=0.3.0,<0.4.0
+langchain-groq>=0.2.0,<0.3.0
+langchain-huggingface>=0.1.0
+
+# Vector store and embeddings
+chromadb>=0.4.0,<0.6.0
+sentence-transformers>=2.2.0,<3.0.0
+
+# Optional: reduce build noise / dependency conflicts (keep minimal)
+tiktoken>=0.5.0,<1.0.0
