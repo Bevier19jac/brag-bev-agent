@@ -14,34 +14,21 @@ from langchain_community.vectorstores import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
-# -----------------------------
-# CONFIG
-# -----------------------------
 APP_TITLE = "Brag & Bev AI Agent"
 PERSIST_DIR = "data/chroma"
 UPLOAD_DIR = "data/raw"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-GROQ_MODEL = "llama-3.3-70b-versatile"  # good default on Groq
+GROQ_MODEL = "llama-3.3-70b-versatile"
 
 
-# -----------------------------
-# PAGE SETUP
-# -----------------------------
 st.set_page_config(page_title=APP_TITLE, layout="wide")
 st.title(APP_TITLE)
 st.caption("Upload files, build the knowledge base, and ask questions about your documents.")
 
-
-# -----------------------------
-# ENSURE DIRECTORIES EXIST
-# -----------------------------
 Path(PERSIST_DIR).mkdir(parents=True, exist_ok=True)
 Path(UPLOAD_DIR).mkdir(parents=True, exist_ok=True)
 
 
-# -----------------------------
-# HELPERS
-# -----------------------------
 @st.cache_resource
 def get_embeddings():
     return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
@@ -116,17 +103,17 @@ def extract_text(uploaded_file) -> str:
     suffix = Path(uploaded_file.name).suffix.lower()
     file_bytes = uploaded_file.getvalue()
 
-    if suffix in [".txt"]:
+    if suffix == ".txt":
         return extract_text_from_txt(file_bytes)
-    if suffix in [".md"]:
+    if suffix == ".md":
         return extract_text_from_md(file_bytes)
-    if suffix in [".json"]:
+    if suffix == ".json":
         return extract_text_from_json(file_bytes)
-    if suffix in [".csv"]:
+    if suffix == ".csv":
         return extract_text_from_csv(file_bytes)
-    if suffix in [".pdf"]:
+    if suffix == ".pdf":
         return extract_text_from_pdf(file_bytes)
-    if suffix in [".docx"]:
+    if suffix == ".docx":
         return extract_text_from_docx(file_bytes)
 
     raise ValueError(f"Unsupported file type: {suffix}")
@@ -163,7 +150,6 @@ def ingest_uploaded_files(uploaded_files):
         total_chunks += len(chunks)
         processed_files.append(uploaded_file.name)
 
-    # Persist to disk
     if hasattr(vectordb, "persist"):
         vectordb.persist()
 
@@ -178,11 +164,11 @@ def build_prompt(question: str, docs):
 
     context = "\n\n".join(context_parts)
 
-    prompt = f"""
+    return f"""
 You are the Brag & Bev AI Agent.
 
-Answer the user's question using ONLY the provided context when possible.
-If the answer is not in the context, say that you do not have enough information in the uploaded documents.
+Answer the user's question using the provided context.
+If the answer is not in the context, say you do not have enough information in the uploaded documents.
 Be clear, direct, and useful.
 
 User question:
@@ -194,8 +180,6 @@ Context:
 Answer:
 """.strip()
 
-    return prompt
-
 
 def answer_question(question: str, k: int = 4):
     vectordb = get_vectorstore()
@@ -204,7 +188,7 @@ def answer_question(question: str, k: int = 4):
     docs = vectordb.similarity_search(question, k=k)
 
     if not docs:
-        return "I couldn't find any relevant documents in the knowledge base yet. Upload files first.", []
+        return "I couldn't find any relevant documents in the knowledge base yet. Upload and ingest files first.", []
 
     prompt = build_prompt(question, docs)
     response = llm.invoke(prompt)
@@ -217,9 +201,6 @@ def answer_question(question: str, k: int = 4):
     return answer, docs
 
 
-# -----------------------------
-# SIDEBAR
-# -----------------------------
 with st.sidebar:
     st.header("Knowledge Base")
 
@@ -258,10 +239,8 @@ with st.sidebar:
 
     if st.button("Reset Vector Database", use_container_width=True):
         try:
-            # Clear cache so a fresh vector store is created
             st.cache_resource.clear()
 
-            # Delete persisted Chroma files
             chroma_dir = Path(PERSIST_DIR)
             if chroma_dir.exists():
                 for item in chroma_dir.rglob("*"):
@@ -280,9 +259,6 @@ with st.sidebar:
             st.error(f"Reset failed: {e}")
 
 
-# -----------------------------
-# MAIN Q&A
-# -----------------------------
 question = st.text_input("Ask a question")
 
 if st.button("Run AI"):
