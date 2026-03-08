@@ -8,6 +8,7 @@ import os
 import sys
 import json
 import csv
+from datetime import datetime, timezone
 from io import StringIO, BytesIO
 from pathlib import Path
 
@@ -273,44 +274,68 @@ def run_rag(question: str, k: int = RETRIEVAL_K):
 # -----------------------------------------------------------------------------
 # UI
 # -----------------------------------------------------------------------------
+# Rerun counter (increment every script run to detect unexpected reruns)
+if "_rerun_count" not in st.session_state:
+    st.session_state._rerun_count = 0
+st.session_state._rerun_count += 1
+
 st.title(APP_TITLE)
 st.caption("Upload documents in the sidebar, ingest into the knowledge base, then ask questions. Answers are grounded in your files.")
 
 # Debug toggle (visible)
 with st.sidebar:
-    st.header("Knowledge Base")
-    show_debug = st.checkbox("Show debug messages", value=False, help="Show when embeddings/DB load and retrieval counts")
-    if show_debug and st.session_state.get("vectorstore_used"):
-        st.caption("Vector DB used successfully (embeddings + Chroma loaded).")
-    smoke_url = st.text_input("Smoke test URL", value="", help="Copy URL and add ?smoke=1 to test Streamlit only")
-    if smoke_url:
-        st.caption("Open: " + (smoke_url + ("&" if "?" in smoke_url else "?") + "smoke=1"))
+    # Timestamp and rerun counter to see if the app is rerunning unexpectedly
+    st.caption(f"Rerun #{st.session_state._rerun_count} — {datetime.now(timezone.utc).strftime('%H:%M:%S')} UTC")
 
-    uploaded = st.file_uploader(
-        "Upload files",
-        type=["pdf", "txt", "docx", "csv", "json", "md"],
-        accept_multiple_files=True,
-        help="PDF, TXT, DOCX, CSV, JSON, Markdown",
-    )
-    if st.button("Ingest uploaded files", type="primary", use_container_width=True):
-        if not uploaded:
-            st.warning("Upload at least one file first.")
-        else:
-            with st.spinner("Extracting text, chunking, storing in Chroma..."):
-                try:
-                    processed, num_chunks = ingest_files(uploaded)
-                    if processed:
-                        st.success(f"Ingested {len(processed)} file(s), {num_chunks} chunks.")
-                        if show_debug:
-                            st.info(f"Documents ingested; total chunks from this batch: {num_chunks}")
-                        st.session_state.vectorstore_used = True
-                    else:
-                        st.info("No files could be processed. Check format and try again.")
-                except Exception as e:
-                    st.error(f"Ingestion failed: {e}")
+    uploaded = None
+    show_debug = False
+    try:
+        st.header("Knowledge Base")
+        show_debug = st.checkbox("Show debug messages", value=False, help="Show when embeddings/DB load and retrieval counts")
+        if show_debug and st.session_state.get("vectorstore_used"):
+            st.caption("Vector DB used successfully (embeddings + Chroma loaded).")
+        smoke_url = st.text_input("Smoke test URL", value="", help="Copy URL and add ?smoke=1 to test Streamlit only")
+        if smoke_url:
+            st.caption("Open: " + (smoke_url + ("&" if "?" in smoke_url else "?") + "smoke=1"))
 
-    st.divider()
-    st.caption("Raw files: data/raw. Vectors: data/chroma.")
+        uploaded = st.file_uploader(
+            "Upload files",
+            type=["pdf", "txt", "docx", "csv", "json", "md"],
+            accept_multiple_files=True,
+            help="PDF, TXT, DOCX, CSV, JSON, Markdown",
+        )
+
+        # Uploader diagnostic (immediately after file_uploader)
+        if uploaded is None:
+            st.warning("Uploader returned None")
+        elif isinstance(uploaded, (list, tuple)) and len(uploaded) == 0:
+            st.warning("Uploader returned empty list")
+        elif uploaded:
+            st.success(f"Uploader: {len(uploaded)} file(s)")
+            for i, f in enumerate(uploaded):
+                st.caption(f"  • {getattr(f, 'name', repr(f))}")
+
+        if st.button("Ingest uploaded files", type="primary", use_container_width=True):
+            if not uploaded:
+                st.warning("Upload at least one file first.")
+            else:
+                with st.spinner("Extracting text, chunking, storing in Chroma..."):
+                    try:
+                        processed, num_chunks = ingest_files(uploaded)
+                        if processed:
+                            st.success(f"Ingested {len(processed)} file(s), {num_chunks} chunks.")
+                            if show_debug:
+                                st.info(f"Documents ingested; total chunks from this batch: {num_chunks}")
+                            st.session_state.vectorstore_used = True
+                        else:
+                            st.info("No files could be processed. Check format and try again.")
+                    except Exception as e:
+                        st.error(f"Ingestion failed: {e}")
+
+        st.divider()
+        st.caption("Raw files: data/raw. Vectors: data/chroma.")
+    except Exception as e:
+        st.error(f"Sidebar upload block error: {e}")
 
 # Main: question + RAG
 question = st.text_input("Ask a question about your documents", placeholder="e.g. What is the dumpster diver?")
