@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+outputs
+.env
+.env.local
+*.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep data/ in repo so Chroma and raw docs deploy (or only data/raw and index at build)
+# Uncomment to ignore large chroma DB and rely on build-time indexing:
+# data/chroma/

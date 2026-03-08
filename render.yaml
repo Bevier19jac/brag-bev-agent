@@ -1,0 +1,15 @@
+# Render Blueprint: Brag and Bev AI Agent
+# https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: brag-bev-agent
+    runtime: python
+    region: oregon
+    plan: free
+
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
+
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false  # set manually in Render Dashboard → Environment
