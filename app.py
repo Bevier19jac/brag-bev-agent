@@ -1,3 +1,8 @@
+"""
+Brag & Bev AI Agent — Production-ready RAG document agent.
+Streamlit UI: upload PDF/TXT/DOCX/CSV/JSON/MD, ingest into Chroma, query with Groq.
+No deprecated LangChain chains; uses similarity_search + custom prompt + ChatGroq.
+"""
 import os
 import json
 import csv
@@ -5,6 +10,7 @@ from io import StringIO, BytesIO
 from pathlib import Path
 
 import streamlit as st
+from dotenv import load_dotenv
 from pypdf import PdfReader
 from docx import Document as DocxDocument
 
@@ -12,23 +18,42 @@ from langchain_groq import ChatGroq
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.messages import HumanMessage
 
+load_dotenv()
 
+# -----------------------------------------------------------------------------
+# Constants
+# -----------------------------------------------------------------------------
 APP_TITLE = "Brag & Bev AI Agent"
-PERSIST_DIR = "data/chroma"
-UPLOAD_DIR = "data/raw"
+DATA_DIR = "data"
+RAW_DIR = "data/raw"
+CHROMA_DIR = "data/chroma"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 GROQ_MODEL = "llama-3.3-70b-versatile"
+SUPPORTED_EXTENSIONS = {".pdf", ".txt", ".docx", ".csv", ".json", ".md"}
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 150
+RETRIEVAL_K = 5
 
+# -----------------------------------------------------------------------------
+# Ensure directories exist
+# -----------------------------------------------------------------------------
+Path(DATA_DIR).mkdir(parents=True, exist_ok=True)
+Path(RAW_DIR).mkdir(parents=True, exist_ok=True)
+Path(CHROMA_DIR).mkdir(parents=True, exist_ok=True)
 
-st.set_page_config(page_title=APP_TITLE, layout="wide")
+# -----------------------------------------------------------------------------
+# Page config
+# -----------------------------------------------------------------------------
+st.set_page_config(page_title=APP_TITLE, page_icon="📄", layout="wide")
 st.title(APP_TITLE)
-st.caption("Upload files, build the knowledge base, and ask questions about your documents.")
-
-Path(PERSIST_DIR).mkdir(parents=True, exist_ok=True)
-Path(UPLOAD_DIR).mkdir(parents=True, exist_ok=True)
+st.caption("Upload documents, ingest into the knowledge base, then ask questions. Answers are grounded in your uploaded files.")
 
 
+# -----------------------------------------------------------------------------
+# Cached resources (embeddings + vectorstore)
+# -----------------------------------------------------------------------------
 @st.cache_resource
 def get_embeddings():
     return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
@@ -38,248 +63,234 @@ def get_embeddings():
 def get_vectorstore():
     embeddings = get_embeddings()
     return Chroma(
-        persist_directory=PERSIST_DIR,
+        persist_directory=CHROMA_DIR,
         embedding_function=embeddings,
     )
 
 
+# -----------------------------------------------------------------------------
+# LLM (not cached — checks env each time for clear error when missing)
+# -----------------------------------------------------------------------------
 def get_llm():
-    groq_api_key = os.getenv("GROQ_API_KEY")
-    if not groq_api_key:
-        raise ValueError("GROQ_API_KEY is not set in the environment.")
+    api_key = os.environ.get("GROQ_API_KEY")
+    if not api_key:
+        raise ValueError(
+            "GROQ_API_KEY is not set. Add it in Render Dashboard → Environment (or in .env locally)."
+        )
     return ChatGroq(
-        groq_api_key=groq_api_key,
-        model_name=GROQ_MODEL,
+        model=GROQ_MODEL,
         temperature=0.2,
+        api_key=api_key,
     )
 
 
-def save_uploaded_file(uploaded_file):
-    file_path = Path(UPLOAD_DIR) / uploaded_file.name
-    with open(file_path, "wb") as f:
+# -----------------------------------------------------------------------------
+# File handling: save to data/raw and extract text
+# -----------------------------------------------------------------------------
+def save_uploaded_file(uploaded_file) -> str:
+    path = Path(RAW_DIR) / uploaded_file.name
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "wb") as f:
         f.write(uploaded_file.getbuffer())
-    return str(file_path)
+    return str(path)
 
 
-def extract_text_from_txt(file_bytes: bytes) -> str:
-    return file_bytes.decode("utf-8", errors="ignore")
+def extract_text_txt(content: bytes) -> str:
+    return content.decode("utf-8", errors="replace")
 
 
-def extract_text_from_md(file_bytes: bytes) -> str:
-    return file_bytes.decode("utf-8", errors="ignore")
+def extract_text_md(content: bytes) -> str:
+    return content.decode("utf-8", errors="replace")
 
 
-def extract_text_from_json(file_bytes: bytes) -> str:
+def extract_text_json(content: bytes) -> str:
     try:
-        obj = json.loads(file_bytes.decode("utf-8", errors="ignore"))
+        obj = json.loads(content.decode("utf-8", errors="replace"))
         return json.dumps(obj, indent=2)
     except Exception:
-        return file_bytes.decode("utf-8", errors="ignore")
+        return content.decode("utf-8", errors="replace")
 
 
-def extract_text_from_csv(file_bytes: bytes) -> str:
-    decoded = file_bytes.decode("utf-8", errors="ignore")
+def extract_text_csv(content: bytes) -> str:
+    decoded = content.decode("utf-8", errors="replace")
     reader = csv.reader(StringIO(decoded))
-    rows = [" | ".join(row) for row in reader]
-    return "\n".join(rows)
+    return "\n".join(" | ".join(row) for row in reader)
 
 
-def extract_text_from_pdf(file_bytes: bytes) -> str:
-    text_parts = []
-    reader = PdfReader(BytesIO(file_bytes))
+def extract_text_pdf(content: bytes) -> str:
+    reader = PdfReader(BytesIO(content))
+    parts = []
     for page in reader.pages:
-        page_text = page.extract_text() or ""
-        text_parts.append(page_text)
-    return "\n".join(text_parts)
+        text = page.extract_text()
+        parts.append(text or "")
+    return "\n".join(parts)
 
 
-def extract_text_from_docx(file_bytes: bytes) -> str:
-    doc = DocxDocument(BytesIO(file_bytes))
-    paragraphs = [p.text for p in doc.paragraphs if p.text.strip()]
-    return "\n".join(paragraphs)
+def extract_text_docx(content: bytes) -> str:
+    doc = DocxDocument(BytesIO(content))
+    return "\n".join(p.text for p in doc.paragraphs if p.text and p.text.strip())
 
 
-def extract_text(uploaded_file) -> str:
+def extract_text_from_file(uploaded_file) -> str:
     suffix = Path(uploaded_file.name).suffix.lower()
-    file_bytes = uploaded_file.getvalue()
-
+    if suffix not in SUPPORTED_EXTENSIONS:
+        raise ValueError(f"Unsupported file type: {suffix}. Allowed: {', '.join(sorted(SUPPORTED_EXTENSIONS))}.")
+    raw = uploaded_file.getvalue()
     if suffix == ".txt":
-        return extract_text_from_txt(file_bytes)
+        return extract_text_txt(raw)
     if suffix == ".md":
-        return extract_text_from_md(file_bytes)
+        return extract_text_md(raw)
     if suffix == ".json":
-        return extract_text_from_json(file_bytes)
+        return extract_text_json(raw)
     if suffix == ".csv":
-        return extract_text_from_csv(file_bytes)
+        return extract_text_csv(raw)
     if suffix == ".pdf":
-        return extract_text_from_pdf(file_bytes)
+        return extract_text_pdf(raw)
     if suffix == ".docx":
-        return extract_text_from_docx(file_bytes)
-
+        return extract_text_docx(raw)
     raise ValueError(f"Unsupported file type: {suffix}")
 
 
-def chunk_text(text: str):
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=150,
-        separators=["\n\n", "\n", " ", ""],
+# -----------------------------------------------------------------------------
+# Chunking and ingestion
+# -----------------------------------------------------------------------------
+def get_text_splitter():
+    return RecursiveCharacterTextSplitter(
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
+        separators=["\n\n", "\n", ". ", " ", ""],
     )
-    return splitter.split_text(text)
 
 
-def ingest_uploaded_files(uploaded_files):
-    vectordb = get_vectorstore()
-
+def ingest_files(uploaded_files):
+    if not uploaded_files:
+        return [], 0
+    embeddings = get_embeddings()
+    vectorstore = get_vectorstore()
+    splitter = get_text_splitter()
+    processed = []
     total_chunks = 0
-    processed_files = []
-
-    for uploaded_file in uploaded_files:
-        raw_text = extract_text(uploaded_file)
-
-        if not raw_text.strip():
-            st.warning(f"No readable text found in {uploaded_file.name}. Skipping.")
+    for uf in uploaded_files:
+        try:
+            text = extract_text_from_file(uf)
+        except ValueError as e:
+            st.warning(f"Skipping {uf.name}: {e}")
             continue
-
-        save_uploaded_file(uploaded_file)
-
-        chunks = chunk_text(raw_text)
-        metadatas = [{"source": uploaded_file.name, "chunk": i} for i in range(len(chunks))]
-
-        vectordb.add_texts(texts=chunks, metadatas=metadatas)
+        if not (text and text.strip()):
+            st.warning(f"No readable text in {uf.name}. Skipping.")
+            continue
+        save_uploaded_file(uf)
+        chunks = splitter.split_text(text)
+        metadatas = [{"source": uf.name, "chunk_idx": i} for i in range(len(chunks))]
+        vectorstore.add_texts(texts=chunks, metadatas=metadatas)
         total_chunks += len(chunks)
-        processed_files.append(uploaded_file.name)
-
-    if hasattr(vectordb, "persist"):
-        vectordb.persist()
-
-    return processed_files, total_chunks
+        processed.append(uf.name)
+    return processed, total_chunks
 
 
-def build_prompt(question: str, docs):
-    context_parts = []
-    for i, doc in enumerate(docs, start=1):
-        source = doc.metadata.get("source", "unknown")
-        context_parts.append(f"[Document {i} | Source: {source}]\n{doc.page_content}")
-
-    context = "\n\n".join(context_parts)
-
-    return f"""
-You are the Brag & Bev AI Agent.
+# -----------------------------------------------------------------------------
+# Prompt (exact format required)
+# -----------------------------------------------------------------------------
+def build_prompt(question: str, retrieved_chunks: list) -> str:
+    context_block = "\n\n".join(
+        f"[Source: {d.metadata.get('source', 'unknown')}]\n{d.page_content}"
+        for d in retrieved_chunks
+    )
+    return f"""You are the Brag & Bev AI Agent.
 
 Answer the user's question using the provided context.
-If the answer is not in the context, say you do not have enough information in the uploaded documents.
-Be clear, direct, and useful.
+If the answer is not present in the documents, say that the information is not available in the uploaded knowledge base.
 
-User question:
+User Question:
 {question}
 
 Context:
-{context}
+{context_block}
 
-Answer:
-""".strip()
+Answer:"""
 
 
-def answer_question(question: str, k: int = 4):
-    vectordb = get_vectorstore()
-    llm = get_llm()
-
-    docs = vectordb.similarity_search(question, k=k)
-
+# -----------------------------------------------------------------------------
+# Retrieval + LLM (no RetrievalQA; similarity_search + custom prompt + direct call)
+# -----------------------------------------------------------------------------
+def run_rag(question: str, k: int = RETRIEVAL_K):
+    vectorstore = get_vectorstore()
+    try:
+        docs = vectorstore.similarity_search(question, k=k)
+    except Exception as e:
+        return f"Retrieval error: {e}", []
     if not docs:
-        return "I couldn't find any relevant documents in the knowledge base yet. Upload and ingest files first.", []
-
+        return (
+            "No documents are in the knowledge base yet, or none match your question. "
+            "Upload and ingest files first, then try again.",
+            [],
+        )
+    try:
+        llm = get_llm()
+    except ValueError as e:
+        return str(e), docs
     prompt = build_prompt(question, docs)
-    response = llm.invoke(prompt)
-
-    if hasattr(response, "content"):
-        answer = response.content
-    else:
-        answer = str(response)
-
-    return answer, docs
+    try:
+        response = llm.invoke([HumanMessage(content=prompt)])
+        answer = response.content if hasattr(response, "content") else str(response)
+    except Exception as e:
+        return f"LLM error: {e}", docs
+    return answer.strip(), docs
 
 
+# -----------------------------------------------------------------------------
+# Sidebar: upload + ingest
+# -----------------------------------------------------------------------------
 with st.sidebar:
     st.header("Knowledge Base")
-
-    uploaded_files = st.file_uploader(
+    uploaded = st.file_uploader(
         "Upload files",
-        type=["txt", "md", "pdf", "docx", "csv", "json"],
+        type=["pdf", "txt", "docx", "csv", "json", "md"],
         accept_multiple_files=True,
-        help="Supported: TXT, MD, PDF, DOCX, CSV, JSON",
+        help="PDF, TXT, DOCX, CSV, JSON, Markdown",
     )
-
-    if st.button("Ingest Uploaded Files", use_container_width=True):
-        if not uploaded_files:
+    if st.button("Ingest uploaded files", type="primary", use_container_width=True):
+        if not uploaded:
             st.warning("Upload at least one file first.")
         else:
-            with st.spinner("Reading files, chunking text, and building the vector database..."):
+            with st.spinner("Extracting text, chunking, and storing in Chroma..."):
                 try:
-                    processed_files, total_chunks = ingest_uploaded_files(uploaded_files)
-                    st.success(
-                        f"Ingestion complete. Files processed: {len(processed_files)} | Chunks added: {total_chunks}"
-                    )
-                    if processed_files:
-                        st.write("Processed files:")
-                        for f in processed_files:
-                            st.write(f"- {f}")
+                    processed, num_chunks = ingest_files(uploaded)
+                    if processed:
+                        st.success(f"Ingested {len(processed)} file(s), {num_chunks} chunks.")
+                        for name in processed:
+                            st.caption(f"• {name}")
+                    else:
+                        st.info("No files could be processed. Check format and try again.")
                 except Exception as e:
                     st.error(f"Ingestion failed: {e}")
 
-    if st.button("Show Stored Raw Files", use_container_width=True):
-        raw_files = sorted([p.name for p in Path(UPLOAD_DIR).glob("*") if p.is_file()])
-        if raw_files:
-            st.write("Files in data/raw:")
-            for f in raw_files:
-                st.write(f"- {f}")
-        else:
-            st.info("No files saved in data/raw yet.")
-
-    if st.button("Reset Vector Database", use_container_width=True):
-        try:
-            st.cache_resource.clear()
-
-            chroma_dir = Path(PERSIST_DIR)
-            if chroma_dir.exists():
-                for item in chroma_dir.rglob("*"):
-                    if item.is_file():
-                        item.unlink()
-                for item in sorted(chroma_dir.rglob("*"), reverse=True):
-                    if item.is_dir():
-                        try:
-                            item.rmdir()
-                        except OSError:
-                            pass
-                chroma_dir.mkdir(parents=True, exist_ok=True)
-
-            st.success("Vector database reset. You can ingest files again.")
-        except Exception as e:
-            st.error(f"Reset failed: {e}")
+    st.divider()
+    st.caption("Raw files are saved under data/raw. Vectors persist in data/chroma.")
 
 
-question = st.text_input("Ask a question")
+# -----------------------------------------------------------------------------
+# Main: question + run AI
+# -----------------------------------------------------------------------------
+question = st.text_input("Ask a question about your documents", placeholder="e.g. What is the dumpster diver?")
 
-if st.button("Run AI"):
-    if not question.strip():
+if st.button("Run AI", type="primary"):
+    if not (question and question.strip()):
         st.warning("Please enter a question.")
     else:
-        with st.spinner("Running AI..."):
+        with st.spinner("Searching documents and generating answer..."):
             try:
-                answer, docs = answer_question(question)
-
+                answer, retrieved = run_rag(question.strip())
                 st.subheader("Answer")
                 st.write(answer)
-
-                with st.expander("Retrieved Context"):
-                    if docs:
-                        for i, doc in enumerate(docs, start=1):
-                            st.markdown(f"**Document {i}**")
-                            st.write(f"Source: {doc.metadata.get('source', 'unknown')}")
-                            st.write(doc.page_content[:1200] + ("..." if len(doc.page_content) > 1200 else ""))
-                            st.markdown("---")
+                with st.expander("Retrieved context"):
+                    if retrieved:
+                        for i, doc in enumerate(retrieved, 1):
+                            src = doc.metadata.get("source", "unknown")
+                            st.markdown(f"**{i}. {src}**")
+                            st.text(doc.page_content[:800] + ("..." if len(doc.page_content) > 800 else ""))
+                            st.divider()
                     else:
-                        st.write("No documents retrieved.")
+                        st.write("No chunks retrieved.")
             except Exception as e:
-                st.error(f"AI run failed: {e}")
+                st.error(f"Error: {e}")
