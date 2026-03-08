@@ -1,17 +1,19 @@
-import streamlit as st
 import os
+import streamlit as st
 
 st.set_page_config(page_title="Brag & Bev AI Agent", layout="wide")
 
 st.title("Brag & Bev AI Agent")
 
 question = st.text_input("Ask a question")
+run_button = st.button("Run AI")
 
-if st.button("Run AI"):
+if run_button and question:
+    st.write("Running AI...")
 
     from langchain_groq import ChatGroq
-    from langchain.embeddings import HuggingFaceEmbeddings
-    from langchain.vectorstores import Chroma
+    from langchain_community.embeddings import HuggingFaceEmbeddings
+    from langchain_community.vectorstores import Chroma
     from langchain.chains import RetrievalQA
 
     embeddings = HuggingFaceEmbeddings()
