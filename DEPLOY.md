@@ -1,103 +1,75 @@
-# Deploy Brag & Bev AI Agent on Render
+# Deploy Brag & Bev AI Agent on Render (query-only)
 
-## 1. Prepare the repo
-
-- Ensure `data/`, `data/raw/`, and `data/chroma/` exist (the app creates them if missing).
-- Commit and push to GitHub (include `app.py`, `requirements.txt`, and optionally existing `data/` so Chroma is pre-populated).
-
-## 2. Create the Web Service on Render
-
-1. Go to [dashboard.render.com](https://dashboard.render.com) and sign in (GitHub).
-2. **New** → **Web Service**.
-3. Connect the GitHub repo that contains this project.
-4. Configure:
-   - **Name:** `brag-bev-agent` (or any name).
-   - **Region:** Choose one (e.g. Oregon).
-   - **Branch:** `main` (or your default).
-   - **Runtime:** `Python 3`.
-   - **Build Command:**
-     ```bash
-     pip install -r requirements.txt
-     ```
-   - **Start Command:**
-     ```bash
-     streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
-     ```
-   - **Instance type:** Free (or upgrade if you need more memory for sentence-transformers).
-
-5. **Environment:**
-   - Add variable: **Key** `GROQ_API_KEY`, **Value** your Groq API key (from [console.groq.com](https://console.groq.com)).
-
-6. Click **Create Web Service**. Render will build and deploy.
-
-## 3. Exact deploy commands (summary)
-
-| Step        | Command / action |
-|------------|-------------------|
-| Build      | `pip install -r requirements.txt` |
-| Start      | `streamlit run app.py --server.port=$PORT --server.address=0.0.0.0` |
-| Env var    | `GROQ_API_KEY` = your Groq key |
-
-Render sets `PORT` automatically; the start command uses it so Streamlit listens on the right port.
-
-## 4. Optional: render.yaml
-
-If you use a **Blueprint** (e.g. `render.yaml` in the repo), the service can look like:
-
-```yaml
-services:
-  - type: web
-    name: brag-bev-agent
-    runtime: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
-    envVars:
-      - key: GROQ_API_KEY
-        sync: false
-```
-
-Set `GROQ_API_KEY` in the Render dashboard (Environment) when `sync: false`.
+Query-only RAG: prebuilt `data/chroma` only. No uploads, no ingestion.
 
 ---
 
-# Quick test procedure
+## 1. Exact git commands to commit and deploy
 
-## Local test (ingestion + retrieval)
+```bash
+cd brag-bev-agent
+git add app.py requirements.txt render.yaml .python-version runtime.txt data/chroma data/raw
+git status   # ensure data/chroma is included and no .env
+git commit -m "Query-only RAG: prebuilt Chroma, no uploads"
+git push origin main
+```
 
-1. **Install and run**
-   ```bash
-   cd brag-bev-agent
-   pip install -r requirements.txt
-   ```
-   Create a `.env` file with:
-   ```
-   GROQ_API_KEY=your_key_here
-   ```
-   Then:
-   ```bash
-   streamlit run app.py
-   ```
+Then in Render: connect the repo, set `GROQ_API_KEY` in Environment, deploy.
 
-2. **Ingestion**
-   - Open the app in the browser.
-   - In the sidebar, upload a small PDF, TXT, or DOCX.
-   - Click **Ingest uploaded files**.
-   - Confirm you see a success message and a chunk count.
+**Important:** `data/chroma` must be in the repo. If you haven’t built it yet, run indexing locally (e.g. `python index_docs.py`), then commit `data/chroma` and push.
 
-3. **Retrieval**
-   - In the main area, type a question that should be answered by the uploaded file (e.g. “What is this document about?”).
-   - Click **Run AI**.
-   - Confirm you get an answer and that “Retrieved context” shows chunks from your file.
+---
 
-4. **Error handling**
-   - Clear `GROQ_API_KEY` from `.env`, restart the app, and run a question again — you should see a clear error about `GROQ_API_KEY`.
-   - Upload a file with an unsupported extension (e.g. `.xyz`) and try to ingest — you should see an “Unsupported file type” message.
+## 2. Render settings to verify
 
-## After deploying on Render
+| Setting | Value |
+|--------|--------|
+| **Build Command** | `pip install -r requirements.txt` |
+| **Start Command** | `streamlit run app.py --server.port=$PORT --server.address=0.0.0.0` |
+| **Environment** | `GROQ_API_KEY` = your Groq API key |
+| **Python** | 3.11 (`.python-version` or `PYTHON_VERSION=3.11.9`) |
 
-1. Open the service URL from the Render dashboard.
-2. Upload a test file and click **Ingest uploaded files**.
-3. Ask a question and click **Run AI**.
-4. Confirm the answer and that Chroma persistence works: ask another question or refresh the page and query again (no need to re-ingest).
+---
 
-If the free instance runs out of memory during build or startup (e.g. when loading sentence-transformers), use a paid instance with more RAM or pre-build Chroma locally and commit `data/chroma/` so the app only loads the existing DB.
+## 3. Exact test steps
+
+### Step 1: Local smoke test
+
+1. `pip install -r requirements.txt`
+2. `streamlit run app.py`
+3. Open `http://localhost:8501/?smoke=1`
+4. Expect: **"Smoke test OK — Streamlit is running."** and Python/Streamlit versions.
+
+### Step 2: Local query (needs data/chroma)
+
+1. Open `http://localhost:8501` (no `?smoke=1`)
+2. If you see **"No prebuilt vector database found in data/chroma"**: build the DB locally (`python index_docs.py`), then restart the app.
+3. Enter a question (e.g. "What is the dumpster diver?") and click **Run AI**.
+4. Expect: an answer and "Retrieved context" with chunks.
+
+### Step 3: Render smoke test
+
+1. Deploy to Render. Wait for "Live".
+2. Open `https://<your-service>.onrender.com/?smoke=1`
+3. Expect: same smoke message. If blank, check start command and logs.
+
+### Step 4: Render query
+
+1. Open `https://<your-service>.onrender.com` (no query param)
+2. If you see **"No prebuilt vector database found in data/chroma"**: ensure `data/chroma` is committed and redeploy.
+3. Enter a question and click **Run AI**.
+4. Expect: answer and retrieved chunks. First Run AI may be slower (embeddings load).
+
+### Step 5: If Run AI fails
+
+- **GROQ_API_KEY** message → set in Render Dashboard → Environment.
+- **Vectorstore / Retrieval error** → check Render logs; ensure `data/chroma` was built with the same embedding model (`sentence-transformers/all-MiniLM-L6-v2`).
+
+---
+
+## 4. If blank page still happens
+
+1. Try **?smoke=1** on the Render URL. If smoke works, the failure is after Chroma/embeddings load (first Run AI); check logs.
+2. Check **Start command**: `streamlit run app.py --server.port=$PORT --server.address=0.0.0.0`
+3. Check **Logs** for `ImportError`, `ModuleNotFoundError`, OOM.
+4. Ensure **Python 3.11** (`.python-version` or `PYTHON_VERSION=3.11.9`).
