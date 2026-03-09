@@ -1,0 +1,197 @@
+Source filename: V9.pdf
+Source relative path: vendor_emails/V9.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:29.077805+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Re: GT referral from Prof. Ng — aerosol spray characterization & VOC-compliant formulation
+Date: September 17, 2025 at 1:38:27 PM
+To: Weber, Rodney Jrweber@eas.gatech.edu
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Dear Prof. Weber,
+I’m local—in Tyrone, about 15 minutes south of the Atlanta airport. I would be happy to have a
+conversation in person or virtually, even if you can't help us directly. Just from our email
+correspondence I have learned a lot about some of these processes that need to happen from you.
+If you’re able to point me toward the aerosol experimentalists in EAS you mentioned, I’d really
+appreciate the introductions. I’m eager to speak with the right group about the practical formulation
+and measurement work we discussed.
+Thank you again for your time. Talk soon.
+Very respectfully,
+Jacob Bevier
+Co-Founder, Brag & Bev LLC
+📞  760-490-3416 | ✉  bevier19jac@icloud.com
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Sep 17, 2025, at 1:31 PM, "Weber, Rodney J" <rweber@eas.gatech.edu> wrote:
+Where are you located?
+ 
+There are other faculty in EAS who are aerosol experimentalists, but outside of this I am now
+aware of anyone at GT who does this. 
+ 
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 1/7
+
+rw
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Date: Wednesday, September 17, 2025 at 9:49 AM
+To: Weber, Rodney J <rweber@eas.gatech.edu>
+Cc: sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+Subject: Re: GT referral from Prof. Ng — aerosol spray characterization & VOC-compliant
+formulation
+Dear Prof. Weber,
+Thank you for your thoughtful response and for outlining the considerations on droplet size,
+solvents, and deposition methods — I’m learning a great deal as I go. To be candid, I am a retired
+veteran now working as a cybersecurity analyst with a Master’s in Cybersecurity/AI, so this field is
+outside my core expertise. That said, my co-founder and I have invested heavily in this project,
+and we’re determined to align with the right team who has the aerosol science background to
+help us bridge this gap.
+To clarify our need:
+Our current prototype performs like a deodorizer. Our challenge is evolving it into a true
+cleanser formulation while staying within VOC compliance.
+The system must provide reliable coverage inside a confined space of 30" W × 30" L × 50"
+H, with consistent atomization, minimal pooling, and sufficient vertical reach.
+The aerosol portion is only one part of the larger design — it will ultimately be housed
+within a mechanical unit (patent-pending) that ensures can stability and automatic
+actuation during operation.
+We’re trying to understand how to take the step from “strong spray performance” to “verified
+cleaning performance under VOC limits” and to identify the right solvent/propellant/active
+package balance. I appreciate the tracer suggestion (e.g., fluorescein) as a way to experimentally
+quantify coverage — that seems very aligned with what we’ll need to validate our design.
+In short, we’re less in need of a broad $150k/year research program and more in need of
+practical formulation and measurement guidance that gets us from baseline to a VOC-
+compliant cleanser with reliable performance. Whether that’s a consulting arrangement,
+collaboration, or referral to a group at GT better suited to applied aerosol formulation, I would
+greatly value your advice.
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 2/7
+
+Thank you again for your time and for sharing your expertise. It’s extremely helpful as we navigate
+this.
+Very respectfully,
+Jacob Bevier
+Co-Founder, Brag & Bev LLC
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
+ 
+On Sep 16, 2025, at 5:46 PM, "Weber, Rodney J" <rweber@eas.gatech.edu> wrote:
+ 
+ 
+To clarify, if you are looking at some form of $ support for a research type project with paying
+GT overhead (more than 60%) and support for a grad student with tuition covered you’re
+looking at minimum $150k per year.
+ 
+Or I guess you could try some type of consulting arrangement.
+ 
+I don’t have any idea what kind of facilities you have but maybe this is not that difficult a
+problem.  Most nebulizers, or atomizers, produce around 3 to 10 µm drops. The final size is
+controlled by how much volatile solvent is in the solution atomized and so eventually in the
+drop, eg water is the most common.  Typically, you atomize an aerosol then dry it (remove
+the solvent, water in this case) and are left with the non volatile species – this is standard
+aerosol technology.  If you have no solvent that evaporates you have the original drops from
+the atomizer, so the size range is somewhat set. Not sure how viscosity affects size of
+atomized drops, could be more related to surface tension.   Drops larger than 10 µm fall out
+quickly and so hard to use effectively.
+ 
+As for deposition on the part of interest, I would just put a tracer in the solution going
+through the atomizer and detect it on the part of interest.  Eg, a fluorescent tracer that would
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 3/7
+
+be readily visible with a black light or light of specific wavelength. Need to find a compatible
+tracer for the solvent used (ie, the liquid in the atomizer along with your disinfectant, or
+whatever it is).
+ 
+Check out fluoresceine, it is soluble in water and commonly used for these types of
+applications.
+ 
+rw
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Date: Tuesday, September 16, 2025 at 3:40 PM
+To: Weber, Rodney J <rweber@eas.gatech.edu>
+Cc: sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+Subject: Re: GT referral from Prof. Ng — aerosol spray characterization & VOC-compliant
+formulation
+You don't often get email from bevier19jac@icloud.com. Learn why this is important
+Dear Prof. Weber,
+Thank you for breaking down the distinctions—very helpful. To clarify:
+Yes, we’re interested in both the particle/droplet size distribution (PSD/SMD) a n d 
+applied measurements of spray behavior in a controlled space: coverage uniformity
+on a surface, pooling, and vertical reach. We see these as complementary: PSD tells
+us what the spray i s , while the chamber/surface tests tell us how it b e h a v e s  as a cleanser.
+We do not yet know the exact droplet size; quantifying that (and linking it to
+formulation and hardware choices) is a big part of why we’re seeking expert support.
+Beyond measurement, we also need formulation development help to move from a
+deodorizer baseline to a true cleanser while staying VOC-compliant. Concretely, we’re
+hoping to iterate on:
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 4/7
+
+Solvent/propellant ratios and viscosity control for atomization consistency,
+Surfactant/cleaning package selection that delivers measurable cleaning action within
+VOC limits,
+Actuator/nozzle/can pairing so the chosen formulation performs reliably across
+sprays.
+If your group can support either (A) the measurement campaign, (B) formulation
+guidance/iteration under VOC constraints, or (C) a joint effort across both, that would be
+ideal. If not, any referral within GT (or nearby collaborators) who focuses on applied aerosol
+formulation would be greatly appreciated.
+Very respectfully,
+Jacob Bevier
+Co-Founder, Brag & Bev LLC
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
+ 
+On Sep 16, 2025, at 3:30 PM, "Weber, Rodney J" <rweber@eas.gatech.edu> wrote:
+ 
+ 
+Please clarify. I understand you want a measurement of the droplet size, but what is PSD
+(particle size distribution?, (if so how is that different from droplet size).  You also want
+some way to determine for your atomizer and “cleanser” (I assume that is some form of
+chamber) a way to determine the coverage uniformity on a surface within the chamber,
+pooling of the drops once on the surface and vertical reach of the droplets in the
+chamber – which are very different measurements from measuring the droplet size
+distribution.   
+ 
+Is this correct?
+ 
+Roughly, do you know what the size is of the droplets – that will determine if or how they
+would be measured.
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 5/7
+
+ 
+rw
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Date: Tuesday, September 16, 2025 at 1:13 PM
+To: Weber, Rodney J <rweber@eas.gatech.edu>
+Subject: GT referral from Prof. Ng — aerosol spray characterization & VOC-compliant
+formulation
+You don't often get email from bevier19jac@icloud.com. Learn why this is important
+Dear Professor Weber
+Prof. Nga Lee (Sally) Ng suggested I contact you.
+I’m Jacob Bevier, co-founder of Brag & Bev LLC. We’re advancing a VOC-compliant
+aerosol cleanser and seeking collaboration on spray characterization (droplet size/PSD,
+coverage uniformity, pooling, vertical reach) and guidance on formulation within VOC
+limits plus actuator/nozzle/can optimization.
+Status & needs (brief):
+Prototype achieves strong atomization with minimal pooling on a deodorizer
+baseline.
+Key variables: viscosity, propellant behavior, VOC compliance, repeatability.
+We have funding, can execute an NDA, and can share a concise PowerPoint with
+test results/images.
+If this might fit your lab’s expertise, could we schedule a brief call? I’d value your
+perspective or any referrals you recommend within GT.
+Very respectfully,
+Jacob Bevier
+Co-Founder, Brag & Bev LLC
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 6/7
+
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
+ 
+ 
+ 
+ 
+3/7/26, 11:34 AM iCloud Mail
+https://www.icloud.com/mail/ 7/7

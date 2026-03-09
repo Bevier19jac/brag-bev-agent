@@ -1,0 +1,27 @@
+Source filename: H44.pdf
+Source relative path: vendor_emails/H44.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:19.972178+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Exploring Collaboration — Aerosol Cleaner Project Under VOC Constraints
+Date: September 16, 2025 at 3:26:41 PM
+To: lmarr@vt.edu
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Dear Dr. Marr,
+My name is Jacob Bevier, co-founder of Brag & Bev LLC. We have a deodorizer-baseline aerosol
+prototype with good spray coverage and reach, and our next goal is to develop a VOC-compliant
+cleanser with real cleaning power.
+I believe your work in aerosol generation, air behavior, and measurement would make you a great
+partner. Specifically, I am looking for help with:
+Quantitative spray performance (droplet size distribution, uniform coverage, minimizing
+pooling)
+Guidance on hardware pairing (actuator/nozzle/can) so the cleaning formulation behaves well
+in production
+Formulation insights to maintain cleaning efficacy while adhering to VOC limits
+Would you be open to a ~20-minute call to see if this aligns with your lab’s capabilities? I’m ready to
+share data and test constraints ahead of time.
+Best regards,
+Jacob Bevier
+📞  760-490-3416 | bevier19jac@icloud.com
+3/7/26, 11:40 AM iCloud Mail
+https://www.icloud.com/mail/ 1/1

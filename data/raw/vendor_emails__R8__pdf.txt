@@ -1,0 +1,30 @@
+Source filename: R8.pdf
+Source relative path: vendor_emails/R8.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:22.441385+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Collaboration Inquiry — VOC-Compliant Aerosol Cleaner Development
+Date: September 16, 2025 at 3:30:31 PM
+To: jakob.londahl@design.lth.se, patrik.nilsson@design.lth.se
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Dear Dr. Löndahl and Mr. Nilsson,
+My name is Jacob Bevier, co-founder of Brag & Bev LLC. We are developing an aerosol spray
+prototype that presently functions like a deodorizer, but our next goal is to evolve it into a true
+cleanser with verified cleaning efficacy, hardware reliability, and compliance with VOC limits.
+The Aerosol and Climate Lab at Lund appears well-equipped for precise aerosol measurement and
+experimental work. I would greatly appreciate the opportunity to discuss whether your team could
+assist with:
+Measurement of spray performance: droplet size, coverage, vertical reach, pooling
+Formulation changes to enhance cleaning power while staying VOC-compliant
+Optimization of actuator/nozzle/can to deliver consistent spray behavior
+Lab access or contract testing support, including guidance on hardware/formulation
+interplay
+We have funding in place, an NDA prepared, and data/constraints ready to share. Would you be
+open to a ~20-minute call to explore whether this could align with your lab’s expertise and facilities?
+Thank you for your time and consideration.
+Warm regards,
+Jacob Bevier
+Co-Founder, Brag & Bev LLC
+📞  760-490-3416 | ✉  bevier19jac@icloud.com
+3/7/26, 11:39 AM iCloud Mail
+https://www.icloud.com/mail/ 1/1

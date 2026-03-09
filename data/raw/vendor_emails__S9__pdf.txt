@@ -1,0 +1,190 @@
+Source filename: S9.pdf
+Source relative path: vendor_emails/S9.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:28.560288+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Re: Todays 3pm EST Teams meeting
+Date: February 6, 2026 at 2:17:49 PM
+To: Asif Ahsanasif.ahsan@rabbitpd.com
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com, Adam
+Tavinadam.tavin@rabbitpd.com, jbglm2@gmail.comjbglm2@gmail.com,
+Abraganini@gmail.comAbraganini@gmail.com, candice aaroncandice.aaron@hotmail.com,
+Mike Johnstonmike.johnston@rabbitpd.com
+Hi Asif, and nice to meet you Mike,
+Thank you for the clarification and for acknowledging the impact this had on today’s meeting. I
+understand that Joe’s departure was sudden and appreciate the context you’re able to provide.
+I also appreciate you assigning Mike to take over the mechanical scope and looping him in here.
+Given where we are in the project, continuity and momentum are critical at this stage. As mentioned
+previously, this meeting was intended to mark the transition into the mechanical phase following ARE
+Labs’ latest results, so I want to ensure we regain alignment quickly.
+To that end, I’d like to propose the following next steps:
+A near-term introductory call with Mike to review current status, mechanical objectives, and any
+open dependencies
+A rescheduled cross-functional working session including Rabbit, ARE Labs, and Spray Products
+(schedules permit) once Mike has had sufficient time to review the materials
+A clear, updated timeline outlining mechanical milestones and expected deliverables so
+expectations are aligned across teams
+We remain committed to moving this project forward, but given the investment already made and
+the time elapsed, it’s important that we establish clear ownership and a defined path ahead.
+I’ll look out for Mike’s outreach and am happy to coordinate calendars to keep this moving.
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Feb 6, 2026, at 2:13 PM, Asif Ahsan <asif.ahsan@rabbitpd.com> wrote:
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 1/7
+
+Hi Jacob,
+Thank you for your feedback. I understand the frustration this lack of proactive communication
+has caused, and I apologize for the impact on today's stakeholder meeting.
+To provide clarity, Joe’s retirement was unplanned and sudden, driven by specific personal issues
+that we cannot discuss due to confidentiality. We are working quickly to ensure continuity for this
+project.
+We have already assigned a senior engineer, Mike Johnston (copied), to take over the mechanical
+scope of this project. Mike is currently in the process of taking over these responsibilities and
+getting up to speed on the recent test results from ARE Labs. He will reach out to you shortly to
+discuss the next steps and align on a new timeline for the cross-functional working session.
+Best,
+Asif
+On Fri, Feb 6, 2026 at 10:22 AM Jacob Bevier <bevier19jac@icloud.com> wrote:
+Hi Asif,
+Thank you for the update — this is the first time I’m learning that Joe retired.
+I need to be very clear about the impact of this. Today’s 3:00 PM EST meeting was intended
+to be our first full cross-functional working session with all parties involved: the chemist
+from Spray Products, the R&D team from ARE Labs, and Joe representing Rabbit on the
+mechanical side. This meeting was scheduled specifically because we believe the project is
+ready to transition into the mechanical phase, informed by the latest test results.
+Over the past several weeks, I have been repeatedly attempting to reach Joe to provide
+updates and ensure alignment ahead of this meeting. Until receiving your email today, there
+was no indication that he was no longer with the company or that responsibility had
+transitioned. I only escalated outreach earlier today by cc'ing Adam because the lack of
+response had become concerning in the context of today’s meeting.
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 2/7
+
+Given that we have already paid Rabbit, and that Joe was the sole mechanical point of
+contact, learning of his retirement on the day of this meeting represents a significant
+communication failure. The last substantive discussion I had with Joe was roughly six months
+ago, at which time I explicitly raised concerns about timeline and progress. I was assured
+timing was not an issue and that we had as long as needed. At no point was a retirement,
+transition plan, or handoff communicated.
+At this stage, I need immediate clarity on:
+Who at Rabbit now owns the mechanical scope previously led by Joe
+Whether Rabbit will be able to meaningfully engage with the ARE Labs and Spray
+Products teams in the near term
+What the realistic timeline is to onboard a new lead engineer without further loss of
+continuity
+I understand personnel transitions happen, but given the financial investment already made
+and the dependency between teams, we should have been proactively informed well in
+advance — especially prior to coordinating a full stakeholder meeting.
+Please advise on ownership and next steps as soon as possible so we can determine how to
+proceed and avoid further delay.
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Feb 6, 2026, at 12:36 PM, Asif Ahsan <asif.ahsan@rabbitpd.com> wrote:
+Hi Jacob,
+I am writing to inform you that Joe McArdle is no longer with the company, as he has
+officially retired. Please accept our apologies for any missed emails or delays in
+communication during this transition.
+We are currently in the process of engaging a new engineer to take over Joe's
+responsibilities on the mechanical side of this project. We will need some time to get the
+new lead up to speed and aligned with the current progress.
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 3/7
+
+We appreciate your patience and will reach out as soon as we have an update on our
+technical representation for this project.
+Best
+Asif 
+ 
+---------- Forwarded message ---------
+From: Jacob Bevier <bevier19jac@icloud.com>
+Date: Fri, Feb 6, 2026 at 7:13 AM
+Subject: Todays 3pm EST Teams meeting
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>, <adam.tavin@rabbitpd.com>
+Cc: sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+Good morning Joe,
+I wanted to follow up directly to confirm whether you will be able to join today’s
+scheduled discussion at 3:00 PM ET.
+As a quick recap, this meeting brings together the chemist, aerosol filler, and ARE Labs
+team to review the recent test results and align on next steps. Given your role on the
+mechanical side, your participation is an important and necessary part of this
+conversation, as it represents the next critical step in moving the project forward.
+I also want to be candid that I have not received responses to my last several emails and
+updates, which is becoming concerning—particularly given the progress stage we are at
+and the investment already made to date. We are at a point where forward momentum
+depends on alignment across all parties, and your engagement is key to that.
+Please let me know as soon as possible whether you will be able to attend today’s call, or
+if there is an immediate issue preventing you from joining.
+Thank you, and I look forward to your confirmation, hope to see ya later on today.
+Very respectfully,
+Jacob Bevier
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 4/7
+
+760-490-3416
+On Feb 4, 2026, at 1:56 PM, Jacob Bevier <bevier19jac@icloud.com> wrote:
+Hey Joe,
+Not sure if you have received any of my last emails but here is the meeting invite for
+this friday at 3pm est. If you get a chance please confirm whether or not you will be
+able to attend or not. I hope to see you there!
+Very respectfully,
+Jacob Bevier
+________________________________________________________________________________
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/27488629437616?
+p=GjsWWoZV24qhQwVa29
+Meeting ID: 274 886 294 376 16
+Passcode: mg9LF74n
+Need help? | System reference
+For organizers: Meeting options
+________________________________________________________________________________
+Very respectfully, 
+Jacob Bevier
+7604903416
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 5/7
+
+On Jan 30, 2026, at 9:35 AM, Jacob Bevier <bevier19jac@icloud.com> wrote:
+Hi Joe,
+I hope you’re doing well.
+I’m working to coordinate a collaborative call with ARE Labs and Spray Products
+to walk through the recent ARE Labs testing results and align on next steps from a
+mechanical and aerosol perspective.
+We’re targeting Thursday, February 6 in the afternoon (Eastern Time). As a
+starting point, would either of the following work for you?
+3:00–3:45 PM ET
+4:00–4:45 PM ET
+If neither window works, feel free to suggest a nearby alternative that afternoon.
+Once we align on timing, I’ll send a calendar invite.
+Thanks, and I’m looking forward to connecting.
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Jan 29, 2026, at 3:43 PM, Jacob Bevier <bevier19jac@icloud.com> wrote:
+Hi Joe,
+I hope all is well.
+I’m attaching the latest testing report and summary deck from ARE Labs
+related to the cleanser spray coverage and vertical deposition work. The
+results were very helpful and point strongly toward the actuator/latch
+geometry as a key factor influencing spray direction and overall coverage.
+I’m in the process of coordinating a collaborative call with ARE Labs and our
+aerosol/valve partner so we can walk through the findings together and align
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 6/7
+
+on mechanical design considerations before proceeding further. Given your
+role on the mechanical side, I’d really value your perspective in that discussion.
+Could you let me know your availability over the next week or so for a 30–45
+minute call? I’m expecting to coordinate across East and West Coast
+schedules and will try to find a time that works for everyone.
+Looking forward to connecting and moving this forward together.
+Very respectfully, 
+Jacob Bevier
+7604903416
+<11048 - ARELabs Report - Vertical Deposition Profile of Cleanser Spray
+v1.0.pdf><ARE Labs - 11048.10 - Brag & Bevier LLC Foaming Cleanser Spray
+Coverage Testing v1.0.pdf>
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 7/7

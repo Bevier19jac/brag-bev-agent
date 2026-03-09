@@ -1,0 +1,331 @@
+Source filename: S21.pdf
+Source relative path: vendor_emails/S21.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:25.509592+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Re: Testing Completed and ARE Labs results — next steps
+Date: January 29, 2026 at 3:41:59 PM
+To: Shawn JohnsonSJohnson@sprayproducts.com
+Cc: Jim Johnsonjjohnson@sprayproducts.com, Andrew Willsawills@sprayproducts.com,
+sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Hi Jim and SP Team,
+I hope you’re doing well.
+I wanted to share the attached ARE Labs testing report and summary deck from the most recent
+round of spray coverage and vertical deposition testing. The data was very informative and
+highlighted a consistent interaction between actuation mechanics and spray behavior that I think
+would benefit from a joint discussion.
+I’m working to coordinate a collaborative call that would include ARE Labs, mechanical design, and
+Spray Products so we can review the findings together, align on root cause, and determine next steps
+before moving into further iterations. Your input on the valve/actuation side would be especially
+valuable as we think through potential adjustments.
+Would you be able to share your availability over the next week or so for a 30–45 minute call? I’ll do
+my best to accommodate schedules across time zones.
+Thanks in advance, and I look forward to connecting.
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Jan 20, 2026, at 8:44 AM, Shawn Johnson <SJohnson@sprayproducts.com> wrote:
+Good Morning Jacob,
+ 
+3 samples are shipping to ARE labs today.
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 1/12
+
+ 
+Regards,
+ 
+Shawn Johnson
+R&D Chemist
+ 
+Spray Products Corporation
+1000 Lake Road Medina, Ohio 44256
+Email: sjohnson@sprayproducts.com
+<image001.jpg>
+ 
+From: Jim Johnson <jjohnson@sprayproducts.com>
+Sent: Tuesday, January 13, 2026 7:32 AM
+To: Jacob Bevier <bevier19jac@icloud.com>
+Cc: Andrew Wills <awills@sprayproducts.com>; sarahjbraganini@gmail.com; Shawn Johnson
+<SJohnson@sprayproducts.com>
+Subject: Re: Testing Completed and ARE Labs results — next steps
+ 
+We will send you 3 additional cans with a conical spray pattern for additional testing. 
+ 
+Thanks! Jim 
+ 
+Jim Johnson
+ 
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 2/12
+
+Vice President of R&D
+Spray Products Corporation
+1000 Lake Road
+Medina, Ohio 44256
+Cell: 330-419-3372
+www.sprayproducts.com
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Monday, January 12, 2026 6:27:06 PM
+To: Jim Johnson <jjohnson@sprayproducts.com>
+Cc: Andrew Wills <awills@sprayproducts.com>; sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>; Shawn
+Johnson <SJohnson@sprayproducts.com>
+Subject: Re: Testing Completed and ARE Labs results — next steps
+ 
+Hey Jim!
+ 
+Appreciate you getting back to me so quickly.
+I think this is a good point to broaden the testing rather than lock anything in yet.
+With ARE Labs running controlled evaluations, it would be helpful to look at larger can sizes in
+addition to the current one, alongside the available nozzle/actuator options that could produce
+a more conical spray pattern. That should give us solid data on how size, output, and spray
+geometry interact before we narrow the field.
+Ideally, I’d like to test at least three cans per configuration so we have enough repetition to
+confirm consistency. I’m happy to defer to your recommendation on which larger sizes and
+nozzle/actuator options make the most sense to include.
+Once you have that scoped, please send over an invoice for the next round and we’ll move
+forward.
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 3/12
+
+Very respectfully, Jacob Bevier 7604903416
+ 
+On Jan 12, 2026, at 4:56 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
+ 
+ 
+Hi Jacob,
+ 
+  I am glad the samples performed well! 
+ 
+We will send you another sample with an adjusted spray tip. Are you okay with the can size
+and fill weight?
+ 
+ 
+ 
+Thanks! Jim 
+ 
+Jim Johnson
+ 
+Vice President of R&D
+Spray Products Corporation
+1000 Lake Road
+Medina, Ohio 44256
+Cell: 330-419-3372
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 4/12
+
+www.sprayproducts.com
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Monday, January 12, 2026 11:06:46 AM
+To: Jim Johnson <jjohnson@sprayproducts.com>
+Cc: Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+Subject: Testing Completed and ARE Labs results — next steps
+ 
+Hi Jim,
+I wanted to follow up now that ARE Labs has completed formal testing on the cans your team
+provided. They returned the product with a short report, and the results really confirm that we
+are extremely close.
+One of the biggest open questions going into testing was whether the formulation and
+overall design approach could achieve sufficient vertical spray height inside a 96-gallon bin.
+Several groups we spoke with previously felt that target wasn’t realistic. The testing showed
+otherwise — the spray consistently reached the interior lid surface, which is a major milestone
+and a strong validation of the direction you took.
+Additional positives from the testing:
+Strong, consistent output
+Foam structure behaved well through full discharge
+Peppermint scent carried cleanly
+Performance was stable and repeatable
+The only meaningful limitation identified was spray geometry, not chemistry or performance.
+Because the nozzle produces a flat fan pattern, coverage inside the bin was directional and
+one-sided. ARE Labs specifically noted that a round nozzle producing a conical spray
+pattern would significantly improve coverage and fully leverage the height and output
+already being achieved.
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 5/12
+
+From our standpoint, the difficult part — achieving height with acceptable foam behavior —
+has been addressed. What remains feels like a distribution refinement rather than any
+fundamental formulation change.
+With that in mind, I wanted to ask about the best path forward:
+Do you have access to alternative nozzles or actuators that would produce a conical
+spray pattern, or a small variety we could evaluate?
+How would you recommend we go about obtaining additional cans configured with
+those options?
+What would the next steps look like on your end to make that happen?
+The testing gave us a lot of confidence, and it genuinely feels like we’re at the point where a
+small adjustment could make a big difference.
+Very respectfully,
+Jacob Bevier 7604903416
+ 
+On Dec 5, 2025, at 4:55 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
+ 
+ 
+Okay, it looks like it is out for delivery. Jim
+ 
+Jim Johnson
+ 
+Vice President of R&D
+Spray Products Corporation
+1000 Lake Road
+Medina, Ohio 44256
+Cell: 330-419-3372
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 6/12
+
+www.sprayproducts.com
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Friday, December 5, 2025 4:51:29 PM
+To: Jim Johnson <jjohnson@sprayproducts.com>
+Cc: Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+Subject: Re: Availability for a brief call
+ 
+I have not received anything.
+ 
+Very respectfully,
+Jacob B
+ 
+On Dec 5, 2025, at 2:51 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
+Hello.
+ 
+It was scheduled to arrive yesterday. Let us know. Jim
+ 
+On the
+way Medina
+12/01/2
+5
+12/04/2
+5  
+88658744637
+0 - Jacob Bevier Tyron
+ 
+ 
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 7/12
+
+Jim Johnson
+ 
+Vice President of R&D
+Spray Products Corporation
+1000 Lake Road
+Medina, Ohio 44256
+Cell: 330-419-3372
+www.sprayproducts.com
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Friday, December 5, 2025 2:15:58 PM
+To: Jim Johnson <jjohnson@sprayproducts.com>
+Cc: Andrew Wills <awills@sprayproducts.com>; Joyce Stasky
+<joyce@sprayproducts.com>; sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+Subject: Re: Availability for a brief call
+ 
+Good afternoon Jim,
+ 
+Just wanted to check the status on this and if it shipped?
+ 
+Very respectfully, Jacob Bevier 7604903416
+ 
+On Nov 25, 2025, at 2:39 PM, Jim Johnson <jjohnson@sprayproducts.com>
+wrote:
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 8/12
+
+ 
+ 
+Hi Jacab,
+ 
+   The samples will ship tomorrow.  In our initial test we were ~ 40 inches.
+ 
+    Thanks! Jim
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, November 25, 2025 12:58 PM
+To: Jim Johnson <jjohnson@sprayproducts.com>
+Cc: Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+sarahjbraganini@gmail.com
+Subject: Re: Availability for a brief call
+ 
+Jacob Bevier
+105 Pendleton Trail
+Tyrone, GA 30290
+ 
+Very respectfully, Jacob Bevier 7604903416
+ 
+On Nov 25, 2025, at 9:43 AM, Jim Johnson <jjohnson@sprayproducts.com>
+wrote:
+ 
+ 
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 9/12
+
+Hi Jacob,
+ 
+We understand the goal.  What is your shipping address for samples?   Let’s
+have you evaluate a sample and then jump on a call with any necessary
+changes.  
+ 
+  Thanks! Jim
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, November 25, 2025 9:35 AM
+To: Andrew Wills <awills@sprayproducts.com>
+Cc: Jim Johnson <jjohnson@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+sarahjbraganini@gmail.com
+Subject: Availability for a brief call
+ 
+Hi Andrew and Jim,
+I was hoping I could jump on a short call with you guys — even ten minutes
+would be helpful. My intention in trying to share the broader scope of this
+project was purely as courtesy and to provide context, not because it was a
+necessity. It’s possible I’ve been overthinking this and creating unnecessary
+complications on my end, so a quick conversation would help me make sure
+I’m aligned with the way Spray prefers to operate.
+To be transparent, the process has been slowed down quite a bit on our end
+due to the NDA language, and that’s been a little disappointing only because
+it has prevented us from moving forward with real development. We’ve even
+had to refile the provisional patent because the timeline stretched so far
+beyond what we expected.
+That said, I understand Spray has internal policies you need to follow, and I’m
+not trying to push against them. I simply want to make sure I’m not asking for
+something unclear or creating complications unintentionally. A brief
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 10/12
+
+conversation would help me understand exactly what your team needs from
+me and how we can proceed within the structure you’re comfortable with.
+I haven’t shared the broader scope of the project yet because I’ve been
+waiting for an agreement that protects both sides. But your team may not
+need that top-down view to do your part effectively, and if keeping the
+collaboration focused simplifies things, I’m completely fine with that.
+From our side, the formulation targets remain:
+Foaming aerosol cleanser
+Peppermint essential oil included
+Lockdown actuator
+Approx. 48-inch vertical spray
+Approx. 30-inch diameter spray pattern
+I believe we can still move forward and achieve these performance goals
+while staying within a limited, well-defined scope. I’m more than willing to
+adjust the workflow to whatever best fits Spray’s process.
+I really do appreciate your time and expertise, and I’m trying to navigate this
+industry the right way. A short call would go a long way in making sure we’re
+aligned and can continue productively.
+My availability is wide open — just let me know what works for your schedule.
+Very respectfully,
+Jacob
+760-490-3416
+ 
+ 
+ 
+ 
+ 
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 11/12
+
+ARE Labs - 1…ting v1.0.pdf
+2.1 MB
+11048 - ARE…ray v1.0.pdf
+1.3 MB
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 12/12

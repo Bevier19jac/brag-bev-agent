@@ -1,0 +1,72 @@
+Source filename: L3.pdf
+Source relative path: vendor_emails/L3.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:21.603974+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Re: My best idea for a way forward
+Date: November 17, 2025 at 12:18:30 PM
+To: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Hey Sarah, 
+When you get a chance please look this over. I expanded on the email i sent to you last week, what
+do you think about below?
+Hi Andrew and Jim,
+I reviewed the NDA with my counsel, and there are only two clarifications they require before I can sign.
+These aren’t changes to the business terms — just standard IP protection language for founders who are
+bringing an existing patent-pending product to a manufacturer for evaluation.
+As you know, we’re not coming to Spray as a typical vendor seeking filling or formulation services. We
+are approaching this as a company with a patent-pending invention that needs to be evaluated for
+potential partnership and manufacturing. In these situations, industry standards handle IP differently
+because the inventor must retain rights to their pre-existing and independently developed technology.
+At the moment, Section 4 includes language stating that:
+“any protocol, software, algorithm, technique and/or methodology developed during its association
+with Spray shall be the property of Spray,” and
+the other party “shall not file any application for seeking intellectual property rights,” and
+the other party “shall not oppose” any intellectual property application filed by Spray.
+This wording is not acceptable for companies presenting patented or patent-pending technology, because
+it can unintentionally transfer ownership of the inventor’s IP or restrict their ability to protect
+improvements. These provisions are designed for vendors or contractors working for Spray — not for an
+external company sharing its own proprietary invention with Spray.
+To avoid that misunderstanding, my counsel requires two standard clarifications:
+1. Each party retains ownership of their pre-existing and independently-developed intellectual
+property.
+2. Any jointly developed work would require a separate written agreement outside of the NDA.
+3/7/26, 11:24 AM iCloud Mail
+https://www.icloud.com/mail/ 1/3
+
+These points are industry-standard whenever a company shares a patent-pending concept with a potential
+manufacturing partner. They don’t expand our rights or limit Spray’s rights in any way — they simply
+ensure that the NDA operates strictly as a confidentiality agreement, not an unintended IP assignment.
+We’re excited to move forward and want to keep everything clean and clear on both sides, so this is really
+just a legal housekeeping step. I’m happy to sign immediately once those two clarifications are included.
+Thank you all.
+Very respectfully,
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Nov 16, 2025, at 1:05 PM, Jacob Bevier <bevier19jac@icloud.com> wrote:
+Hey Sarah,
+Just wanted to see what you thought about the following email draft. It will at least give us some
+to start with before we respond.
+__________________________________________________________________________________________________
+________________
+Hi Andrew and Jim,
+I reviewed the NDA with my counsel, and there are only two clarifications they require before I can sign. These aren’t
+changes to the business terms — just standard IP protection language for founders who are bringing an existing patent-
+pending product to a manufacturer for evaluation.
+These clarifications protect both parties and avoid any accidental confusion down the road:
+1. Each party retains ownership of their pre-existing and independently-developed intellectual property.
+2. Any jointly developed work would require a separate written agreement outside of the NDA.
+These points are industry-standard whenever a company is sharing a patent-pending concept with a potential manufacturing
+partner, and they don’t expand our rights or limit Spray’s rights in any way. They simply ensure that the NDA operates as a
+confidentiality agreement — not an unintended transfer of ownership.
+3/7/26, 11:24 AM iCloud Mail
+https://www.icloud.com/mail/ 2/3
+
+We’re excited to move forward and want to keep everything clean and clear on both sides, so this is really just a legal
+housekeeping step. I’m happy to sign immediately once those two clarifications are included.
+Thank you all.
+Very respectfully,
+Jacob Bevier
+7604903416
+3/7/26, 11:24 AM iCloud Mail
+https://www.icloud.com/mail/ 3/3

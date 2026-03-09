@@ -1,0 +1,1862 @@
+Source filename: B11.pdf
+Source relative path: vendor_emails/B11.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:16.874914+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Status Update | New Ideas
+Date: October 7, 2025 at 3:43:13 PM
+To: Joe Mcardlejoe.mcardle@rabbitpd.com
+Cc: jbglm2@gmail.comjbglm2@gmail.com,
+sarahjbraganini@gmail.comsarahjbraganini@gmail.com, 'Candice
+💍 ' candice.aaron@hotmail.com, Abraganini@gmail.comAbraganini@gmail.com
+Hi Joe,
+The deodorizer testing was a great starting point—it confirmed what we don’t want and clarified that our
+focus needs to be on developing a foaming cleanser instead.
+To explore VOC compliance in connection with a foaming cleanser, I reached out to over 100
+universities, colleges, research institutions, and aerosol companies. My initial idea for the schools was to
+offer this as a capstone project for chemical engineering students. The response was overwhelmingly
+positive—nearly everyone I spoke with was intrigued and wanted to set up a meeting. Over the past
+month or two, I’ve spoken with a wide range of professionals, and not one said it was impossible. In fact,
+most agreed it’s absolutely feasible.
+It’s certainly a balancing act, but one company even demonstrated that a conventional aerosol could be
+made with 0% VOC—not ideal for our needs, but it proved the point that the chemistry is achievable.
+There’s also the Bag-on-Valve (BOV) route, where the cleaner is contained in a pouch inside the can and
+simply pressurized with air, which eliminates many VOC concerns entirely.
+After weighing options, I presented two courses of action to the team:
+1. Partner with Spray Products, who have already expressed strong interest and begun internal testing
+of foaming cleanser concepts with a 4-foot vertical spray reach and roughly a 30-inch diameter.
+2. Independently source the chemicals and have MB Industries fill and return sample cans based on
+four formulations I prepared.
+We decided to move forward with Spray Products, and our NDA with them is currently under legal
+review. Once that’s finalized and I can discuss the full scope with their chemist, Jim Johnson, we’ll be in
+a strong position to define final can dimensions and performance parameters. Jim already has an idea of
+what can size and nozzle he wants to use, and plans to adjust propellants and surfactants to achieve a
+minimum viable product.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 1/53
+
+Once we have that information, I’ll reach back out so we can schedule a meet-and-greet and coordinate
+next steps. At that point, we’ll be ready to send you sample cans or dimensional data so your team can
+start the mechanical concepts for the enclosure and timer functionality.
+I’ve attached the most recent PowerPoint I presented to the team for context.
+Talk soon, Joe—I’m really pleased with the direction this project has taken.
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Oct 7, 2025, at 12:49 PM, Joe Mcardle <joe.mcardle@rabbitpd.com> wrote:
+Hi Jacob,
+Touching bases to see if you have any final approvals from testing. The tests indicate that you have been
+leaning toward an air freshener rather than a cleaning agent. In any case, once you have final approvals, we
+will need the following to start the mechanical concepts for the enclosure and timer functionality.
+- Cannister: 3D model or sample for CAD dimensional input. 
+- Spray actuator component: 3D model or sample for CAD dimensional input.
+If CAD models are not available, please send samples to the following address. Cannister samples can be
+empty as we only need the dimensional data.
+Thanks,
+Joe McArdle
+Rabbit Product Design
+21860 Byrne Ct.
+Cupertino, CA. 95014
+From: jbglm2@gmail.com <jbglm2@gmail.com>
+Sent: Wednesday, September 10, 2025 11:37 AM
+To: 'Jacob Bevier' <bevier19jac@icloud.com>; 'Joe Mcardle' <joe.mcardle@rabbitpd.com>
+Cc: 'Codie Sanders' <codie.sanders@precisionglobal.com>; 'Sarah Braganini' <sarahjbraganini@gmail.com>; 'Candice
+💍 ' <candice.aaron@hotmail.com>; Abraganini@gmail.com <Abraganini@gmail.com>; 'Brent Leslie'
+<BrentL@aripackaging.com>
+Subject: RE: Status Update | New Ideas
+ 
+Jacob,
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 2/53
+
+ 
+I read the email and walked through the PowerPoint. How’s about we do a Teams call and you take me
+through the slides with screen sharing.
+ 
+John Braganini
+269-330-4205
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Wednesday, September 10, 2025 1:11 PM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Codie Sanders <codie.sanders@precisionglobal.com>; Sarah Braganini <sarahjbraganini@gmail.com>; Candice
+💍 <candice.aaron@hotmail.com>; Abraganini@gmail.com; jbglm2@gmail.com; Brent Leslie
+<BrentL@aripackaging.com>
+Subject: Re: Status Update | New Ideas
+ 
+Good afternoon everyone,
+ 
+Below is a link to a shared Google Drive ( Shared w/ Rabbit personnel ) folder that has a
+powerpoint titled 1st_Test.pptx (
+https://docs.google.com/presentation/d/16aV6Ryn10jBu7vpw1gdkqVp5dAnOyjVm/edit?
+usp=drive_link&ouid=113523980551653934295&rtpof=true&sd=true ). The main purpose of this
+test was to ensure 100% internal coverage with the formulation Brent provided with the Lemon
+scent. 
+ 
+Scroll to slide 10 with the Google Sheets data with the 6 iterations and the data I collected for
+each. Then there is a slide of test 1 with video and after pictures, a slide with test 2-5 videos, all
+done from a different position at the bottom of the bin with paper panels attached to interior of lid
+and inside the bin to demonstrate complete coverage, and then finally test six slide has a video
+and after pictures with no paper lining which actually depicts the coverage even better. I also took
+a can of ULINE's foaming glass cleaner and turned it sideways and that foaming cleanser also
+definitely reached the top, I have a video and pics.
+If possible I would like everybody at their conveinence to check out the PPT and let me know your
+thoughts and  if you have any ideas of a way forward or next steps. 
+ 
+Look forward to everyones feedback. Have a great day!
+ 
+Very respectfully, Jacob Bevier 7604903416
+ 
+On Sep 3, 2025, at 10:06 AM, Brent Leslie <BrentL@aripackaging.com> wrote:
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 3/53
+
+ 
+ 
+The problem is that you have 2 diametrically opposed paths here.  However you have given yourself a
+path forward with a “maintenance product”
+ 
+I have prepared 6 cans of our standard odor remover spray.  These are packaged in a 45 x 115
+aluminum tube.  That is a requirement for this type of formula it can NOT go in a steel can.  The
+formula is a water alcohol mix with fragrance mixed with odor neutralizing additive.    This is a 3 oz fill
+product.  You would have to market it as a confined space air freshener.  The VOC laws require this to
+make it 50 state compatible. 
+ 
+You can not call this a cleaner the VOC level is too high 25% vs 10%.  You can not make a fogger that
+sprays with high micronization without the alcohol.  You can not make any claim about killing any
+microbes.  Otherwise it would be classed as an EPA product. 
+ 
+I put a lemon fragrance in these samples but any fragrance you want can be added.  However since I
+require compatible fragrances for the formula I chose the lemon considering you end use.  I need your
+address again where you want these shipped.  When I get the valves I will make the cleaning product. 
+ 
+Brent
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, September 2, 2025 10:28 AM
+To: Brent Leslie <BrentL@aripackaging.com>; Codie Sanders <codie.sanders@precisionglobal.com>; Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Cc: Sarah Braganini <sarahjbraganini@gmail.com>
+Subject: Status Update | New Ideas
+ 
+ 
+ 
+Hi Joe, Brent, and Codie,
+I want to circle back on the samples. The latest correspondence didn't really provide any
+clarity whether or not I should be expecting them. With respect, I need clarity — Joe and
+team are ready to move forward, but without cans in hand, everything stays at the
+conceptual stage.
+In the meantime, doing my own hasty experiments and trying different vertical spraying off-
+the-shelf products, I  came across a compact 1.5 oz canister format that really aligns with what
+I originally envisioned (see attached pictures). Despite its size, it delivers spray heights well
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 4/53
+
+above 5 feet and does so in a consistent, effective plume. Small, lightweight, and I would think
+easier to house — it checks every box for what I have been aiming for.
+Where we ran into issues before to obtain the minimum required 45 inches of vertical spray
+was the viscosity of the cleaning/deoderizing formula. If we treat this less like a full cleaning
+solution and more like a maintenance / hygiene product — lighter formulations built
+around a simple base of water combined with alcohol, peroxide, or essential oils — the spray
+characteristics should be much more compatible. These kinds of blends are naturally less
+viscous, more atomizable, and should behave much closer to what this compact can format is
+already designed to deliver.
+That gets us closer to a working prototype we can refine, test, and patent, rather than staying
+stalled.
+So my questions are:
+Are the samples you mentioned still coming, and if so, when?
+Can we align on whether this smaller format with a formula that is less viscuous is
+something ARI/Precision can help us explore?
+I want to stress — I’m not looking for perfection out of the gate. I am looking for viable
+options that I can test in the controlled environmentI have already created. Even a crude
+setup gives us something tangible to build from. With the right can and nozzle pairing, Joe
+can start translating his trigger and housing concepts into reality, and we can finally begin
+testing.
+I value the expertise you each bring to this and hope we can cut through the uncertainty to
+get moving. Even a simple confirmation of next steps would go a long way. I appreciate you
+all and hope we can start making some forward progress sooner than later.
+Have a wonderfull short week and I look forward to everyones thoughts!
+Very respectfully,
+ 
+Jacob Bevier
+Brag & Bev LLC
+760-490-3416
+ 
+ 
+ 
+ 
+<image001.jpg><image002.jpg>
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 5/53
+
+ 
+ 
+On Aug 29, 2025, at 10:34 AM, Brent Leslie <BrentL@aripackaging.com> wrote:
+ 
+ 
+The current gasket for that formula is Viton.  Since this is preliminary I would say lets try the butyl if
+that means we can get them quicker. 
+ 
+From: Codie Sanders <codie.sanders@precisionglobal.com>
+Sent: Friday, August 29, 2025 10:22 AM
+To: Jacob Bevier <bevier19jac@icloud.com>; Brent Leslie <BrentL@aripackaging.com>; Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Cc: Richard Dixon <RDixon@aripackaging.com>; Tracy Ware-Justice <tracy.ware-
+justice@precisionglobal.com>; Sarah Braganini <sarahjbraganini@gmail.com>; Candice
+💍 <candice.aaron@hotmail.com>; Abraganini@gmail.com; jbglm2@gmail.com
+Subject: RE: 18 August, Request for Update | Actions Needed
+ 
+ 
+ 
+Hello,
+                I didn’t know that these samples didn’t get shipped. @Brent Leslie does the stem gasket
+have to be viton? Or can it be Butyl? Reason being is the stem and gasket combination is not
+recommended.
+ 
+ 
+Codie Sanders | Lab Tech  
+Precision Valve North America
+Office: (864) 835-1015   Cell: (864) 816-4151
+5711 Old Buncombe Road | Greenville |SC 29609 | USA
+<image001.png>
+ 
+Technical Services Email: PVNATechnicalservices@precisionglobal.com
+PRECISION now has an easy, fast and powerful 3D configurator:
+https://www.precisionglobal.com/3dconf
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Friday, August 29, 2025 10:16 AM
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 6/53
+
+To: Brent Leslie <BrentL@aripackaging.com>; Joe Mcardle <joe.mcardle@rabbitpd.com>; Codie Sanders
+<codie.sanders@precisionglobal.com>
+Cc: Richard Dixon <RDixon@aripackaging.com>; Tracy Ware-Justice <tracy.ware-
+justice@precisionglobal.com>; Sarah Braganini <sarahjbraganini@gmail.com>; Candice
+💍 <candice.aaron@hotmail.com>; Abraganini@gmail.com; jbglm2@gmail.com
+Subject: Re: 18 August, Request for Update | Actions Needed
+ 
+Hey everybody,
+I wanted to follow up once again regarding the sample canisters. On multiple occasions
+I’ve been told they were on the way, but I still haven’t received anything. My last inquiry
+also went unanswered, which leaves me unclear on where things actually stand.
+I fully understand how busy production can get, and that’s why I’ve offered — and
+continue to offer — to set up accounts, handle billing, or take care of whatever
+administrative steps are necessary. I’m not looking for freebies; I simply need clarity and
+follow-through so we can move this forward.
+To be clear, this stage has always been about prototyping. I’ve already invested a
+significant amount of personal time and money so sitting stagnant is not an option and
+definitely not where would like to be, yet here we are. I have a mechanical engineer, Joe
+left waiting on two things, can specs and actuation options before he can even iniate
+building the housing. I have personally set up a controlled testing environment (gridded
+bin interior, lighting, camera setup) so we can document spray coverage as soon as cans
+arrive. Even starting with stock nozzles would be fine — we just need something to start
+with with the initial expection of creating something far from perfect but tangible. Thinking
+off the shelf and outside the box is a must here.
+Codie — from our initial conversations, the option of customizing and tinkering with
+different solutions seemed not only possible but something you were excited about. We
+have the opportunity and resources to explore that route, but after the last conversation
+things seemed to have shifted. I have the know how and can create the .STL files to send
+for 3D printing but the configuration and design would be off your guidance I would
+imagine.
+Brent — I respect your technical knowledge, but I have to be honest: when I’m told
+samples are coming and nothing shows up, and worse, there’s no response, it’s hard not
+to feel like I’m being left hanging after putting real resources behind this.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 7/53
+
+So, will all due respect, I need clarity for the mechanical engineers and my
+partners/stakeholders (one of whom is my wife so the pressure is on):
+Are the cans actually coming, or has a decision been made that ARI/Precision can’t
+or won’t support this project?
+If it’s not a fit, that’s absolutely fine — but I’d appreciate a clear answer so we can
+redirect efforts.
+And if you think another company more focused on aerosol/nozzle/actuator R&D
+would be a better fit, I’d welcome recommendations.
+I still believe in the potential of this project, and I’d much prefer to continue working with
+you all. But at this point, clear communication and a concrete path forward are essential.
+Very respectfully,
+Jacob Bevier
+Brag & Bev LLC
+760-490-3416
+ 
+On Aug 18, 2025, at 9:48 AM, Jacob Bevier <bevier19jac@icloud.com> wrote:
+ 
+ 
+Hi Joe, Brent, and Codie,
+I hope you’re all doing well!
+I wanted to follow up regarding the sample cans, it was mentioned earlier this month
+that they were on the way? Do you have the correct address? I completely understand
+how busy things get when production is at capacity, so if there’s anything I can do to
+help move this forward — including setting up accounts, submitting materials for
+billing, or anything else administrative — I’m happy to take care of it right away.
+I am ready to begin testing as soon as the cans arrive. I’ll be modifying a standard
+residential Herbie Kirby bin by cutting a vertical panels into the handle side and
+securing it with plexiglass and bolts, as well as an access towards the bottom for
+manual actuation. I’ll also be lining the entire interior walls with a paper 1-inch grid
+pattern. This will allow us to precisely measure and record spray coverage during each
+iteration with controlled lighting and a mounted camera, helping us get the clearest
+possible results.
+For this phase, I’ll be testing the off-the-shelf nozzles already included with the
+canisters. While I do have full 3D printing capabilities and the ability to design STL files
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 8/53
+
+for custom nozzle configurations later, we’re holding off on that until we gather results
+and get a clearer idea of what needs to be improved. We need something tangible,
+maybe not 100% but something to build off.
+Brent — I’d love your input on one component I’m exploring: a SAP-style absorbent
+material (something along the lines of what’s used in Orbeez) to be housed at the
+base in a permeable mesh. The idea is that after the solution coats the inner bin walls
+and gravity carries it down, this material would help congeal the runoff for cleaner
+and more effective disposal. Curious if you’ve worked with anything similar or have
+any thoughts on sourcing or biodegradability.
+Also, I’m located just outside Atlanta and would be happy to visit in person if it helps
+streamline coordination — especially since ARI is just down the road in Orchard Hill.
+Final Thoughts & Immediate Next Steps
+🟢 Cans: If the sample cans have already shipped, could you provide an ETA?
+If not, let me know what needs to happen on my end to get that finalized.
+🧾 Accounts/Billing: If any setup is required to initiate the shipment, billing, or to
+access materials, I’m ready to get that done right away.
+🧪 Testing Setup: Initial testing will use the stock nozzles for controlled data
+collection. I’ll share coverage results with all of you, complete with visuals from
+the gridded bin interior.
+🧩 Housing Design: Once the spray coverage is documented, I’ll send
+dimensions so Joe can begin work on the housing. Even a scalable starting
+point would be a huge help to maintain momentum.
+🔄 Future Development: STL-based nozzle refinements and integrated
+housing/actuator components will come next, using feedback from this first
+round of testing.
+I appreciate the expertise each of you brings to this project and with this investment I
+want to emphasize how seriously I’m taking this timeline. Our goal remains a working
+prototype and non-provisional patent submission by late November — and I know
+we can get there with the right collaboration and clarity.
+Thanks again, and I’m standing by to assist with whatever is needed to keep things
+moving forward.
+ 
+Very respectfully,
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 9/53
+
+Jacob Bevier
+760 490-3416
+Brag & Bev LLC
+ 
+On Aug 5, 2025, at 2:19 PM, Brent Leslie <BrentL@aripackaging.com> wrote:
+ 
+ 
+There is still no commercially available actuator for something like this. 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, August 5, 2025 2:07 PM
+To: Brent Leslie <BrentL@aripackaging.com>
+Cc: Joe Mcardle <joe.mcardle@rabbitpd.com>; Codie Sanders
+<codie.sanders@precisionglobal.com>; Sarah Braganini <sarahjbraganini@gmail.com>
+Subject: Re: DD product feasibility discussion
+ 
+ 
+ 
+Hi Joe, Brent, Codie, and Sarah,
+Thanks again for all the collaboration and continued momentum.
+Brent — the TimeMist metered can example you shared actually aligns really well with what I
+had in mind early on. A shorter, slightly wider can like this could offer multiple advantages —
+most notably a lower center of gravity, which should only help with the self-rightening design
+and overall balance once deployed in a bin.
+That said, based on how complex this was shaping up to be during earlier discussions, I didn’t
+think a smaller can would be a viable option. If it is, though, I’m definitely open to exploring
+that direction further — especially if it allows room for something like a permeable base or
+absorbent media without sacrificing function.
+If there's already a nozzle/actuator solution out there that pairs well with this can style and still
+gives us the dispersion and triggering action we’re aiming for, that would obviously be the
+cleanest path. But if needed, we could adjust the STL and render a new version sized to these
+dimensions for prototyping and fit testing.
+Let me know your thoughts — particularly on actuator compatibility and whether this direction
+makes sense from both a fill and functionality standpoint.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 10/53
+
+Best regards,
+Jacob Bevier
+ 
+On Aug 5, 2025, at 9:38 AM, Brent Leslie <BrentL@aripackaging.com> wrote:
+ 
+ 
+There is the possibility to use a metered air freshener can.  It is wider than the next
+standard with down of a 202 but shorter than the 604. 
+ 
+https://www.amazon.com/1042781EA-Metered-Fragrance-Dispenser-
+Aerosol/dp/B004E3JXJ8?gQT=1
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, August 5, 2025 9:32 AM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Codie Sanders <codie.sanders@precisionglobal.com>; Brent Leslie
+<BrentL@aripackaging.com>; Sarah Braganini <sarahjbraganini@gmail.com>
+Subject: Re: DD product feasibility discussion
+ 
+ 
+ 
+Hi Joe, Brent, Codie, and Sarah,
+Thank you all again for the collaborative effort on this project — I appreciate the
+momentum we’re building here.
+Joe, I really like the direction of the conceptual schematic you shared. Integrating
+the impact trigger and safety tab into the housing rather than the nozzle is a smart
+refinement. It not only simplifies the nozzle design but also allows the housing
+weight itself to deliver the necessary downward force — a functional and elegant
+solution. The two options you illustrated (pull tab vs. impact-triggered) both
+make sense to me, and I think either path could work well as long as we can dial
+in consistent triggering and broad enough internal coverage.
+Codie, thanks for confirming that the samples are going out tomorrow — I’m
+looking forward to receiving them and testing fit/function with the nozzle and
+housing designs.
+Brent, I saw your note on the vertical spray issue — completely understand. A
+fogger-style actuator with a large orifice and Viton gaskets sounds like the right
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 11/53
+
+move, especially if we’re looking to reduce mechanical resistance and maximize
+dispersion. Appreciate you pushing that forward with Codie.
+One thought I’d like to explore: do we need a can as large as the 211 x 604? If we
+can achieve the same cleaning coverage with a shorter can, it might offer a few
+advantages — a lower center of gravity (for better self-rightening), reduced
+material cost, and the opportunity to incorporate a permeable base with
+something like Orbeez or another absorbent filler. That material could serve both
+as a landing cushion and a post-spray liquid absorber at the bottom of the bin.
+Let me know what you all think of that idea, and what you see as the best next
+steps from here.
+Best regards,
+Jacob Bevier
+ 
+On Aug 4, 2025, at 4:34 PM, Joe Mcardle <joe.mcardle@rabbitpd.com>
+wrote:
+ 
+ 
+Hi Jacob, 
+Thanks for this conceptual run.  From looking at the diagrams, it is not
+evident how a downward force is generated to trigger the valve. Please
+clarify if I am missing something.
+See the attached schematic. I would suggest integrating the trigger to be
+part of the housing rather than part of the nozzle. This would allow the
+weight of the housing to generate the downward force upon impact. The
+safety pull tab could also be part of the housing. This might simplify the
+spray nozzle design.
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 12/53
+
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Monday, August 4, 2025 6:55 AM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Codie Sanders <codie.sanders@precisionglobal.com>; Brent Leslie
+<BrentL@aripackaging.com>; Sarah Braganini <sarahjbraganini@gmail.com>
+Subject: Re: DD product feasibility discussion
+ 
+Hi Joe, Brent, and Codie,
+Hope you're all doing well.
+Attached is a visual concept pack showcasing the actuator/nozzle system
+we’ve been developing. These renders illustrate several design iterations,
+each incorporating a manual pull tab and an impact-triggered
+breakaway actuator, forming a one-time-use cleaning device for
+commercial or residential bins.
+The accompanying write-up walks through the full functionality, but to
+summarize:
+The side-mounted pull tab must be manually removed by the user to
+arm the device.
+Once primed, a vertical impact triggers the breakaway actuator
+stem, activating the can’s internal spray valve.
+The rounded conical nozzle head includes multiple angled spray
+ports to achieve broad interior surface coverage.
+All designs are tailored to fit a standard 1-inch aerosol can and are
+based on the Vulcan nozzle/actuator that I thought was being sent
+architecture.
+If there's a particular nozzle design that stands out to you or seems most
+feasible from a chemistry or production standpoint, please let me know —
+I can generate the STL file and have it 3D printed for rapid prototyping.
+Also, quick question for Brent — last time we spoke, I believe you were
+going to send out a few canisters for testing and fitting. I figured they
+would have arrived by now (I’ve been away for a few weeks), but nothing
+has shown up yet. Are they still on the way?
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 13/53
+
+Looking forward to hearing your thoughts and collaborating on which
+version makes the most sense to move forward with.
+ 
+Best regards,
+Jacob
+ 
+ 
+On Jul 17, 2025, at 1:37 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.com> wrote:
+ 
+ 
+Hi All,
+Attached is a revised draft of the aerosol layout based on discussions
+with Brent. 
+Brent...  some details may need correction. Looking forward to your
+summary of the issues brought up regarding aerosol constraints.
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Wednesday, July 16, 2025 10:49 AM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Codie Sanders <codie.sanders@precisionglobal.com>; Brent Leslie
+<BrentL@aripackaging.com>; Sarah Braganini <sarahjbraganini@gmail.com>
+Subject: Re: DD product feasibility discussion
+ 
+Perfect! Sounds good Joe, see everryone tomorrow.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 14/53
+
+ 
+Very respectfully,
+ 
+Jacob Bevier
+ 
+On Jul 16, 2025, at 12:18 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.com> wrote:
+ 
+ 
+Hi All... Invite sent for this Thursday at 4pm ET. 
+See the meeting link below also.
+ 
+Joe Mcardle is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+Https://us02web.zoom.us/j/83941401894?
+pwd=H3aKoDRuHONGYwptGexspypXP3bMxj.1 
+Meeting ID: 839 4140 1894
+Passcode: 329228
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Codie Sanders <codie.sanders@precisionglobal.com>
+Sent: Wednesday, July 16, 2025 5:55 AM
+To: Jacob Bevier <bevier19jac@icloud.com>; Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Cc: Brent Leslie <BrentL@aripackaging.com>; Sarah Braganini
+<sarahjbraganini@gmail.com>
+Subject: RE: DD product feasibility discussion
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 15/53
+
+Sounds good top me! Please send the invite!
+ 
+ 
+Codie Sanders | Lab Tech  
+Precision Valve North America
+Office: (864) 835-1015   Cell: (864) 816-4151
+5711 Old Buncombe Road | Greenville |SC 29609 | USA
+<image003.png>
+ 
+Technical Services Email: PVNATechnicalservices@precisionglobal.com
+PRECISION now has an easy, fast and powerful 3D configurator:
+https://www.precisionglobal.com/3dconf
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, July 15, 2025 7:52 PM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Brent Leslie <BrentL@aripackaging.com>; Sarah Braganini
+<sarahjbraganini@gmail.com>; Codie Sanders
+<codie.sanders@precisionglobal.com>
+Subject: Re: DD product feasibility discussion
+ 
+If we could do Thursday that would be best for me…
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 16/53
+
+Very respectfully,
+ 
+Jacob
+ 
+ 
+ 
+On Jul 15, 2025, at 7:38 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.com> wrote:
+Hi Jacob,
+Adding Codie as this discussion may be useful with all parties.
+How about tomorrow (7/16) at 1pm pacific (4pm eastern)? I am
+also open Thursday earlier in the day. Let me know and I will
+send a zoom invite.
+ 
+Best,
+Joe McArdle
+Lead Mechanical Engineer
+Rabbit Product Design
+joe.mcardle@rabbitpd.com
+ph: 408-634-0194
+ 
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 17/53
+
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Tuesday, July 15, 2025 1:55 PM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Brent Leslie <BrentL@aripackaging.com>; Sarah Braganini
+<sarahjbraganini@gmail.com>
+Subject: Re: product aerosol formulations (ARI Packaging)
+ 
+I’m open to a meeting at anytime so whatever works for you
+just send me the invite. Please add Sarah as well.
+ 
+Very respectfully
+ 
+Jacob 
+ 
+On Jul 15, 2025, at 2:54 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.com> wrote:
+Hi Jacob,
+I had a brief call with Brent today to discuss the attached
+initial aerosol layout. Based on his input, it looks like there
+are a number of feasibility challenges with a cleaning agent
+ability to be distributed 'upwards' from the bottom of the
+bin. I think a conference call may be best to clarify Brent's
+concerns. If you want to arrange a time with your team to
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 18/53
+
+meet this week, I am typically more flexible later in the day
+(after 4pm Eastern). Let me know if you need to meet
+earlier in the day.
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+From: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Sent: Monday, July 14, 2025 6:31 PM
+To: Jacob Bevier <bevier19jac@icloud.com>
+Subject: Re: product aerosol formulations (ARI Packaging)
+ 
+Hi Jacob,
+FYI.. These last emails do not include Brent/ARI as I want to
+first confirm your overall requirements before circling back
+to Brent. 
+Noted that you want to remove this secondary rinsing
+agent from the initial requirements. From a usability
+standpoint, the concern would be how the cleaning agent
+can be removed easily after depositing on all inner
+surfaces of the bin. Does it stay with the bin permanently?
+Does the user rinse the bin with water? Can it
+dissipate/evaporate over time?  Perhaps there is another
+'rinsing' cannister that is used after the cleaning agent. I
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 19/53
+
+can talk to Brent regarding his thoughts from the aerosol
+side.
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Monday, July 14, 2025 6:02 PM
+To: Joe Mcardle <joe.mcardle@rabbitpd.com>
+Cc: Sarah Braganini <sarahjbraganini@gmail.com>
+Subject: Re: product aerosol formulations (ARI Packaging)
+ 
+Hi Joe,
+Regarding the formulation: I haven’t reintroduced the
+caking agent component since our initial discussions, as I
+felt it was creating some confusion and distracting from
+the core functionality of the device. I’d really prefer we start
+from the ground up by locking in the self-rightening
+mechanism, the impact trigger, and the cleaning agent,
+which I consider the foundational elements.
+Once we’ve nailed down those primary systems, I’m
+absolutely open to revisiting the idea of a caking or follow-
+on agent—especially if it enhances the cleaning function
+or makes removal easier, as you mentioned.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 20/53
+
+Brent, I’d love to hear your thoughts on possible directions
+for the cleaning formulation that can work within the
+aerosol constraints Joe is building around. We’re aiming for
+something effective but straightforward to start with.
+Appreciate all the coordination, and I’m excited to see this
+take shape.
+Very respectfully,
+Jacob Bevier
+Brag & Bev LLC
+760-490-3416
+ 
+On Jul 14, 2025, at 8:18 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.com> wrote:
+ 
+ 
+Thanks Jacob,
+I plan to talk to Brent first regarding your formulation
+requirements. I am generating the attached
+dimensional layout to use in discussion. Let me know if
+there are any adjustments that you see.
+Have you discussed your requirements with ARI
+regarding both the cleaning agent and the caking
+agent? I do believe that the cleaning agent will need
+some type of following solution to allow easy removal
+from the bin. 
+Once we have the aerosol constraints worked out, I will
+then shift over to Codie regarding the spray actuator
+function.
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 21/53
+
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Monday, July 14, 2025 7:14 AM
+To:
+brentl@aripackaging.com <brentl@aripackaging.com>
+Cc: Sarah Braganini <sarahjbraganini@gmail.com>; Joe
+Mcardle <joe.mcardle@rabbitpd.com>
+Subject: Re: Qucik intro for Joe Mcardle (Rabbit design)
+and Richard Nixon & Chemist (ARI Packaging)
+ 
+Good morning everyone,
+Joe – I’d like to introduce you to Brent, the chemist
+from ARI Packaging (770 227 8222). I believe he’ll be a
+valuable resource in helping address some of the
+technical questions that have come up on your end.
+Brent – Thanks again for taking the time to speak with
+me earlier and for being open to connecting with Joe
+as we continue development.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 22/53
+
+Also looping in Sarah Braganini, one of my business
+partners and a key part of the team. Sarah and I are
+the boots on the ground for this project, actively
+coordinating each moving piece and helping keep
+things on track.
+Wishing everyone a productive week ahead. Please
+don’t hesitate to reach out if there’s anything you need
+from us.
+Quick note for scheduling: Brent is on Eastern Time,
+and Joe is on Pacific Time.
+ 
+Very respectfully,
+Jacob Bevier
+ 
+Very respectfully,
+Jacob Bevier
+ 
+ 
+On Jul 11, 2025, at 4:45 PM, Richard Dixon
+<RDixon@aripackaging.com> wrote:
+ 
+ 
+770-227-8222 ask for Brent. 
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Friday, July 11, 2025 4:17 PM
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 23/53
+
+To: Richard Dixon <RDixon@aripackaging.com>
+Cc: Sarah Braganini <sarahjbraganini@gmail.com>; Joe
+Mcardle <joe.mcardle@rabbitpd.com>
+Subject: Re: Qucik intro for Joe Mcardle (Rabbit design) and
+Richard Nixon & Chemist (ARI Packaging)
+ 
+ 
+ 
+Okay i will reach out to Brent on monday, would
+you have any contact inffo to expedite that
+process?
+ 
+Very respectfully,
+ 
+ 
+On Jul 11, 2025, at 4:02 PM, Richard Dixon
+<RDixon@aripackaging.com> wrote:
+ 
+ 
+This would be more brent than me. I am sure you can
+talk to him next week
+ 
+From: Jacob Bevier <bevier19jac@icloud.com>
+Sent: Friday, July 11, 2025 3:20 PM
+To: Richard Dixon <RDixon@aripackaging.com>
+Cc: Sarah Braganini <sarahjbraganini@gmail.com>; Joe
+Mcardle <joe.mcardle@rabbitpd.com>
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 24/53
+
+Subject: Qucik intro for Joe Mcardle (Rabbit design) and
+Richard Nixon & Chemist (ARI Packaging)
+ 
+ 
+ 
+Hello Richard,
+I wanted to introduce you and our Lead
+Mechanical engineer Joe Mcardle. If possible I
+would love to to connect him and your chemist
+and the possibility of ARI filling our cans when
+the time comes. Joe would have all the specs
+he would require and the best formula. Bottom
+line he is trying to connect with the additional
+pieces of the puzzle to make this vision a
+reality. If you could please respond back with
+what works best for you and your chemist and
+the best way forward for all parties involved.
+We are getting there and ARI is an integral part
+of this operation. Hope to speak with you
+soon!
+ 
+Very repsectfully, 
+ 
+Jacob Bevier
+Brag & Bev LLC
+7604903416
+ 
+On Jul 11, 2025, at 3:03 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.com> wrote:
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 25/53
+
+ 
+ 
+Hi Jacob,
+Sorry for any delays as we are in a bit of a
+backlog. I plan to first reach out individually
+to each of your 3rd party associates to
+gather any initial constraints from their
+side. 
+I have the contact for Precision Valve
+(Codie), but I will need the contact name
+and email for your ARI associate.
+I do have some specific questions to
+confirm with each in order to generate an
+initial schematic. I am assuming these are
+the only 3rd party groups you are working
+with.
+Also FYI... Adam is on the sales side and is
+not involved with the mechanical process.
+Although he is the one to answer
+contractual/dollar issues, no need to
+include him for mechanical
+communications.
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 26/53
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier
+<bevier19jac@icloud.com>
+Sent: Friday, July 11, 2025 9:48 AM
+To: Joe Mcardle
+<joe.mcardle@rabbitpd.com>;
+adam.tavin@rabbitpd.com <adam.tavin@rab
+bitpd.com>
+Cc: Sarah Braganini
+<sarahjbraganini@gmail.com>
+Subject: Re: DD Phase 2 question
+ 
+Hi Joe,
+Hope you're doing well! Just wanted to
+check in and see how things are
+progressing on your end with the DD
+Phase 2 development. I know you were
+planning to compile the dimensional data
+and create a layout schematic and i also
+know you said your teams were running a
+little behind—however, I am still curious if it
+has been initiated and that it's all coming
+together as expected? 
+Also, have you had a chance to connect
+with the POCs at ARI and Precision Valve
+yet? I imagine getting their input will be key
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 27/53
+
+to pulling all the pieces together. For the
+"Engineering Kickoff" Meeting I would really
+want all pieces of the puzzle present,
+Rabbit, Chemist, Nozzle/Actuator, Fillers,
+and your team and mine.
+As always, I appreciate your attention to
+detail and everything you’re doing to keep
+this project moving forward. Let me know if
+you need anything from me in the
+meantime to help facilitate things.
+ 
+Very respectfully,
+Jacob Bevier
+ 
+ 
+On Jun 30, 2025, at 8:42 PM, Jacob
+Bevier <bevier19jac@icloud.com>
+wrote:
+ 
+ 
+Exactly
+ 
+Thanks Joe
+ 
+On Jun 30, 2025, at 7:16 PM, Joe
+Mcardle
+<joe.mcardle@rabbitpd.com>
+wrote:
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 28/53
+
+Thanks Jacob... we have had issues
+on other programs with emails
+going to spam.
+I am first compiling dimensional
+data which I will summarize in a
+layout schematic before reaching
+out to ARI and PV. Another
+question for you...
+For residential dumpsters, shall we
+use a 96 gallon can as a maximum
+volume? This will define the max
+spray force and area to be covered.
+<image.png>
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 29/53
+
+ 
+From: Jacob Bevier
+<bevier19jac@icloud.com>
+Sent: Monday, June 30, 2025 3:39 PM
+To: Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Cc: Sarah Braganini
+<sarahjbraganini@gmail.com>;
+jbglm2@gmail.com <jbglm2@gmail.com>
+Subject: Re: DD Phase 2 question
+ 
+However I can reach out to the
+chemist and Codie tomorrow and
+see what they say, if you haven’t
+already. 
+You’re VIP status Joe, your mail will
+never go to my junk!
+ 
+Very respectfully
+Jacob Bevier
+ 
+On Jun 30, 2025, at 6:35 PM,
+Jacob Bevier
+<bevier19jac@icloud.com>
+wrote:
+ 
+Yes the residential one is what
+we were going to start with. As
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 30/53
+
+far as specs I would think ARI
+and PV would give you the best
+specs, otherwise is you were to
+start with an 8oz can could it
+not be scalable? This is the only
+email I’ve seen and I got it 5
+mins ago.
+Sent from my iPhone
+ 
+On Jun 30, 2025, at
+6:28 PM, Joe Mcardle
+<joe.mcardle@rabbitpd.co
+m> wrote:
+ 
+Hi Jacob,
+I believe we discussed
+starting with the smaller
+residential size first. Please
+confirm if correct.
+We will need the size
+confirmation to start an
+architecture layout to define
+questions and requirements
+for discussion with ARI and
+Precision Valve. 
+ 
+Thanks,
+Joe McArdle
+Rabbit Product Design
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 31/53
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Sent: Friday, June 27, 2025 3:05
+PM
+To: Jacob Bevier
+<bevier19jac@icloud.com>
+Cc: 'Sarah Braganini'
+<sarahjbraganini@gmail.com>;
+jbglm2@gmail.com <jbglm2@gm
+ail.com>
+Subject: DD Phase 2 question
+ 
+Jacob... Resending in case
+this did not get through...
+ 
+Best
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 32/53
+
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Sent: Wednesday, June 25, 2025
+2:57 PM
+To: Jacob Bevier
+<bevier19jac@icloud.com>
+Subject: DD Phase 2 question
+ 
+Hi Jacob,
+Double checking on which
+size you want to start with
+between commercial and
+residential? I believe we
+discussed starting with the
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 33/53
+
+smaller residential size,
+correct?
+ 
+Thanks,
+Joe McArdle
+Rabbit Product Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Sent: Wednesday, June 18, 2025
+10:23 AM
+To: Jacob Bevier
+<bevier19jac@icloud.com>
+Cc: 'Sarah Braganini'
+<sarahjbraganini@gmail.com>;
+'Apollo Braganini'
+<abraganini@gmail.com>;
+'Candice 💍'
+<candice.aaron@hotmail.com>;
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 34/53
+
+jbglm2@gmail.com <jbglm2@gm
+ail.com>
+Subject: Re: DD Phase 2
+development
+ 
+OK Jacob...  Invite sent for
+this Thursday 4pm ET. See
+the meeting link below also.
+Feel free to invite others to
+the meeting.
+ 
+Joe Mcardle is inviting you
+to a scheduled Zoom
+meeting.
+Join Zoom Meeting
+Https://us02web.zoom.us/j/
+85786202778?
+pwd=D4e5mDFN7sAae6U7
+rUfZr3jUxTfV3l.1 
+Meeting ID: 857 8620 2778
+Passcode: 151904
+ 
+Best,
+Joe McArdle
+Rabbit Product Design
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 35/53
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier
+<bevier19jac@icloud.com>
+Sent: Wednesday, June 18, 2025
+5:58 AM
+To: Joe Mcardle
+<joe.mcardle@rabbitpd.com>
+Cc: 'Sarah Braganini'
+<sarahjbraganini@gmail.com>;
+'Apollo Braganini'
+<abraganini@gmail.com>;
+'Candice 💍'
+<candice.aaron@hotmail.com>;
+jbglm2@gmail.com <jbglm2@gm
+ail.com>
+Subject: Re: DD Phase 2
+development
+ 
+Hey Joe!
+ 
+Good to hear from you
+again, hope things are well.
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 36/53
+
+ 
+Send me the invite and I will
+be there. I am free after
+4pm EST for the rest of the
+week.
+ 
+Look forward to it!
+ 
+Very respectfully,
+ 
+Jacob Bevier
+From: Joe Mcardle
+<joe.mcardle@rabb
+itpd.com>
+Date: June 17, 2025
+at 5:43:51 PM EDT
+To: Jacob Bevier
+<bevier19jac@iclou
+d.com>
+Subject: DD Phase
+2 development
+Hello Jacob,
+We have you
+programed-in to
+start the Phase2
+development. The
+engineering staff is
+a bit backlogged
+currently so it may
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 37/53
+
+be 1-2 weeks before
+we can get started.
+I do want to set up
+a zoom call to
+review where you
+are at and clarify
+any questions. 
+What is your
+availability this
+week? I am typically
+open anytime after
+1pm Pacific (4pm
+Eastern).
+ 
+Best,
+Joe McArdle
+Rabbit Product
+Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier
+<bevier19jac@icloud.co
+m>
+Sent: Saturday,
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 38/53
+
+December 14, 2024
+5:56 AM
+To: Joe Mcardle
+<joe.mcardle@rabbitpd.
+com>
+Cc: Abraganini@gmail.c
+om <Abraganini@gmail.
+com>
+Subject: Re: DD product
+Evaluation
+ 
+Looks good Joe. 
+ 
+Don't think we are
+missing anything. I
+think I have found a
+company for the
+chemical and
+aerosol
+components, trying
+to arrange for a
+meeting next week.
+Aerosol Research
+Innovation (ARI).
+Again, I look
+forward to your
+proposal and future
+conversations. Have
+a good weekend
+Joe.
+ 
+Very respectfully,
+ 
+On Dec 13,
+2024, at 6:09
+PM, Joe
+Mcardle
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 39/53
+
+<joe.mcardle@r
+abbitpd.com>
+wrote:
+ 
+ 
+Hello Jacob and
+Apollo,
+Attached is a
+summary of
+what we
+understand. We
+will use this for
+quotation.
+I have added
+notes in yellow
+indicating
+product
+development
+concerns. See
+the last page for
+overall concerns
+and
+recommendatio
+ns. 
+We will be able
+to support you
+with the
+following
+mechanical
+areas on an
+iterative basis
+relative to
+chemical
+component
+validation. We
+would include
+an initial system
+architecture
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 40/53
+
+layout for use
+with chemical
+component
+supplier
+sourcing prior
+to initiating any
+concept
+development.
+-trigger
+mechanism-
+initial concepts
+prior to
+chemical
+component
+validation.
+-caking agent
+release
+methods- initial
+concepts prior
+to chemical
+component
+validation.
+-self righting
+mechanism-
+initial concepts
+prior to other
+key
+components
+validation.
+ 
+Please confirm if
+all is correct and
+if there is
+anything that
+we missed.
+Once
+confirmed, we
+will get a quote
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 41/53
+
+within a few
+days.
+ 
+Best,
+Joe McArdle
+Rabbit Product
+Design
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob Bevier
+<bevier19jac@iclou
+d.com>
+Sent: Thursday,
+December 12, 2024
+4:53 PM
+To: Joe Mcardle
+<joe.mcardle@rabb
+itpd.com>
+Cc: Abraganini@gm
+ail.com <Abraganini
+@gmail.com>
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 42/53
+
+Subject: Re: DD
+product Evaluation
+ 
+Hey Joe,
+Again thank you
+for your time
+this evening, I
+look forward to
+your proposal.
+Could you
+please send me
+that PPT you
+presented? I
+would really
+appreciate that.
+Talk soon.
+ 
+Very
+respectfully,
+ 
+Jacob Bevier
+ 
+On Dec 6,
+2024, at
+12:00 PM,
+Joe Mcardle
+<joe.mcardl
+e@rabbitpd.
+com>
+wrote:
+ 
+ 
+OK Jacob... 
+Invite sent
+for next
+Thursday
+(Dec12) at
+7pm ET. See
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 43/53
+
+the meeting
+link below
+also.
+ 
+Joe Mcardle
+is inviting
+you to a
+scheduled
+Zoom
+meeting.
+Join Zoom
+Meeting
+Https://us02
+web.zoom.u
+s/j/88511814
+160?
+pwd=8b9ap
+BfIyo1MTH2
+5KQBFAefvy
+23jb6.1 
+Meeting ID:
+885 1181
+4160
+Passcode:
+252278
+ 
+Best,
+Joe McArdle
+Rabbit
+Product
+Design
+ 
+ 
+ 
+ 
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 44/53
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jacob
+Bevier
+<bevier19jac@
+icloud.com>
+Sent: Friday,
+December 6,
+2024 6:59 AM
+To: Joe
+Mcardle
+<joe.mcardle@
+rabbitpd.com>
+Cc: Abraganini
+@gmail.com <
+Abraganini@g
+mail.com>
+Subject: Re:
+DD product
+Evaluation
+ 
+Hey good
+morning
+Joe!
+After
+coordinatin
+g with
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 45/53
+
+Apollo,
+we’re both
+available on
+Monday or
+Thursday @
+4:00 PM
+PST / 7:00
+PM EST.
+That time
+works best
+for us, but if
+it doesn’t
+align with
+your
+schedule,
+please let
+me know
+and we’ll
+find another
+time that
+works.
+I’m really
+looking
+forward to
+connecting
+and hearing
+your
+thoughts!
+Very
+respectfully,
+ 
+Jacob Bevier
+760-490-
+3416
+ 
+On Dec
+5, 2024,
+at 8:58
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 46/53
+
+PM,
+Jacob
+Bevier
+<bevier1
+9jac@icl
+oud.co
+m>
+wrote:
+ 
+ 
+Hi Joe,
+ 
+ 
+Thank
+you for
+reaching
+out. I am
+EST and
+I am
+pretty
+much
+open at
+any time
+next
+week.
+Howeve
+r, my
+partner,
+Apollo,
+whom
+I’m
+cc’ing
+here, has
+a much
+more
+kinetic
+schedule
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 47/53
+
+. Let me
+coordina
+te with
+him, and
+I’ll have
+an
+answer
+for you
+by
+tomorro
+w.
+ 
+Looking
+forward
+to
+speaking
+soon!
+ 
+Very
+respectfu
+lly,
+ 
+Jacob
+Bevier
+760 490-
+3416
+ 
+ 
+ 
+On
+Dec
+5,
+202
+4, at
+5:51 
+PM,
+Joe
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 48/53
+
+Mca
+rdle
+<joe
+.mca
+rdle
+@ra
+bbit
+pd.c
+om
+>
+wrot
+e:
+Hell
+o
+Jaco
+b,
+I will
+be
+doin
+g
+the
+mec
+hani
+cal
+eval
+uati
+on
+for
+your
+prod
+uct.
+We
+have
+you
+prog
+ram
+ed
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 49/53
+
+in to
+start
+soo
+n.
+We
+recei
+ved
+your
+prod
+uct
+infor
+mati
+on,
+and
+I
+shou
+ld
+have
+ever
+ythin
+g
+revie
+wed
+by
+early
+next
+wee
+k.  
+Wha
+t is
+your
+avail
+abilit
+y
+next
+wee
+k for
+a
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 50/53
+
+zoo
+m
+call
+to
+clarif
+y
+any
+ques
+tions
+? I
+am
+ope
+n
+next
+Wed
+nesd
+ay
+thru
+Frid
+ay
+any
+time
+after
+1pm
+Pacif
+ic
+Tim
+e. 
+Wha
+t is
+your
+time
+zon
+e?
+ 
+Best,
+Joe
+McA
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 51/53
+
+rdle
+Lead
+Mec
+hani
+cal
+Engi
+neer
+Rab
+bit
+Prod
+uct
+Desi
+gn
+joe.
+mca
+rdle
+@ra
+bbit
+pd.c
+om
+ph:
+408-
+634-
+0194
+ 
+ 
+<Product
+Evaluation-
+DD.pdf>
+ 
+ 
+ 
+ 
+ 
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 52/53
+
+ 
+ 
+<Aerosol requirements and constraints_DD_7-14-
+25.pdf>
+ 
+ 
+<Aerosol requirements and constraints-3_DD_7-17-25.pdf>
+ 
+<Trigger mechanism for downward force_1.pdf>
+ 
+ 
+ 
+ 
+ 
+ 
+Fork in the Road.pptx
+4.4 MB
+Download Open in Keynote
+3/7/26, 11:26 AM iCloud Mail
+https://www.icloud.com/mail/ 53/53

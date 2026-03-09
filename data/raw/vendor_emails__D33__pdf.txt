@@ -1,0 +1,25 @@
+Source filename: D33.pdf
+Source relative path: vendor_emails/D33.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:18.264651+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Possible Collaboration — Spray Cleanser Prototype & VOC Compliance
+Date: September 16, 2025 at 3:27:30 PM
+To: hallie.chelmo@UND.edu
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Dear Dr. Chelmo,
+I’m Jacob Bevier, co-founder of Brag & Bev LLC. We’ve got a prototype aerosol currently performing
+like a deodorizer with strong vertical reach and coverage. However, our product needs to evolve into
+a cleanser — achieving cleaning function + consistency + staying within VOC regulations.
+Your work at the Aerosol Engineering Lab in droplet behavior and instrumentation seems very
+relevant. I’d be interested in discussing whether your group could assist with:
+Droplet size / coverage / pooling evaluations
+Formulation modifications for cleaning power under VOC constraints
+Testing / advice on actuator/nozzle/can combinations for consistency
+We have funding and can sign an NDA; I can share the prototype data in advance. Would you have
+time for a call (≈20 min) to explore possibilities?
+Thank you,
+Jacob Bevier
+📞  760-490-3416 | bevier19jac@icloud.com
+3/7/26, 11:40 AM iCloud Mail
+https://www.icloud.com/mail/ 1/1
