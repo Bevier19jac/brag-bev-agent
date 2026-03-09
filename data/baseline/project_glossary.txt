@@ -1,0 +1,26 @@
+Key terms and working glossary for Brag & Bev / Dumpster Diver
+
+Brag & Bev LLC
+- A company focused on product development for cleaning and related consumer use cases.
+- Currently in active development of the Dumpster Diver concept.
+
+Dumpster Diver
+- A working name for a self-righting trash bin cleaning concept.
+- Intended to be placed into a residential trash bin after garbage pickup, when the bin is mostly or fully empty.
+- Designed to trigger an internal cleaning action (for example, aerosol or foaming spray) to help coat interior bin walls and reduce the amount of manual scrubbing required by the user.
+- The exact mechanism, timing, and formulation are still under development and may change as the design is refined.
+
+Self-righting
+- Refers to a device that tends to orient itself into an upright or intended position after being dropped, knocked over, or jostled.
+- For Dumpster Diver this is a desired behavior so that the cleaning action is more predictable and coverage is more reliable.
+
+Aerosol / foaming cleaning action
+- The concept involves a triggered release of cleaning material inside the bin.
+- This may take the form of aerosol sprays, foaming agents, or a combination, depending on future engineering and formulation decisions.
+- Exact ingredients, safety details, and regulatory status are not defined here and must come from specific technical or regulatory documents.
+
+Bin cleaning goal
+- Reduce the amount of direct, manual scrubbing required to keep trash bins cleaner.
+- Give users a way to periodically freshen or clean bins in between or after regular trash pickups.
+
+These definitions are intentionally high-level and may be updated as the project progresses. When in doubt, the assistant should treat them as directional context rather than final, locked specifications.

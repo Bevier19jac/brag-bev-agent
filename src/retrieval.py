@@ -4,6 +4,9 @@ from dataclasses import dataclass
 from pathlib import Path
 
 
+BASELINE_DIR = Path("data/baseline")
+
+
 @dataclass(frozen=True)
 class ProcessedDocument:
     source: str
@@ -25,14 +28,18 @@ class CorpusBundle:
     matrix: object
 
 
-def read_processed_documents(processed_dir: Path) -> list[ProcessedDocument]:
-    if not processed_dir.exists():
+def _iter_txt_files(root: Path) -> list[Path]:
+    if not root.exists():
         return []
+    return sorted(p for p in root.rglob("*.txt") if p.is_file())
 
+
+def read_processed_documents(processed_dir: Path) -> list[ProcessedDocument]:
     documents: list[ProcessedDocument] = []
-    for path in sorted(processed_dir.rglob("*.txt")):
+
+    for path in _iter_txt_files(processed_dir) + _iter_txt_files(BASELINE_DIR):
         try:
-            text = path.read_text(encoding="utf-8").strip()
+            text = path.read_text(encoding="utf-8", errors="ignore").strip()
         except Exception:
             continue
         if not text:

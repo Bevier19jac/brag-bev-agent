@@ -55,7 +55,7 @@ except Exception as exc:
 
 APP_TITLE = "Brag & Bev AI System"
 GROQ_MODEL = "llama-3.3-70b-versatile"
-TOP_K = 5
+TOP_K = 8
 
 
 def get_groq_client():
@@ -98,8 +98,24 @@ def run_agent(question: str, agent_key: str, top_k: int = TOP_K):
     if not corpus.chunks:
         return "Processed files were found, but no usable chunks were created.", []
 
+    # Modest dynamic k: use a slightly larger k for broad “tell me everything /
+    # summarize everything” style questions, otherwise use the default.
+    lowered = question.lower()
+    effective_k = top_k
+    if any(
+        phrase in lowered
+        for phrase in (
+            "tell me everything you know",
+            "tell me everything about",
+            "summarize everything you know",
+            "summarize everything about",
+            "what do you know about",
+        )
+    ):
+        effective_k = max(top_k, 10)
+
     try:
-        retrieved = retrieve_chunks(question, corpus, top_k=top_k)
+        retrieved = retrieve_chunks(question, corpus, top_k=effective_k)
     except Exception as exc:
         return f"Retrieval failure: {exc}", []
 
