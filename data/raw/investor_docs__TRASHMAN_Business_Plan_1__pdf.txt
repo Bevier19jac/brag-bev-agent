@@ -1,0 +1,191 @@
+Source filename: TRASHMAN_Business_Plan#1.pdf
+Source relative path: investor_docs/TRASHMAN_Business_Plan#1.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:38.513657+00:00
+
+## Section 1: Page 1
+Dumpster Defender 
+ 
+i 
+ 
+The Self-Righting Automatic Dumpster Cleaner 
+Patent Pending: Application No. 63/723,626 (Confirmation No. 7443) 
+Jacob Bevier | (760) 490-3416 | bevier19jac@icloud.com 
+Executive Summary: The Self-Righting Automatic Dumpster Cleaner is a patent-pending, eco-
+friendly, and disposable cleaning solution designed to simplify dumpster and outdoor rolling 
+trash bin sanitation. Its innovative features include advanced foaming technology, self-righting 
+stability, and a user-friendly pull-tab activation system, making it a highly efficient and 
+environmentally responsible product. 
+Mission Statement: To revolutionize waste management by offering a convenient, sustainable, 
+and affordable cleaning solution for households, businesses, and municipalities. 
+Business Model 
+Product Lines 
+1. Residential Model: 
+• Designed for outdoor rolling trash bins (30–50 gallons). 
+• Sold in packs of 5, 10, or 20 units. 
+2. Commercial Model: 
+• Designed for industrial dumpsters (2–10 cubic yards). 
+• Sold in packs of 3 or 5 units. 
+Revenue Streams 
+1. Retail Sales: Placement in major retailers like Walmart, Home Depot, and Target 
+alongside trash bags. 
+2. Online Sales: Available through Amazon and the company’s direct-to-consumer 
+platform. 
+3. Wholesale Distribution: Targeting municipalities, property managers, and commercial 
+enterprises. 
+Pricing 
+Residential Packs: 
+• 5-pack: $15 
+• 10-pack: $25 
+• 20-pack: $40
+
+## Section 2: Page 2
+Dumpster Defender 
+ 
+ii 
+ 
+Commercial Packs: 
+• 3-pack: $75 
+• 5-pack: $120 
+Incentive: Bulk pricing offers minor discounts to encourage larger purchases. 
+Product Description 
+How It Works 
+1. Activation Mechanism: 
+• Pull-Tab System: A durable tab mechanically activates the internal cleaning 
+solution when pulled. 
+• Impact Trigger: Activates the cleaning process upon contact with the dumpster 
+floor. 
+• Backup Timer: Ensures activation within 5 seconds of deployment, even if 
+impact doesn’t occur. 
+2. Self-Righting Technology: 
+• Weighted base ensures that the device remains upright during activation for 
+maximum spray coverage. 
+3. Foaming Technology: 
+• Combines a citric acid, SLS, and hydrogen peroxide reaction to create a high-
+expansion foam. 
+• Foam clings to walls, floors, and lids, dissolving grime and neutralizing odors. 
+4. Eco-Friendly Composition: 
+• Biodegradable materials align with environmental sustainability goals, 
+decomposing within 6–12 months. 
+Key Specifications 
+Residential Model: 
+• Dimensions: 
+• Diameter: 6 inches 
+• Height: 8 inches 
+• Weight: 0.6 lbs 
+• Cleaning Agent Volume: 250 mL
+
+## Section 3: Page 3
+Dumpster Defender 
+ 
+iii 
+ 
+Commercial Model: 
+• Dimensions: 
+• Diameter: 12 inches 
+• Height: 15 inches 
+• Weight: 2.5 lbs 
+• Cleaning Agent Volume: 1 L 
+Foaming Technology 
+Core Components 
+1. Foaming Agent: 
+• Sodium Lauryl Sulfate (SLS): Produces high-expansion foam. 
+• Stabilized with xanthan gum for surface adhesion. 
+2. Cleaning Agents: 
+• Citric Acid: Breaks down grease and grime. 
+• Sodium Bicarbonate: Neutralizes odors and enhances reaction. 
+3. Catalyst: 
+• Encapsulated Hydrogen Peroxide: Reacts with citric acid to release oxygen 
+bubbles, expanding foam volume. 
+How It Works 
+1. Activation: 
+• Pull-tab removes the internal barrier between cleaning agents and catalyst. 
+• A spring-loaded mechanism punctures the hydrogen peroxide chamber, starting 
+the reaction. 
+2. Foam Generation: 
+• Oxygen bubbles stabilize within the surfactant-rich solution, creating dense foam. 
+• Foam expands 20x–30x, adhering to vertical surfaces for 5–7 minutes. 
+3. Cleaning: 
+• Citric acid and sodium bicarbonate dissolve organic residues, grease, and grime. 
+• Deodorizing agents neutralize odors, leaving a fresh scent.
+
+## Section 4: Page 4
+Dumpster Defender 
+ 
+iv 
+ 
+Market Analysis 
+Target Customers 
+1. Residential: 
+• Homeowners and renters with outdoor rolling trash bins. 
+2. Commercial: 
+• Restaurants, retail chains, and warehouses requiring regular dumpster sanitation. 
+3. Municipalities: 
+• City sanitation departments seeking scalable, eco-friendly cleaning solutions. 
+Market Size 
+• Residential: 125 million trash bins in the U.S. 
+• Commercial: 2 million dumpsters in the U.S. 
+Competitive Edge 
+1. Innovation: 
+• Self-righting design ensures reliability and effectiveness. 
+• Patented foaming technology offers superior cleaning compared to traditional 
+methods. 
+2. Sustainability: 
+• Fully biodegradable, addressing growing environmental concerns. 
+3. Cost Efficiency: 
+• Single-use design eliminates the need for costly professional cleaning services. 
+Operations Plan 
+Manufacturing 
+1. Components: 
+• Outer Casing: Injection-molded biodegradable HDPE or PLA plastic. 
+• Foam Chamber: Sealed compartments for cleaning agents and catalyst. 
+• Activation System: Includes pull-tab and spring-loaded trigger. 
+2. Assembly Process: 
+• Mold biodegradable outer casing. 
+• Assemble aerosol or foam chambers.
+
+## Section 5: Page 5
+Dumpster Defender 
+ 
+v 
+ 
+• Install weighted base for self-righting stability. 
+• Attach activation system (pull-tab and impact trigger). 
+• Conduct quality control testing. 
+Logistics 
+• Distribution: Nationwide shipping via third-party logistics providers. 
+• Warehousing: Eco-friendly packaging reduces storage requirements and waste. 
+Financial Projections 
+Revenue 
+1. Residential Sales: $1.2M 
+2. Commercial Sales: $850,000 
+Total Revenue: $2.05M 
+Expenses 
+1. Manufacturing and Packaging: $200,000 
+2. Marketing: $75,000 
+3. Logistics: $60,000 
+Total Expenses: $335,000 
+Profit Margin: 
+68% Gross Profit Margin 
+Funding Requirements 
+Seeking an investment of $300,000 for: 
+1. Finalizing product design and testing. 
+2. Scaling up manufacturing operations. 
+3. Launching marketing campaigns. 
+Milestones 
+1. Prototype Development (Months 1–3): Validate product performance through field 
+testing. 
+2. Manufacturing Setup (Months 4–6): Establish production lines and finalize supplier 
+contracts. 
+3. Retail Launch (Months 6–12): Distribute products to retail stores and online platforms.
+
+## Section 6: Page 6
+Dumpster Defender 
+ 
+vi 
+ 
+Conclusion 
+The Self-Righting Automatic Dumpster Cleaner is a groundbreaking innovation poised to 
+redefine waste management. With its patent-pending technology, eco-friendly design, and clear 
+market demand, it offers an unparalleled opportunity for scalability and profitability.

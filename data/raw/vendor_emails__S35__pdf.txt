@@ -1,7 +1,10 @@
 Source filename: S35.pdf
 Source relative path: vendor_emails/S35.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:27.568272+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:56.178264+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: ARE Labs Follow Up
 Date: December 19, 2025 at 9:36:42 AM
@@ -32,14 +35,15 @@ testing later today and we are formalizing the test plan
 3/7/26, 11:18 AM iCloud Mail
 https://www.icloud.com/mail/ 1/4
 
+## Section 2: Page 2
 Best, 
 Weston
 Get Outlook for iOS
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, December 16, 2025 12:06:19 PM
-T o :  Weston Schaper <wschaper@arelabs.com>
-C c :  sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: ARE Labs Follow Up
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, December 16, 2025 12:06:19 PM
+T o : Weston Schaper <wschaper@arelabs.com>
+C c : sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t : Re: ARE Labs Follow Up
  
 Just make sure Sarah is included in the email if it deals with payments or anything.
 Thanks Weston!
@@ -54,14 +58,15 @@ You can also put my name.
 Let me know if you need anything else. I can send payment info. Just let me know who to
 send it to.
 Get Outlook for iOS
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, December 16, 2025 8:13:05 AM
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, December 16, 2025 8:13:05 AM
 3/7/26, 11:18 AM iCloud Mail
 https://www.icloud.com/mail/ 2/4
 
-T o :  Weston Schaper <wschaper@arelabs.com>
-C c :  sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: ARE Labs Follow Up
+## Section 3: Page 3
+T o : Weston Schaper <wschaper@arelabs.com>
+C c : sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t : Re: ARE Labs Follow Up
  
 Hey Weston,
 Just spoke to my team and they should be handling the payment today/tomorrow. If you
@@ -86,6 +91,7 @@ Best,
 3/7/26, 11:18 AM iCloud Mail
 https://www.icloud.com/mail/ 3/4
 
+## Section 4: Page 4
 Weston Schaper
 Vice President - R&D
 (main) 913-850-6630

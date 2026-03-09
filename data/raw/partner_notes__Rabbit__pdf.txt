@@ -1,0 +1,129 @@
+Source filename: Rabbit.pdf
+Source relative path: partner_notes/Rabbit.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:40.927141+00:00
+
+## Section 1: Page 1
+Wednesday, November 27, 2024
+Sign NDA Before FREE Strategy 
+Session...
+Scroll down to review and sign...
+Watch The Short Video Below To Learn What An NDA is and 
+Why You Should Sign One...
+What is an NDA?
+A legally enforceable contract creates a confidential relationship between a person who holds 
+some trade secret and a person to whom the secret will be disclosed.
+Why should I sign the NDA before speaking with you? 
+The NDA is optional, and you do not need to sign it if you don't want to, but we are providing it to 
+protect you. Once signed, you should feel comfortable sharing the details of your product idea or 
+invention during your FREE consultation.
+MUTUAL NON-DISCLOSURE AGREEMENT
+In consideration of the discussions and sharing of information between the parties and the premises, 
+conditions, covenants, and warranties herein contained, the parties agree as follows:
+1. Definitions For purposes of this Agreement, the following terms shall have the following meanings:
+ 
+(a) "Confidential Information" means all nonpublic, proprietary, or other confidential information, whether 
+in oral, written, or other forms, which either party to this agreement or either party’s representatives 
+disclose or provides to the other party by allowing access to confidential information, (including but not 
+limited to any business plans, executive summaries, capitalization tables, budgets, and unpublished 
+financial statements; costs, prices, marketing plans, and licenses; employee, customer, supplier, 
+shareholder, partner or investor lists; technology, know-how, business processes, trade secrets, and 
+business models; notes, sketches, flow charts, formulas, blueprints, and elements thereof; source code, 
+object code, graphical design, user interfaces, and other intellectual property).
+(b) "Disclosing Party" shall mean the party is disclosing its Confidential Information.
+(c) "Receiving Party" shall mean the party is receiving the Disclosing Party’s Confidential 
+Information.
+2. Applicability This Agreement shall apply to all Confidential Information disclosed by one party to the 
+other party.
+3. Non-Disclosure Obligation Each Receiving Party agrees:
+(a) to hold the Disclosing Party’s Confidential Information in strict confidence;
+(b) to exercise at least the same care in protecting the Disclosing Party's Confidential Information from 
+disclosure as the Receiving Party uses concerning its Confidential Information;
+(c) not to disclose the Disclosing Party’s Confidential Information to third parties; and
+(d) not to use the Disclosing Party’s Confidential Information for any purpose except as set forth herein.
+1
+Document ID: 243313926643053
+
+## Section 2: Page 2
+4. Disclosure to Employees Each party may disclose the other party's Confidential Information to its 
+responsible employees. Each party agrees to instruct all employees not to disclose such Confidential 
+Information to third parties, including consultants, without the prior written permission of the Disclosing 
+Party.
+5. Non-Confidential Information Confidential Information shall not include information that:
+(a) is now in the public domain or later, through no act or omission on the part of the Receiving Party, 
+enters the public domain;
+(b) is acquired by the Receiving Party before receiving such information from the Disclosing Party and 
+without restriction as to use or disclosure;
+(c) is hereafter rightfully furnished to the Receiving Party by a third party without restriction as to use or 
+disclosure;
+(d) is information that the Receiving Party can document was independently developed by the Receiving 
+Party without reference to or reliance upon the Disclosing Party’s Confidential Information;
+(e) is required to be disclosed according to law, provided the Receiving Party uses reasonable efforts to 
+give the Disclosing Party reasonable advance notice of such required disclosure;
+(f) is disclosed with the prior written consent of the Disclosing Party.
+6. No Raid Each party agrees not to encourage or solicit any Company employee to leave the Company’s 
+employees for any reason or interfere in any material manner with employment relationships at the time 
+existing between the Company and its current employees for two years after the date of signature of this 
+Agreement, or the termination of the contractual relationship between the parties, whichever is longer.
+7. Removal of Confidential Materials Each party agrees not to remove any materials or tangible items of 
+the other party's Confidential Information from the premises of the Disclosing Party without the Disclosing 
+Party's consent. Each party agrees to comply with any terms and conditions that the Disclosing Party 
+imposes upon the approved removal of such materials or items, including without limitation that the 
+removed materials or items must be returned by a certain date and that no copies of the removed 
+materials or items are to be made,
+8. Return of Confidential Information Upon the Disclosing Party's request, the Receiving Party will promptly 
+return all materials or tangible items containing the Disclosing Party's Confidential Information and all 
+copies thereof.
+9. No Grant of Rights Each party recognizes and agrees that nothing contained in this Agreement will be 
+construed as granting any rights to the Receiving Party, by license or otherwise, to use any of the 
+Disclosing Party's Confidential Information except as specified in this Agreement.
+10. Equitable and Legal Relief Each party acknowledges that all of the Disclosing Party's Confidential 
+Information is owned solely by the Disclosing Party (and/or its licensors) and that the unauthorized 
+disclosure or use of such Confidential Information would cause irreparable harm and significant injury, the 
+degree of which may be difficult to ascertain. Accordingly, each party agrees that the Disclosing Party 
+shall have the right to obtain an immediate injunction from any court of competent jurisdiction enjoining 
+breach of this Agreement and/or disclosure of the Confidential Information. Each party shall also have the 
+right to pursue any other rights or remedies available by law or equity for such a breach.
+11. Termination This Agreement shall remain in effect for five years from the date hereof.
+12. Integration This Agreement, subject to the terms and conditions imposed on the removal of 
+Confidential Information under paragraph 7, sets forth the entire agreement between the parties 
+concerning the subject matter hereof and may not be modified or amended except by written agreement 
+executed by the parties hereto.
+2
+Document ID: 243313926643053
+
+## Section 3: Page 3
+13. Severability If any provision of this Agreement is declared invalid, void, or unenforceable, the remaining 
+provisions of this Agreement shall continue in full force and effect.
+14. Governing Law This Agreement shall be governed by and subject to the laws of the State of California 
+applicable to agreements made and to be wholly performed therein, without reference to or application of 
+principles of choice of law.
+15. Waiver No waiver by either party, whether express or implied, of this Agreement, shall constitute a 
+continuing waiver of such provision or any other provision of this Agreement. No waiver by either party, 
+whether expressed or implied, of any breach or default by the other party shall constitute a waiver of any 
+other provision of this agreement.
+IN WITNESS WHEREOF, the parties have executed this Agreement through their duly authorized 
+representatives on the date set forth above.
+Product Info You Want To Keep Confidential
+Product Name DD
+Product Description
+Is there anyway you could sign my NDA as well? I would be happy to forward it.
+Disclosing Party
+Adam Tavin
+Managing Partner
+Rabbit Product Design
+2100 Geng Rd Suite 210
+Palo Alto, CA 94303
+Disclosing Party
+Name Jacob Bevier
+Address 105 PENDLETON TRL
+Tyrone, GA, 30290
+Date Wednesday, November 27, 2024
+3
+Document ID: 243313926643053
+
+## Section 4: Page 4
+Signature
+4
+Document ID: 243313926643053

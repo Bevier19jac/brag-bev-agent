@@ -1,0 +1,167 @@
+Source filename: DumpsterDiver_BatchCards.pdf
+Source relative path: rabbit_notes/DumpsterDiver_BatchCards.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:17:43.974441+00:00
+
+## Section 1: Page 1
+F1 — Baseline Foaming Cleanser — 1 L Batch Card
+Goal: Simple, clear, stable; good foam; VOC-free; BOV-ready. | Target pH: 5.8–6.0 | Viscosity: ≈250–400 cP
+Prep & Safety
+PPE (goggles, nitrile gloves, apron)
+Calibrate/verify pH meter; prep 10% citric solution
+Warm bath ready (70°C) for SCI dissolve / surfactant phase
+Ingredients (grams for 1 L)
+ Water (hold back ~50 g): q.s. (~980 g)
+ SCI: 40 g
+ CAPB: 60 g
+ Capryl Glucoside: 20 g
+ Polysorbate 20: 10 g
+ Vegetable Glycerin: 20 g
+ Sodium Phytate: 2 g
+ Peppermint EO: 3 g
+ Preservative: 10 g (Optiphen) / 8 g (Phenoxy)
+ Citric 10% soln: to pH
+Process
+1. Phase A: Water + glycerin at 70°C; slurry SCI and dissolve with low shear.
+2. Add CAPB, then Capryl Glucoside; mix gently to avoid aeration.
+3. Cool to <40°C. Add Polysorbate 20, chelator, then fragrance.
+4. Adjust pH to 5.8–6.0 with 10% citric acid solution.
+5. Add preservative; mix 5 min.
+6. De-gas (stand or gentle vacuum). Filter 100–200 µm before BOV fill.
+QC & Records
+Measure pH (target 5.8–6.0)
+Measure viscosity (Brookfield LV, spindle 2/3 @20 rpm)
+Foam test: cylinder 10 inversions (record 0/1/5 min)
+Grease-cut test: spray, 30s dwell, wipe rating
+De-gassed & filtered (100–200 µm)
+BOV fill sample labeled (code, date, batch#)
+Batch Code: __________________ Date: __________ Operator: __________
+Notes: _______________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+
+## Section 2: Page 2
+F2 — Boosted Cleaning (Hydrotrope + Co■solvent) — 1 L Batch Card
+Goal: Better grease/soil tolerance; remains BOV-sprayable. | Target pH: 5.8–6.0 | Viscosity: ≈250–450 cP
+Prep & Safety
+PPE (goggles, nitrile gloves, apron)
+Calibrate/verify pH meter; prep 10% citric solution
+Warm bath ready (70°C) for SCI dissolve / surfactant phase
+Ingredients (grams for 1 L)
+ Water q.s.: to 1000 g
+ SCI: 35 g
+ CAPB: 60 g
+ Capryl Glucoside: 20 g
+ SXS (40%): 20 g
+ DPG: 20 g
+ Sodium Gluconate: 3 g
+ Polysorbate 20: 10 g
+ Vegetable Glycerin: 20 g
+ Peppermint EO: 3 g
+ Preservative: 10 g (Optiphen) / 8 g (Phenoxy)
+ Citric 10% soln: to pH
+Process
+1. Phase A: Water + glycerin at 70°C; slurry SCI and dissolve with low shear.
+2. Add CAPB, then Capryl Glucoside; mix gently to avoid aeration.
+3. Cool to <40°C. Add Polysorbate 20, chelator, then fragrance.
+4. Add SXS (hydrotrope) and any co■solvents (e.g., DPG/Propylene Carbonate).
+5. Adjust pH to 5.8–6.0 with 10% citric acid solution.
+6. Add preservative; mix 5 min.
+7. De-gas (stand or gentle vacuum). Filter 100–200 µm before BOV fill.
+QC & Records
+Measure pH (target 5.8–6.0)
+Measure viscosity (Brookfield LV, spindle 2/3 @20 rpm)
+Foam test: cylinder 10 inversions (record 0/1/5 min)
+Grease-cut test: spray, 30s dwell, wipe rating
+De-gassed & filtered (100–200 µm)
+BOV fill sample labeled (code, date, batch#)
+Batch Code: __________________ Date: __________ Operator: __________
+Notes: _______________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+
+## Section 3: Page 3
+F3 — Heavy■Duty Anionic System — 1 L Batch Card
+Goal: Stronger cleaning; clearer rinse; anionic■forward. | Target pH: 5.8–6.0 | Viscosity: ≈300–600 cP
+Prep & Safety
+PPE (goggles, nitrile gloves, apron)
+Calibrate/verify pH meter; prep 10% citric solution
+Warm bath ready (70°C) for SCI dissolve / surfactant phase
+Ingredients (grams for 1 L)
+ Water q.s.: to 1000 g
+ AOS■40: 80 g
+ CAPB: 40 g
+ SCI: 20 g
+ Capryl Glucoside: 20 g
+ SXS (40%): 20 g
+ HEC: 2 g
+ Sodium Citrate: 2 g
+ Chelator: 2–3 g
+ Polysorbate 20: 8 g
+ Peppermint EO: 2.5–3 g
+ Preservative: 10 g (Optiphen) / 8 g (Phenoxy)
+ Citric 10% soln: to pH
+Process
+1. Disperse HEC at room temp; allow full hydration 15–30 min before heating.
+2. Phase A: Water + glycerin at 70°C; slurry SCI and dissolve with low shear.
+3. Add CAPB, then Capryl Glucoside; mix gently to avoid aeration.
+4. Cool to <40°C. Add Polysorbate 20, chelator, then fragrance.
+5. Add SXS (hydrotrope) and any co■solvents (e.g., DPG/Propylene Carbonate).
+6. Adjust pH to 5.8–6.0 with 10% citric acid solution.
+7. Add preservative; mix 5 min.
+8. De-gas (stand or gentle vacuum). Filter 100–200 µm before BOV fill.
+QC & Records
+Measure pH (target 5.8–6.0)
+Measure viscosity (Brookfield LV, spindle 2/3 @20 rpm)
+Foam test: cylinder 10 inversions (record 0/1/5 min)
+Grease-cut test: spray, 30s dwell, wipe rating
+De-gassed & filtered (100–200 µm)
+BOV fill sample labeled (code, date, batch#)
+Batch Code: __________________ Date: __________ Operator: __________
+Notes: _______________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+
+## Section 4: Page 4
+F4 — Advanced (Builders + Polymer Anti■redeposition) — 1 L Batch Card
+Goal: Highest performance; watch clarity/viscosity & filtration. | Target pH: 5.8–6.0 | Viscosity: ≈300–600 cP
+Prep & Safety
+PPE (goggles, nitrile gloves, apron)
+Calibrate/verify pH meter; prep 10% citric solution
+Warm bath ready (70°C) for SCI dissolve / surfactant phase
+Ingredients (grams for 1 L)
+ Water q.s.: to 1000 g
+ AOS■40: 70 g
+ CAPB: 50 g
+ Capryl Glucoside: 20 g
+ SCI: 20 g
+ SXS (40%): 20 g
+ Propylene Carbonate: 10 g
+ DPG: 15 g
+ Sodium Polyacrylate: 2 g
+ Chelator: 2–3 g
+ Polysorbate 20: 8 g
+ Peppermint EO: 2.5–3 g
+ Preservative: 10 g (Optiphen) / 8 g (Phenoxy)
+ Citric 10% soln: to pH
+Process
+1. Phase A: Water + glycerin at 70°C; slurry SCI and dissolve with low shear.
+2. Add CAPB, then Capryl Glucoside; mix gently to avoid aeration.
+3. Cool to <40°C. Add Polysorbate 20, chelator, then fragrance.
+4. Add SXS (hydrotrope) and any co■solvents (e.g., DPG/Propylene Carbonate).
+5. Add Sodium Polyacrylate below 35°C; allow full hydration before pH/preservative.
+6. Adjust pH to 5.8–6.0 with 10% citric acid solution.
+7. Add preservative; mix 5 min.
+8. De-gas (stand or gentle vacuum). Filter 100–200 µm before BOV fill.
+QC & Records
+Measure pH (target 5.8–6.0)
+Measure viscosity (Brookfield LV, spindle 2/3 @20 rpm)
+Foam test: cylinder 10 inversions (record 0/1/5 min)
+Grease-cut test: spray, 30s dwell, wipe rating
+De-gassed & filtered (100–200 µm)
+BOV fill sample labeled (code, date, batch#)
+Batch Code: __________________ Date: __________ Operator: __________
+Notes: _______________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________

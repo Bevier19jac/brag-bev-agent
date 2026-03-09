@@ -1,7 +1,10 @@
 Source filename: G6.pdf
 Source relative path: vendor_emails/G6.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:19.941134+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:13.238525+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Brag & Bev Inquiry
 Date: October 1, 2025 at 1:18:50 PM
@@ -28,6 +31,7 @@ AW
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 1/8
 
+## Section 2: Page 2
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Thursday, September 18, 2025 12:15 PM
 To: Andrew Wills <awills@sprayproducts.com>
@@ -57,7 +61,7 @@ AW
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 2/8
 
- 
+## Section 3: Page 3
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Thursday, September 18, 2025 11:59 AM
 To: Andrew Wills <awills@sprayproducts.com>
@@ -85,6 +89,7 @@ Andrew (Andy) Wills | SVP, Commercial
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 3/8
 
+## Section 4: Page 4
 Spray Products Corporation
 awills@sprayproducts.com | (m) 614-632-6676
 www.sprayproducts.com
@@ -108,7 +113,7 @@ Brag & Bev L.L.C
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 4/8
 
- 
+## Section 5: Page 5
 address
 105 Pendleton Trail
  
@@ -130,6 +135,7 @@ bevier19jac@icloud.com
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 5/8
 
+## Section 6: Page 6
 website
  
 source
@@ -156,6 +162,7 @@ comments
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 6/8
 
+## Section 7: Page 7
 Spray system must deliver ~45 inches vertical reach with consistent
 coverage.
 Nozzle should provide 360° dispersion at 45–60° angle.
@@ -181,8 +188,7 @@ Simply remove the form from your website or unsubscribe from this form's notific
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 7/8
 
- 
- 
+## Section 8: Page 8
 <Spray Products Mutual Form NDA (Brag&Bev) 9.18.25.docx>
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 8/8

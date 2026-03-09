@@ -1,7 +1,10 @@
 Source filename: C7.pdf
 Source relative path: vendor_emails/C7.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:17.691802+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:18:59.489235+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Fwd: Term Sheet re: Dumpster Diver
 Date: March 3, 2025 at 10:13:39 AM
@@ -25,13 +28,14 @@ an update when you can and protect yourself.
 Take care.
 CWB
 Get Outlook for iOS
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Monday, February 24, 2025 1:44:02 PM
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Monday, February 24, 2025 1:44:02 PM
 3/7/26, 11:00 AM iCloud Mail
 https://www.icloud.com/mail/ 1/6
 
-T o :  Chiquita Banks <chiquita@bankableconsultants.com>
-S u b j e c t :  Re: Term Sheet re: Dumpster Diver
+## Section 2: Page 2
+T o : Chiquita Banks <chiquita@bankableconsultants.com>
+S u b j e c t : Re: Term Sheet re: Dumpster Diver
  
 Okay thanks, 
 I’m supposed to talk to John on Wednesday because I don’t think they understand what I’m
@@ -60,14 +64,15 @@ chiquita@bankableconsultants.com
  
  
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, February 18, 2025 1:20 PM
-T o :  Chiquita Banks <chiquita@bankableconsultants.com>
-S u b j e c t :  Re: Term Sheet re: Dumpster Diver
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, February 18, 2025 1:20 PM
+T o : Chiquita Banks <chiquita@bankableconsultants.com>
+S u b j e c t : Re: Term Sheet re: Dumpster Diver
  
 3/7/26, 11:00 AM iCloud Mail
 https://www.icloud.com/mail/ 2/6
 
+## Section 3: Page 3
 Let me think about it for a little while, I have a lot going on and can't really focus on this right
 now.
  
@@ -92,10 +97,10 @@ CWB
  
 Get Outlook for iOS
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, February 18, 2025 9:46:33 AM
-T o :  Chiquita Banks <chiquita@bankableconsultants.com>
-S u b j e c t :  Fwd: Term Sheet re: Dumpster Diver
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, February 18, 2025 9:46:33 AM
+T o : Chiquita Banks <chiquita@bankableconsultants.com>
+S u b j e c t : Fwd: Term Sheet re: Dumpster Diver
  
  
 Sent from my iPhone
@@ -110,6 +115,7 @@ Subject: RE: Term Sheet re: Dumpster Diver
 3/7/26, 11:00 AM iCloud Mail
 https://www.icloud.com/mail/ 3/6
 
+## Section 4: Page 4
 Jacob,
  
 I have attached the term sheet that was sent to me yesterday. Unfortunately, it does
@@ -134,17 +140,17 @@ management services, but I have no experience in the disposal business.
  
 I also go into every partnership venture with up front provisions that allow the parties
 to part without conflict down the road. You can take me out of the deal at any time and
-so can I.  
+so can I. 
  
 My offer to you gives me control of the pieces I need to have in order to accept the
-risk.  If the proposal that Chiquita sent us yesterday is your counteroffer or the deal
+risk. If the proposal that Chiquita sent us yesterday is your counteroffer or the deal
 you are looking for, I must respectfully decline.
 3/7/26, 11:00 AM iCloud Mail
 https://www.icloud.com/mail/ 4/6
 
- 
+## Section 5: Page 5
 I reread my original proposal, and I didn’t see anything in it that I would want or agree
-to change.  
+to change. 
  
 You are likely able to find another source of venture capital as your invention is very
 attractive and interesting, but if you want us involved, we will have to circle back to the
@@ -174,6 +180,7 @@ call to discuss your thoughts or are comfortable with email if that’s your pre
 3/7/26, 11:00 AM iCloud Mail
 https://www.icloud.com/mail/ 5/6
 
+## Section 6: Page 6
 you want to chat, please share your availability of Wednesday and Thursday of this
 week. My admin will find a common time for us to hop on a call with Jacob.
  

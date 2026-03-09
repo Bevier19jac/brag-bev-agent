@@ -1,0 +1,30 @@
+Source filename: Rabbit_Receipt.pdf
+Source relative path: product_specs/Rabbit_Receipt.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:51.971476+00:00
+
+## Section 1: Page 1
+RECEIPT
+Rabbit Product Design
+650 3959988
+2100 Geng Rd Suite 210
+Palo Alto, CA 94303
+United States
+Rabbit Design DBA Rabbit Product Design)
+Billed to
+Jacob Bevier
+760 4903416
+bevier19jac@icloud.com
+105 PENDLETON TRL
+Tyrone, GA 30290
+United States
+Receipt No
+REC10012
+Date Paid
+December 1, 2024
+ITEM NAME PRICE QTY SUBTOTAL
+Product Evaluation - 1 Time Payment $1,997 $1,997.00 1 $1,997.00
+Subtotal $1,997.00
+Amount Paid USD $1,997.00
+Generated on December 1, 2024 238 pm PST

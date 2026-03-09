@@ -1,0 +1,49 @@
+Source filename: S7.pdf
+Source relative path: vendor_emails/S7.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:28.083981+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Team Introduction & Alignment on Next Steps
+Date: February 9, 2026 at 3:00:22 PM
+To: mike.johnston@rabbitpd.com, wschaper@arelabs.com, jjohnson@sprayproducts.com
+Cc: jbglm2@gmail.comjbglm2@gmail.com,
+sarahjbraganini@gmail.comsarahjbraganini@gmail.com,
+Abraganini@gmail.comAbraganini@gmail.com, candice aaroncandice.aaron@hotmail.com
+Hey Weston, Jim, Mike, and Brag & Bev Team!
+I wanted to take a moment to formally introduce everyone and align us on where we are and where
+we’re headed next.
+First, I think we’ve assembled a strong team here, it is very encouraging. I met with Mike
+Johnston today from Rabbit Product Development, who is stepping in on the mechanical
+engineering side. Mike is getting up to speed on the prior mechanical work, and I’ve shared the last
+two ARE Labs testing iterations and reports in a shared folder so he has full visibility as he reviews
+them.
+From a status and next-steps perspective:
+Jim is currently waiting on the additional (third) actuator to come in. Once available, he plans to
+send a small set of cans using this actuator to Weston/ARE Labs, ideally late this week or early
+next week.
+After Weston and Braedon complete this third testing iteration, my recommendation is that
+we schedule an all-hands-on-deck meeting with everyone on this thread.
+The goal of that meeting will be to review the results together and make a final determination
+on whether the can configuration is ready to move fully into mechanical housing design. As
+discussed in last Friday’s meeting with Jim and Weston, we were already very close to that
+conclusion—this final test is intended to confirm and close the loop.
+In parallel, Mike, if you could please reply to this thread with your preferred shipping address, that
+would be helpful. Jim from Spray Products can then send you a can, sooner then later—filled if
+possible so you have full weight and equipped with the conical actuator—so you have
+something representative of what we are likely to decide upon following final testing and can begin
+incorporating it accurately into the CAD.
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 1/2
+
+Appreciate everyone’s collaboration to date. We’re in a good position, and I’m looking forward to
+aligning on the final data and moving decisively into the next phase.
+Very respectfully,
+Jacob Bevier
+This reads clean, technical, and intentional—no ambiguity, no overcommitment.
+If you want:
+a shorter, more direct version, or
+Very respectfully, 
+Jacob Bevier
+7604903416
+3/7/26, 11:05 AM iCloud Mail
+https://www.icloud.com/mail/ 2/2

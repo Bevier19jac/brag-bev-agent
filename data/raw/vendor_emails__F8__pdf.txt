@@ -1,7 +1,10 @@
 Source filename: F8.pdf
 Source relative path: vendor_emails/F8.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:19.745875+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:12.108330+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Collaboration Inquiry – VOC-Compliant Aerosol Cleanser
 Date: September 16, 2025 at 3:33:04 PM
@@ -21,6 +24,6 @@ We have funding available, an NDA ready, and prototype test data to share. Would
 ~20-minute call to see if this aligns with your group’s expertise?
 Warm regards,
 Jacob Bevier
-📞  760-490-3416 | ✉  bevier19jac@icloud.com
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
 3/7/26, 11:39 AM iCloud Mail
 https://www.icloud.com/mail/ 1/1

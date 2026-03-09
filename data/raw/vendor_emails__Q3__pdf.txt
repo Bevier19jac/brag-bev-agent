@@ -1,7 +1,10 @@
 Source filename: Q3.pdf
 Source relative path: vendor_emails/Q3.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:22.344637+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:27.657340+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Cleansers Chemical ingredients | Next step
 Date: September 22, 2025 at 4:21:18 PM
@@ -24,27 +27,28 @@ Below are four different formulation recipes, I really want to start with pepper
 maggot, bug, spider deterrent. I will have to source these chemicals and mix myself at home and
 then pack them and send them to MB industries for him to send back after he fills them, and THEN
 we can get to the real testing.
-🧪  Formula 1 – Basic Peppermint Foaming Cleanser
+🧪 Formula 1 – Basic Peppermint Foaming Cleanser
 Goal: simplest, eco-friendly foamer.
 Ingredients Needed:
 Decyl Glucoside – 1 L (~$30–60)
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 1/4
 
+## Section 2: Page 2
 Cocamidopropyl Betaine – 500 mL (~$25–50)
 Peppermint Essential Oil – 2 oz (~$10–20)
 Polysorbate-20 (solubilizer) – 250 mL (~$10–20)
 Phenoxyethanol (or other preservative) – 50 g (~$20–40)
 Distilled Water – 1–2 L (<$10)
 Approx Cost: ~$120–180
-🧪  Formula 2 – Mid-Range (More Cleaning Power)
+🧪 Formula 2 – Mid-Range (More Cleaning Power)
 Goal: better grease cutting and stability.
 Ingredients Needed:
 Formula 1 items plus:
 Sodium Olefin Sulfonate (AOS) – 500 g (~$20–40)
 Sodium Citrate (builder) – 250 g (~$10–15)
 Approx Cost: ~$150–220
-🧪  Formula 3 – Mid-Advanced (Balanced Surfactant System)
+🧪 Formula 3 – Mid-Advanced (Balanced Surfactant System)
 Goal: blend of mild + strong surfactants, chelation, foaming stability.
 Ingredients Needed:
 Formula 2 items plus:
@@ -52,9 +56,10 @@ GLDA (chelating agent) – 250 g (~$20–40)
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 2/4
 
+## Section 3: Page 3
 Propylene Glycol (solvent, stabilizer) – 500 mL (~$15–25)
 Approx Cost: ~$180–250
-🧪  Formula 4 – Advanced Complex Cleanser
+🧪 Formula 4 – Advanced Complex Cleanser
 Goal: stable foaming, fragrance solubilized, antimicrobial preservative system.
 Ingredients Needed:
 Formula 3 items plus:
@@ -62,7 +67,7 @@ Caprylyl/Capryl Glucoside (secondary solubilizer) – 250 g (~$15–25)
 Ethylhexylglycerin (co-preservative) – 50 g (~$15–25)
 Sodium Bicarbonate (buffer/foam booster) – 500 g (~$10–15)
 Approx Cost: ~$200–300
-🛒  Core Equipment (one-time buy, works for all formulas)
+🛒 Core Equipment (one-time buy, works for all formulas)
 Graduated Cylinders / Glass Beakers – $20–40
 Precision Scale (0.01 g accuracy) – $25–50
 pH Meter – $30–80
@@ -72,6 +77,7 @@ One-time Cost: ~$150–250
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 3/4
 
+## Section 4: Page 4
 Very respectfully, 
 Jacob Bevier
 7604903416

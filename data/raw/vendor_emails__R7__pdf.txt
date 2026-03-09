@@ -1,7 +1,10 @@
 Source filename: R7.pdf
 Source relative path: vendor_emails/R7.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:22.400487+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:28.170113+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Quick Chat? VOC-Compliant Aerosol Cleanser Project
 Date: September 17, 2025 at 9:22:57 AM
@@ -29,14 +32,15 @@ Thanks,
 3/7/26, 11:38 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 You don't often get email from bevier19jac@icloud.com. Learn why this is important
 Richard
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, September 16, 2025 3:08 PM
-T o :  Dalby, Richard <rdalby@rx.umaryland.edu>
-C c :  sarahjbraganini@gmail.com
-S u b j e c t :  Quick Chat? VOC-Compliant Aerosol Cleanser Project
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, September 16, 2025 3:08 PM
+T o : Dalby, Richard <rdalby@rx.umaryland.edu>
+C c : sarahjbraganini@gmail.com
+S u b j e c t : Quick Chat? VOC-Compliant Aerosol Cleanser Project
  
 CAUTION: This message originated from a non-UMB email system. Hover over any links before clicking and use caution
 opening attachments.

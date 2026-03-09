@@ -1,7 +1,10 @@
 Source filename: S13.pdf
 Source relative path: vendor_emails/S13.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:23.535051+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:34.573611+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Todays 3pm EST Teams meeting
 Date: February 6, 2026 at 10:13:13 AM
@@ -32,6 +35,7 @@ hope to see you there!
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 1/4
 
+## Section 2: Page 2
 Very respectfully,
 Jacob Bevier
 ________________________________________________________________________________
@@ -55,6 +59,7 @@ aerosol perspective.
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 2/4
 
+## Section 3: Page 3
 We’re targeting Thursday, February 6 in the afternoon (Eastern Time). As a starting point,
 would either of the following work for you?
 3:00–3:45 PM ET
@@ -85,6 +90,7 @@ Jacob Bevier
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 3/4
 
+## Section 4: Page 4
 7604903416
 <11048 - ARELabs Report - Vertical Deposition Profile of Cleanser Spray v1.0.pdf><ARE
 Labs - 11048.10 - Brag & Bevier LLC Foaming Cleanser Spray Coverage Testing v1.0.pdf>

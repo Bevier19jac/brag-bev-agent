@@ -1,7 +1,10 @@
 Source filename: A2.pdf
 Source relative path: vendor_emails/A2.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:14.311634+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:18:42.010099+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: SitRep-Where are we at, what’s next, and where are we going
 Date: February 26, 2026 at 10:26:15 AM
@@ -34,6 +37,7 @@ mike.johnston@rabbitpd.com
 3/7/26, 10:41 AM iCloud Mail
 https://www.icloud.com/mail/ 1/6
 
+## Section 2: Page 2
 On Fri, Feb 20, 2026 at 1:41 PM Jacob Bevier <bevier19jac@icloud.com> wrote:
 Hey Weston,
 Just to make sure we’re all aligned — my understanding is that Jim was planning to send one
@@ -61,6 +65,7 @@ Best,
 3/7/26, 10:41 AM iCloud Mail
 https://www.icloud.com/mail/ 2/6
 
+## Section 3: Page 3
 Weston Schaper
 Vice President - R&D
 (main) 913-850-6630
@@ -71,10 +76,10 @@ Vice President - R&D
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, February 10, 2026 1:37 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  Re: ARE Labs - Note on current spray can
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, February 10, 2026 1:37 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : Re: ARE Labs - Note on current spray can
  
 Jim,
  
@@ -89,20 +94,20 @@ Weston
 3/7/26, 10:41 AM iCloud Mail
 https://www.icloud.com/mail/ 3/6
 
- 
+## Section 4: Page 4
 Get Outlook for iOS
-F r o m :  Jim Johnson <jjohnson@sprayproducts.com>
-S e n t :  Tuesday, February 10, 2026 12:12:47 PM
-T o :  Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Jim Johnson <jjohnson@sprayproducts.com>
+S e n t : Tuesday, February 10, 2026 12:12:47 PM
+T o : Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 What do you mean by lack of uniform coverage?    Does the spray pattern change
 throughout the dispensing?
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, February 10, 2026 12:59 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, February 10, 2026 12:59 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 Jim,
  
@@ -116,6 +121,7 @@ Vice President - R&D
 3/7/26, 10:41 AM iCloud Mail
 https://www.icloud.com/mail/ 4/6
 
+## Section 5: Page 5
 (main) 913-850-6630
 (direct) 913-850-6262
 (fax) 913-850-6635
@@ -124,10 +130,10 @@ https://www.icloud.com/mail/ 4/6
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Jim Johnson <jjohnson@sprayproducts.com>
-S e n t :  Monday, February 9, 2026 3:10 PM
-T o :  Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Jim Johnson <jjohnson@sprayproducts.com>
+S e n t : Monday, February 9, 2026 3:10 PM
+T o : Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 The current bug foggers are activated by a person.  FYI, Jim
  
@@ -135,14 +141,15 @@ https://www.youtube.com/watch?v=w_KbSi9ZOxo
  
  
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Monday, February 9, 2026 3:47 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  ARE Labs - Note on current spray can
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Monday, February 9, 2026 3:47 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : ARE Labs - Note on current spray can
  
 3/7/26, 10:41 AM iCloud Mail
 https://www.icloud.com/mail/ 5/6
 
+## Section 6: Page 6
 Hey guys,
  
 I hope you had a great weekend. I thought I would just mention one other thought our

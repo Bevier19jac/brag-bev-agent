@@ -1,7 +1,10 @@
 Source filename: M7.pdf
 Source relative path: vendor_emails/M7.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:21.951461+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:25.600789+00:00
+
+## Section 1: Page 1
 From: Mike Johnstonmike.johnston@rabbitpd.com
 Subject: Re: Todays 3pm EST Teams meeting
 Date: February 6, 2026 at 3:09:53 PM
@@ -34,6 +37,7 @@ To that end, I’d like to propose the following next steps:
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 1/8
 
+## Section 2: Page 2
 A near-term introductory call with Mike to review current status, mechanical objectives, and
 any open dependencies
 A rescheduled cross-functional working session including Rabbit, ARE Labs, and Spray
@@ -63,6 +67,7 @@ Asif
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 2/8
 
+## Section 3: Page 3
 On Fri, Feb 6, 2026 at 10:22 AM Jacob Bevier <bevier19jac@icloud.com> wrote:
 Hi Asif,
 Thank you for the update — this is the first time I’m learning that Joe retired.
@@ -95,6 +100,7 @@ well in advance — especially prior to coordinating a full stakeholder meeting.
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 3/8
 
+## Section 4: Page 4
 Please advise on ownership and next steps as soon as possible so we can determine
 how to proceed and avoid further delay.
 Very respectfully, 
@@ -123,6 +129,7 @@ Good morning Joe,
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 4/8
 
+## Section 5: Page 5
 I wanted to follow up directly to confirm whether you will be able to join today’s
 scheduled discussion at 3:00 PM ET.
 As a quick recap, this meeting brings together the chemist, aerosol filler, and ARE
@@ -152,6 +159,7 @@ Microsoft Teams meeting
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 5/8
 
+## Section 6: Page 6
 Join: https://teams.microsoft.com/meet/27488629437616?
 p=GjsWWoZV24qhQwVa29
 Meeting ID: 274 886 294 376 16
@@ -175,6 +183,7 @@ starting point, would either of the following work for you?
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 6/8
 
+## Section 7: Page 7
 If neither window works, feel free to suggest a nearby alternative that
 afternoon. Once we align on timing, I’ll send a calendar invite.
 Thanks, and I’m looking forward to connecting.
@@ -205,6 +214,7 @@ Jacob Bevier
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 7/8
 
+## Section 8: Page 8
 <11048 - ARELabs Report - Vertical Deposition Profile of Cleanser Spray
 v1.0.pdf><ARE Labs - 11048.10 - Brag & Bevier LLC Foaming Cleanser
 Spray Coverage Testing v1.0.pdf>

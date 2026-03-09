@@ -1,7 +1,10 @@
 Source filename: D33.pdf
 Source relative path: vendor_emails/D33.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:18.264651+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:02.941113+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Possible Collaboration — Spray Cleanser Prototype & VOC Compliance
 Date: September 16, 2025 at 3:27:30 PM
@@ -20,6 +23,6 @@ We have funding and can sign an NDA; I can share the prototype data in advance. 
 time for a call (≈20 min) to explore possibilities?
 Thank you,
 Jacob Bevier
-📞  760-490-3416 | bevier19jac@icloud.com
+📞 760-490-3416 | bevier19jac@icloud.com
 3/7/26, 11:40 AM iCloud Mail
 https://www.icloud.com/mail/ 1/1

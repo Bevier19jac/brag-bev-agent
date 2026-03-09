@@ -1,7 +1,10 @@
 Source filename: I8.pdf
 Source relative path: vendor_emails/I8.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:20.308962+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:16.263649+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: ARE Labs - Inquiry
 Date: September 18, 2025 at 7:28:44 AM
@@ -27,6 +30,7 @@ Jacob,
 3/7/26, 11:33 AM iCloud Mail
 https://www.icloud.com/mail/ 1/4
 
+## Section 2: Page 2
 Thanks for reaching out and sharing that information. We'd love to talk with you and see how
 we could help. Do you have anytime early next week? We could also do Friday in the AM. We
 can set up a Teams meeting.
@@ -37,10 +41,10 @@ Vice President - R&D
 (direct) 913-850-6262
 (fax) 913-850-6635
 Get Outlook for iOS
-F r o m :  HubSpot Forms <noreply@notifications.hubspot.com>
-S e n t :  Tuesday, September 16, 2025 1:20 PM
-T o :  Weston Schaper <wschaper@arelabs.com>
-S u b j e c t :  New submission on HubSpot Form "Contact Us Form"
+F r o m : HubSpot Forms <noreply@notifications.hubspot.com>
+S e n t : Tuesday, September 16, 2025 1:20 PM
+T o : Weston Schaper <wschaper@arelabs.com>
+S u b j e c t : New submission on HubSpot Form "Contact Us Form"
  
 New submission on HubSpot Form "Contact
 Us Form"
@@ -51,6 +55,7 @@ Jacob
 3/7/26, 11:33 AM iCloud Mail
 https://www.icloud.com/mail/ 2/4
 
+## Section 3: Page 3
 Last name:
 Bevier
 Email:
@@ -83,14 +88,15 @@ results and constraints.
 3/7/26, 11:33 AM iCloud Mail
 https://www.icloud.com/mail/ 3/4
 
+## Section 4: Page 4
 View in HubSpot
 CONTACT
 Jacob Bevier
 This email was sent to wschaper@arelabs.com because the notification Form
 submission is turned on in the account arelabs.com (Hub ID: 46666567)
  
-Do you want to stop receiving these emails?  
-Turn off Form submission email notifications.  
+Do you want to stop receiving these emails? 
+Turn off Form submission email notifications. 
 HubSpot, Inc.
 2 Canal Park
 Cambridge, MA 02141

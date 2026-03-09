@@ -1,7 +1,10 @@
 Source filename: D1.pdf
 Source relative path: vendor_emails/D1.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:18.036535+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:01.442624+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: GT referral from Prof. Ng — aerosol spray characterization & VOC-compliant formulation
 Date: December 8, 2025 at 3:32:27 PM
@@ -31,12 +34,13 @@ appreciate the introductions. I’m eager to speak with the right group about th
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 1/8
 
+## Section 2: Page 2
 formulation and measurement work we discussed.
 Thank you again for your time. Talk soon.
 Very respectfully,
 Jacob Bevier
 Co-Founder, Brag & Bev LLC
-📞  760-490-3416 | ✉  bevier19jac@icloud.com
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
 Very respectfully, 
 Jacob Bevier
 7604903416
@@ -57,6 +61,7 @@ formulation
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 2/8
 
+## Section 3: Page 3
 Dear Prof. Weber,
 Thank you for your thoughtful response and for outlining the considerations on droplet size,
 solvents, and deposition methods — I’m learning a great deal as I go. To be candid, I am a
@@ -91,7 +96,7 @@ Co-Founder, Brag & Bev LLC
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 3/8
 
- 
+## Section 4: Page 4
 On Sep 16, 2025, at 5:46 PM, "Weber, Rodney J" <rweber@eas.gatech.edu> wrote:
  
  
@@ -123,6 +128,7 @@ applications.
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 4/8
 
+## Section 5: Page 5
 rw
  
 From: Jacob Bevier <bevier19jac@icloud.com>
@@ -138,7 +144,7 @@ Yes, we’re interested in both the particle/droplet size distribution (PSD/SMD)
 applied measurements of spray behavior in a controlled space: coverage
 uniformity on a surface, pooling, and vertical reach. We see these as
 complementary: PSD tells us what the spray i s , while the chamber/surface tests tell
-us how it b e h a v e s  as a cleanser.
+us how it b e h a v e s as a cleanser.
 We do not yet know the exact droplet size; quantifying that (and linking it to
 formulation and hardware choices) is a big part of why we’re seeking expert
 support.
@@ -155,6 +161,7 @@ guidance/iteration under VOC constraints, or (C) a joint effort across both, tha
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 5/8
 
+## Section 6: Page 6
 be ideal. If not, any referral within GT (or nearby collaborators) who focuses on applied
 aerosol formulation would be greatly appreciated.
 Very respectfully,
@@ -183,6 +190,7 @@ rw
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 6/8
 
+## Section 7: Page 7
 From: Jacob Bevier <bevier19jac@icloud.com>
 Date: Tuesday, September 16, 2025 at 1:13 PM
 To: Weber, Rodney J <rweber@eas.gatech.edu>
@@ -212,7 +220,6 @@ Co-Founder, Brag & Bev LLC
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 7/8
 
- 
- 
+## Section 8: Page 8
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 8/8

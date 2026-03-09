@@ -1,7 +1,10 @@
 Source filename: B11.pdf
 Source relative path: vendor_emails/B11.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:16.874914+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:18:56.438607+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Status Update | New Ideas
 Date: October 7, 2025 at 3:43:13 PM
@@ -35,6 +38,7 @@ minimum viable product.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 1/53
 
+## Section 2: Page 2
 Once we have that information, I’ll reach back out so we can schedule a meet-and-greet and coordinate
 next steps. At that point, we’ll be ready to send you sample cans or dimensional data so your team can
 start the mechanical concepts for the enclosure and timer functionality.
@@ -69,7 +73,7 @@ Jacob,
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 2/53
 
- 
+## Section 3: Page 3
 I read the email and walked through the PowerPoint. How’s about we do a Teams call and you take me
 through the slides with screen sharing.
  
@@ -102,7 +106,7 @@ and after pictures with no paper lining which actually depicts the coverage even
 a can of ULINE's foaming glass cleaner and turned it sideways and that foaming cleanser also
 definitely reached the top, I have a video and pics.
 If possible I would like everybody at their conveinence to check out the PPT and let me know your
-thoughts and  if you have any ideas of a way forward or next steps. 
+thoughts and if you have any ideas of a way forward or next steps. 
  
 Look forward to everyones feedback. Have a great day!
  
@@ -112,24 +116,23 @@ On Sep 3, 2025, at 10:06 AM, Brent Leslie <BrentL@aripackaging.com> wrote:
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 3/53
 
- 
- 
-The problem is that you have 2 diametrically opposed paths here.  However you have given yourself a
+## Section 4: Page 4
+The problem is that you have 2 diametrically opposed paths here. However you have given yourself a
 path forward with a “maintenance product”
  
-I have prepared 6 cans of our standard odor remover spray.  These are packaged in a 45 x 115
-aluminum tube.  That is a requirement for this type of formula it can NOT go in a steel can.  The
-formula is a water alcohol mix with fragrance mixed with odor neutralizing additive.    This is a 3 oz fill
-product.  You would have to market it as a confined space air freshener.  The VOC laws require this to
+I have prepared 6 cans of our standard odor remover spray. These are packaged in a 45 x 115
+aluminum tube. That is a requirement for this type of formula it can NOT go in a steel can. The
+formula is a water alcohol mix with fragrance mixed with odor neutralizing additive. This is a 3 oz fill
+product. You would have to market it as a confined space air freshener. The VOC laws require this to
 make it 50 state compatible. 
  
-You can not call this a cleaner the VOC level is too high 25% vs 10%.  You can not make a fogger that
-sprays with high micronization without the alcohol.  You can not make any claim about killing any
-microbes.  Otherwise it would be classed as an EPA product. 
+You can not call this a cleaner the VOC level is too high 25% vs 10%. You can not make a fogger that
+sprays with high micronization without the alcohol. You can not make any claim about killing any
+microbes. Otherwise it would be classed as an EPA product. 
  
-I put a lemon fragrance in these samples but any fragrance you want can be added.  However since I
-require compatible fragrances for the formula I chose the lemon considering you end use.  I need your
-address again where you want these shipped.  When I get the valves I will make the cleaning product. 
+I put a lemon fragrance in these samples but any fragrance you want can be added. However since I
+require compatible fragrances for the formula I chose the lemon considering you end use. I need your
+address again where you want these shipped. When I get the valves I will make the cleaning product. 
  
 Brent
  
@@ -153,6 +156,7 @@ I originally envisioned (see attached pictures). Despite its size, it delivers s
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 4/53
 
+## Section 5: Page 5
 above 5 feet and does so in a consistent, effective plume. Small, lightweight, and I would think
 easier to house — it checks every box for what I have been aiming for.
 Where we ran into issues before to obtain the minimum required 45 inches of vertical spray
@@ -190,12 +194,11 @@ Brag & Bev LLC
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 5/53
 
- 
- 
+## Section 6: Page 6
 On Aug 29, 2025, at 10:34 AM, Brent Leslie <BrentL@aripackaging.com> wrote:
  
  
-The current gasket for that formula is Viton.  Since this is preliminary I would say lets try the butyl if
+The current gasket for that formula is Viton. Since this is preliminary I would say lets try the butyl if
 that means we can get them quicker. 
  
 From: Codie Sanders <codie.sanders@precisionglobal.com>
@@ -210,14 +213,14 @@ Subject: RE: 18 August, Request for Update | Actions Needed
  
  
 Hello,
-                I didn’t know that these samples didn’t get shipped. @Brent Leslie does the stem gasket
+ I didn’t know that these samples didn’t get shipped. @Brent Leslie does the stem gasket
 have to be viton? Or can it be Butyl? Reason being is the stem and gasket combination is not
 recommended.
  
  
-Codie Sanders | Lab Tech  
+Codie Sanders | Lab Tech 
 Precision Valve North America
-Office: (864) 835-1015   Cell: (864) 816-4151
+Office: (864) 835-1015 Cell: (864) 816-4151
 5711 Old Buncombe Road | Greenville |SC 29609 | USA
 <image001.png>
  
@@ -231,6 +234,7 @@ Sent: Friday, August 29, 2025 10:16 AM
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 6/53
 
+## Section 7: Page 7
 To: Brent Leslie <BrentL@aripackaging.com>; Joe Mcardle <joe.mcardle@rabbitpd.com>; Codie Sanders
 <codie.sanders@precisionglobal.com>
 Cc: Richard Dixon <RDixon@aripackaging.com>; Tracy Ware-Justice <tracy.ware-
@@ -267,6 +271,7 @@ to feel like I’m being left hanging after putting real resources behind this.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 7/53
 
+## Section 8: Page 8
 So, will all due respect, I need clarity for the mechanical engineers and my
 partners/stakeholders (one of whom is my wife so the pressure is on):
 Are the cans actually coming, or has a decision been made that ARI/Precision can’t
@@ -304,6 +309,7 @@ canisters. While I do have full 3D printing capabilities and the ability to desi
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 8/53
 
+## Section 9: Page 9
 for custom nozzle configurations later, we’re holding off on that until we gather results
 and get a clearer idea of what needs to be improved. We need something tangible,
 maybe not 100% but something to build off.
@@ -341,6 +347,7 @@ Very respectfully,
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 9/53
 
+## Section 10: Page 10
 Jacob Bevier
 760 490-3416
 Brag & Bev LLC
@@ -378,13 +385,14 @@ makes sense from both a fill and functionality standpoint.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 10/53
 
+## Section 11: Page 11
 Best regards,
 Jacob Bevier
  
 On Aug 5, 2025, at 9:38 AM, Brent Leslie <BrentL@aripackaging.com> wrote:
  
  
-There is the possibility to use a metered air freshener can.  It is wider than the next
+There is the possibility to use a metered air freshener can. It is wider than the next
 standard with down of a 202 but shorter than the 604. 
  
 https://www.amazon.com/1042781EA-Metered-Fragrance-Dispenser-
@@ -417,6 +425,7 @@ fogger-style actuator with a large orifice and Viton gaskets sounds like the rig
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 11/53
 
+## Section 12: Page 12
 move, especially if we’re looking to reduce mechanical resistance and maximize
 dispersion. Appreciate you pushing that forward with Codie.
 One thought I’d like to explore: do we need a can as large as the 211 x 604? If we
@@ -435,7 +444,7 @@ wrote:
  
  
 Hi Jacob, 
-Thanks for this conceptual run.  From looking at the diagrams, it is not
+Thanks for this conceptual run. From looking at the diagrams, it is not
 evident how a downward force is generated to trigger the valve. Please
 clarify if I am missing something.
 See the attached schematic. I would suggest integrating the trigger to be
@@ -455,8 +464,7 @@ Rabbit Product Design
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 12/53
 
- 
- 
+## Section 13: Page 13
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Monday, August 4, 2025 6:55 AM
 To: Joe Mcardle <joe.mcardle@rabbitpd.com>
@@ -492,6 +500,7 @@ has shown up yet. Are they still on the way?
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 13/53
 
+## Section 14: Page 14
 Looking forward to hearing your thoughts and collaborating on which
 version makes the most sense to move forward with.
  
@@ -506,7 +515,7 @@ On Jul 17, 2025, at 1:37 PM, Joe Mcardle
 Hi All,
 Attached is a revised draft of the aerosol layout based on discussions
 with Brent. 
-Brent...  some details may need correction. Looking forward to your
+Brent... some details may need correction. Looking forward to your
 summary of the issues brought up regarding aerosol constraints.
  
 Best,
@@ -530,7 +539,7 @@ Perfect! Sounds good Joe, see everryone tomorrow.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 14/53
 
- 
+## Section 15: Page 15
 Very respectfully,
  
 Jacob Bevier
@@ -570,12 +579,13 @@ Subject: RE: DD product feasibility discussion
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 15/53
 
+## Section 16: Page 16
 Sounds good top me! Please send the invite!
  
  
-Codie Sanders | Lab Tech  
+Codie Sanders | Lab Tech 
 Precision Valve North America
-Office: (864) 835-1015   Cell: (864) 816-4151
+Office: (864) 835-1015 Cell: (864) 816-4151
 5711 Old Buncombe Road | Greenville |SC 29609 | USA
 <image003.png>
  
@@ -597,6 +607,7 @@ If we could do Thursday that would be best for me…
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 16/53
 
+## Section 17: Page 17
 Very respectfully,
  
 Jacob
@@ -622,12 +633,7 @@ ph: 408-634-0194
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 17/53
 
- 
- 
- 
- 
- 
- 
+## Section 18: Page 18
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Tuesday, July 15, 2025 1:55 PM
 To: Joe Mcardle <joe.mcardle@rabbitpd.com>
@@ -654,6 +660,7 @@ concerns. If you want to arrange a time with your team to
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 18/53
 
+## Section 19: Page 19
 meet this week, I am typically more flexible later in the day
 (after 4pm Eastern). Let me know if you need to meet
 earlier in the day.
@@ -687,6 +694,7 @@ dissipate/evaporate over time?  Perhaps there is another
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 19/53
 
+## Section 20: Page 20
 can talk to Brent regarding his thoughts from the aerosol
 side.
  
@@ -720,6 +728,7 @@ or makes removal easier, as you mentioned.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 20/53
 
+## Section 21: Page 21
 Brent, I’d love to hear your thoughts on possible directions
 for the cleaning formulation that can work within the
 aerosol constraints Joe is building around. We’re aiming for
@@ -752,6 +761,7 @@ function.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 21/53
 
+## Section 22: Page 22
 Best,
 Joe McArdle
 Rabbit Product Design
@@ -783,6 +793,7 @@ as we continue development.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 22/53
 
+## Section 23: Page 23
 Also looping in Sarah Braganini, one of my business
 partners and a key part of the team. Sarah and I are
 the boots on the ground for this project, actively
@@ -812,6 +823,7 @@ Sent: Friday, July 11, 2025 4:17 PM
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 23/53
 
+## Section 24: Page 24
 To: Richard Dixon <RDixon@aripackaging.com>
 Cc: Sarah Braganini <sarahjbraganini@gmail.com>; Joe
 Mcardle <joe.mcardle@rabbitpd.com>
@@ -842,6 +854,7 @@ Mcardle <joe.mcardle@rabbitpd.com>
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 24/53
 
+## Section 25: Page 25
 Subject: Qucik intro for Joe Mcardle (Rabbit design) and
 Richard Nixon & Chemist (ARI Packaging)
  
@@ -874,8 +887,7 @@ On Jul 11, 2025, at 3:03 PM, Joe Mcardle
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 25/53
 
- 
- 
+## Section 26: Page 26
 Hi Jacob,
 Sorry for any delays as we are in a bit of a
 backlog. I plan to first reach out individually
@@ -906,13 +918,7 @@ Rabbit Product Design
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 26/53
 
- 
- 
- 
- 
- 
- 
- 
+## Section 27: Page 27
 From: Jacob Bevier
 <bevier19jac@icloud.com>
 Sent: Friday, July 11, 2025 9:48 AM
@@ -941,6 +947,7 @@ yet? I imagine getting their input will be key
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 27/53
 
+## Section 28: Page 28
 to pulling all the pieces together. For the
 "Engineering Kickoff" Meeting I would really
 want all pieces of the puzzle present,
@@ -972,6 +979,7 @@ wrote:
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 28/53
 
+## Section 29: Page 29
 Thanks Jacob... we have had issues
 on other programs with emails
 going to spam.
@@ -1002,7 +1010,7 @@ Rabbit Product Design
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 29/53
 
- 
+## Section 30: Page 30
 From: Jacob Bevier
 <bevier19jac@icloud.com>
 Sent: Monday, June 30, 2025 3:39 PM
@@ -1033,6 +1041,7 @@ we were going to start with. As
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 30/53
 
+## Section 31: Page 31
 far as specs I would think ARI
 and PV would give you the best
 specs, otherwise is you were to
@@ -1065,17 +1074,7 @@ Rabbit Product Design
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 31/53
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## Section 32: Page 32
 From: Joe Mcardle
 <joe.mcardle@rabbitpd.com>
 Sent: Friday, June 27, 2025 3:05
@@ -1095,6 +1094,7 @@ Best
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 32/53
 
+## Section 33: Page 33
 Joe McArdle
 Rabbit Product Design
  
@@ -1125,6 +1125,7 @@ discussed starting with the
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 33/53
 
+## Section 34: Page 34
 smaller residential size,
 correct?
  
@@ -1156,6 +1157,7 @@ Cc: 'Sarah Braganini'
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 34/53
 
+## Section 35: Page 35
 jbglm2@gmail.com <jbglm2@gm
 ail.com>
 Subject: Re: DD Phase 2
@@ -1185,15 +1187,7 @@ Rabbit Product Design
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 35/53
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## Section 36: Page 36
 From: Jacob Bevier
 <bevier19jac@icloud.com>
 Sent: Wednesday, June 18, 2025
@@ -1218,7 +1212,7 @@ again, hope things are well.
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 36/53
 
- 
+## Section 37: Page 37
 Send me the invite and I will
 be there. I am free after
 4pm EST for the rest of the
@@ -1250,6 +1244,7 @@ currently so it may
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 37/53
 
+## Section 38: Page 38
 be 1-2 weeks before
 we can get started.
 I do want to set up
@@ -1286,6 +1281,7 @@ Sent: Saturday,
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 38/53
 
+## Section 39: Page 39
 December 14, 2024
 5:56 AM
 To: Joe Mcardle
@@ -1326,6 +1322,7 @@ Mcardle
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 39/53
 
+## Section 40: Page 40
 <joe.mcardle@r
 abbitpd.com>
 wrote:
@@ -1367,6 +1364,7 @@ architecture
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 40/53
 
+## Section 41: Page 41
 layout for use
 with chemical
 component
@@ -1408,6 +1406,7 @@ will get a quote
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 41/53
 
+## Section 42: Page 42
 within a few
 days.
  
@@ -1443,6 +1442,7 @@ ail.com <Abraganini
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 42/53
 
+## Section 43: Page 43
 Subject: Re: DD
 product Evaluation
  
@@ -1484,6 +1484,7 @@ Thursday
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 43/53
 
+## Section 44: Page 44
 the meeting
 link below
 also.
@@ -1523,15 +1524,7 @@ Design
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 44/53
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## Section 45: Page 45
 From: Jacob
 Bevier
 <bevier19jac@
@@ -1560,6 +1553,7 @@ g with
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 45/53
 
+## Section 46: Page 46
 Apollo,
 we’re both
 available on
@@ -1601,6 +1595,7 @@ at 8:58
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 46/53
 
+## Section 47: Page 47
 PM,
 Jacob
 Bevier
@@ -1641,6 +1636,7 @@ schedule
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 47/53
 
+## Section 48: Page 48
 . Let me
 coordina
 te with
@@ -1681,6 +1677,7 @@ Joe
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 48/53
 
+## Section 49: Page 49
 Mca
 rdle
 <joe
@@ -1721,6 +1718,7 @@ ed
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 49/53
 
+## Section 50: Page 50
 in to
 start
 soo
@@ -1762,6 +1760,7 @@ a
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 50/53
 
+## Section 51: Page 51
 zoo
 m
 call
@@ -1803,6 +1802,7 @@ McA
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 51/53
 
+## Section 52: Page 52
 rdle
 Lead
 Mec
@@ -1840,8 +1840,7 @@ DD.pdf>
 3/7/26, 11:26 AM iCloud Mail
 https://www.icloud.com/mail/ 52/53
 
- 
- 
+## Section 53: Page 53
 <Aerosol requirements and constraints_DD_7-14-
 25.pdf>
  

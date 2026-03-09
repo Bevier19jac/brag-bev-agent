@@ -1,0 +1,137 @@
+Source filename: Trimech NDA Template Rev 2.0 2024.pdf
+Source relative path: partner_notes/Trimech NDA Template Rev 2.0 2024.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:42.545521+00:00
+
+## Section 1: Page 1
+Mutual Confidentiality Agreement -- Page 1 
+Rev 2.0 2024 
+ 
+ 
+ 
+ 
+ 
+NON-DISCLOSURE AGREEMENT 
+This Agreement, dated as of the last date set forth below, is made by and entered into by and between 
+TriMech Solutions, LLC, a Delaware limited liability company, and its subsidiaries, with its principal office 
+at 4991 Lake Brook Drive, Suite 300, Glen Allen, VA, 23060 and Brag & Bev L.L.C , 
+located at 105 Pendleton Trail, Tyrone, GA 30290 . The parties hereby agree as 
+follows: 
+ 
+A. DEFINITIONS 
+ 
+1. "Confidential Information" means any information of the Disclosing Party, whether of a 
+technical, business or other nature (including, without limitation, information relating to the Disclosing 
+Party's technology, software, products, services, designs, methodologies, business plans, finances, 
+marketing plans, customers, prospects, or other business affairs), that is disclosed by the Disclosing Party 
+(in writing, verbally or otherwise) to the Receiving Party during the Term. 
+Confidential Information does not include any information that: (a) was acquired by the Receiving Party 
+prior to the beginning of the Term without any restriction as to use or disclosure; (b) is independently 
+acquired by the Receiving Party after the beginning of the Term without any restriction as to use or 
+disclosure and without any reliance upon or use of any of the Disclosing Party's Confidential Information; 
+or (c) is or becomes part of the public domain through no fault of the Receiving Party. 
+2. "Confidential Materials” means any document, CD, DVD, external mass storage device, tape, 
+writing, copy of computer screen, or other tangible item that contains any Confidential Information, whether 
+in printed, handwritten, coded, magnetic, or other form and whether delivered by the Disclosing Party or 
+made by the Receiving Party. Confidential Materials include intellectual property. 
+ 
+3. "Disclosing Party" means a party that discloses any of its Confidential Information to the other 
+party under this Agreement. 
+ 
+4. "Receiving Party" means a party that receives any Confidential Information from the other 
+party under this Agreement. 
+5. "Term" means three (3) years from the date of final signature on this Agreement. 
+ 
+B. OBLIGATIONS 
+ 
+1. Subject to the terms of this Agreement, the Receiving Party shall not, without the prior written 
+consent of the Disclosing Party, disclose the Confidential Information to any third party. If the Receiving 
+Party obtains the prior written consent of the Disclosing Party and thereafter discloses Confidential 
+Information or Confidential Materials to a third-party contractor, the Receiving Party shall ensure that the 
+contractor shall be bound by the same requirements agreed to in this Non-Disclosure Agreement. The 
+Receiving Party shall be liable for any breach of this Agreement by such contractor. Without limitation 
+of the foregoing, the Receiving Party agrees not to use any Confidential Information or Confidential 
+Materials of the Disclosing Party except as specifically required to explore business opportunities 
+whereby one of the parties to this Agreement may supply the other party with products or services 
+(“Purpose”).
+
+## Section 2: Page 2
+Mutual Confidentiality Agreement -- Page 2 
+Rev 2.0 2024 
+ 
+ 
+2. The Receiving Party will protect any Confidential Information and Confidential Materials of 
+the Disclosing Party from any unauthorized use, disclosure, copying, dissemination, or distribution. 
+Without limitation of the foregoing, the Receiving Party will: (a) make such Confidential Information and 
+Confidential Materials available only to those of its employees, agents, and other representatives who have 
+a need to know for the Purpose specified in Section B.1. above, and who have agreed or are otherwise 
+obligated to comply with this agreement; it being understood that the Receiving Party shall be liable for any 
+breach of this Agreement by its employees, agents and representatives; (b) not disclose or make available 
+such Confidential Information or Confidential Materials to any unauthorized third party; (c) not reverse 
+engineer, decompile, or disassemble any Confidential Information and Confidential Materials; and (d) 
+protect the confidentiality of the Confidential Information with at least the same degree of care with which 
+it protects its own confidential information, by means of technological and procedural safeguards that are 
+suitable to the nature and sensitivity of the information and that meet or exceed industry standards. 
+ 
+3. Notwithstanding the preceding paragraph, the Receiving Party may disclose or produce any 
+Confidential Information or Confidential Materials of the Disclosing Party if and to the extent required by 
+any court order or governmental action, provided that the Receiving Party gives reasonable advance notice 
+of the same to the Disclosing Party as to afford the Disclosing Party a reasonable opportunity to appear, 
+object, and obtain a protective order or other appropriate relief regarding such disclosure. 
+4. All Confidential Information and Confidential Materials remain the property of the Disclosing 
+Party. This Agreement may not be interpreted or construed as granting any license or other right under any 
+patent, copyright, trademark, trade secret, or other proprietary right.
+ T h e D i s c l o s i n g P a r t y 
+m a k e s n o r e p r e s e n t a t i o n o r w a r r a n t y r e g a r d i n g t h e a c c u r a c y o r 
+c o m p l e t e n e s s o f t h e C o n f i d e n t i a l I n f o r m a t i o n . The Receiving Party will promptly 
+destroy or return Confidential Information and Confidential Materials to the Disclosing Party upon request 
+or when they are no longer needed for the Purpose described in Section B.1, whichever occurs earlier. 
+ 
+ 
+ 
+C. MISCELLANEOUS 
+ 
+1. The parties' respective obligations under this Agreement with respect to Confidential 
+Information and Confidential Materials that are disclosed during the Term will survive any termination or 
+expiration of this Agreement. 
+2. In the event of any breach of this Agreement, the Disclosing Party may suffer irreparable harm 
+and have no adequate remedy at law. In such event, or the threat of any such event, the Disclosing Party 
+will be entitled, in addition to any and all other remedies, to injunctive relief, specific performance, and 
+other equitable remedies without proof of monetary damages or the inadequacy of other remedies. 
+ 
+3. This Agreement will be interpreted and enforced in accordance with the laws of the 
+Commonwealth of Virginia. Each party hereby consents to the jurisdiction and venue of any state or federal 
+court located in Virginia, with regard to any legal action relating to this Agreement. 
+ 
+4. This Agreement contains the entire agreement and understanding of the parties relating to the 
+subject matter hereof, and supersedes any and all prior discussions, understandings, and agreements 
+between the parties. No amendment or modification of any provision of this Agreement shall be effective 
+unless in writing and signed by authorized representatives of each party.
+
+## Section 3: Page 3
+Mutual Confidentiality Agreement -- Page 3 
+Rev 2.0 2024 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties have, by their authorized representatives, executed this Agreement 
+as of the date set forth below. 
+ 
+ 
+ 
+ 
+TriMech Solutions, LLC 
+Company 
+ 
+ 
+Signature 
+ Jacob Bevier 
+Printed Name Printed Name 
+CEO 
+Title Title 
+24 January 2025 
+Date Date 
+Company 
+Signature

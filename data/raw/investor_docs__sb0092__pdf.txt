@@ -1,0 +1,74 @@
+Source filename: sb0092.pdf
+Source relative path: investor_docs/sb0092.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:37.472756+00:00
+
+## Section 1: Page 1
+PTO/SB/92 (11-23) 
+Approved for use through 11/30/2027. OMB 0651-0031 
+U.S. Patent and Trademark Office; U.S. DEPARTMENT OF COMMERCE 
+Under the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid OMB control number. 
+Certificate of Mailing or Transmission under 37 CFR 1.8 
+I hereby certify that this correspondence is being: 
+1. Deposited with the United States Postal Service with sufficient postage as first class mail in an envelope addressed to:
+ Commissioner for Patents 
+ P.O. Box 1450 
+ Alexandria, VA 22313-1450 
+ on ____________________ , 
+ Date 
+2. Facsimile transmitted to the United States Patent and Trademark Office, or
+OR 
+3. Transmitted by the USPTO patent electronic filing system.
+__________________________________________________________ 
+ __________________________________ 
+ Signature Date 
+__________________________________________________________ __________________________________ 
+ Typed or printed name Telephone number 
+Note: Each paper must have its own certificate of mailing or transmission, or this certificate must identify each submitted paper: 
+_______________________________________________________________________________________________ 
+_______________________________________________________________________________________________ 
+_______________________________________________________________________________________________ 
+_______________________________________________________________________________________________ 
+A Federal agency may not conduct or sponsor, and a person is not required to respond to, nor shall a person be subject to a penalty for failure to comply 
+with an information collection subject to the requirements of the Paperwork Reduction Act of 1995, unless the information collection has a currently 
+valid OMB Control Number. The OMB Control Number for this information collection is 0651-0031. Public burden for this form is estimated to average 
+1.8 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and 
+completing and reviewing the information collection. Send comments regarding this burden estimate or any other aspect of this information collection, 
+including suggestions for reducing this burden to the Chief Administrative Officer, United States Patent and Trademark Office, P.O. Box 1450, Alexandria, 
+VA 22313-1450 or email InformationCollection@uspto.gov. DO NOT SEND FEES OR COMPLETED FORMS TO THIS ADDRESS. SEND TO: Commissioner for 
+Patents, P.O. Box 1450, Alexandria, VA 22313-1450.
+If you need assistance in completing the form, call 1‐800‐PTO‐9199 and select option 2.
+
+## Section 2: Page 2
+Privacy Act Statement 
+The Privacy Act of 1974 (P.L. 93-579) requires that you be given certain information in connection with your 
+submission of the attached form related to a patent application or patent. The United States Patent and Trademark 
+Office (USPTO) collects the information in this record under authority of 35 U.S.C. 2. The USPTO’s system of records 
+is used to manage all applicant and owner information including name, citizenship, residence, post office address, and 
+other information with respect to inventors and their legal representatives pertaining to the applicant's/owner’s activities 
+in connection with the invention for which a patent is sought or has been granted. The applicable Privacy Act System 
+of Records Notice for the information collected in this form is COMMERCE/PAT-TM-7 Patent Application Files, 
+available in the Federal Register at 78 FR 19243 (March 29, 2013). https://www.govinfo.gov/content/pkg/
+FR-2013-03-29/pdf/2013-07341.pdf
+Routine uses of the information in this record may include disclosure to:
+1) law enforcement, in the event that the system of records indicates a violation or potential violation of law;
+2) a federal, state, local, or international agency, in response to its request;
+3) a contractor of the USPTO having need for the information in order to perform a contract;
+4) the Department of Justice for determination of whether the Freedom of Information Act (FOIA) requires
+disclosure of the record;
+5) a Member of Congress submitting a request involving an individual to whom the record pertains, when the
+individual has requested the Member’s assistance with respect to the subject matter of the record;
+6) a court, magistrate, or administrative tribunal, in the course of presenting evidence, including disclosures to
+opposing counsel in the course of settlement negotiations;
+7) the Administrator, General Services Administration (GSA), or their designee, during an inspection of records
+conducted by GSA under authority of 44 U.S.C. 2904 and 2906, in accordance with the GSA regulations and
+any other relevant (i.e., GSA or Commerce) directive, where such disclosure shall not be used to make
+determinations about individuals;
+8) another federal agency for purposes of National Security review (35 U.S.C. 181) and for review pursuant to the
+Atomic Energy Act (42 U.S.C. 218(c));
+9) the Office of Personnel Management (OPM) for personnel research purposes; and
+10) the Office of Management and Budget (OMB) for legislative coordination and clearance.
+If you do not furnish the information requested on this form, the USPTO may not be able to process and/or examine 
+your submission, which may result in termination of proceedings, abandonment of the application, and/or expiration of 
+the patent.

@@ -1,7 +1,10 @@
 Source filename: Y64.pdf
 Source relative path: vendor_emails/Y64.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:29.442844+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:20:02.428231+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Quick Chat? VOC-Compliant Aerosol Cleanser Project
 Date: September 16, 2025 at 3:08:22 PM
@@ -15,6 +18,6 @@ Would you be open to a short call to see if this aligns with your expertise in i
 formulation testing? I can send over our data ahead of time.
 Thanks,
 Jacob
-📞  760-490-3416 | bevier19jac@icloud.com
+📞 760-490-3416 | bevier19jac@icloud.com
 3/7/26, 11:42 AM iCloud Mail
 https://www.icloud.com/mail/ 1/1

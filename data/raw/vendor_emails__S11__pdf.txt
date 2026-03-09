@@ -1,7 +1,10 @@
 Source filename: S11.pdf
 Source relative path: vendor_emails/S11.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:23.084787+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:32.364713+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Todays 3pm EST Teams meeting
 Date: February 6, 2026 at 1:22:23 PM
@@ -35,6 +38,7 @@ continuity
 3/7/26, 11:06 AM iCloud Mail
 https://www.icloud.com/mail/ 1/6
 
+## Section 2: Page 2
 I understand personnel transitions happen, but given the financial investment already made and the
 dependency between teams, we should have been proactively informed well in advance —
 especially prior to coordinating a full stakeholder meeting.
@@ -65,6 +69,7 @@ Cc: sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
 3/7/26, 11:06 AM iCloud Mail
 https://www.icloud.com/mail/ 2/6
 
+## Section 3: Page 3
 Good morning Joe,
 I wanted to follow up directly to confirm whether you will be able to join today’s scheduled
 discussion at 3:00 PM ET.
@@ -93,6 +98,7 @@ ________________________________________________________________________________
 3/7/26, 11:06 AM iCloud Mail
 https://www.icloud.com/mail/ 3/6
 
+## Section 4: Page 4
 Microsoft Teams meeting
 Join: https://teams.microsoft.com/meet/27488629437616?
 p=GjsWWoZV24qhQwVa29
@@ -117,6 +123,7 @@ point, would either of the following work for you?
 3/7/26, 11:06 AM iCloud Mail
 https://www.icloud.com/mail/ 4/6
 
+## Section 5: Page 5
 If neither window works, feel free to suggest a nearby alternative that afternoon. Once we
 align on timing, I’ll send a calendar invite.
 Thanks, and I’m looking forward to connecting.
@@ -147,5 +154,6 @@ v1.0.pdf>
 3/7/26, 11:06 AM iCloud Mail
 https://www.icloud.com/mail/ 5/6
 
+## Section 6: Page 6
 3/7/26, 11:06 AM iCloud Mail
 https://www.icloud.com/mail/ 6/6

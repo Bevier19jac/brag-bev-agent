@@ -1,0 +1,51 @@
+Source filename: Cert of Org.pdf
+Source relative path: investor_docs/Cert of Org.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:25.617559+00:00
+
+## Section 1: Page 1
+Control Number : 24223393
+STATE OF GEORGIA 
+ 
+Secretary of State 
+Corporations Division 313 West Tower 2 Martin Luther King, Jr. Dr.Atlanta, Georgia 30334-1530 
+CERTIFICATE OF ORGANIZATION
+ 
+I, Brad Raffensperger, the Secretary of State and the Corporation Commissioner of the State of Georgia, hereby certify under the seal of my office that 
+ 
+ Brag & Bev L.L.C 
+a Domestic Limited Liability Company
+ 
+has been duly organized under the laws of the State of Georgia on 11/27/2024 by the filing of articles of organization in the Office of the Secretary of State and by the paying of fees as provided by Title 14 of the Official Code of Georgia Annotated. 
+ 
+ 
+WITNESS my hand and official seal in the City of Atlanta and the State of Georgia on 12/09/2024.
+
+## Section 2: Page 2
+ARTICLES OF ORGANIZATION *Electronically Filed*  Secretary of State Filing Date: 11/27/2024 9:17:20 AM
+  
+BUSINESS INFORMATION 
+CONTROL NUMBER 24223393
+BUSINESS NAME Brag & Bev L.L.C
+BUSINESS TYPE Domestic Limited Liability Company
+EFFECTIVE DATE 11/27/2024
+ 
+PRINCIPAL OFFICE ADDRESS
+ADDRESS 105 Pendleton Rd, Tyrone, GA, 30290, USA
+ 
+REGISTERED AGENT                                        
+NAME ADDRESS COUNTY 
+Jacob Benjamin Bevier105 Pendleton Rd, Tyrone, GA, 30290, USA  Fayette  
+ 
+ORGANIZER(S) 
+NAME TITLE ADDRESS
+Apollo Braganini ORGANIZER 8129 ED Ave, Richland, MI, 49083, USA
+Jacob Benjamin BevierORGANIZER 105 Pendleton Rd, Tyrone, GA, 30290, USA
+ 
+OPTIONAL PROVISIONS 
+N/A
+ 
+AUTHORIZER INFORMATION 
+AUTHORIZER SIGNATURE Jacob Benjamin Bevier
+AUTHORIZER TITLE Organizer

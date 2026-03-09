@@ -1,0 +1,2129 @@
+Source filename: Complete_with_Docusign_Brag___Bev_Operating_.pdf
+Source relative path: rabbit_notes/Complete_with_Docusign_Brag___Bev_Operating_.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:17:41.669315+00:00
+
+## Section 1: Page 1
+THE INTERESTS IN BRAG & BEV, LLC HAVE NOT 
+BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR 
+UNDER ANY STATE SECURITIES LAW AND MAY NOT BE SOLD, TRANSFERRED 
+OR ASSIGNED UNLESS SUBSEQUENTLY REGISTERED UNDER SUCH ACT OR 
+LAWS OR UNLESS AN EXEMPTION FROM REGISTRATION IS AVAILABLE. 
+ARTICLE VII OF THIS AGREEMENT FURTHER RESTRICTS 
+TRANSFERABILITY OF INTERESTS IN THE COMPANY. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Agreement 
+ 
+ for 
+ 
+ BRAG & BEV, LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 12, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by: 
+Varnum LLP 
+211 East Water Street, Suite 400 
+Kalamazoo, Michigan 49007 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 2: Page 2
+i 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+ARTICLE I. DEFINITIONS ......................................................................................................... 1 
+ARTICLE II. FORMATION ......................................................................................................... 1 
+2.1 Formation ............................................................................................................................ 1 
+2.2 Name, Location, Etc ........................................................................................................... 1 
+2.3 Character of Business and Purposes ................................................................................... 1 
+2.4 Term .................................................................................................................................... 2 
+2.5 Partnership Classification ................................................................................................... 2 
+ARTICLE III. MEMBERS AND CAPITAL................................................................................. 2 
+3.1 Members and Their Capital Commitments ......................................................................... 2 
+3.2 Capital Accounts ................................................................................................................. 2 
+3.3 Company Capital ................................................................................................................ 3 
+3.4 Liability of Members .......................................................................................................... 3 
+ARTICLE IV. DISTRIBUTIONS AND ALLOCATIONS .......................................................... 4 
+4.1 Distributions Generally ....................................................................................................... 4 
+4.2 Liquidating Distributions .................................................................................................... 4 
+4.3 Allocations of Net Loss ...................................................................................................... 5 
+4.4 Allocations of Net Income and Gain .................................................................................. 5 
+4.5 Special Allocations ............................................................................................................. 5 
+4.6 Manager’s Discretionary Powers ........................................................................................ 7 
+4.7 Determination of Allocations and Distributions Among Members .................................... 7 
+ARTICLE V. MANAGER RIGHTS, POWERS AND DUTIES .................................................. 8 
+5.1 Management and Control of the Company ......................................................................... 8 
+5.2 Authority of the Manager .................................................................................................... 8 
+5.3 Restrictions on Authority of Manager .............................................................................. 10 
+5.4 Duties and Obligations of the Manager ............................................................................ 11 
+5.5 Other Business .................................................................................................................. 11 
+5.6 Manager Compensation and Reimbursement ................................................................... 13 
+5.7 Limitation on Liability of Manager; Indemnification ....................................................... 13 
+ARTICLE VI. MANAGER WITHDRAWALS AND CHANGES ............................................ 13 
+6.1 Withdrawal of Manager .................................................................................................... 13 
+6.2 Admission of Successor or Additional Managers ............................................................. 13 
+6.3 Removal of Manager......................................................................................................... 14 
+6.4 Vacancies .......................................................................................................................... 14 
+6.5 Multiple Managers ............................................................................................................ 14 
+ARTICLE VII. TRANSFERABILITY OF MEMBERS' INTERESTS ...................................... 14 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 3: Page 3
+ii 
+7.1 Restrictions on Transfer of Company Interests ................................................................ 14 
+7.2 Transferees and Substituted Members .............................................................................. 15 
+7.3 Buy Back Options ............................................................................................................. 15 
+7.4 Right of First Refusal and Other Transfer Restrictions .................................................... 17 
+ 7.5 Cross-Options to Purchase ................................................................................................17 
+7.6 Priority .............................................................................................................................. 20 
+7.7 Transfer of Company Interest to a Revocable Living Trust ............................................. 20 
+ARTICLE VIII. DISSOLUTION AND LIQUIDATION OF THE COMPANY........................ 20 
+8.1 Events Causing Dissolution .............................................................................................. 20 
+8.2 Liquidation and Winding Up ............................................................................................ 21 
+8.3 No Liability for Return of Capital .................................................................................... 21 
+ARTICLE IX. BOOKS AND ACCOUNTING REPORTS ........................................................ 21 
+9.1 Books and Records ........................................................................................................... 22 
+9.2 Tax Accounting ................................................................................................................. 22 
+9.3 Bank Accounts .................................................................................................................. 22 
+9.4 Depreciation and Elections ............................................................................................... 22 
+ARTICLE X. MEETINGS AND VOTING RIGHTS OF MEMBERS ...................................... 22 
+10.1 Meetings ........................................................................................................................ 22 
+10.2 Voting ........................................................................................................................... 22 
+10.3 Proxies........................................................................................................................... 23 
+ARTICLE XI. MISCELLANEOUS PROVISIONS.................................................................... 23 
+11.1 Amendments ................................................................................................................. 23 
+11.2 Investment Representations .......................................................................................... 23 
+11.3 Parties Bound and Benefited ......................................................................................... 24 
+11.4 Entire Agreement .......................................................................................................... 24 
+11.5 Governing Law ............................................................................................................. 24 
+11.6 Severability of Provisions; Waiver of Right to Partition .............................................. 24 
+11.7 Construction; Captions; Pronouns ................................................................................ 24 
+11.8 Further Action ............................................................................................................... 25 
+11.9 Counterparts .................................................................................................................. 25 
+11.10 Time .............................................................................................................................. 25 
+11.11 Specific Performance and Damages ............................................................................. 25 
+11.12 Counsel ......................................................................................................................... 25 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 4: Page 4
+1 
+ 
+THE INTERESTS IN BRAG & BEV, LLC HAVE NOT BEEN REGISTERED 
+UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR UNDER ANY 
+STATE SECURITIES LAW AND MAY NOT BE SOLD, TRANSFERRED OR 
+ASSIGNED UNLESS SUBSEQUENTLY REGISTERED UNDER SUCH ACT OR LAWS 
+OR UNLESS AN EXEMPTION FROM REGISTRATION IS AVAILABLE. 
+ARTICLE VII OF THIS AGREEMENT FURTHER RESTRICTS 
+TRANSFERABILITY OF INTERESTS IN THE COMPANY. 
+ 
+__________________ 
+ 
+ 
+Operating Agreement 
+ for 
+ BRAG & BEV, LLC 
+ 
+ 
+BRAG & BEV , LLC, a Michigan limited liability company (the "Company"), and all 
+those who execute this Operating Agreement or a counterpart of it (the "Agreement") as a 
+Member or Manager, or who hereafter become a Member or Manager hereunder or otherwise 
+acquire or claim any interest in the Company as a Member or Manager, enter into this 
+Agreement effective as of June 12, 2025. 
+ 
+ARTICLE I. DEFINITIONS 
+ 
+The terms set forth in Exhibit A as used in this Agreement shall, unless the context other -
+wise requires, have the meanings specified in Exhibit A. 
+ 
+ ARTICLE II. FORMATION 
+ 
+2.1 Formation. By executing this Agreement, the parties agree that the Company has 
+been or will be formed pursuant to the pro visions of the Michigan Limited Liability Company 
+Act ("Act"). The rights and liabilities of the Company and the Members shall be as provided in 
+the Act except as provided in this Agreement. 
+ 
+2.2 Name, Location, Etc. The name of the Company is " BRAG & BEV, LLC," and 
+such name may be changed only by the Manager or by a Super Majority in Interest of the 
+Members. The Company's business may be conducted under that name or such other name(s) as 
+the Manager shall determine from time to time. The location of the principal place of business of 
+the Company and registered office and resident agent shall be as the Manager may determine 
+from time to time. Notification of any change in the Company's place of business, registered 
+office, or resident agent shall be given to the Members. 
+ 
+2.3 Character of Business and Purposes . The business and purposes of the 
+Company shall be to develop for commercial production and sale a patented self -righting 
+automatic dumpster cleaning device and any improvements, variations, extensions or related 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 5: Page 5
+2 
+products (collectively, the "Device") along with researching, developing, and commercializing 
+any additional products, services, or business opportunities based on or in any way related to the 
+Device or technology or information learned or developed by the Company, including 
+prototypes, data, know-how, drawings, blueprints, specifications, engineering, technical and cost 
+data, design information, testing and quality control procedures, operating techniques, formulae, 
+patterns, proposals, devices, software, pricing information and compilations of other related 
+information, records and specifications (collectively, the “Primary Business”) . The Company 
+may also engage in such other lawful activities as may be determined by a Super Majority in 
+Interest of the Members from time to time. 
+ 
+2.4 Term. The Company's term shall commence as of the date of the filing of its 
+Articles of Organization and shall continue indefinitely thereafter, unless dissolved pursuant to 
+the Act or this Agreement. 
+ 
+2.5 Partnership Classification. 
+ 
+(a) The Members intend that the Company shall be operated in a manner 
+consistent with its treatment as a "partnership" for federal and state income tax purposes. No 
+Member or Manager shall take any action inconsistent with such intent, and the Members and 
+Manager agree to make any amendments hereto required (in the opinion of counsel for the 
+Company) to obtain or maintain partnership classification for tax purposes from time to time. 
+ 
+(b) Notwithstanding the foregoing, the Members and Manager have formed 
+the Company as a limited liability company under the Act and specifically intend and agree that 
+the Company not be construed as a partnership (including a limited partnership) or any other 
+venture for purposes other than tax matters. No Member or Manager shall be construed to be a 
+partner in the Company or a partner of any other Member or Manager or Person for purposes 
+other than tax matters solely as a result of the Articles of Organization, this Agreement and the 
+relationships created thereby and arising therefrom. 
+ 
+ ARTICLE III. MEMBERS AND CAPITAL 
+ 
+3.1 Members and Capital Commitments . The Members are those persons 
+indicated on Exhibit B, each of whom has made, or agrees to make, at the times indicated on 
+Exhibit B, the Capital Contributions shown opposite its name on Exhibit B in exchange for the 
+Company Units therein indicated. No Member shall be obligated to make any additional 
+contribution to the Company's capital unless such Member otherwise agrees. 
+ 
+3.2 Capital Accounts . A separate Capital Account shall be maintained for each 
+Member. The Capital Account balance for each Member shall be increased by the amount of 
+money and the fair market value of property contributed by such Member to the Company's 
+capital, and by that Member's share of Company net income and gain, and decreased by 
+distributions of cash or property (at fair market value) to that Member, and that Member's share 
+of Company net loss and deductions. Such other adjustments to Capital Accounts shall be made 
+as required by the rules set forth in Regulation Section 1.704-1(b)(2)(iv). 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 6: Page 6
+3 
+3.3 Company Capital . No Member shall be paid interest on any Capital 
+Contribution nor have the right to withdraw, or receive any return of, such Member's Capital 
+Contribution, except as may be specifically provided in this Agreement. Under circumstances 
+requiring a return of any Capital Contribution, no Member shall have the right to receive 
+property other than cash except as may be specifically provided in this Agreement. 
+ 
+3.4 Liability of Members. 
+ 
+(a) No Member shall be liable for the debts, liabilities, contracts or any other 
+obligations of the Company. A Member shall be liable only to make payment for the amounts 
+required to be contributed to the Company's capital as expressly required hereunder. No 
+Member with a negative balance in his Capital Account, whether by virtue of distributions of 
+Disbursable Cash or by allocations of loss or deduction, shall have any obligation to the 
+Company or the other Members to restore a negative Capital Account. 
+ 
+(b) For purposes of this Section, it is the intent of the Members that no 
+distribution (or any part of any distribution) made to any Member pursuant to Article IV of this 
+Agreement be deemed a return or withdrawal of capital, even if the distribution represents (in 
+full or in part) a distribution of depreciation or any other non-cash item accounted for as a loss or 
+deduction from or offset to the Company's income, and that no Member shall be obligated to pay 
+any such amount to or for the account of the Company or any creditor of the Company. 
+However, if any court of competent jurisdiction holds that, notwithstanding the provisions of this 
+Agreement, any Member is obligated to make any such payment, that obligation shall be the 
+obligation of such Member and not of the other Members or Manager, and such Member shall 
+return any such distribution to the Company. 
+ 
+(c) Except as set forth in Section 3.4(d) below, i f any Member fails to make a 
+Capital Contribution when required, the Company may, in addition to the other rights and 
+remedies the Company may have under the Act or applicable law, take such enforcement action 
+(including the commencement and prosecution of court proceedings to collect the Capital 
+Contribution committed to) against such Member as the Manager considers appropriate, 
+including diluting the interest in the Company of the defaulting Member and increasing the 
+interests of the remaining Members to take into account the disproportionate Capital 
+Contribution in such manner as the Members determine appropriate. Alternatively, the 
+remaining Members may elect to contribute the amount of such required capital themselves 
+according to their respective Company Interests or in such other proportions as they, by Super 
+Majority in Interest, deem appropriate. In such an event, the remaining Members shall be 
+entitled to treat such amounts as an extension of credit to such defaulting Member, payable upon 
+demand, with interest accruing thereon at the rate of ten percent (10%) per annum (or such lesser 
+rate as the remaining Members, acting by Super Majority in Interest, shall agree) until paid, all of 
+which shall be secured by such defaulting Member's interest in the Company, and any payments 
+with respect to which shall be applied first to interest with the balance to principal, until such 
+amounts have been paid in full. Each Member who may hereafter default hereby grants to each 
+Member who may hereafter grant such an extension of credit a security interest in such 
+defaulting Member's interest in the Company and further agrees to sign such documents as may 
+be reasonably requested in order to perfect the security interest so granted, and further agrees that 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 7: Page 7
+4 
+any person granting such an extension of credit shall be entitled (in proportion to such person's 
+grant of the extension of credit as it relates to such grants from all persons extending credit) to 
+receive any and all distributions made or to be made by the Company with respect to such 
+defaulting Member's Company Interest, until such extensions of credit have been repaid in full 
+with interest as provided herein. Each Member who may hereafter default hereby grants to each 
+Member who may hereafter grant such an extension of credit a power of attorney, which is 
+hereby deemed to be coupled with an interest and shall be irrevocable, authorizing the agent to, 
+on behalf of such defaulting Member, execute any reasonable security agreements and UCC -1 
+forms and to file same or take such further action as may be deemed necessary or appropriate to 
+protect the interest of the Members extending credit pursuant to this paragraph. 
+ 
+(d) Notwithstanding the provisions set forth in Section 3.4(c), if John F. 
+Braganini as Trustee of the John F. Braganini Trust (“JB”) fails to make all of the loans as 
+required by footnote 2 of Exhibit B of this Agreement, the sole remedy of the Company, the 
+Manager, and the other Members shall be to redeem and repurchase the Company Interests of 
+JB, The Sarah J. Braganini Trust, and The Apollo Braganini II Trust for the collective price of 
+$1.00, it being understood that the Company shall remain liable to repay any such loans that 
+were made by JB prior to the Company redeeming and repurchasing such Company Interests. 
+ 
+ARTICLE IV. DISTRIBUTIONS AND ALLOCATIONS 
+ 
+4.1 Distributions Generally. 
+ 
+(a) Subject to the provisions of the Act and this Agreement, all Disbursable 
+Cash shall be distributed to the Members at such time(s) as the Manager shall determine in 
+proportion to the respective Company Interests of the Members. 
+ 
+(b) Subject to the provisions of the Act and this Agreement, the Manager shall 
+use its best efforts to cause the Company to distribute to each Member, no later than 75 days 
+after any taxable year of the Company, an amount of cash at least equal to (1) 45 percent times 
+the amount of taxable income allocated to such Member for such taxable year, minus (2) the 
+amount of any cash previously distributed to such Member with respect to the Company's 
+income for such taxable year. 
+ 
+(c) Notwithstanding anything to the contrary, no distribution shall be declared 
+or made if, after giving it effect, the Company would not be able to pay its debts as they become 
+due in the usual course of business or the Company's total assets would be less than the sum of 
+its total liabilities plus the amount that would be needed to satisfy the preferential rights, if any, 
+of other Members upon dissolution that are superior to the rights of the Member or Members 
+receiving the distribution. Except as otherwise provided in this Agreement, no Member shall 
+have priority over any other Member either as to the return of capital or as to profits, losses, or 
+distributions. 
+ 
+4.2 Liquidating Distributions . Subject to the provisions of the Act and this 
+Agreement, the net cash proceeds of a sale, exchange or other disposition of all or substantially 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 8: Page 8
+5 
+all of the Company's Property constituting a dissolution of the Company shall be applied as 
+follows: 
+ 
+(a) To the payment of debts and liabilities of the Company to creditors in the 
+order of priority provided by law, including any creditor who is a Member or a former Member 
+(other than in respect of his interest in the Company) and the expenses of liquidation; 
+ 
+(b) To the establishment of any reserves that the Manager may deem 
+reasonably necessary for any contingent or unforeseen liabilities or obli gations of the Company 
+arising out of or in connection with the Company; and 
+ 
+(c) Then to the Members to the extent of any positive balances in their Capital 
+Accounts. 
+ 
+4.3 Allocations of Net Loss. Except as provided in Section 4.5 and 4.6, all net losses 
+shall be allocated to and among the Members in accordance with their respective Company 
+Interests. 
+ 
+4.4 Allocations of Net Income and Gain . Except as provided in Sections 4.5 and 
+4.6, net income and gain shall be allocated to and among the Members in accordance with their 
+respective Company Interests. 
+ 
+4.5 Special Allocations. 
+ 
+(a) Nonrecourse deductions (as described in Regulation Section 1.704 -2(c)) 
+shall be separately allocated to and among the Members in proportion to their respective 
+Company Units. Member Nonrecourse Deductions shall be specially allocated, in accordance 
+with the Regulations, to the Member or Members who bear the economic risk of loss for the 
+Member Nonrecourse Debt to which such deductions are attributable. 
+ 
+(b) Except as provided in subsection 4.5(c), if a Member receives an 
+adjustment, allocation or distribution described in Regulation Section 1.704 -1(b)(2)(ii)(d)(4), (5) 
+or (6) which has not otherwise been taken into account in determining such Member's Adjusted 
+Capital Account Deficit, if any, such Member shall be specially allocated items of Company 
+income and gain in an amount and manner sufficient to eliminate the Adjusted Capital Account 
+Deficit of such Member as quickly as possible, to the extent required by Regulations under 
+Section 704(b). This subsection is intended to constitute a Qualified Income Offset under the 
+Regulations and shall be interpreted consistently therewith. 
+ 
+(c) Notwithstanding anything to the contrary in this Article IV: 
+ 
+(1) If during any Company fiscal year there is a net decrease in 
+Company "Minimum Gain," as described in Regulation Section 1.704-2(b)(2) (with the word 
+"Company" replacing "partnership" therein), each Member shall be specially allocated items of 
+Company income and gain for such year (and, if necessary, subsequent years) in an amount 
+equal to the portion of such Member's share of the net decrease in Company Minimum Gain for 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 9: Page 9
+6 
+the year as determined in accordance with Regulation Section 1.704 -2(g)(2). The items to be so 
+allocated shall be deter mined in accordance with Regulation Section 1.704-2(f). This 
+Section 4.5(c) is intended to comply with the minimum gain charge back provisions of 
+Regulations under Section 704 and shall be interpreted consistently therewith. 
+ 
+(2) If there is a net decrease during a fiscal year in the Member 
+Minimum Gain attributable to a Member Nonrecourse Debt, then each Member with a share of 
+the Member Minimum Gain attributable to such debt, determined in accordance with 
+Regulations Section 1.704-2(i)(5), shall be specially allocated items of income and gain for such 
+year (and, if necessary, subsequent years) in an amount equal to such Member's share of the net 
+decrease in the Member Minimum Gain attributable to such Member Nonrecourse Debt, 
+determined in accordance with Regulations Section 1.704 -2(i)(4). Allocations pursuant to the 
+preceding sentence shall be made among the Members in proportion to the respective amounts to 
+be allocated to each of them pursuant to such Regulation. Any special allocation of items of 
+income and gain pursuant to this Section 4.5 shall be made before any other allocation of items 
+under this Section 4.5(c)(2), except only for special allocations required under the immediately 
+preceding Section 4.5(c)(1). The items to be so allocated shall be determined in accordance with 
+Regulations Section 1.704 -2(i)(4). This Section 4.5(c)(2) is intended to comply with the 
+provisions of Regulations Section 1.704-2(i)(4) and shall be interpreted consistently therewith. 
+ 
+(d) In making the allocation among the Members of gain or profit, the 
+ordinary income portion, if any, of such gain or profit caused by the recapture of cost recovery or 
+any other deduction shall be allocated among those Members who were pre viously allocated the 
+cost recovery or any other deductions in proportion to the amount of such deductions previously 
+allocated to them. It is intended that the Members shall bear the burden of recapture caused by 
+cost recovery or other deductions that were previously allocated to them, in proportion to the 
+amount of such deductions that have been allocated to them, notwithstanding that a Member's 
+share of profits, losses or liabilities may increase or decrease from time to time. Nothing in this 
+subsection 4.5(d), however, shall cause the Members to be allocated more or less gain or profit 
+than would otherwise be allocated to them pursuant to this Article IV. 
+ 
+(e) Any special allocation of the items of income or gain pursuant to this 
+Section 4.5 shall be taken into account in computing subsequent allocations of profit or gain 
+pursuant to this Article IV, so that the net amount of any item so allocated and the profit, gain, 
+loss and any other item allocated to each Member pursuant to this Article IV shall, to the extent 
+possible, be equal to the net amount that would have been allocated to each such Member 
+pursuant to the provisions of this Article IV if such special allocations had not occurred. 
+ 
+(f) To the extent an adjustment to the adjusted tax basis of any Company 
+asset under Code Section 734(b) or 743(b) is required to be taken into account in determining 
+Capital Accounts pursuant to Regulations Section 1.704 -1(b)(2)(iv)(m), the amount of such 
+adjustment to the Capital Accounts shall be treated as an item of gain (if the adjustment increases 
+the basis of the asset) or loss (if the adjustment decreases such basis), and such gain or loss shall 
+be specially allocated to the Members in a manner consistent with the manner in which their 
+Capital Accounts are required to be adjusted pursuant to such section of the Regulations. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 10: Page 10
+7 
+4.6 Manager's Discretionary Powers. 
+ 
+(a) The allocation method set forth in this Article IV is intended to allocate 
+profits and losses to the Members for federal income tax purposes in accordance with their 
+economic interests in the Company and to comply with Code Section 704(b) and Regulations 
+promulgated thereunder. If, in the opinion of the Manager, the allocation of profits or losses 
+pursuant to the preceding provisions of this Article IV shall not satisfy the Code or the 
+Regulations or properly take into account any expendi ture made by the Company or transfer of a 
+Company Interest, then, notwithstanding anything to the contrary contained in this Article IV, 
+profits and losses shall be allocated in such manner as the Manager in his sole and unrestricted 
+discretion determines to be required so as to comply with the Code or the Regulations or to 
+properly take into account any expenditure made by the Company to transfer a Company 
+Interest, as the case may be. The Manager shall have a right to amend this Agreement without 
+action by the Members to reflect any such change in the method of allocating profits and losses; 
+provided, however, that any change in the method of allocating profits or losses shall not 
+materially alter the economic agreement among the Members. 
+ 
+(b) If there is any change in Company Interest during a fiscal year, then for 
+purposes of this Article IV, the Manager shall take into account the requirements of Code 
+Section 706(d) and shall have the right to select any method of determin ing the varying interest 
+of the Members during the year which satisfies Code Section 706(d). 
+ 
+(c) In accordance with Code Section 704(c) and the Regulations issued 
+thereunder, income, gain, loss, and deductions with respect to any property contributed to the 
+Company shall be allocated among the Members so as to take account of any variation between 
+the adjusted basis of such property to the Company for federal income tax purposes and its fair 
+market value at the time of its contribution to the Company. If the value of any Company asset 
+is adjusted pursuant to Regulations Section 1.704 -1(b)(2)(iv)(f) and (g), subsequent allocations 
+of income, gain, loss, and deductions with respect to such asset shall take account of any 
+variation between the adjusted basis of such asset for federal income tax purposes and its fair 
+market value in the same manner as under Code Section 704(c) and the Regulations issued 
+thereunder. Any elections or other decisions relating to such allocations shall be made by the 
+Manager in any manner permitted by Regulations Section 1.704 -3(b), (c), and (d) (including the 
+"traditional method," the "traditional method with curative allocations," and the "remedial 
+allocation method" as described therein). 
+ 
+4.7 Determination of Allocations and Distributions Among Members. 
+ 
+(a) Except as provided in Sections 4.7(b), and 4.7(c), all allocations and 
+distributions to which the Members are entitled shall be distributed or allocated to each Member 
+entitled to the distribution or allocation in the ratio in which the Company Units of the Member 
+corresponds to the total Company Units of all Members entitled to the distribution or allocation. 
+ 
+(b) Distributions and allocations shall be made, as the case may be, to the 
+Persons recognized by the Company as the holders of Company Units on the day on which the 
+allocation or distribution is made by the Company. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 11: Page 11
+8 
+ 
+(c) All net profits or net losses for a fiscal year allocable to any Company 
+Interest that may have been trans ferred during the fiscal year or acquired on any date after the 
+first day of the Company's fiscal year shall be allocated pro rata among the Persons who were 
+Members during such Company taxable year as of the first day of the month in which the 
+transfer was recognized in accordance with this Agreement without regard to the results of 
+Company operations during the fiscal year and without regard to the timing or amount of cash 
+distributions which were made during the taxable year. 
+ 
+(d) Except as provided elsewhere in this Agreement, whenever a 
+proportionate part of net income, net loss or other income or loss is allocated to a Member, every 
+item of income, gain, loss or deduction entering into the computation of such net income, net 
+loss or other income or loss shall be considered allocated, and every item of credit, tax 
+preference, or recapture related to such net income, net loss or other income or loss and 
+applicable to the period when such net income, net loss or other income or loss was realized shall 
+be allocated to the Member in the same proportions. 
+ 
+(e) Distributions and allocations for any portion of the Company's fiscal year 
+prior to the admission of Members shall be determined by an interim closing of the Company's 
+accounting records as of the first day of the month in which the admission occurs if Members are 
+admitted into the Company during the first 15 days of the month and as of the 16th day of the 
+month in which admission occurs if Members are admitted into the Company after the 15th day 
+of the month in which admission occurs. 
+ 
+ ARTICLE V. MANAGER RIGHTS, POWERS AND DUTIES 
+ 
+5.1 Management and Control of the Company. 
+ 
+(a) Subject to any contrary provisions in the Act or this Agreement, the 
+Manager shall have the exclusive right to manage the busi ness of the Company and is hereby 
+authorized to take any action of any kind and to do anything and everything he deems necessary 
+to carry out the purposes of the Company set forth in Section 2.3. 
+ 
+(b) No Member (except one who may also be a Manager, and then only in his 
+capacity as Manager within the scope of his authority under this Agreement) shall participate in 
+or have any control over the Company business or shall have any authority or right to act for or 
+bind the Company, except as otherwise expressly provided in the Act or this Agreement. 
+ 
+(c) The Company shall be responsible for paying all direct costs and expenses 
+of organizing and operating the Company's business, including without limitation, debt service, 
+insurance premiums, taxes, legal expenses and fees, accounting fees, and all other fees, costs and 
+expenses. 
+ 
+(d) The Manager is hereby authorized to establish Reserves. 
+ 
+5.2 Authority of the Manager. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 12: Page 12
+9 
+ 
+(a) Except to the extent otherwise provided in this Agreement, the Manager, 
+on behalf of the Company, is hereby authorized to: 
+ 
+(1) execute any license agreement or other agreement related to the 
+Device; 
+ 
+(2) make all strategic decisions with respect to the purposes of the 
+Company and enter into any agreement or make any filings in connection therewith, including 
+filings with the U.S. Patent and Trademark Office; 
+ 
+(3) acquire by purchase, lease, exchange or other wise any real or 
+personal property that may be necessary, convenient or incidental to the accomplishment of the 
+purposes of the Company; 
+ 
+(4) design, construct, operate, maintain, finance, improve, own, grant 
+options with respect to, sell, convey, assign, mortgage, exchange or lease and cause to have 
+constructed any real estate and any personal property necessary, convenient or incidental to the 
+accomplishment of the purposes of the Company; 
+ 
+(5) execute any and all agreements, contracts, docu ments, certi -
+fications and instruments necessary or convenient in connection with the management, 
+maintenance and operation of the Company's business; 
+ 
+(6) borrow money and issue evidences of indebtedness (including 
+from or to any Member) necessary, convenient or incidental to the ac complishment of the 
+purposes of the Company, and to secure the same by mortgage, pledge or other lien on assets of 
+the Company; 
+ 
+(7) execute, in furtherance of any or all of the purposes of the 
+Company, any deed, lease, mort gage, mortgage note, bill of sale, contract or other instrument 
+conveying, exchanging or encumbering the real or personal property of the Company; 
+ 
+(8) prepay in whole or in part, refinance, re -cast, increase, modify or 
+extend any mortgages or other indebtedness of the Company and in connection therewith to 
+execute any extensions or renewals of such indebtedness; 
+ 
+(9) care for and distribute funds to the Members by way of cash, 
+income, return of capital, or otherwise, all in accordance with the provisions of this Agreement, 
+and perform all matters in furtherance of the objectives of the Company or this Agreement; 
+ 
+(10) contract on behalf of the Company for the employment and 
+services of employees and/or independent contractors, including lawyers and accountants; 
+ 
+(11) make any and all elections for federal, state, and local tax 
+purposes, including any election, if permitted by applicable law: (1) to adjust the basis of 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 13: Page 13
+10 
+property pursuant to Code sections 734(b), 743(b), and/or 754, or comparable provisions of state 
+or local law, or any corresponding provisions of future tax laws, in connection with transfers of 
+Company Interests and Company distributions; and (2) to extend the statute of limitations for 
+assessment of tax deficiencies before taxing authorities or courts of competent jurisdiction in tax 
+matters affecting the Company; 
+ 
+(12) take or refrain from taking all actions not expressly proscribed or 
+limited by this Agreement, as may be necessary or appropriate to accomplish the purposes of the 
+Company; 
+ 
+(13) initiate, defend or settle any litigation, arbitration, mediation or 
+similar legal or administrative proceedings; 
+ 
+(14) deal with, or otherwise engage in business with, or provide 
+services to and receive compensation therefor from, any Person who has pro vided or may in the 
+future provide any services to, lend money to, sell property to, or purchase property from, any 
+Manager or any Affiliate of a Manager; and/or 
+ 
+(15) engage in any kind of activity and perform and carry out contracts 
+of any kind necessary to, or in connection with, or incidental to the accomplishment of the 
+purposes of the Company, as may be lawfully carried on or performed. 
+ 
+(b) Any Person dealing with the Company or any Manager may rely (without 
+further duty of inquiry) upon a certificate signed by any Manager as to: 
+ 
+(1) the identity of any Manager or any Member; 
+ 
+(2) the existence or nonexistence of any fact or facts which 
+constitutes a condition precedent to acts by any Manager or which are in any other manner 
+germane to the affairs of the Company; 
+ 
+(3) the Persons who are authorized to execute and deliver any 
+instrument or document of the Company; or 
+ 
+(4) any act or failure to act by the Company or as to any other 
+matter whatsoever involving the Company or any Member. 
+ 
+5.3 Restrictions on Authority of Manager. Without the Consent of a Super Majority 
+in Interest of the Members, no Manager shall have the authority to do any of the following for or 
+on behalf of the Company: 
+ 
+ (a) sell or otherwise dispose of at one time all or substan tially all the assets of 
+the Company; 
+ 
+ (b) do any act in contravention of this Agreement; 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 14: Page 14
+11 
+ (c) confess a judgment against the Company; 
+ 
+ (d) possess or assign rights in Company property for other than a Company 
+purpose; or 
+ 
+ (e) elect to dissolve the Company. 
+ 
+5.4 Duties and Obligations of the Manager. 
+ 
+(a) The Manager shall take all action that may be necessary or appro priate (i) 
+for the continuation of the Company's valid existence as a limited liability Company under the 
+laws of Michigan and its qualification to do business in Michigan, and (ii) for the operation and 
+promotion of the Company's business in accordance with the provisions of this Agreement. 
+ 
+(b) The Manager shall devote to the Company such time as may be necessary 
+for the proper performance of its duties under this Agreement, but shall not be expected to 
+devote full time to the performance of those duties. 
+ 
+(c) The Manager shall be under a fiduciary duty to conduct the affairs of the 
+Company in the best interest of the Company and of the Members, including the safekeeping and 
+use of all of the Property and the use thereof for the exclusive benefit of the Company. 
+ 
+(d) The Manager shall act as the " Partnership Representative" under the Code 
+and in any similar capacity under state or local law. 
+ 
+5.5 Other Business. 
+ 
+(a) Except as restricted in Section 5.5(b): a ny Member or Manager may 
+engage independently or with others in other business ventures of every nature and description ; 
+and nothing in this Agreement shall be deemed to prohibit the Manager or any Affiliate of the 
+Manager from dealing, or otherwise engaging in business, with Persons transacting business with 
+the Company or from providing services to the Company and receiving compensation therefor. 
+ 
+(b) Each Member and Manager of the Company agrees that at all times that it 
+is a Member or Manager and for a period of two (2) years thereafter (the "Restricted Period"), 
+such Member or Manager will not, as an individual for its own account, as a partner, joint 
+venturer, employee, agent, or salesman for any person, or as an officer, director, member, 
+manager or stockholder of a corporation, limited liability company, or other entity, or otherwise, 
+directly or indirectly: 
+ 
+(1) enter into or engage in the operation or assistance of any business 
+that is competitive with the Company’s Primary Business ("Competing Business"), anywhere in 
+the world. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 15: Page 15
+12 
+(2) solicit or attempt to solicit any of the Company's customers with 
+the intent or purpose to provide to such customer products or services previously or then 
+provided to such customers by the Company; 
+ 
+(3) employ or solicit, or attempt to employ or solicit, for itself or for 
+any third party, the employment of any of the Company's employees; 
+ 
+(4) induce or attempt to induce any supplier, employee, consultant, or 
+agent of the Company to discontinue services to the Company; or 
+ 
+(5) take any other action intended, directly or indirectly, to impair the 
+goodwill or business reputation of the Company or to be otherwise detrimental to the interests of 
+the Company, including any action intended, directly or indirectly, to benefit a competitor of the 
+Company, such as assisting any person to start -up, develop, purchase, or sell a Competing 
+Business. 
+ 
+(c) Each Member and Manager of the Company understands that it has received or 
+may receive from the Company or otherwise become aware of information regarding the Device 
+or the Company which is non -public, confidential or proprietary in nature , including without 
+limitation proprietary know-how, technology, financial data, market data, customer lists, supplier 
+lists, costing information, product development information, financial statements and results, tax 
+returns, business plans and projections, and similar information and data, whether held in 
+written, computer data, oral, or other form (“Confidential Information”), and each Member and 
+Manager agrees that at all times following the date of this Agreement such Member or Manager 
+(1) will keep the Confidential Information confidential and will not, without the prior written 
+consent of the Manager, disclose such Confidential Information to others, other than in 
+furtherance of the Company’s Primary Business and with the approval of the Manager, and (2) 
+will not use the Confidential Information in connection with a Competing Business, or in a 
+manner that would otherwise violate the restrictive covenants set forth in Section 5.5(b), or for 
+any other purpose other than in furtherance of the Company’s Primary Business and with the 
+approval of the Manager. 
+ 
+(d) In the event of the breach by a Member or Manager of any of the terms or 
+conditions of this Section 5.5, the Company shall be entitled, if it so elects by action of the 
+Manager, to institute and prosecute proceedings in any court of competent jurisdiction, either at 
+law or in equity, to (i) obtain damages for any such breach, (ii) enforce the specific performance 
+hereof, (iii) obtain disgorgement of profit, or (iv) enjoin the Manager or Member from 
+performing acts prohibited above during the period covered, provided that nothing in this 
+Agreement shall be construed to prevent such other remedy in the courts or otherwise as the 
+Company may elect to invoke. The undersigned agrees to pay all reasonable costs and expenses, 
+including reasonable attorney's fees, incurred by the Company in enforcing the terms of this 
+Section 5.5. The length of the Restricted Period will be extended by any period of breach by the 
+Member or Manager. 
+ 
+(e) The terms of this Section 5.5 are intended to constitute a valid, legally 
+binding, and enforceable agreement in each and every respect. If any provision of this Section 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 16: Page 16
+13 
+5.5 is found by a court or other tribunal to be unenforceable or invalid (including a finding of 
+enforceability or invalidity because of the scope of the geographic area, the definition of a 
+Competing Business, or the length of the term of this Agreement), the Members, Manager, and 
+Company intend that this Agreement be modified and enforced to the maximum extent allowable 
+by law. 
+ 
+ 
+5.6 Manager Compensation and Reimbursement. 
+ 
+(a) No Manager in the capacity of Manager shall receive any salary, fees, 
+profits or distributions, except as otherwise specifically provided for in this Agreement or as may 
+be set forth in a separate written agreement approved in writing by a Super Majority in Interest 
+of the Members. 
+ 
+(b) Without limitation upon the other powers set forth in this Agreement, and 
+in addition to any Manager's interest in the Company, the Company is expressly authorized to 
+reimburse any Manager or its Affiliate for past and future costs, expenses, legal fees, accounting 
+fees, and office, clerical and administrative expenses and similar outlays made and incurred by 
+any Manager on behalf of and for the benefit of the Company. 
+ 
+5.7 Limitation on Liability of Manager; Indemnification . The Manager shall not 
+be liable, responsible or accountable in damages or other wise to any of the Members for any act 
+or omission performed or omitted by it in good faith provided that the Manager was not guilty of 
+fraud, bad faith or gross negligence. The Company shall indemnify and save harmless the 
+Manager and its Affiliates, agents and assigns against any loss or damage, including costs and 
+actual attorneys' fees (which fees may be paid as incurred) and any amounts expended in 
+settlement of such claims or liability, loss or damage incurred by such Person on behalf of the 
+Company or in furtherance of the Company's interests arising out of any act or failure to act by 
+such Manager or other Person, if such act or failure to act is in good faith and is not attributable 
+to gross negligence, fraud or bad faith. The satisfaction of any indemnification and any saving 
+harmless shall be from and limited to Company assets, and no Member or Manager shall have 
+any personal liability on account thereof. 
+ 
+ARTICLE VI. MANAGER WITHDRAWALS AND CHANGES 
+ 
+6.1 Withdrawal of Manager . Any Manager may, at any time, resign as Manager 
+and retain its status, if any, as a Member. If a withdrawal or resignation would leave the 
+Company with no Manager, a Super Majority in Interest of the remaining Members shall 
+designate a successor Manager with such interest in the Company, if any, as such majority and 
+such successor shall mutually agree. 
+ 
+6.2 Admission of Successor or Additional Managers. The Members may, upon the 
+Consent of a Super Majority in Interest of the Members, at any time designate one or more 
+successor or additional Managers. Each such designee shall become an additional Manager upon 
+compliance with Section 11.1 of this Agree ment. A Person who is a Member may, if so 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 17: Page 17
+14 
+appointed hereunder, be a Manager; but it is not required that a Person who is a Manager also be 
+a Member. 
+ 
+6.3 Removal of Manager . Any Manager may be removed at any time, with or 
+without cause, and with or without notice, by a Consent of a Super Majority in Interest of the 
+Members. 
+ 
+6.4 Vacancies. If any Manager resigns or is removed and there is then no longer any 
+Manager designated under this Agreement, then the Members shall appoint a successor Manager 
+by Consent of a Super Majority in Interest of the Members. 
+ 
+6.5 Multiple Managers. At any time(s) when there is more than one Manager, they 
+shall act jointly and cooperatively and by majority vote of the Managers in making decisions on 
+behalf of the Company. At any time when there are multiple Managers, they may establish by 
+resolution such procedures for meetings and notices thereof as they may deem appropriate, and 
+they may also establish procedures for taking action by written consent of a majority of the 
+Managers. In the absence of adoption of any such procedures, actions approved by a majority of 
+the Managers at any meeting or in any writing signed by such a majority shall be deemed 
+approved and acceptable. No Manager shall take any action on behalf of the Company that is 
+not approved by or acceptable to a majority of the Managers. Unless the Managers have adopted 
+other procedures in writing, each Manager shall be responsible to contact any other Manager(s) 
+before taking any action that might not be so approved or acceptable and shall confirm in writing 
+or in such manner as he deems reasonably prudent the requisite approval or acceptance of such 
+other Manager(s) before taking such action. Any Manager breaching its obligations under this 
+Section 6.5 shall be responsible to the Company and its Members and other Manager(s) for any 
+loss, cost, damage, or expense (including professional fees) caused thereby and shall not be 
+indemnified or held harmless by the Company, notwithstanding any contrary provisions of this 
+Agreement. Any third party may rely on any Manager's apparent authority to bind the Company. 
+ 
+ARTICLE VII. TRANSFERABILITY OF MEMBERS' INTERESTS 
+ 
+7.1 Restrictions on Transfer of Company Interests. 
+ 
+(a) No sale, exchange, assignment, pledge, encumbrance, or transfer of any 
+kind (each a "transfer") of any Company Interest may be made if the Company Interest sought to 
+be transferred, when added to the total of all other Company Interests transferred within the 
+period of twelve (12) consecutive months prior thereto, would, in the opinion of counsel for the 
+Company, result in the Company being considered to have been terminated within the meaning 
+of Section 708 of the Code, or any successor provision. 
+ 
+(b) No transfer of any Company Interest may be made if counsel for the 
+Company shall be of the opinion that the transfer would be in violation of the Securities Act of 
+1933, as amended, or of any state securities or "Blue Sky" laws (including any investment 
+suitability standards) applicable to the Company. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 18: Page 18
+15 
+(c) No transferee may become a Member unless the Manager and a Super 
+Majority in Interest of all other Members Consent. 
+ 
+7.2 Transferees and Substituted Members. 
+ 
+(a) If a Member dies, his personal representa tive, executor, adminis trator or 
+trustee, or, if he is adjudicated incompetent, his guardian or conserva tor, or, if he becomes 
+bankrupt, the receiver or trustee of his estate, shall have all the rights of an assignee only for the 
+purpose of settling or managing his estate and such power as the decedent or incompetent 
+possessed to assign all or any part of his Company Interest, all subject to and consistent with the 
+provisions of this Agreement. 
+ 
+(b) Except as provided herein, the Company need not recognize for any 
+purpose any transfer of a Company Interest unless there shall have been filed with the Company 
+a duly executed and acknowledged counterpart of the instrument making the transfer and the 
+instrument evidences the written acceptance by the transferee of all of the terms and pro visions 
+of this Agreement and represents that the transfer was made in accordance with all applicable 
+laws and regulations. The Company shall recognize the transfer of a Company Interest of a 
+Member by the trustee of a Member or the Member's personal representative, executor, heir, 
+devisee, or beneficiary, provided, however, such transferee shall not be recognized as a Member 
+without the approval of all the other Members. Any such transferee who accepts such transfer 
+shall be deemed to have accepted all of the terms and provisions of this Agreement. 
+ 
+(c) Any Member who shall assign his entire Company Interest shall cease to 
+be a Member of the Company. 
+ 
+(d) Any Person who is a transferee of a Company Interest who has satisfied 
+the requirements of this Agreement to otherwise become a Member shall be recognized as a Sub-
+stituted Member if and only if and when such conditions have been determined to be satisfied by 
+the Manager and such Person shall have paid all reasonable legal fees and filing costs in 
+connection with his substitution as a Member; provided, however, that the substitution of any 
+transferee of a Company Interest as a Substituted Member shall be subject to the Consent of a 
+Super Majority in Interest of the Members. 
+ 
+(e) A Person who is the transferee of a Company Interest and desires to make 
+a further transfer of such Company Interest, shall be subject to all the provisions of this Article 
+VII to the same extent and in the same manner as any Member desiring to make a transfer of his 
+Company Interest. 
+ 
+7.3 Buy Back Options. 
+ 
+(a) The Company shall have the options described in the next paragraph of 
+this Section 7.3(a) with respect to any Person who holds a Company Interest (a “Holder”) if any 
+of the following events ("Triggering Events") has occurred with respect to such Holder or such 
+Holder's predecessor in interest: 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 19: Page 19
+16 
+(1) If the Holder appoints or has appointed a receiver or custodian for 
+all or a substantial portion of its assets. 
+ 
+(2) If the Holder makes or consents to an assignment for the benefit of 
+creditors or a common law composition of creditors. 
+ 
+(3) If the Holder files a voluntary petition of bankruptcy or is 
+otherwise adjudged bankrupt or has entered against it an order for relief in any bankruptcy or 
+insolvency proceeding. 
+ 
+(4) If the Holder's Company Interest shall be levied on for execution, 
+or if any interest in the Company is awarded by judicial decree or judgment to any Person, 
+including but not limited to the spouse or former spouse of the holder pursuant to a divorce or 
+separation proceeding. 
+ 
+(5) If the Holder (or the Trustee of a Trust that is a Holder) dies or 
+becomes legally incompetent or votes to dissent from a merger that is approved pursuant to the 
+provisions of this Agreement, or if a Holder that is a corporation, trust, partnership, limited 
+liability company, or other similar entity suffers a change of fifty percent (50%) or more of the 
+ownership of the equity, securities, or other beneficial interests therein, or if there is a change in 
+fifty percent (50%) or more of the directors, trustees, partners, or other managers or members of 
+such entity, or if same is dissolved, liquidated, or otherwise terminated or allows to occur a sale 
+or other transfer of substantially all of its assets, whether by merger, reorganization, or otherwise. 
+ 
+If any of the Triggering Events described above in this Section 7.3(a) occurs, then 
+the Company, acting by the Manager shall have an option (i) to purchase all, but not less than all, 
+of such Holder's Company Interest at the price and on the terms specified in this Section, or (ii) 
+to demand that the Company be liquidated and dissolved, in which case all Members shall vote 
+in such manner to cause such liquidation and dissolution, or (iii) to continue as permitted by law 
+after the Triggering Event described above with any successor to such Holder being treated as a 
+mere assignee of the interest thereof, with no right to participate in the management of the 
+Company (unless approved for membership in accordance with this Agreement). 
+ 
+If the Company exercises the option to purchase or liquidate as granted under this 
+Section 7.3, it shall do so by notifying the Holder of the Company Interest being purchased (or 
+its legal successor) of this decision any time within one (1) year after the occurrence of the 
+Triggering Event, even though it may have been cured before the notice of exercise or any 
+bankruptcy petition may have been dismissed or otherwise discharged. The Company's option to 
+purchase is enforceable by injunctive relief. 
+ 
+(b) Except as otherwise specifically provided herein, the purchase price for 
+any interest in the Company to be sold pursuant to options or requirements contained in this 
+Agreement shall be equal to an amount determined by the accountants then serving the 
+Company, who may retain and consult with one or more appraisers on the Company's behalf, as 
+they deem appropriate, and the amount so determined by the Company's accountants shall be 
+final and binding on all parties. Any costs or expenses associated with making any such 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 20: Page 20
+17 
+determination shall be paid fifty percent (50%) by the purchaser(s) and fifty percent (50%) by 
+the seller. 
+ 
+(c) Except as otherwise provided herein, if a Company Interest is sold and 
+purchased pursuant to the provisions of this Agreement, the payment terms shall be as follows: 
+The purchase price shall be paid by a down payment of ten percent (10%) of the total purchase 
+price, with the balance being paid pursuant to a promissory note, bearing interest at a rate equal 
+to one percent (1%) per annum over the applicable federal rate (as determined under Code 
+Section 1274(d)) for midterm loans made during the month of closing, and requiring twenty (20) 
+equal quarterly payments of principal and interest, with payments commencing three (3) months 
+following the time of closing. The promissory note may be prepaid without premium or penalty. 
+ 
+(d) Except as otherwise provided herein, the closing on a purchase pursuant to 
+an option set forth in this Agreement shall occur within thirty (30) days after the purchaser's 
+written election to purchase. The specific time and place of closing shall be specified by the 
+purchaser. 
+ 
+7.4 Right of First Refusal and Other Transfer Restrictions. 
+ 
+(a) Except as otherwise provided herein, no Holder of a Company Interest 
+shall sell, assign, encumber or otherwise transfer, voluntarily or involuntarily, with or without 
+consideration, all or part of any such interest, whether now held or hereafter acquired, unless 
+such Holder has first given the notices and made the offers to sell as provided herein, and no 
+such offer has been accepted. A Company Interest is transferable only in strict compliance with 
+the terms of this Agreement. 
+ 
+(b) If any Holder shall receive an offer for the purchase of or otherwise 
+desires to sell all or part of his Company Interest, that Holder shall have the right to sell the 
+Company Interest subject to the following limitations and subject to Section 7.1 and any other 
+applicable restrictions imposed by this Agreement: 
+ 
+(1) The Holder shall procure a bona fide written offer, signed by the 
+prospective purchaser and containing all terms of the offer, or the Holder may establish a price 
+and terms upon which he proposes to sell his Company Interest. 
+ 
+(2) The Holder shall promptly notify in writing the Company and all 
+of its Members of the terms of the offer or the terms on which he proposes to sell his Company 
+Interest. 
+ 
+(3) The Company (acting by the Manager) shall have the option to 
+elect, within sixty (60) days after receipt of the notice, to purchase that portion of the Company 
+Interest covered by the offer. 
+ 
+(4) If the Company does not exercise its option to purchase, the other 
+Members shall have, for thirty (30) days after the Company's option expires, the option to 
+purchase the Company Interest. If more than one such other Member elects to exercise this 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 21: Page 21
+18 
+purchase option, each such electing Member shall be entitled to purchase only that portion of the 
+Company Interest being sold that corresponds to the percentage obtained by dividing such 
+Member's Company Interest by the total of the Company Interests of all Members electing to so 
+purchase. 
+ 
+(5) The options granted to the Company and to the other Members 
+under this Article shall be exercisable on the same terms and conditions as required to be set 
+forth in the notice referenced in Section 7.4(b)(2) or at the purchase price and terms set forth in 
+Section 7.3, whichever the Company or the purchasing Member(s) shall elect. 
+ 
+(6) If any Holder proposes a transfer of a Company Interest other than 
+by sale, including an assignment, encumbrance, or other disposition of a Company Interest, or if 
+any Person seeks to obtain an interest in any Holder's Company Interest, whether by execution, 
+judgment or otherwise, the Holder, or the party seeking to obtain the interest, as the case may be, 
+shall notify the Company and all other Members of the name and address of the prospective 
+transferee, the extent of the Company Interest to be transferred, and all terms and conditions 
+contemplated by the transfer, and the Company and the other Members shall have options to 
+acquire the Company Interest in accordance with the terms and conditions of the options granted 
+in Section 7.4(b) (right of first refusal). 
+ 
+(c) After the expiration of the options described in Sections 7.4(b), the Holder 
+shall be entitled to make the proposed sale, assignment, encumbrance, or other transfer to the 
+person named in the notice, or offer the Company Interest for sale, but only upon the terms and 
+conditions described in the notice and subject to the provisions of this Agreement. If such sale, 
+assignment, encumbrance, or other transfer is not made within sixty (60) days after the 
+expiration of the last of the options granted in this Section 7.4, the Company Interest shall 
+automatically again become subject to the restrictions on transfer stated herein. 
+ 
+7.5 Cross-Options to Purchase. The Founding Members as a group will have an 
+option (the “Founding Members Option”) to purchase all of the Company Interests of all of the 
+Royalty Members, and the Royalty Members acting as a group will have an option (the 
+“Royalty Members Option”) to purchase all of the Company Interests of all of the Founding 
+Members, all on the terms set forth in this Section 7.5 . Pursuant to the Founding Members 
+Option, the Founding Members may only purchase all of the Company Interests of all Royalty 
+Members; the Founding Members may not purchase Company Interests from less than all 
+Royalty Members and may not purchase less than all Company Interests from any one Royalty 
+Member. Pursuant to the Royalty Members Option, the Royalty Members may only purchase 
+all of the Company Interests of all Founding Members; the Royalty Members may not purchase 
+Company Interests from less than all Founding Members and may not purchase less than all 
+Company Interests from any one Founding Member. 
+ 
+(a) The Founding Members , acting by a Majority in Interest, may exercise the 
+Founding Members Option at any time by (i) paying off in full all debt of the Company 
+pursuant to the Draw Note and (ii) providing a written exercise notice to the Company and to all 
+Royalty Members. The closing (“Founding Members Option Closing”) shall occur within thirty 
+(30) days following the receipt of such notice by the Company and Royalty Members. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 22: Page 22
+19 
+ 
+(1) The purchase price for each Royalty Member’s Company Interest shall be 
+as follows: 
+ 
+(i) If the Founding Members exercise the Founding Members Option before 
+commercial viability of the Device (as such commercial viability shall be determined in the sole 
+discretion of the Manager ), the purchase price shall be equal to (i) the amount of royalties that 
+would have been paid to the Royalty Member under the Royalty Agreement during the five-year 
+period following the Founding Members Option Closing, plus (ii) the amount of Company 
+profits that would have been allocated to such Royalty Member under this Operating Agreement 
+during the five-year period following the Founding Members Option Closing. 
+ 
+(ii) If the Founding Members exercise the Founding Members Option after the 
+Device achieves commercial viability (as such commercial viability shall be determined in the 
+sole discretion of the Manager ), the purchase price shall be equal to (i) the amount of royalties 
+that would have been paid to the Royalty Member under the Royalty Agreement during the 
+seven-year period following the Founding Members Option Closing, plus (ii) the amount of 
+Company profits that would have been allocated to such Royalty Member under this Operating 
+Agreement during the seven-year period following the Founding Members Option Closing. 
+ 
+(2) The Founding Members may allocate the Royalty Members’ Company 
+Interests among the Founding Members, and may fund the purchase of the Royalty Members’ 
+Company Interests, however the Founding Members, acting by a Majority -in-Interest, may 
+decide. 
+ 
+(b) The Royalty Members, acting by a Majority in Interest, may exercise the Royalty 
+Members Option (at any time prior to their receipt of a written notice from the Founding 
+Members that the Founding Members are exercising the Founding Members Option) by 
+providing a written exercise notice to the Company and to all Founding Members. The closing 
+(“Royalty Members Option Closing”) shall occur within thirty (30) days following the receipt 
+of such notice by the Company and Founding Members. 
+ 
+(1) The purchase price for each Founding Member’s Company Interest shall 
+be as follows: 
+ 
+(i) If the Royalty Members exercise the Royalty Members Option before 
+commercial viability of the Device (as such commercial viability shall be determined in the sole 
+discretion of the Manager), the purchase price shall be equal to the amount of Company profits 
+that would have been allocated to such Founding Member under this Operating Agreement 
+during the five-year period following the Royalty Members Option Closing. 
+ 
+(ii) If the Royalty Members exercise the Royalty Members Option after the 
+Device achieves commercial viability (as such commercial viability shall be determined in the 
+sole discretion of the Manager), the purchase price shall be equal to the amount of Company 
+profits that would have been allocated to such Founding Member under this Operating 
+Agreement during the seven-year period following the Royalty Members Option Closing. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 23: Page 23
+20 
+ 
+(2) The Royalty Members may allocate the Founding Members’ Company 
+Interests among the Royalty Members, and may fund the purchase of the Founding Members’ 
+Company Interests, however the Royalty Members, acting by a Majority -in-Interest, may 
+decide. 
+ 
+ 
+(c) Payments of purchase price shall be made quarterly within thirty (30) days after 
+the end of each calendar quarter occurring following the Founding Members Option Closing or 
+Royalty Members Option Closing as the case may be. With each payment of purchase price, the 
+purchasing Members will also deliver financial reports detailing how the purchase price 
+payment was calculated and providing the results of operations for the Company for such 
+calendar quarter, including a profit and loss statement and any other information reasonably 
+requested by the selling Members. The purchasing Members shall be obligated to deliver such 
+reports and information even if no payment of purchase price is due because no royalties would 
+have been paid and/or no profits allocated during the calendar quarter. 
+ 
+(d) For the sake of clarity, if the Founding Members desire to exercise the Founding 
+Members Option and the Royalty Members desire to exercise the Royalty Members Option, the 
+Founding Members shall be allowed to exercise the Founding Members Option and the Royalty 
+Members shall not be allowed to exercise the Royalty Members Option. 
+ 
+7.6 Priority. In the event any condition or facts give rise to application or possible 
+application of simultaneous options under more than one Section of this Agreement to any 
+particular set of facts, the parties holding the option(s) to purchase shall, acting by Majority in 
+Interest, be entitled to elect whichever option(s) they desire to pursue. 
+ 
+7.7 Transfer of Company Interest to a Revocable Living Trust . Notwithstanding 
+the restrictions on transfer imposed by Section 7.4, any individual Member may transfer all or 
+any of his Company Interest to a revocable living trust, provided that the right to vote the 
+Company Interest is retained by that Member in a fashion satisfactory to counsel for the 
+Company, and further provided that such transfer is expressly made subject to the terms of this 
+Agreement. If such a transfer is made, the Trustee of the revocable living trust shall be 
+considered to be the "Personal Representative" of that Member, and the trust, through its trustee 
+or successor trustee, shall be deemed to be a Member for all purposes under this Agreement with 
+the same rights and privileges and obligations as those imposed hereunder on the individual 
+Member assigning such Company Interest to the trust. 
+ 
+ ARTICLE VIII. DISSOLUTION AND LIQUIDATION OF THE COMPANY 
+ 
+8.1 Events Causing Dissolution. 
+ 
+(a) The Company shall dissolve and commence winding up and liquidating 
+and shall thereafter terminate upon the happening of any of the following events: 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 24: Page 24
+21 
+(1) the election by a Super Majority in Interest of the Members to 
+dissolve, wind up, and liquidate the Company; or 
+ 
+(2) the happening of any other event requiring the dissolu tion of the 
+Company under the laws of the State of Michigan and not otherwise addressed specifically in 
+this Agreement. 
+ 
+(b) Dissolution of the Company shall be effective on the day on which the 
+event occurs giving rise to the dissolution, but the Company shall not terminate until a certificate 
+of dissolution shall have been filed and the assets of the Company shall have been distributed as 
+provided in this Agreement. Notwithstanding the dissolution of the Company, prior to the 
+termination of the Company, the business of the Company and the affairs of the Members, as 
+such, shall continue to be governed by this Agreement. 
+ 
+ 
+8.2 Liquidation and Winding Up. 
+ 
+(a) Upon the occurrence of a dissolution event described in Section 8.1, the 
+Company shall continue for the sole purpose of winding up its affairs in an orderly manner, 
+liquidating its assets, and satisfying the claims of its creditors and Members; and the Manager, 
+or in the event there is no remaining Manager, any other Person selected by a Super Majority in 
+Interest of the Members (a "Liquidator"), shall take account of the Company assets and 
+liabilities, and the assets shall be liquidated as promptly as is consistent with obtaining their fair 
+market value, and the proceeds of the liquidation, to the extent sufficient, together with assets 
+distributed in kind, shall be applied and distributed in accordance with Section 4.2. 
+ 
+(b) Distributions pursuant to this Section 8.2 may be made in cash or kind as 
+the Manager in its sole discretion or the Liquidator in its sole discretion shall determine. The 
+Members' Capital Account balances shall be appropriately adjusted before any distri butions 
+pursuant to this Section 8.2 to reflect sales or other dispositions by the Company giving rise to 
+Capital Account adjustments and to reflect the Capital Account adjustments that would have 
+occurred had any Property to be distributed in kind to the Members been sold for fair market 
+value by the Company prior to distribution. 
+ 
+8.3 No Liability for Return of Capital . Except as otherwise provided in this 
+Agreement, (a) each Member shall look solely to the assets of the Company for the return of its 
+Capital Contribution and shall have no right or power to demand or receive property other than 
+cash from the Company in accordance with the terms hereof, and (b) no Member shall have 
+priority over any other Member as to the return of its Capital Contributions, distributions, or 
+allocations. The Manager shall not be personally liable for the return of all or any portion of the 
+Capital Contributions of the Members. Any such return shall be made solely from Company 
+assets. 
+ 
+ ARTICLE IX. BOOKS AND ACCOUNTING REPORTS 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 25: Page 25
+22 
+9.1 Books and Records. The books and records of the Company shall be maintained 
+at the prin cipal office of the Company. The records required by the Act to be kept at the 
+Company's principal office are subject to inspection and copying by any Member or his duly 
+authorized representative during ordin ary business hours at the reasonable request and expense 
+of such Member. 
+ 
+9.2 Tax Accounting . The books of the Company shall be kept on such cash or 
+accrual method as the Manager shall reasonably establish, consistent with tax law requirements, 
+and the Company's fiscal year shall end on December 31 or such other day as the Manager shall 
+reasonably establish consistent with the requirements of the Code. 
+ 
+9.3 Bank Accounts. The bank and other financial accounts of the Company shall be 
+maintained in such institutions as the Manager shall determine, and withdrawals shall be made 
+only in the regular course of Company business on such signature or signatures as the Manager 
+may determine. All deposits and other funds not needed in the operation of the business may be 
+invested as the Manager deems appropriate. 
+ 
+9.4 Depreciation and Elections . With respect to all depreciable assets of the 
+Company, the Company may elect to use, so far as permitted by the provisions of the Code, 
+accelerated deprecia tion methods; however, the Company may change to or elect some other 
+method of depreciation so long as such other method is, in the opinion of the Manager, most 
+advantageous to a Majority in Interest of the Members. In the case of the transfer of a Member's 
+interest in the Company pursuant to any provisions hereof, the Company shall file the election 
+specified by Section 754 of the Code. 
+ 
+ ARTICLE X. MEETINGS AND VOTING RIGHTS OF MEMBERS 
+ 
+10.1 Meetings. Regular meetings of the Members may be held from time to time as 
+determined by the Manager or by a Super Majority in Interest of the Members. Special meetings 
+of the Members for any purposes may be called by the Manager and shall be called by the 
+Manager upon receipt of a request in writing signed by a Super Majority in Interest of the 
+Members. Notification of such meeting shall be sent within ten (10) days after receipt of such 
+request and at least ten (10) days in advance of the date of such special meeting, which shall take 
+place no later than thirty (30) days after the date on which the Manager or Members requesting 
+the meeting gave notification of their desire to have such special meeting called. Such request 
+shall state the purpose of the proposed meeting and the matters proposed to be acted upon. Such 
+meeting shall be held in the principal office of the Company or such other place as the Manager 
+shall reasonably designate. 
+ 
+10.2 Voting. Any action to be taken or item to be approved by the Members shall be 
+done, unless otherwise indicated in the Act or this Agreement, by the vote of Members holding a 
+Majority Interest of the Company Interests. Any such vote may occur at a meeting of the 
+Members or pursuant to a written document signed by Members holding a Majority Interest of 
+the Company Interests. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 26: Page 26
+23 
+10.3 Proxies. Each Member may authorize any Person or Persons to act for him by 
+proxy in all matters in which a Member is entitled to participate, whether by waiving notice of 
+any meeting, or voting or participating at a meeting. Every proxy must be signed by the Member 
+or his attorney-in-fact. Every proxy shall be revocable at the pleasure of the Member executing 
+it. 
+ 
+ARTICLE XI. MISCELLANEOUS PROVISIONS 
+ 
+11.1 Amendments. Except to the extent that another provision of this Agreement 
+expressly provides to the contrary, any amendment to this Agreement must be approved, in 
+writing, by the Manager and a Super Majority in Interest of the Members . Each Member, 
+Substituted Member, Manager and successor or additional Manager shall become a signatory of 
+this Agreement by signing such number of counterpart signature pages to this Agreement or such 
+other instrument or instruments, and in a manner and at a time, as the Manager shall deter mine. 
+By so signing, each Member, Substituted Member, Manager or successor or additional Manager, 
+as the case may be, shall be deemed to have adopted, and to have agreed to be bound by, all the 
+provisions of this Agreement, as amended from time to time in accordance with the provisions of 
+this Agreement; provided, however, that no such counterpart shall be binding on the Company 
+until it shall have been accepted by the Manager pursuant to the provisions of this Agreement. 
+ 
+11.2 Investment Representations. By execution hereof, each Member acknowledges 
+and agrees that such Member understands: (a) that the interests evidenced by this Agreement 
+have not been registered under the Securities Act of 1933, as amended, or any state securities 
+laws (the "Securities Acts") because the Company is issuing these interests in reliance upon the 
+exemptions from the registration requirements of the Securities Acts providing for issuance of 
+securities not involving a public offering, (b) that the Company has relied upon the fact that the 
+interests are to be held by each Member for investment purposes only, and (c) that exemption 
+from registration under the Securities Acts would not be available if the interests were acquired 
+by a Member with a view to distribution. Accordingly, each Member hereby confirms to the 
+Company that such Member is acquiring its interest hereunder for such own Member for 
+investment and not with a view to the resale or distribution thereof. Each Member agrees not to 
+transfer, sell or offer for sale any portion of such interest unless there is an effective registration 
+or other qualification relating thereto under the Securities Acts or unless the Member delivers to 
+the Company an opinion of counsel, satisfactory to the Company, that such registration or other 
+qualification under such Securities Acts is not required in connection with such transfer, offer or 
+sale. Each Member understands that the Company is under no obligation to register the interests 
+or to assist such Member in complying with any exemption from registration under the Securities 
+Acts if such Member should at a later date wish to dispose of any interest hereunder. 
+Furthermore, each Member realizes that such interests are unlikely to qualify for disposition 
+under Rule 144 of the Securities and Exchange Commission unless such Member is not an 
+"affiliate" of the Company and the interest has been beneficially owned and fully paid for by 
+such Member for at least two (2) years. Each Member represents and warrants that prior to 
+investing or acquiring any interest in the Company, such Member and his legal or other 
+representatives have made an independent investigation of the Company and its business and 
+have had made available to them all information with respect thereto requested and/or needed to 
+make an informed decision to acquire the interest. Each Member represents and warrants that he 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 27: Page 27
+24 
+is an "accredited investor" under Regulation D of the Securities Act of 1933, and under the state 
+securities laws of the particular state of residence of such Member, and that he is a person 
+possessing experience and sophistication as an investor which are adequate for the evaluation of 
+the merits and risks of such Member's investment in the Company. 
+ 
+11.3 Parties Bound and Benefited . The covenants and agreements contained in this 
+Agreement shall be binding upon, and inure to the benefit of, the heirs, executors, administrators, 
+personal representatives, successors and assigns (to the extent permitted) of the respective parties 
+to this Agreement. Nothing in this Agree ment, expressed or implied, is intended to confer on 
+any other Person any rights or remedies under or by this Agreement. 
+ 
+11.4 Entire Agreement. The parties agree that this instrument (together with attached 
+exhibits and schedules) contains the entire understanding among the parties to this Agreement 
+with respect to the subject matter of this Agreement, and supersedes all prior and 
+contemporaneous agree ments and understandings, proposals, representations, warranties, 
+inducements or conditions, express or implied, oral or written, except as contained in this 
+Agreement. The parties acknowledge that each has read this Agreement, understands it and 
+agrees to be bound by its terms. The parties further agree that this Agreement may not in any 
+way be explained or supplemented by a prior or existing course of dealing between the parties, 
+by any usage of any trade or custom, or by any prior performance by the parties pursuant to this 
+Agreement. Except as otherwise expressly provided herein, this Agreement may not be modified 
+or amended other than by an agreement in writing signed by any party contesting the validity of 
+the modification or amendment. 
+ 
+11.5 Governing Law. The validity of this Agreement, the terms of this Agreement, 
+and all duties, obliga tions and rights existing from this Agreement, shall be governed by and 
+interpreted in accordance with the local laws of the State of Michigan. Any action to enforce, 
+arising out of, or relating in any way to, any of the provisions of this Agreement shall be brought 
+and prosecuted in the courts of and for the State of Michigan as is provided by law; the parties 
+consent to the jurisdiction of those courts of and for the State of Michigan and to the service of 
+process by registered mail, return receipt requested or by any other manner provided by law. 
+ 
+11.6 Severability of Provisions; Waiver of Right to Partition . Each provision of 
+this Agreement shall be considered severable. If for any reason any provision or provisions 
+hereof are determined to be invalid or contrary to any exist ing or future law, that invalidity shall 
+not impair the operation of or affect those portions of this Agreement which are valid. Each 
+Member irrevocably waives any right he may have to maintain any action for partition with 
+respect to any of the Company's Property. 
+ 
+11.7 Construction; Captions; Pronouns. Every covenant, term, and provision of this 
+Agreement shall be construed simply according to its fair meaning and not strictly for or against 
+any particular party. The captions contained in this Agreement (including exhibits and 
+schedules) are for convenience only, form no part of this Agreement and shall not in any manner 
+amplify, limit, modify or otherwise affect the interpretation of this Agreement. As used in this 
+Agreement (including exhibits and schedules), the masculine, feminine or neuter gender and the 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 28: Page 28
+25 
+singular or plural number shall be deemed to include the others whenever the context so 
+indicates or requires. 
+ 
+11.8 Further Action . Each Member, upon the request of the Manager, agrees to 
+perform all further acts and execute, acknowledge, and deliver any documents that may be 
+reasonably necessary, appropriate, or desirable to carry out the provisions of this Agreement. 
+ 
+11.9 Counterparts. This Agreement may be executed in several counterparts, all of 
+which together shall constitute one agreement binding on all parties to this Agreement, 
+notwithstanding that all the parties have not signed the same counterpart. 
+ 
+11.10 Time. Time is of the essence with respect to the rights and obligations arising 
+under this Agreement. 
+ 
+11.11 Specific Performance and Damages . The Members understand and agree that 
+any Member may suffer irreparable damage in the event that this Agreement is not specifically 
+performed according to its terms. Accordingly, the Members agree that all the terms of this 
+Agreement will be enforceable in a court having equity jurisdiction by a decree of specific 
+performance or by injunction or by both; provided, however, that the foregoing will not be 
+construed as prohibiting any of the Members from pursuing any additional remedies for a breach 
+or threatened breach of this Agreement, including the recovery of damages. 
+ 
+11.12 Counsel. Each Member acknowledges that Varnum LLP has prepared this 
+Agreement for and on behalf of the Company in connection with its representation of the 
+Company, and that Varnum LLP has not been retained to represent, and in fact is not 
+representing, any other Person in connection with the preparation, negotiation, or evaluation of 
+the matters contemplated by this Agreement (unless otherwise set forth in a separate engagement 
+letter or similar written agreement), and each other Person acknowledges having been advised to 
+obtain or to consider obtaining independent counsel to represent such other Person in connection 
+with any matters arising hereunder as to which such other Person may desire counsel. 
+ 
+11.13 Notices. Whenever written notice is required by the terms of this 
+Agreement, such notice will be valid if delivered in one of the following ways: by personal/hand 
+delivery with written receipt; by reputable overnight courier with verified delivery; by registered 
+or certified U.S. mail, return receipt requested; or by email (with return email confirming 
+receipt), to the address for such notified party set forth below its signature on the signature page 
+of this Agreement (or to any more current address subsequently provided by the notified party or 
+of which the sending party has actual knowledge). Notices are effective upon the date delivered 
+or the date when delivery is attempted but refused. 
+ 
+ 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 29: Page 29
+26 
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date 
+set forth in the heading. 
+ 
+COMPANY: BRAG & BEV, LLC 
+ 
+ 
+ By 
+John F. Braganini, Manager 
+ 
+Address for notice: 
+ 
+8180 Slate Stone Circle 
+ 
+Portage, MI 49024 
+jbglm2@gmail.com 
+ 
+MANAGER: 
+ 
+John F. Braganini 
+ 
+Address for notice: 
+8180 Slate Stone Circle 
+ 
+Portage, MI 49024 
+jbglm2@gmail.com 
+ 
+ 
+MEMBERS: 
+ 
+Jacob B. Bevier 
+ 
+Address for notice: 
+ 
+105 Pendleton Trail 
+ 
+Tyron, GA 30290 
+bevier19jac@icloud.com 
+ 
+ 
+ 
+ 
+Candace Bevier 
+ 
+Address for notice: 
+ 
+105 Pendleton Trail 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 30: Page 30
+27 
+ 
+Tyron, GA 30290 
+candace.aaron@hotmail.com 
+ 
+ 
+ 
+JOHN F. BRAGANINI TRUST 
+ 
+ 
+ By 
+John F. Braganini, Trustee 
+ 
+Address for notice: 
+ 
+8180 Slate Stone Circle 
+ 
+Portage, MI 49024 
+jbglm2@gmail.com 
+ 
+ 
+ 
+SARAH J. BRAGANINI TRUST 
+ 
+ 
+ By 
+Sarah J. Braganini, Trustee 
+ 
+Address for notice: 
+ 
+8180 Slate Stone Circle 
+ 
+Portage, MI 49024 
+sarahjbraganini@gmail.com 
+ 
+ 
+ 
+ 
+APOLLO BRAGANINI II TRUST 
+ 
+ 
+ By 
+ Apollo Braganini II, Trustee 
+ 
+ Address for notice: 
+ 
+8129 E. D Ave. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 31: Page 31
+28 
+ 
+Richland, MI 49083 
+abraganini@gmail.com 
+ 
+ 
+ 
+ 
+ 
+EXHIBITS: 
+ 
+A (Definitions) 
+B (Capital Contributions/Ownership) 
+C (Assignment and Declaration) 
+D (Draw Promissory Note) 
+E (Royalty Agreement) 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 32: Page 32
+A-1 
+EXHIBIT A 
+ 
+DEFINITIONS 
+ 
+"Adjusted Capital Account Deficit " means the deficit balance, if any, in a Member's 
+Capital Account (i) increased by (a) to the extent provided in Regulation Section 1.704 -
+1(b)(2)(ii)(c), the amount of any unconditional obligation of such Member imposed by state or 
+local law to make contributions to the Company and (b) the amount the Member is deemed 
+obligated to restore pursuant to Regulations Section 1.704 -2(g)(1) and Section 1.704-2(i)(5), and 
+(ii) decreased by the items described in Regulation Section 1.704 -1(b)(2)(ii)(d)(4), (5) and (6). 
+This definition is intended to comply with the requirements of the alternate test for economic 
+effect contained in Regulation Section 1.704-1(b)(2)(ii)(d). 
+ 
+"Adjusted Capital Contribution Account " means a financial account to be maintained by 
+the Company for the Members, which account shall be equal to the total amount of cash 
+contributed to the capital of the Company by all of the Members and decreased by amounts 
+distributed to the Members pursuant to Article IV. 
+ 
+"Affiliate" means (i) any Person directly or indirectly controlling, con trolled by or under 
+common control with another Person; (ii) any Person owning or controlling 10% or more of the 
+outstanding voting securities of such other Person; (iii) any officer, director, or Member of such 
+Person; and (iv) if such Person is an officer, director, or Member, any Company for which such 
+Person acts in that capacity. 
+ 
+"Agreement" means this Operating Agreement for BRAG & BEV , LLC, as amended 
+from time to time. Words such as "herein," "hereinafter," "hereof," "hereto," "hereby" and 
+"hereunder," when used with reference to this Agreement, refer to this Agreement (including 
+exhibits and schedules) as a whole, unless the context otherwise requires. 
+ 
+"Capital Account" means the account described in Section 3.2. 
+ 
+"Capital Contribution " means the total amount of cash or the gross asset value of any 
+property other than cash contributed to the capital of the Company (prior to the deduc tion of any 
+expenses) by all the Members or any class of Members or any one Member, as the case may be 
+(including the predecessor Holders of the Company Units of such Members or Member). 
+ 
+"Cash Flow " means, with respect to any fiscal year, cash receipts from Company 
+operations, without deduction for depreciation or cost recovery deductions, but after deducting 
+cash receipts used to pay operating expenses, Debt Service and capital expenditures. 
+ 
+"Code" means the Internal Revenue Code of 1986, as amended (or any corresponding 
+provision or provisions of succeeding law). 
+ 
+"Company" means BRAG & BEV , LLC, the limited liability company formed pursuant 
+to this Agreement. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 33: Page 33
+A-2 
+ 
+"Company Interest" means the extent (expressed as a percentage) to which a Person is 
+entitled to participate in net income and gain, net loss and Disbursable Cash and all other 
+attributes of ownership to which a Member is entitled under this Agreement. Unless otherwise 
+provided herein, such percentage(s) shall be determined with reference to the proportionate 
+ownership of Company Units held by such Person. 
+ 
+"Company Unit" means a Company Interest repre sented by a specified Capital Contribu -
+tion per Company Unit, or if no "per unit" amount is specified, represented by a Capital 
+Contribution for the number of Company Units as indicated on Exhibit B. The Holder of 
+Company Units will, subject to the provisions of this Agreement, be entitled to participate in 
+allocations of net income and gain, net loss, and Disbursable Cash and all other attributes of 
+ownership. 
+ 
+“Competing Business” has the meaning set forth in Section 5.5(b) of this Agreement. 
+ 
+“Confidential Information” has the meaning set forth in Section 5.5(c) of this Agreement. 
+ 
+"Consent" means either the consent given by vote at a meeting called and held in 
+accordance with the provisions of this Agreement or the written consent, as the case may be, of a 
+Person to do the act or thing for which the consent is solicited, or the act of granting the consent, 
+as the context may require. Reference to a specified percentage in interest of the Members 
+means Members whose combined Company Interests represent such specified percentage, 
+respectively, of the Company Interests of all Members entitled to vote on the matter. 
+ 
+"Debt Service " means all payments of principal, interest or premium or other finance 
+charges required to be made in connection with any loan to the Company. 
+ 
+"Device" has the meaning set forth in Section 2.3 of this Agreement. 
+ 
+"Disbursable Cash" means, with respect to any fiscal period, Cash Flow less any amounts 
+set aside from Cash Flow for the restoration or creation of Reserves. 
+ 
+“Draw Note” means the Draw Promissory Note to be issued by the Company to John F. 
+Braganini or his trust as set forth in footnote 2 to Exhibit B of this Agreement, such Draw 
+Promissory Note to be in the form of Exhibit D to this Agreement. 
+ 
+“Founding Member(s)” means Jacob B. Bevier and Candace Bevier. 
+ 
+“Holder(s)” has the meaning set forth in Section 7.3 of this Agreement. 
+ 
+"Majority in Interest " means, with respect to any group of Members or holders of 
+Company Interests voting on or affected by any particular matter, those Members or holders 
+having more than 50% of the Company Interests of all such Members or holders comprising the 
+group voting or affected. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 34: Page 34
+A-3 
+ 
+"Manager" means John F. Braganini. Manager shall also mean any other Person or 
+Persons who have been admitted, as provided in this Agreement, as a successor Manager or as an 
+additional Manager. Any reference to "Manager" shall be deemed to include each Person who 
+then is a Manager. 
+ 
+"Member" means any Person who is a Member at the time of reference, in such Person's 
+capacity as a Member of the Company, including the Manager. If a Person is a Member 
+immediately before the purchase or other acquisition by such Person of a Company Interest, then 
+such Person shall have all the rights of a Member with respect to such acquired Company 
+Interest. 
+ 
+"Member Minimum Gain" means an amount, with respect to each Member Nonrecourse 
+Debt, equal to the Company Minimum Gain that would result if such Member Nonrecourse Debt 
+were treated as a Nonrecourse Liability, determined in accordance with Section 1.704 -2(i)(3) of 
+the Regulations. 
+ 
+"Member Nonrecourse Debt " has the meaning set forth in Section 1.704 -2(b)(4) of the 
+Regulations for Partner Nonrecourse Debt. 
+ 
+"Member Nonrecourse Deductions" has the meaning set forth in Section 1.704 -2(i)(2) of 
+the Regulations for "partner nonrecourse deductions." The amount of Member Nonrecourse 
+Deductions with respect to a Member Nonrecourse Debt for a Company fiscal year equals the 
+excess, if any, of the net increase, if any, in the amount of Member Minimum Gain attributable 
+to such Member Nonrecourse Debt during that fiscal year over the aggregate amount of any 
+distributions during that fiscal year to the Member that bears the economic risk of loss for such 
+Member Nonrecourse Debt to the extent such distributions are from the proceeds of such 
+Member Nonrecourse Debt and are allocable to an increase in Member Minimum Gain 
+attributable to such Member Nonrecourse Debt, determined in accordance with Section 1.704 -
+2(i)(2) of the Regulations. 
+ 
+"Nonrecourse Deductions " has the meaning set forth in Section 1.704 -2(b)(1) of the 
+Regulations. The amount of Nonrecourse Deductions for a Company fiscal year equals the 
+excess, if any, of the net increase, if any, in the amount of Company Minimum Gain during that 
+fiscal year over the aggregate amount of any distributions during that fiscal year of proceeds of a 
+Nonrecourse Liability that are allocable to an increase in Company Minimum Gain, determined 
+according to the provisions of Section 1.704-2(c). 
+ 
+"Nonrecourse Liability " has the meaning set forth in Section 1.752 -l(a)(2) of the 
+Regulations. 
+ 
+"Notification" means a writing containing the information required by this Agree ment to 
+be communicated to any Person, sent by registered, certified or regular mail, or by reputable 
+commercial overnight delivery service, postage prepaid, to the Person at the last known address 
+of the Person. The date of registry of the Notification or the date of the certified receipt in the 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 35: Page 35
+A-4 
+case of registered or certified mail shall be deemed the date of Notification; provided, however, 
+that any written communication containing the information required to be communicated to the 
+Person and actually received by the Person shall constitute Notification for all purposes of this 
+Agreement. 
+ 
+"Person" means any natural person, partnership, limited liability company, corporation, 
+trust, association or other legal entity. 
+ 
+“Primary Business” has the meaning set forth in Section 2.3 of this Agreement. 
+ 
+"Property" means all real and personal property acquired by the Company and any 
+improvements thereto, and shall include the Device and all other tangible and intangible 
+property. 
+ 
+"Reserves" means, with respect to any fiscal period, payments made or amounts allocated 
+during the period to reserves which shall be maintained in amounts deemed sufficient by the 
+Manager for working capital and to pay taxes, insurance, Debt Service, repairs, replacements or 
+renewals, or other costs and expenses incident to the ownership or operation of the Company's 
+business and for any future growth or capital acquisitions the Manager may contemplate. 
+ 
+“Royalty Member(s)” means the John F. Braganini Trust, the Sarah J. Braganini Trust, 
+the Apollo Braganini Trust, and any other Member who becomes a party to a Royalty Agreement 
+of even date with this Agreement by and among the Company and such persons, along with any 
+successor, assign, or beneficiary of any of such persons. 
+ 
+"Substituted Member" means any Person admitted to the Company as a Member pursuant 
+to the provisions of Section 7.2 of this Agreement. 
+ 
+"Super Majority in Interest " means, with respect to any group of Members or holders of 
+Company Interests voting on or affected by any particular matter, those Members or Holders 
+having more than 90% of the Company Interests of all such Members or Holders comprising the 
+group voting or affected. 
+ 
+"Triggering Event" means an event described as such in Section 7.3 of this Agreement. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 36: Page 36
+B-1 
+EXHIBIT B 
+ 
+ 
+ 
+Name 
+Capital 
+Contribution 
+Company 
+Units 
+Company 
+Interest 
+Jacob B. Bevier $6401 64 64% 
+Candace Bevier $1601 16 16% 
+John F. Braganini Trust $502 5 5% 
+Sarah J. Braganini Trust $50 5 5% 
+Apollo Braganini II Trust $100 10 10% 
+Totals $1,000 100 100% 
+ 
+ 
+ 
+1 This Member also agrees to assign to the Company all of such Member’s ownership rights and patent rights in the 
+Device pursuant to the terms of an Assignment and Declaration in the form attached to this Agreement as Exhibit C. 
+ 
+2 This Member also agrees to provide the following loans to the Company pursuant to the terms set forth in the Draw 
+Promissory Note in the form attached to this Agreement as Exhibit D, provided that the Company enters into a 
+Royalty Agreement in the form attached to this Agreement as Exhibit E: 
+ 
+ Milestone Loan Draw Amount 
+ 
+• Within three (3) business days following the date of this Agreement: $12,000 
+ 
+• When the initial prototype of the Device performs $18,000 
+ successfully in the opinion of the Trustee of the John 
+F. Braganini Trust: 
+ 
+• As and when needed for further commercial development 
+of the Device, in the opinion of the Trustee of the John F. 
+Braganini Trust: Up to $270,000 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 37: Page 37
+C-1 
+EXHIBIT C 
+FORM OF ASSIGNMENT AND DECLARATION 
+ 
+As a below named inventor, I hereby declare that: 
+ 
+The declaration is directed to: 
+ 
+ The attached application or 
+ 
+United States application or PCT international application number 
+63/723,626 filed on ___________________. (I hereby authorize the insertion of 
+the application filing date and number when they become known.) 
+ 
+The above-identified application was made or authorized to be made by me. 
+ 
+I believe that I am the original inventor or an original joint inventor of a claimed invention in the 
+application. 
+ 
+I am aware of the duty to disclose to the U.S. Patent and Trademark Office all information 
+known to me to be material to patentability as defined in 37 C.F.R. 1.56. 
+NOW, THEREFORE, for good and valuable consideration, receipt of which is hereby acknowledged, I do 
+hereby assign, sell and set over to Brag & Bev, LLC, a limited liability company organized and existing 
+under the laws of the state of Michigan, and having a place of business at 105 Pendleton Trail, Tyrone, 
+Georgia 30290, hereinafter referred to as the ASSIGNEE, its successors, assigns or other legal 
+representatives, my entire right, title and interest, domestic and foreign, in and to the inventions and 
+discoveries in the above-identified application including the right of said ASSIGNEE, its successors, 
+assigns or other legal representatives to make applications and to receive Letters Patent for said 
+inventions and discoveries in any and all foreign countries in its or their own name or names, or in my 
+name, at its or their election, and I hereby assign, sell and set over to said ASSIGNEE, its successors, 
+assigns or other legal representatives, all rights of priority, including any provisional applications, in and 
+to said inventions and discoveries in all countries, including all applications claiming benefit of the filing 
+date hereof, continuations, continuations-in-part, divisionals, reexaminations and reissue applications. 
+And I hereby agree for myself, my heirs, successors, assigns or other legal representatives to execute any 
+and all papers, including applications for Letters Patent of any and all kinds and in any and all countries 
+and to perform any and all acts which said ASSIGNEE, its successors, assigns or other legal 
+representatives may deem necessary to secure thereto the rights herein assigned, sold and set over. 
+And I hereby represent and warrant that I have not granted any rights inconsistent with the rights granted 
+herein. 
+ASSIGNMENT AND DECLARATION (37 C.F.R. 1.63) FOR UTILITY OR DESIGN 
+APPLICATION USING AN APPLICATION DATA SHEET (37 C.F.R. 1.76) 
+Title of Invention 
+ 
+ 
+Self-Righting Automatic Dumpster Cleaning Device 
+X 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 38: Page 38
+C-2 
+I hereby acknowledge that any willful false statement made in this declaration is punishable under 18 
+U.S.C. 1001 by fine or imprisonment of not more than five (5) years, or both. 
+LEGAL NAME OF INVENTOR 
+Inventor: _Jacob B. Bevier_______________________________ Date: ___________________ 
+Signature: _____________________________________________________________________ 
+Page 1 (Supplemental Sheet with Additional Joint Inventors is attached if necessary) 
+Note: An Application Data Sheet (PTO/SB/14 or equivalent), including naming the entire inventive entity, must accompany this form 
+ 
+27476420v1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 39: Page 39
+D-1 
+ 
+EXHIBIT D 
+ 
+FORM OF DRAW PROMISSORY NOTE 
+ 
+DRAW PROMISSORY NOTE 
+ 
+ 
+$300,000.00 June 12, 2025 
+ 
+FOR VALUE RECEIVED, Brag & Bev, LLC, a Michigan limited liability company 
+(“Borrower”), promises to pay to the order of John F. Braganini, as Trustee of the John F. 
+Braganini Trust (" Lender"), at 8180 Slate Stone Circle, Portage, Michigan 49024, or at such 
+other place as the holder of this Note shall designate in writing to the Borrower, the principal 
+sum of Three Hundred Thousand and no/100 Dollars ($300,000.00) or such lesser sum as may 
+have been advanced to the Borrower (the “ Loan”), together with interest thereon in accordance 
+with the terms of this Note. 
+ 
+1. Interest Rate. The interest rate shall be at a fixed rate of five percent (5.0 %) per 
+annum, computed on the basis of a 360 -day year for the actual number of days outstanding , and 
+compounded annually. In addition, a late payment charge to defray administrat ive expenses in 
+the amount of $250.00 for any payment overdue more than five (5) days may be assessed by 
+Lender. 
+ 
+2. Default Interest Rate. Notwithstanding anything hereto to the contrary, during all 
+times that there exists a default under this Note and after maturity, whether by accelera tion or 
+otherwise ("Event of Default "), the interest rate hereon shall be a per annum rate which is two 
+percent (2.0%) above the " Prime Rate"). As used herein, the "Prime Rate" shall mean that rate 
+of interest per annum designated by The Wall Street Journal as the "Prime Rate" as published for 
+such day (or, if such day is not a business day, for the immediately preceding business day). 
+Any change in the interest rate on this Note due to a change in the Prime Rate shall be effective 
+as of the date of such change. 
+ 
+3. Use of Proceeds . Loan proceeds shall be used by Borrower solely to develop a 
+patented self -righting automatic dumpster cleaning device (the “ Device”) for commercial 
+production and sale (the “Loan Purpose”). 
+ 
+4. Availability; Advances . Advances on Loan funds shall be governed by the 
+following terms: 
+ 
+a. Milestones. Advances on the Loan shall be available upon the 
+achievement of certain “Milestones” as follows: 
+ 
+i. Milestone 1; Initial Advance . Within three (3) Business Days following 
+the issuance date of this Note: $12,000; 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 40: Page 40
+D-2 
+ 
+ii. Milestone 2 . When the initial prototype of the Device performs 
+successfully in the opinion of the Lender: $18,000; 
+ 
+iii. Additional Milestones . If and when Borrower demonstrates to Lender’s 
+satisfaction that additional advances are needed to further advance the Loan Purpose, 
+Lender may in his discretion advance additional Loan funds in amounts deemed 
+appropriate by Lender. Borrower will provide Lender with all information and documents 
+reasonably necessary for Lender to evaluate a proposed additional Milestone and related 
+advance. 
+ 
+b. No Re -Advances. The Loan is not a revolving loan facility . P rincipal 
+amounts that are repaid from time to time shall not be available for re-advance. 
+ 
+c. No Advances following Default. Notwithstanding anything in this Note to 
+the contrary, no advances shall be made on the Loan after the occurrence of an Event of 
+Default under this Agreement. 
+ 
+d. Maximum Advance. Aggregate principal advances on this Note shall at 
+no time exceed the amount of $300,000. 
+ 
+5. Security and Loan Documents. The indebtedness evidenced by this Note and any 
+extension, renewal, or refinancing of such indebtedness is secured by a Security Agreement 
+executed and delivered by Borrower and may be further secured by other documents now or 
+hereafter executed and delivered by the Borrower or by a guarantor or other person as security 
+for the Loan (“Security Documents”). The Lender and Borrower are parties along with others to 
+a Royalty Agreement of even date herewith (“ Royalty Agreement”) pursuant to which 
+Borrower is to pay down the Loan using certain Royalty Payments as calculated and defined in 
+such Royalty Agreement. The Security Documents, the Royalty Agreement, and this Note are 
+sometimes referred to in this Note as the “Loan Documents”. 
+ 
+6. Payment. This Note shall be paid as follows: 
+ 
+a. Scheduled Payment. All outstanding principal, interest, late charges, fees, 
+costs, and all other amounts then unpaid shall be paid in full in one lump sum on the 
+seventh anniversary of the date of issuance of this Note. 
+ 
+b. Mandatory Prepayments. Borrower shall make mandatory prepayments of 
+the Loan with Royalty Payments as calculated and defined in the Royalty Agreement. 
+ 
+c. Additional Prepayment . In addition to the mandatory prepayments , the 
+Borrower may prepay this Note in whole or in part, at any time or from time to time, 
+without premium or penalty. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 41: Page 41
+D-3 
+d. Application of Payments . All payments may be applied, at the Lender's 
+option, as follows: first to any collection costs or expenses (including reasonable 
+attorneys’ fees), then to any late charges or other fees owing under the Loan Documents, 
+then to accrued interest, then to principal. 
+ 
+7. Default. The Borrower shall be in default hereunder upon the happening of any 
+of the following (an “Event of Default”): 
+ 
+a. Any failure to make any payment of principal or accrued interest on the 
+Note when due; or 
+ 
+b. The occurrence of a default under the terms of any of the Loan Documents 
+or other agreements executed in connection herewith, that is not cured within the 
+applicable time periods set forth in such documents; or 
+ 
+c. Dissolution, termination of existence, or insolvency of the Borrower; 
+appointment of a receiver for the Borrower or any part of the property of Borrower; 
+assignment for the benefit of Borrower’s creditors; or the commencement of any 
+proceeding under any bankruptcy or insolvency laws by or against the Borrower. 
+ 
+8. Remedies. Upon the occurrence of an Event of Default, the Lender may at its 
+option declare principal, accrued interest, late fees, costs, and other amounts owed pursuant to 
+this Note to be immediately due and payable, without presentation, demand, protest , or notice of 
+any kind, all of which are hereby expressly waived. Lender shall have all the rights and 
+remedies of a Secured Party under the Uniform Commercial Code as enacted in Michigan , and 
+all other rights and remedies set forth in the Security Documents or otherwise available at law or 
+in equity. 
+ 
+9. General Provisions . Acceptance of payment or waiver of any default shall not 
+operate as a waiver of later defaults, nor of any other rights of the Lender. Any failure by the 
+holder of this Note to exercise any right under this Note, including the right to accel erate 
+Borrower's obligations upon an Event of Default, shall not constitute a waiver of the right to 
+exercise such right while such default continues or upon another default. No waiver or release 
+shall be binding against the holder of this Note unless given in writing by such holder. 
+ 
+10. Lender's Costs . In addition to all principal and accrued interest, the Borrower 
+agrees to pay all reasonable and documented costs of collection and enforcement of this Note or 
+any of the Security Documents including, without limitation, attorneys' fees, court costs, and all 
+other costs and expenses described in any of the Loan Documents. 
+ 
+11. Assignment. Lender shall have the right to assign all or any part of this Note and 
+to transfer rights of participation in this Note. 
+ 
+12. Presentment; Demand; Notice . The Borrower hereby waives presentment, 
+demand, protest, notice of protest and notice of dishonor of this Note. 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 42: Page 42
+D-4 
+ 
+13. Maximum Interest Rate. At no time shall the interest rate on this Note exceed the 
+highest interest rate permitted by law. To the extent amounts received by the holder of this Note 
+are attributable to an interest rate in excess of that permitted by law, such amounts shall be 
+deemed permitted prepayments of principal last coming due and applied as such without 
+premium or penalty. 
+ 
+14. Governing Law. This Note, executed in the State of Michigan, shall be gov erned 
+by and construed in accordance with the laws of the State of Michigan. Any provision 
+conflicting with any statute or rule of law of the State of Michigan, including any statute or rule 
+of law relating to the maximum rate of interest that can be paid by Borrower, or otherwise 
+unenforceable for any reason, shall be deemed severable from the balance of this Note and shall 
+be enforced to the maximum extent permitted by law and shall not invalidate any other provision 
+contained in this Note. 
+ 
+ Made as of the day and year first above written. 
+ 
+ 
+ 
+ 
+BORROWER : 
+ 
+BRAG & BEV, LLC, a Michigan limited 
+liability company 
+ 
+By: John Braganini___________________ 
+ 
+Its: Manager 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature Page to Draw Promissory Note ($300,000) 
+ 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 43: Page 43
+27125478v8 
+ 
+E-1 
+EXHIBIT E 
+ 
+FORM OF ROYALTY AGREEMENT 
+ 
+ROYALTY AGREEMENT 
+ 
+ This Royalty Agreement ("Agreement") is entered as of June 13, 2025, by and between 
+Brag & Bev, LLC, a Michigan limited liability company (the “Company”), John F. Braganini as 
+Trustee of the John F. Braganini Trust (“JB”), Sarah J. Braganini as Trustee of the Sarah J. 
+Braganini Trust (“SB”), and Apollo Braganini II as Trustee of the Apollo Braganini Trust 
+(“AB”). JB, SB, and AB are sometimes collectively referred to as the “Investors”. 
+ 
+BACKGROUND: 
+ 
+ Jacob Bevier (the “Inventor”) invented a certain self -righting automatic dumpster 
+cleaning device (the “Device”) for which the following patent application was filed: U.S. 
+Provisional Application Serial No. 63/723,626 (sometimes referred to herein as the "Patent 
+Rights"). The interests of the Inventor have been assigned or otherwise transferred to the 
+Company by written assignment. 
+ 
+The Investors have made certain investments in the Company (the “Investments”), and 
+JB has agreed to make certain Loans to the Company (the “Loans”) pursuant to the terms of a 
+Draw Promissory Note (the “Note”). The proceeds of the Investments and the Loans will be used 
+by the Company to improve and develop the Device for commercial production and sale. 
+ 
+ In exchange for the Investments and Loans, the Company is willing to make Royalty 
+Payments to the Investors on the terms set forth in this Agreement. 
+ 
+AGREEMENT 
+ 
+ In consideration of the foregoing premises, the mutual covenants and agreements 
+hereinafter set forth, and other good and valuable consideration, the adequacy and receipt of 
+which are hereby acknowledged, the parties agree as follows: 
+ 
+ 1. Royalty. From and after the date of this Agreement, the Company agrees to pay 
+to the Investors royalties for each Device sold ("Royalties") equal to $1.00 per Device, as 
+follows: 
+ 
+a, 100% to JB to pay down and pay off the Loans (the “Loan Repayment 
+Royalties”), and then, once the Loans are 100% repaid, 
+ 
+ b. 50% to JB, 25% to SB, and 25% to AB (the “Investor Royalties”). 
+ 
+ 2. Royalty Payment. The Royalties set forth in Paragraph 1 are to be paid by the 
+Company to the Investors on a quarterly basis paid within thirty (30) days after the ending day of 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 44: Page 44
+27125478v8 
+ 
+E-2 
+each calendar quarter for which payment is being made (the “Royalty Payments”). Each Royalty 
+Payment shall be accompanied by a calculation summarizing how the amount of the Royalty 
+Payment was determined. Royalty Payments will be made by wire transfer or check as directed 
+by the Investors. 
+ 
+3. Warranties. The Company warrants that it has valid and exclusive title to the 
+Patent Rights and the Device by reason of written assignments granted to it by the Inventor, and 
+that the Inventor has no further ownership interest in the Patent Rights or the Device. 
+ 
+4. Covenant. The Company will use best efforts in good faith to improve and 
+develop the Device for commercial production and sale. 
+ 
+5. Indemnity. The Company agrees to indemnify the Investors with respect to 
+claims, damages, or losses resulting from or arising from the breach of the warranty and 
+covenants given to the Investors in the preceding paragraphs. 
+ 
+6. Transfers. The Company shall not license, assign, grant, sell, or otherwise 
+convey or transfer any right, title or interest to the Device or the Patent Rights to any other party 
+without the written consent of all Investors, which consent shall not be unreasonably withheld. 
+ 
+7. Term of this Agreement . The term of this Agreement shall continue ad 
+infinitum until terminated by further mutual written agreement of the parties, except that, if JB 
+fails to fund the Loans as required by and set forth in the Note, the Company shall have no 
+further obligation to pay Investor Royalties to JB, SB or AB (it being understood that the 
+Company shall continue to be obligated to pay the Loan Repayment Royalties to JB). 
+ 
+8. Interpretation. This Agreement shall be interpreted as drafted jointly by the 
+parties. 
+ 
+9. Governing Law. This Agreement shall be governed, construed, interpreted and 
+enforced in accordance with the laws of the State of Michigan, without regard to its conflicts of 
+laws and principles. 
+ 
+10. Assignment. This Agreement shall be binding upon and inure to the benefit of 
+the parties and their respective successors and permitted lawful assigns. 
+ 
+11. Amendment; Modification . This Agreement cannot be amended, altered, or 
+modified and no provision of this Agreement shall be waived, unless done so in writing, signed 
+by a duly authorized representative of the party against whom such modification is sought to be 
+enforced. A waiver by any party of any breach or failure to comply with any provision of this 
+Agreement by any other party shall not be construed as or constitute a continuing waiver of such 
+provision or a waiver of any other breach or failure to comply with any other provision of this 
+Agreement. 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784
+
+## Section 45: Page 45
+27125478v8 
+ 
+E-3 
+12. Entire Agreement. This Agreement constitutes the entire agreement between the 
+parties with respect to the subject matter of this Agreement. 
+ 
+13. Counterparts. This Agreement may be executed in one or more counterparts, 
+each of which shall be deemed to be an original, but all of which shall constitute one and the 
+same agreement. 
+ 
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed 
+by their authorized representatives. 
+ 
+ 
+COMPANY: 
+ 
+BRAG & BEV, LLC 
+ 
+ 
+ 
+ By 
+ John F. Braganini, Manager 
+ 
+ 
+INVESTORS: 
+ 
+ 
+ 
+ 
+John F. Braganini, as Trustee of the John F. 
+Braganini Trust 
+ 
+ 
+ 
+Sarah J. Braganini, as Trustee of the Sarah J. 
+Braganini Trust 
+ 
+ 
+ 
+Apollo Braganini II, as Trustee of the Apollo 
+Braganini II Trust 
+ 
+ 
+ 
+Docusign Envelope ID: F2CDC6F3-7452-4DCA-874A-3144F60A7784

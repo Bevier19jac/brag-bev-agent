@@ -1,0 +1,28 @@
+Source filename: Bluevine bank verification letter 20241212.pdf
+Source relative path: investor_docs/Bluevine bank verification letter 20241212.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:25.543496+00:00
+
+## Section 1: Page 1
+Re: Brag & Bev L.L.C
+105 PENDLETON TRL 
+Tyrone, GA 30290
+To Whom it May Concern: 
+This letter confirms the following information regarding the BlueVine
+Business Checking Account with banking services provided by Coastal
+Community Bank, Member FDIC for Brag & Bev L.L.C:
+Account #: 875106444768
+ABA #: 125109019
+Should you have any further questions, please do not hesitate to
+contact our Customer Support team at (888) 216-9619. 
+Sincerely, 
+Bluevine Inc.
+401 Warren St, Suite 300
+Redwood City, CA 94063
+www.bluevine.com
++1 (888) 216-9619
+December 12, 2024
+April Danile
+Vice President of Customer Success 
+Page 1 of 1

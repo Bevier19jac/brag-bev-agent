@@ -1,0 +1,174 @@
+Source filename: DumpsterDiver_BOV_SpecSheet.pdf
+Source relative path: rabbit_notes/DumpsterDiver_BOV_SpecSheet.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:17:44.231367+00:00
+
+## Section 1: Page 1
+Dumpster Diver — BOV Pilot Spec Sheet (F1–F4)
+Target pH 5.8–6.0  Viscosity window 250–600 cP  Filter 100–200 µm  Preservative: Optiphen Plus 1.0% or Phenoxyethanol
+0.8%
+F1 — Baseline Foaming Cleanser
+Ingredient
+% (w/w)
+1 L Batch (g)
+Deionized Water
+q.s. to 100%
+SCI (Sodium Cocoyl Isethionate)
+4.0%
+40 g
+CAPB (Cocamidopropyl Betaine)
+6.0%
+60 g
+Capryl Glucoside
+2.0%
+20 g
+Polysorbate 20
+1.0%
+10 g
+Vegetable Glycerin
+2.0%
+20 g
+Sodium Phytate
+0.20%
+2 g
+Peppermint Essential Oil
+0.30%
+Preservative (Optiphen Plus 1.0% or Phenoxyethanol 0.8%)
+see note
+10 g (Optiphen) / 8 g (Phenoxy)
+Citric Acid (10% solution) to pH
+5.8–6.0
+Goal: Simple, clear, stable; good foam; VOC-free; BOV-ready. pH: 5.8–6.0 Viscosity: ≈250–400 cP
+Notes: Primary foam from SCI + CAPB; add preservative <40°C; filter 100–200 µm before BOV; de-gas.
+F2 — Boosted Cleaning (Hydrotrope + Co■solvent)
+Ingredient
+% (w/w)
+1 L Batch (g)
+Deionized Water
+q.s. to 100%
+SCI
+3.5%
+35 g
+CAPB
+6.0%
+60 g
+Capryl Glucoside
+2.0%
+20 g
+SXS (Sodium Xylene Sulfonate, 40%)
+2.0%
+20 g
+DPG (Dipropylene Glycol)
+2.0%
+20 g
+Sodium Gluconate (or Phytate 0.2%)
+0.30%
+3 g
+Polysorbate 20
+1.0%
+10 g
+Vegetable Glycerin
+2.0%
+20 g
+Peppermint EO
+0.30%
+3 g
+Preservative
+as F1
+10 g (Optiphen) / 8 g (Phenoxy)
+Citric Acid (10% solution) to pH
+5.8–6.0
+Goal: Better grease/soil tolerance; remains BOV-sprayable. pH: 5.8–6.0 Viscosity: ≈250–450 cP
+Notes: Hydrotrope improves clarity/tolerance; tiny Propylene Carbonate 0.5–1.0% can aid clarity if hazy.
+F3 — Heavy■Duty Anionic System
+Ingredient
+% (w/w)
+1 L Batch (g)
+Deionized Water
+q.s. to 100%
+
+## Section 2: Page 2
+AOS■40 (Sodium C14■16 Olefin Sulfonate)
+8.0%
+80 g
+CAPB
+4.0%
+40 g
+SCI
+2.0%
+20 g
+Capryl Glucoside
+2.0%
+20 g
+SXS (40%)
+2.0%
+20 g
+HEC (Hydroxyethyl Cellulose, optional)
+0.20%
+2 g
+Sodium Citrate
+0.20%
+2 g
+Chelator (Phytate 0.2% or Gluconate 0.3%)
+0.20–0.30%
+2–3 g
+Polysorbate 20
+0.8%
+8 g
+Peppermint EO
+0.25–0.30%
+2.5–3 g
+Preservative
+as F1
+10 g (Optiphen) / 8 g (Phenoxy)
+Citric Acid (10% solution) to pH
+5.8–6.0
+Goal: Stronger cleaning; clearer rinse; anionic■forward. pH: 5.8–6.0 Viscosity: ≈300–600 cP
+Notes: Optional HEC for body; hydrate fully. Keep shear low; filter before BOV.
+F4 — Advanced (Builders + Polymer Anti■redeposition)
+Ingredient
+% (w/w)
+1 L Batch (g)
+Deionized Water
+q.s. to 100%
+AOS■40
+7.0%
+70 g
+CAPB
+5.0%
+50 g
+Capryl Glucoside
+2.0%
+20 g
+SCI
+2.0%
+20 g
+SXS (40%)
+2.0%
+20 g
+Propylene Carbonate
+1.0%
+10 g
+DPG
+1.5%
+15 g
+Sodium Polyacrylate
+0.20%
+2 g
+Chelator (Phytate 0.2% or Gluconate 0.3%)
+0.20–0.30%
+2–3 g
+Polysorbate 20
+0.8%
+8 g
+Peppermint EO
+0.25–0.30%
+2.5–3 g
+Preservative
+as F1
+10 g (Optiphen) / 8 g (Phenoxy)
+Citric Acid (10% solution) to pH
+5.8–6.0
+Goal: Highest performance; watch clarity/viscosity & filtration. pH: 5.8–6.0 Viscosity: ≈300–600 cP
+Notes: Add polyacrylate <35°C; ensure full hydration; fine filtration (100 µm) pre■BOV.

@@ -1,0 +1,27 @@
+Source filename: Trigger mechanism for downward force_1 (2).pdf
+Source relative path: rabbit_notes/Trigger mechanism for downward force_1 (2).pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:18:39.930761+00:00
+
+## Section 1: Page 1
+Trigger mechanism concept
+Draft-1 8/4/25
+Housing
+- Impact trigger is part of housing
+Weight
+- Self-righting
+- Gravity assist for 
+impact triggering
+Bottom base
+- Connected to spray canister
+Option2 Break away pull tab
+Impact resist
+after hitting bottom of bin
+Weight of housing 
+-downward force to trigger nozzle actuator
+Total Release nozzle
+-downward force to trigger nozzle actuator
+Option1 
+Break away pull tab
+for safety lock

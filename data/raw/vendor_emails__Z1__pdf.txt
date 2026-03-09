@@ -1,7 +1,10 @@
 Source filename: Z1.pdf
 Source relative path: vendor_emails/Z1.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:29.513269+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:20:02.672483+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Touching Base
 Date: October 9, 2025 at 12:07:43 PM
@@ -31,6 +34,7 @@ Jacob Bevier
 3/7/26, 11:25 AM iCloud Mail
 https://www.icloud.com/mail/ 1/3
 
+## Section 2: Page 2
 On Oct 6, 2025, at 11:56 AM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 Hi Jacob,
  
@@ -47,17 +51,18 @@ can is right side up, dropped down into the container.
  
       Thanks! Jim
  
-F r o m :  bevier19jac@icloud.com <bevier19jac@icloud.com>
-S e n t :  Monday, October 6, 2025 10:28 AM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Sarah Braganini <sarahjbraganini@gmail.com>
-S u b j e c t :  Next Steps while MNDA is being reviewed
+F r o m : bevier19jac@icloud.com <bevier19jac@icloud.com>
+S e n t : Monday, October 6, 2025 10:28 AM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Sarah Braganini <sarahjbraganini@gmail.com>
+S u b j e c t : Next Steps while MNDA is being reviewed
  
 Hey Jim,
  
 3/7/26, 11:25 AM iCloud Mail
 https://www.icloud.com/mail/ 2/3
 
+## Section 3: Page 3
 Hope you are well and had a great weekend!
 I thought I was losing my mind and could only find my correspondence with Andrew and
 couldn't find your information. 

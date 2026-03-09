@@ -1,0 +1,33 @@
+Source filename: Aerosol requirements and constraints-4_DD_8-11-25.pdf
+Source relative path: rabbit_notes/Aerosol requirements and constraints-4_DD_8-11-25.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:57.279659+00:00
+
+## Section 1: Page 1
+Aerosol formula and canister
+Requirements and constraints
+Draft-4 8/11/25
+Formula-2 eco-friendly SAP materials Rinsing Agent (Post-Cleaning Residue) 
+- The rinsing agent is released after the cleaning agent is activated and adheres to the trash bin surfaces.
+- Designed to absorb moisture and bind debris left behind by the cleaning agent.
+- Solidifies into a residue that is easy to remove
+Formula-1 Cleaning Agent
+- Cleaning agent that creates foam upon activation
+- Foam is designed to adhere to the sides and surfaces of the trash bin, loosening grime, grease, and debri, neutralizing odors.
+aerosol coverage
+of all inner surfaces
+(96 gal dumpster)
+29” Dia
+7.8”
+211 713 can
+-19oz / 651ml
+2.7”Aerosol contents-
+Cleaning/Foaming agent (hard surface cleaner)
+- not compatible as a vertical upward spray. 
+Fogger? can be sprayed to linger in air
+- more compatible as upward spray. 
+- Does not ‘clean’ anything.
+Propellant- required for spray distribution force45”
+Vertical
+travel

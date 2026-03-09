@@ -1,7 +1,10 @@
 Source filename: A3.pdf
 Source relative path: vendor_emails/A3.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:14.487588+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:18:42.861824+00:00
+
+## Section 1: Page 1
 From: Weston Schaperwschaper@arelabs.com
 Subject: RE: SitRep-Where are we at, what’s next, and where are we going
 Date: February 26, 2026 at 2:09:51 PM
@@ -11,6 +14,7 @@ Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 1/9
 
+## Section 2: Page 2
 Jacob,
  
 Sounds good. We will be ready to test when we receive the samples. Let us know if
@@ -28,12 +32,12 @@ Vice President - R&D
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Thursday, February 26, 2026 9:26 AM
-T o :  Mike Johnston <mike.johnston@rabbitpd.com>; Weston Schaper <wschaper@arelabs.com>; Jim
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Thursday, February 26, 2026 9:26 AM
+T o : Mike Johnston <mike.johnston@rabbitpd.com>; Weston Schaper <wschaper@arelabs.com>; Jim
 Johnson <jjohnson@sprayproducts.com>
-C c :  sarahjbraganini@gmail.com
-S u b j e c t :  SitRep-Where are we at, what’s next, and where are we going
+C c : sarahjbraganini@gmail.com
+S u b j e c t : SitRep-Where are we at, what’s next, and where are we going
  
 Hi Weston, Jim, and Mike,
 Hope everyone is doing well. I wanted to touch base and see where things currently
@@ -43,6 +47,7 @@ cans been sent over to ARE Labs? I just want to make sure we’re all aligned on
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 2/9
 
+## Section 3: Page 3
 timing and understand what the current timeline looks like from here.
 Once this next round is underway or completed, my goal is still to pull everyone
 together for a quick call to review results, confirm the direction on the actuator, and
@@ -56,7 +61,7 @@ Jacob Bevier
 On Feb 23, 2026, at 9:00 AM, Mike Johnston <mike.johnston@rabbitpd.com>
 wrote:
 Jacob,
-That is the plan as I understood it.  I look forward to hearing how the testing
+That is the plan as I understood it. I look forward to hearing how the testing
 goes and getting both empty & full cans if possible in design.
 All the best.
 Mike
@@ -70,8 +75,7 @@ mike.johnston@rabbitpd.com
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 3/9
 
- 
- 
+## Section 4: Page 4
 On Fri, Feb 20, 2026 at 1:41 PM Jacob Bevier <bevier19jac@icloud.com>
 wrote:
 Hey Weston,
@@ -102,6 +106,7 @@ development is moving forward smoothly with your new engineer. If you
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 4/9
 
+## Section 5: Page 5
 think we can be of any help, or if you have additional cans to test, just let
 us know!
  
@@ -117,11 +122,11 @@ Vice President - R&D
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, February 10, 2026 1:37 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, February 10, 2026 1:37 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier
 <bevier19jac@icloud.com>
-S u b j e c t :  Re: ARE Labs - Note on current spray can
+S u b j e c t : Re: ARE Labs - Note on current spray can
  
 Jim,
  
@@ -139,19 +144,20 @@ Get Outlook for iOS
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 5/9
 
-F r o m :  Jim Johnson <jjohnson@sprayproducts.com>
-S e n t :  Tuesday, February 10, 2026 12:12:47 PM
-T o :  Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+## Section 6: Page 6
+F r o m : Jim Johnson <jjohnson@sprayproducts.com>
+S e n t : Tuesday, February 10, 2026 12:12:47 PM
+T o : Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 What do you mean by lack of uniform coverage?    Does the spray
 pattern change throughout the dispensing?
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, February 10, 2026 12:59 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, February 10, 2026 12:59 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier
 <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 Jim,
  
@@ -166,6 +172,7 @@ Vice President - R&D
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 6/9
 
+## Section 7: Page 7
 (main) 913-850-6630
 (direct) 913-850-6262
 (fax) 913-850-6635
@@ -174,10 +181,10 @@ https://www.icloud.com/mail/ 6/9
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Jim Johnson <jjohnson@sprayproducts.com>
-S e n t :  Monday, February 9, 2026 3:10 PM
-T o :  Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Jim Johnson <jjohnson@sprayproducts.com>
+S e n t : Monday, February 9, 2026 3:10 PM
+T o : Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 The current bug foggers are activated by a person.  FYI, Jim
  
@@ -185,14 +192,15 @@ https://www.youtube.com/watch?v=w_KbSi9ZOxo
  
  
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Monday, February 9, 2026 3:47 PM
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Monday, February 9, 2026 3:47 PM
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 7/9
 
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier
+## Section 8: Page 8
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier
 <bevier19jac@icloud.com>
-S u b j e c t :  ARE Labs - Note on current spray can
+S u b j e c t : ARE Labs - Note on current spray can
  
 Hey guys,
  
@@ -217,6 +225,7 @@ Vice President - R&D
 3/7/26, 10:42 AM iCloud Mail
 https://www.icloud.com/mail/ 8/9
 
+## Section 9: Page 9
 Overland Park, KS 66213
 www.ARELabs.com
  

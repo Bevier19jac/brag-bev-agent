@@ -1,0 +1,575 @@
+Source filename: 11048 - ARELabs Report - Vertical Deposition Profile of Cleanser Spray v1.0.pdf
+Source relative path: rabbit_notes/11048 - ARELabs Report - Vertical Deposition Profile of Cleanser Spray v1.0.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:57.188845+00:00
+
+## Section 1: Page 1
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 1 of 15 
+ 
+Vertical Deposition Profile of Cleanser Spray 
+ 
+Braeden Scott a, 
+a Aerosol Research and Engineering Laboratories Inc., Overland Park, Kansas – 66213 
+ 
+ 
+Study Info: 
+ARE Labs Project # 11048.10 
+ 
+Date: January 29, 2026 
+ 
+Study Sponsor: 
+ 
+Bragg & Bevier LLC 
+ 
+ 
+Testing Lab: 
+ 
+ARE Labs Inc. 
+12880 Metcalf Avenue 
+Overland Park, KS – 66213 
+ 
+ 
+ 
+ 
+Purpose: To characterize vertical spray reach and internal surface coverage of a single -use cleanser 
+spray when deployed inside a closed 96 -gallon residential trash bin using gravimetric mass -gain 
+deposition coupons (mg/in²). 
+ 
+Background: In enclosed volumes, internal deposition is governed by spray plume geometry, 
+dispersion, wall impaction, gravitational settling, and post -deposition migration (dripping/pooling). 
+Products marketed as “foaming” may exhibit foam-rise effects; however, when discharge behavior is 
+spray-dominant, coverage is primarily a function of spray transport and settling dynamics. 
+ 
+Methods: Five aerosol cans were evaluated using one full, continuous upright discharge per can (five 
+independent trials). Deposition was quantified using 1 in² absorbent filter paper coupons installed at 
+four locations: 1 ft, 2 ft, and 3 ft above the bin bottom on the interior wall and the interior lid surface. 
+Four coupons were installed at each location (16 coupons per trial). Testing was performed with the 
+bin lid closed during discharge and a 3 -minute dwell period at controlled conditions of 70°F and 60 % 
+RH. Coupons were pre-weighed and post-weighed on an analytical balance and deposition density was 
+reported as mg/in². Internal lighting and video documentation were used to support qualitative 
+interpretation. 
+ 
+Results: Trial 1 was impacted by an unexpected fan-shaped spray and can tip-over, resulting in highly 
+directional impingement, incomplete measurements, and only one coupon showing measurable 
+deposition (106 mg/in²). Trial 2 produced a complete dataset (n = 16), with mean deposition of 12.00 
+mg/in² (1 ft), 5.75 mg/in² (2 ft), 156.75 mg/in² (3 ft), and 23.00 mg/in² (lid), characterized by non -
+uniform deposition with multiple 0 mg/in² coupons and isolated high-mass events. Trials 3 and 4, using 
+modified nozzles, discharged primarily as a coherent stream with a consistent directional bias, yielding 
+substantially lower deposition (Trial 3: 5.75, 0.75, 8.50, 0.50 mg/in²; Trial 4: 0.75, 0.50, 0.75, 0.75 
+mg/in² at 1 ft, 2 ft, 3 ft, and lid, respectively). Trial 5 produced moderate deposition (11.25, 1.75, 10.00, 
+and 26.00 mg/in²), with high variability at the 3 ft and lid locations (±1 SD up to 50.02 mg/in²), 
+indicating localized impaction rather than uniform coverage. 
+ 
+Conclusion: Across the completed datasets, the cleanser spray deposited measurable mass on 
+elevated internal surfaces; however, deposition was highly variable and strongly influenced by 
+discharge behavior and plume geometry. Trial 2 showed substantial deposition at th e 3 ft wall and 
+measurable lid deposition, occurring as localized impaction rather than uniform coverage. Trials 3 and 
+4 exhibited stream -like discharge behavior, resulting in minimal deposition at all locations and 
+preferential wetting of one side of the bin. Trial 5 produced moderate deposition at 1 ft and 3 ft with 
+the highest mean deposition on the lid, but remained highly non -uniform. Trial 1 is retained for 
+traceability only due to documented deviations. 
+ 
+ 
+Study Overview 
+The objective of this non -GLP screening study was to 
+quantify internal coverage efficiency and vertical reach of a 
+single-use cleanser spray in a closed 96 -gallon bin using 
+area-normalized gravimetric deposition coupons. Five 
+independent full -discharge tri als were planned and 
+executed as one discharge per can. Deposition was 
+assessed at four locations spanning the internal vertical 
+profile and lid interior using sixteen 1 in² coupons per trial 
+to generate an engineering -relevant deposition profile for 
+enclosed-bin application performance. 
+ 
+ 
+Background 
+Closed-bin deposition is driven by the interaction of spray 
+plume geometry and momentum with the enclosure 
+boundaries and by subsequent transport mechanisms, 
+including gravitational settling, turbulent dispersion, 
+impaction, and post -deposition migration v ia dripping and 
+pooling. These mechanisms can produce strong spatial 
+heterogeneity even when total discharged mass is high. 
+When product behavior is spray -dominant rather than 
+foam-dominant, “vertical reach” is best interpreted as the 
+ability of the spray plume and entrained droplets to reach 
+elevated surfaces (upper walls and lid) rather than foam -
+rise height.
+
+## Section 2: Page 2
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 2 of 15 
+ 
+ 
+ 
+Test Configuration 
+ 
+Testing was performed in a closed 96 -gallon residential 
+trash bin configured to represent enclosed, in -use 
+deployment conditions. The spray can was positioned 
+upright at the center of the bin floor and actuated as a 
+single continuous full discharge while t he lid remained 
+closed. Deposition was measured using 1 in × 1 in (1.0 in²) 
+absorbent filter paper coupons mounted flush to the 
+interior surfaces at four locations: 1 ft, 2 ft, and 3 ft above 
+the bin bottom along the interior wall and on the interior lid 
+surface. Four coupons were installed per location (16 total 
+per trial) with wall coupons distributed circumferentially 
+and lid coupons distributed across representative lid 
+regions. The bin was equipped with internal LED 
+illumination and an internally mounted, sealed smartphone 
+camera for video documentation. Testing was conducted 
+under controlled laboratory conditions of 70°F and 60% RH, 
+and coupons were collected after a 3 -minute closed -lid 
+dwell period for gravimetric determination of deposition 
+density (mg/in²). 
+ 
+Deviations / Trial 1 Deviation 
+ 
+Trial 1 included a major deviation identified during 
+execution. The nozzle/orifice configuration was different 
+than expected and produced a fan -shaped spray pattern 
+rather than a cone spray. This altered plume geometry 
+increased directional impingement and reduced 
+circumferential distribution, and several coupon post-mass 
+measurements as well as the surface deposition were not 
+recorded. As a result, Trial 1 is documented for traceability 
+but is not used as the primary dataset for coverage 
+efficiency interpretation. (To see data go to Table A1 in the 
+appendix). 
+ 
+Testing Conditions 
+Testing was performed at ARE Labs under controlled 
+environmental conditions of 70°F and 60% RH. A single 96 -
+gallon residential trash bin was used as the test enclosure, 
+and the lid remained closed during discharge and the post-
+discharge dwell period. 
+ 
+Samples Tested 
+The test articles consisted of pressurized, single -use 
+cleanser spray cans in which the nozzle locks itself once 
+activated. The spray cans are designed to dispense a 
+cleaning formulation as a spray plume. Each can was 
+discharged in a single continuous actuation with the can 
+maintained upright. During testing, the product exhibited 
+spray-dominant behavior rather than sustained foam 
+formation, and performance was therefore interpreted 
+primarily in terms of spray transport, impaction, and 
+settling within the enclosed bin. 
+ 
+ 
+Figure 1: The spray can samples used for testing. 
+ 
+ 
+Figure 2: The nozzle of the spray can samples 1&2. 
+ 
+Major Equipment Utilized 
+Testing utilized a 96 -gallon bin enclosure, internal LED 
+lighting, a smartphone video recording system mounted to 
+the underside of the lid (sealed for protection), and an 
+analytical balance suitable for mg-level measurements (per
+
+## Section 3: Page 3
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 3 of 15 
+ 
+ARE Labs equipment inventory). A measuring tool and 
+height markers were used to establish coupon locations at 
+1 ft, 2 ft, and 3 ft above the bin bottom and on the interior 
+lid surface. 
+Figure 3: The 96-gallon trash bin used for all test trials. 
+ 
+Methods 
+Each trial consisted of placing one aerosol can upright at the 
+center of the bin floor, initiating internal video recording, 
+and closing the bin lid. The can was discharged continuously 
+to empty while the lid remained closed. After discharge, the 
+bin remained closed for a 3 -minute dwell period to allow 
+spray settling and deposition stabilization. Coupons were 
+then removed sequentially with minimal disturbance, 
+placed into labeled containers, and weighed. 
+Deposition coupons were 1 in × 1 in absorbent filter paper 
+(1.0 in²). Sixteen coupons were installed per trial, with four 
+coupons at each location: 1 ft, 2 ft, and 3 ft on the interior 
+wall and four coupons on the interior lid surface. Each 
+coupon was uniquely labeled and pre -weighed prior to 
+installation. Post -test mass was recorded, mass gain was 
+calculated as post minus pre, and deposition density was 
+reported directly as mg/in². 
+Figure 4: Coupon placement and spray configuration inside 
+the 96-gallon bin (1ft, 2ft, 3ft wall locations and interior lid 
+surface). 
+ 
+RESULTS: Trial 1 (Deviation / Partial Data) 
+Trial 1 was impacted by a fan -shaped spray pattern 
+associated with an unexpected nozzle/orifice configuration 
+as well as the can tipping over . Several coupon post -test 
+masses were not recorded, and only one coupon showed 
+measurable deposition. The one recorded deposition event 
+was 106 mg/in² (Coupon ID 1; 64 mg pre to 170 mg post). 
+The can mass decreased from 131.51 g to 77.29 g, 
+corresponding to an observed discharged mass of 54.22 g. 
+Due to altered plume geometry and incomplete 
+measurements, T rial 1 resul ts are considered potentially 
+skewed and are not used for deposition profiling.
+
+## Section 4: Page 4
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 4 of 15 
+ 
+ 
+Table 1: Spray can mass pre-test and post-test (discharged mass by difference). 
+ 
+Figure 5: Surface deposition average (mg/ in²) by location for Trial #2. 
+ 
+ 
+ 
+ 
+Trial 2 (Primary Dataset) 
+ 
+Trial 2 produced a complete dataset for all sixteen coupons 
+(n = 4 per location). Mean deposition by location was 12.00 
+mg/in² at 1 ft, 5.75 mg/in² at 2 ft, 156.75 mg/in² at 3 ft, and 
+23.00 mg/in² on the interior lid surface. Deposition was 
+non-uniform at all 
+ 
+ 
+ 
+ 
+locations, with multiple 0 mg/in² coupons and isolated high 
+deposition events driving the location means. Ranges were 
+0–48 mg/in² (1 ft), 0 –23 mg/in² (2 ft), 0 –568 mg/in² (3 ft), 
+and 0–92 mg/in² (lid). The can mass decreased from 156.82 
+g to 65.18 g, corresponding to an observed discharged mass 
+of 91.64 g.
+
+## Section 5: Page 5
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 5 of 15 
+ 
+ 
+Table 2: Coupon pre-test, post-test, and surface deposition averages at each measurement level. 
+ 
+Figure 6: Surface deposition average (mg/ in²) by location for Trial #3. 
+ 
+Trial 3 (Modified Nozzle; Streaming Discharge Observed) 
+Trial 3 was performed using a newly supplied can with a 
+modified nozzle intended to produce a full cone spray. 
+Qualitatively, the discharge behavior was predominantly a 
+coherent stream for most of the can life, transitioning 
+toward a more dispersed spray 
+pattern only near end-of-can conditions (approximately the 
+final ~10% remaining). Mean deposition by location (n = 4 
+coupons/location) was 5.75 mg/in² at 1 ft, 0.75 mg/in² at 2 
+ft, 8.50 mg/in² at 3 ft, and 0.50 mg/in² on the interior lid 
+surface. The obser ved magnitude and distribution are 
+consistent with limited droplet dispersion and directional 
+impingement during the “streaming” portion of the 
+discharge.
+
+## Section 6: Page 6
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 6 of 15 
+ 
+ 
+Table 3: Coupon pre-test, post-test, and surface deposition averages at each measurement level. 
+ 
+Figure 7: Surface deposition average (mg/ in²) by location for Trial #4 
+ 
+Trial 4 (Modified Nozzle; Streaming Discharge Observed) 
+Trial 4 was performed using a second newly supplied can of 
+the same modified -nozzle configuration. As in Trial 3, the 
+discharge was predominantly a coherent stream through 
+most of the can life, transitioning toward a more dispersed 
+spray pattern only 
+near end-of-can conditions. Mean deposition by location (n 
+= 4 coupons/location) was 0.75 mg/in² at 1 ft, 0.50 mg/in² 
+at 2 ft, 0.75 mg/in² at 3 ft, and 0.75 mg/in² on the interior 
+lid surface. Relative to Trial 2, deposition magnitudes were 
+substantially r educed and more consistent with a low -
+dispersion discharge regime.
+
+## Section 7: Page 7
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 7 of 15 
+ 
+ 
+Table 4: Coupon pre-test, post-test, and surface deposition averages at each measurement level. 
+ 
+Figure 8: Surface deposition average (mg/ in²) by location for Trial #5. 
+ 
+ 
+Trial 5 (Modified Nozzle; Streaming Discharge Observed 
+Trial 5 was performed per the same closed -bin discharge 
+protocol and coupon deposition measurement approach (n 
+= 4 coupons/location). Mean deposition by location was 
+11.25 mg/in² at 1 ft, 1.75 mg/in² at 2 ft, 10.00 mg/in² at 3 ft, 
+and 26.00 mg/in² on the interior lid surface. Deposition 
+variability was highest at the lid and 3 ft locations (±1 SD, 
+sample n−1, of 50.02 mg/in² and 19.34 mg/in², 
+respectively), consistent with non -uniform deposition 
+dominated by localized high-deposition events.
+
+## Section 8: Page 8
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 8 of 15 
+ 
+ 
+Table 5: Coupon pre-test, post-test, and surface deposition averages at each measurement level. 
+ 
+ 
+Deviations/Observations 
+Additional Observations (Trials 3–5): Three new spray cans 
+were supplied with a modified nozzle intended to produce 
+a full cone spray. During testing, discharge behavior for 
+Trials 3 –5 was predominantly a coherent stream for the 
+majority of can life, with the intended dispersed spray 
+behavior occurring primarily near end -of-can conditions 
+(~10% remaining). The discharge trajectory was 
+consistently biased in the same direction, resulting in 
+preferential wetting of approximately one side of the bin 
+interior. Subsequent evaluation identified that the 
+actuation latch/trigger mechanism becomes angled after 
+actuation and imposes an off -axis load on the 
+actuator/nozzle during discharge, causing the spray plume 
+to deflect toward the latch direction. 
+Corrective Actions / Recommendations 
+To mitigate the consistent off-axis plume bias observed in 
+Trials 3–5, corrective actions should focus on eliminating 
+latch-induced actuator tilt and increasing the sensitivity of 
+the actuator/nozzle to side loading. Recommended actions 
+include valve selection (lower spring rate), smoother latch 
+mechanics, and reduced friction so the user doesn’t need to 
+push as hard. Redesigning the latch/trigger to apply 
+actuation force through the actuator centerline (or 
+symmetrically), and adding positive actuator 
+centering/guidance features (e.g., pilot/guide on the valve 
+stem interface) to prevent the actuator from cocking under 
+load. A fixtured actuation test that bypasses the latch is 
+recommended to confirm restoration of coaxial plume 
+alignment prior to additional coverage evaluations. 
+ 
+Conclusions 
+Across the completed datasets, the cleanser spray 
+demonstrated the ability to deposit measurable mass on 
+elevated interior surfaces, including the interior lid; 
+however, deposition behavior was strongly influenced by 
+discharge behavior and plume geometry d uring the single-
+use actuation. When the discharge was characterized by a 
+dispersed spray (Trial 2), substantial deposition was 
+achieved at the upper wall (3 ft) and on the lid, confirming 
+that vertical reach to elevated surfaces is achievable. This 
+deposition, however, occurred as localized high -impaction 
+events rather than uniform circumferential wetting. 
+In contrast, Trials 3 and 4 exhibited discharge behavior 
+dominated by a coherent stream during most of the 
+actuation, resulting in substantially reduced deposition at 
+all vertical locations and minimal lid coverage. Trial 5 
+produced intermediate results, with moderate deposition 
+at 1 ft and 3 ft and the highest mean deposition on the lid; 
+however, large standard deviations at the 3 ft and lid 
+locations indicate continued non-uniform deposition driven 
+by isolated impaction and coalescence events. 
+Overall, the results indicate that vertical deposition 
+performance for this single -actuation fogger is highly 
+sensitive to actuator alignment and plume stability during 
+discharge. The consistent off -axis plume bias observed in 
+Trials 3–5 was attributed to latch/trigger-induced actuator 
+tilt, demonstrating that relatively small mechanical 
+asymmetries during actuation can materially limit coverage 
+uniformity. Trial 1 is retained for traceability only and is not 
+considered representative due to nozzle deviatio n, can 
+instability, and incomplete measurements.
+
+## Section 9: Page 9
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 9 of 15 
+ 
+References 
+[1]. Hinds, W.C., Aerosol Technology: Properties, Behavior, and Measurement of Airborne Particles, Wiley-Interscience. 
+[2]. Baron, P.A., & Willeke, K. (Eds.), Aerosol Measurements: Principles, Techniques, and Applications, Wiley. 
+[3]. ISO 16711:2015, Workplace air quality — Gravimetric determination of respirable dust fraction mass concentration, ISO. 
+[1]. ANSI/ASHRAE Standard 145.1-2015, “Laboratory Test Method for Assessing the Performance of Gas-Phase Air-Cleaning Systems: 
+Loose Granular Media.” 
+[2]. US EPA Compendium Method TO-15 – Determination of Volatile Organic Compounds (VOCs). 
+[3]. ARE Labs SOP-FTIR-001: Operation and Calibration of Thermo Max-FTIR Gas Analyzer.
+
+## Section 10: Page 10
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 10 of 15 
+ 
+Testing Facility 
+ 
+Aerosol Research and Engineering Labs, Inc. 
+12880 Metcalf Ave. 
+Overland Park, KS 66213 
+ 
+ 
+Client: Bragg & Bevier LLC 
+ARE Project: 11048.10 
+ 
+ 
+Study Director 
+ 
+Jamie Balarashti 
+Aerosol Research and Engineering Laboratories 
+ 
+Conflict of Interest 
+Aerosol Research and Engineering Laboratories, Inc. , have no affiliations with, or involvement in any capacity, with Bragg & Bevier 
+LLC’s financial interests such as membership, employment, stock ownership, or other equity interests. 
+Study Coordinator 
+ 
+ 
+ 
+Weston Schaper 
+Vice-President, R&D 
+ 
+ 
+ 
+ 
+ 
+ 
+1/29/2026 
+Principal Investigator 
+ 
+ 
+Braeden Scott 
+Lab Technician, ARE Lab Inc. 
+ 
+ 
+ 
+ 
+ 
+1/29/2026
+
+## Section 11: Page 11
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 11 of 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A 
+Coupon Mass Data (Trials 1–5)
+
+## Section 12: Page 12
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 12 of 15 
+ 
+ 
+ 
+ 
+Table A1: Coupon mass pre-test, post-test, and mass gain for Trial 1 (partial dataset). 
+ 
+ 
+Figure A1: Coupon mass pre-test and post-test (Trial 2).
+
+## Section 13: Page 13
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 13 of 15 
+ 
+ 
+Table A2: Coupon mass pre-test, post-test, and mass gain for Trial 2. 
+ 
+ 
+Table A3: Coupon mass pre-test, post-test, and mass gain for Trial 3.
+
+## Section 14: Page 14
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 14 of 15 
+ 
+ 
+ 
+Table A4: Coupon mass pre-test, post-test, and mass gain for Trial 4. 
+ 
+ 
+Table A5: Coupon mass pre-test, post-test, and mass gain for Trial 5.
+
+## Section 15: Page 15
+Aerosol Research and Engineering Laboratories, Inc. 
+www.arelabs.com 
+(p) 913-850-6630 
+(f) 913-850-6635 
+ 
+ARE Labs Inc. 2026 Vertical Deposition Profile of Cleanser Spray Page 15 of 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure A2: Samples 3-5 nozzle.

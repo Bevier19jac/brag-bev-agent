@@ -1,7 +1,10 @@
 Source filename: D3.pdf
 Source relative path: vendor_emails/D3.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:18.233047+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:02.695516+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Availability for a brief call
 Date: December 5, 2025 at 2:16:00 PM
@@ -20,15 +23,16 @@ Hi Jacab,
  
     Thanks! Jim
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, November 25, 2025 12:58 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>; sarahjbraganini@gmail.com
-S u b j e c t :  Re: Availability for a brief call
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, November 25, 2025 12:58 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>; sarahjbraganini@gmail.com
+S u b j e c t : Re: Availability for a brief call
  
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 1/4
 
+## Section 2: Page 2
 Jacob Bevier
 105 Pendleton Trail
 Tyrone, GA 30290
@@ -45,17 +49,18 @@ evaluate a sample and then jump on a call with any necessary changes.  
  
   Thanks! Jim
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, November 25, 2025 9:35 AM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, November 25, 2025 9:35 AM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
 sarahjbraganini@gmail.com
-S u b j e c t :  Availability for a brief call
+S u b j e c t : Availability for a brief call
  
 Hi Andrew and Jim,
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 2/4
 
+## Section 3: Page 3
 I was hoping I could jump on a short call with you guys — even ten minutes would be
 helpful. My intention in trying to share the broader scope of this project was purely as
 courtesy and to provide context, not because it was a necessity. It’s possible I’ve been
@@ -90,6 +95,7 @@ My availability is wide open — just let me know what works for your schedule.
 3/7/26, 11:20 AM iCloud Mail
 https://www.icloud.com/mail/ 3/4
 
+## Section 4: Page 4
 Very respectfully,
 Jacob
 760-490-3416

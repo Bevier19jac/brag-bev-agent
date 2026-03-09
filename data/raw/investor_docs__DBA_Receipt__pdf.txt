@@ -1,0 +1,34 @@
+Source filename: DBA Receipt.pdf
+Source relative path: investor_docs/DBA Receipt.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:25.660068+00:00
+
+## Section 1: Page 1
+STATE OF GEORGIA 
+Secretary of State 
+Corporations Division 313 West Tower 2 Martin Luther King, Jr. Dr. 
+Atlanta, Georgia 30334-1530 
+ 
+ 
+        RECEIPT 
+ 
+Filer Information 
+Jacob Bevier Bevier 105 Pendleton Trail Tyrone , GA 30290 
+ 
+Transaction Details 
+Product DescriptionBusiness Name Control No.ShippedOrder DateItem CostExpedite FeeService ChargeTotal
+Business AmendmentBrag & Bev L.L.C 24223393Online12/14/202420.00 0.00 0.00 20.00
+ Invoice Total: $20.00
+ 
+Payment Details 
+Payment Type Check/Reference No. Amount
+Credit Card - VISA #####7305 20.00
+ Payment Total: $20.00
+ 
+Requested Business Name(s) 
+Requested Business NameBrag & Bev L.L.C DBA Brag & Bev
+2nd Choice of Business Name 
+3rd Choice of Business Name 
+Mailing Address: Georgia Secretary of State, Corporations Division, 2 MLK Jr. Dr. SE, Suite 313 Floyd West Tower, Atlanta, Georgia 30334-1530 
+ Phone: (404) 656-2817 | Website: http://www.sos.ga.gov/

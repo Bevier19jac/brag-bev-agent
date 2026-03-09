@@ -1,0 +1,26 @@
+Source filename: DD_test_run_sheet.pdf
+Source relative path: rabbit_notes/DD_test_run_sheet.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:17:43.618235+00:00
+
+## Section 1: Page 1
+Dumpster Diver Spray Test Data Sheet
+Date/Time:
+Location/Ventilation:
+Ambient T emp (°F/°C):
+Nozzle ID:
+Valve/Can T ype:
+Propellant/Formulation:
+Actuation Method:
+ Manual (force ___ N / ___ lbf) Drop (height ___ in / ___ cm) Other: ____________
+Measurements:
+Start weight (g): _____ End weight (g): _____ Discharged (g): _____
+Max plume height (in): _____ Coverage (% grid wetted): _____
+Runoff: None Light Moderate Heavy
+Observations / Notes:
+SAP Tray Details (if used):
+T ype: ____________ Pre-weight (g): _____ Post-weight (g): _____
+Estimated absorbed (g): _____ Disposal: Bag Other: ___________
+Recording Setup:
+Window cam fps: _____ T op cam fps: _____ Lighting: Panel Inside puck

@@ -1,0 +1,30 @@
+Source filename: 2025_Annual_Reg.pdf
+Source relative path: investor_docs/2025_Annual_Reg.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:25.481672+00:00
+
+## Section 1: Page 1
+STATE OF GEORGIA 
+ 
+Secretary of State 
+Corporations Division 313 West Tower 2 Martin Luther King, Jr. Dr.Atlanta, Georgia 30334-1530 
+Annual Registration *Electronically Filed*  Secretary of State Filing Date: 01/09/2025 14:33:50 
+BUSINESS INFORMATION
+BUSINESS NAME :Brag & Bev L.L.C 
+CONTROL NUMBER :24223393 
+BUSINESS TYPE :Domestic Limited Liability Company 
+ANNUAL REGISTRATION PERIOD :2025 
+BUSINESS INFORMATION CURRENTLY ON FILE 
+PRINCIPAL OFFICE ADDRESS :105 Pendleton Rd, Tyrone, GA, 30290, USA 
+REGISTERED AGENT NAME :Jacob Benjamin Bevier 
+REGISTERED OFFICE ADDRESS :105 Pendleton Rd, Tyrone, GA, 30290, USA
+REGISTERED OFFICE COUNTY :Fayette 
+UPDATES TO ABOVE BUSINESS INFORMATION 
+PRINCIPAL OFFICE ADDRESS :105 Pendleton Rd, Tyrone, GA, 30290, USA
+REGISTERED AGENT NAME :Jacob Benjamin Bevier 
+REGISTERED OFFICE ADDRESS :105 Pendleton Rd, Tyrone, GA, 30290, USA
+REGISTERED OFFICE COUNTY :Fayette 
+AUTHORIZER INFORMATION
+AUTHORIZER SIGNATURE :Jacob Benjamin Bevier 
+AUTHORIZER TITLE :Organizer

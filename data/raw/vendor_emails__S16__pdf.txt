@@ -1,7 +1,10 @@
 Source filename: S16.pdf
 Source relative path: vendor_emails/S16.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:24.411815+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:37.990495+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Update
 Date: January 30, 2026 at 1:41:33 PM
@@ -30,6 +33,7 @@ Vice President - R&D
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 1/9
 
+## Section 2: Page 2
 (main) 913-850-6630
 (direct) 913-850-6262
 (fax) 913-850-6635
@@ -38,11 +42,11 @@ https://www.icloud.com/mail/ 1/9
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Friday, January 30, 2026 8:35 AM
-T o :  Weston Schaper <wschaper@arelabs.com>
-C c :  sarahjbraganini@gmail.com
-S u b j e c t :  Re: Testing Update
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Friday, January 30, 2026 8:35 AM
+T o : Weston Schaper <wschaper@arelabs.com>
+C c : sarahjbraganini@gmail.com
+S u b j e c t : Re: Testing Update
  
 Hi Weston,
 Thanks again for the thorough report and summary — the findings have been very helpful.
@@ -59,7 +63,7 @@ Very respectfully, Jacob Bevier 7604903416
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 2/9
 
- 
+## Section 3: Page 3
 On Jan 29, 2026, at 3:39 PM, Jacob Bevier <bevier19jac@icloud.com> wrote:
  
  
@@ -88,6 +92,7 @@ Jacob,
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 3/9
 
+## Section 4: Page 4
 I have attached the report from testing. I have also attached an update with the same
 results/data. My scientist made the update, and then realized we needed the report, so I
 figured I would send you both.
@@ -115,10 +120,11 @@ www.ARELabs.com
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 4/9
 
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, January 27, 2026 9:05 AM
-T o :  Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  Testing Update
+## Section 5: Page 5
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, January 27, 2026 9:05 AM
+T o : Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : Testing Update
  
 Jacob,
  
@@ -137,15 +143,16 @@ Weston
  
 Get Outlook for iOS
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Thursday, January 22, 2026 1:12:11 PM
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Thursday, January 22, 2026 1:12:11 PM
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 5/9
 
-T o :  Jacob Bevier <bevier19jac@icloud.com>
-C c :  Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>;
+## Section 6: Page 6
+T o : Jacob Bevier <bevier19jac@icloud.com>
+C c : Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>;
 sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
+S u b j e c t : Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
  
 Jacob, 
  
@@ -158,18 +165,19 @@ Weston
  
 Get Outlook for iOS
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, January 21, 2026 11:50:28 AM
-T o :  Weston Schaper <wschaper@arelabs.com>
-C c :  Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>;
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, January 21, 2026 11:50:28 AM
+T o : Weston Schaper <wschaper@arelabs.com>
+C c : Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>;
 sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
+S u b j e c t : Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
  
 Sounds good! 
  
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 6/9
 
+## Section 7: Page 7
 Talk soon…
  
 Jacob B
@@ -196,11 +204,12 @@ www.ARELabs.com
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 7/9
 
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, January 21, 2026 11:22 AM
-T o :  Ingrid <ingrid@arelabs.com>
-C c :  jbalarashti arelabs.com <jbalarashti@arelabs.com>; Weston Schaper <wschaper@arelabs.com>
-S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
+## Section 8: Page 8
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, January 21, 2026 11:22 AM
+T o : Ingrid <ingrid@arelabs.com>
+C c : jbalarashti arelabs.com <jbalarashti@arelabs.com>; Weston Schaper <wschaper@arelabs.com>
+S u b j e c t : Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
  
 Okay thanks Ingrid, 
  
@@ -225,7 +234,7 @@ have any questions, please let us know.
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 8/9
 
- 
+## Section 9: Page 9
 Thank you,
  
  

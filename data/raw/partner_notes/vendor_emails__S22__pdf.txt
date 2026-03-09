@@ -1,0 +1,190 @@
+Source filename: S22.pdf
+Source relative path: vendor_emails/S22.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:25.671934+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Re: Testing Update
+Date: January 29, 2026 at 3:39:50 PM
+To: Weston Schaperwschaper@arelabs.com
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Hi Weston,
+Thank you for sending both the report and the updated deck — I appreciate you including
+everything, and the data is very helpful.
+After reviewing the results, I agree with the primary takeaway that the actuator/latch geometry is the
+dominant variable impacting plume alignment and coverage. Trial 2 clearly shows that vertical reach
+and lid deposition are achievable when the discharge behavior is favorable, while the subsequent
+trials reinforce how sensitive performance is to off-axis loading during actuation.
+My next step on our side will be to loop in both the mechanical engineer and the aerosol/valve
+partner so we can align on a path forward. I’m planning to reach out to each of them to see if I can
+coordinate a collaborative call with everyone — likely spanning East Coast and West Coast time
+zones — to walk through the findings together and agree on the best corrective approach before
+any additional testing.
+I’ll follow up once I have a sense of availability and proposed times. In the meantime, thanks again to
+you and the team for the thorough work and clear documentation.
+Very respectfully, 
+Jacob Bevier
+7604903416
+On Jan 29, 2026, at 11:29 AM, Weston Schaper <wschaper@arelabs.com> wrote:
+Jacob,
+ 
+I have attached the report from testing. I have also attached an update with the same
+results/data. My scientist made the update, and then realized we needed the report, so I figured I
+would send you both.
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 1/7
+
+ 
+Let me know if you want to schedule a time to go over it or if you have any questions/comments.
+One big takeaway is that the actuator mechanism is a little tab you press down adjacent to the
+actual orifice/nozzle. The issue we found was when you press on the tab to actuate the can, this
+angles the nozzle down also, which causes a large portion of the spray to be angled during its full
+emptying.
+ 
+Anyways, let us know your thoughts!
+ 
+Best,
+ 
+Weston Schaper
+Vice President - R&D
+(main) 913-850-6630
+(direct) 913-850-6262
+(fax) 913-850-6635
+ <image001.jpg>
+12880 Metcalf Ave.
+Overland Park, KS 66213
+www.ARELabs.com
+ 
+F r o m :  Weston Schaper <wschaper@arelabs.com>
+S e n t :  Tuesday, January 27, 2026 9:05 AM
+T o :  Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t :  Testing Update
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 2/7
+
+ 
+Jacob,
+ 
+I hope all is well. We tested 2 of the cans and saw a similar spray pattern where the mass is mostly
+off to one side/similar the previous cans. We have 1 can left to test. But wanted to reach out
+before we proceeded.
+ 
+We can either hop on a meeting or we can finish testing on our end, send you a report, and then
+meet.
+ 
+Let me know your thoughts.
+ 
+Best,
+ 
+Weston
+ 
+Get Outlook for iOS
+F r o m :  Weston Schaper <wschaper@arelabs.com>
+S e n t :  Thursday, January 22, 2026 1:12:11 PM
+T o :  Jacob Bevier <bevier19jac@icloud.com>
+C c :  Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>; sarahjbraganini@gmail.com
+<sarahjbraganini@gmail.com>
+S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
+ 
+Jacob, 
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 3/7
+
+ 
+We received the cans and have time to test today. We will follow up with results. Let us know if
+you have any questions in the meantime. 
+ 
+Best,
+ 
+Weston
+ 
+Get Outlook for iOS
+F r o m :  Jacob Bevier <bevier19jac@icloud.com>
+S e n t :  Wednesday, January 21, 2026 11:50:28 AM
+T o :  Weston Schaper <wschaper@arelabs.com>
+C c :  Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>; sarahjbraganini@gmail.com
+<sarahjbraganini@gmail.com>
+S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
+ 
+Sounds good! 
+ 
+Talk soon…
+ 
+Jacob B
+ 
+On Jan 21, 2026, at 12:34 PM, Weston Schaper <wschaper@arelabs.com> wrote:
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 4/7
+
+Jacob,
+ 
+Nick is someone on our end and they were mistakenly added. Apologies for the confusion.
+We have not received the sample cans yet but will definitely let you know as soon as we do!
+ 
+Best,
+ 
+Weston Schaper
+Vice President - R&D
+(main) 913-850-6630
+(direct) 913-850-6262
+(fax) 913-850-6635
+ <image001.jpg>
+12880 Metcalf Ave.
+Overland Park, KS 66213
+www.ARELabs.com
+ 
+F r o m :  Jacob Bevier <bevier19jac@icloud.com>
+S e n t :  Wednesday, January 21, 2026 11:22 AM
+T o :  Ingrid <ingrid@arelabs.com>
+C c :  jbalarashti arelabs.com <jbalarashti@arelabs.com>; Weston Schaper <wschaper@arelabs.com>
+S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage Testing
+ 
+Okay thanks Ingrid, 
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 5/7
+
+ 
+Who is nick@ampinnovations.com which is under my name on the invoice? Please keep
+sarahjbraganini@gmail.com in copy, especially when it comes to invoices. I will get this over
+to the team for review and we will go from there. To verify, have you received the cans from
+Spray Products already?
+ 
+Lastly, it is Brag & Bev, only one g in Brag.
+ 
+Thanks for the update and will speak soon. Have a great rest of your week and an even better
+weekend!
+Very respectfully, Jacob Bevier 7604903416
+ 
+On Jan 21, 2026, at 12:11 PM, Ingrid <ingrid@arelabs.com> wrote:
+ 
+ 
+Mr. Bevier, 
+ 
+Please find attached the final invoice with the charges for additional testing requested.  If you have any
+questions, please let us know.
+ 
+Thank you,
+ 
+ 
+Ingrid
+ 
+(main) 913-850-6630
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 6/7
+
+(direct) 913-850-6634
+((direct) 913-485-5488
+(fax) 913-850-6635
+ 
+<Outlook-LOGO Spira>
+ 
+12880 Metcalf Ave.
+Overland Park, KS 66213
+www.ARELabs.com
+ 
+<ARE Labs -Final Invoice - Bragg & Bev -11048.10.2- Foaming Cleanser Spray Coverage
+Testing.pdf>
+ 
+<11048 - ARELabs Report - Vertical Deposition Profile of Cleanser Spray v1.0.pdf><ARE Labs -
+11048.10 - Bragg & Bevier LLC Foaming Cleanser Spray Coverage Testing v1.0.pdf>
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 7/7

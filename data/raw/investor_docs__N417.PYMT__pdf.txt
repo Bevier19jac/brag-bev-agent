@@ -1,0 +1,59 @@
+Source filename: N417.PYMT.pdf
+Source relative path: investor_docs/N417.PYMT.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:27.052834+00:00
+
+## Section 1: Page 1
+P.O. Box 1450
+Alexandria, VA 22313 - 1450
+www.uspto.gov
+ELECTRONIC PAYMENT RECEIPT 
+APPLICATION # RECEIPT DATE / TIME ATTORNEY DOCKET # 
+63/723,626 11/22/2024 09:10:21 AM Z ET -
+Title of Invention
+The Self-Righting Automatic Dumpster Cleaner
+Application Information
+APPLICATION TYPE Utility - Provisional Application under
+35 USC 111(b)
+PATENT # -
+CONFIRMATION # 7443 FILED BY Jacob Bevier
+PATENT CENTER # 68073832 AUTHORIZED BY -
+CUSTOMER # – FILING DATE -
+CORRESPONDENCE 
+ADDRESS 
+Jacob Bevier, Jacob Bevier
+105 PENDLETON TRL 
+TYRONE, GA 30290 
+US 
+FIRST NAMED 
+INVENTOR 
+Jacob Bevier
+Payment Information
+PAYMENT METHOD PAYMENT TRANSACTION ID PAYMENT AUTHORIZED BY 
+CARD / 3853 E2024AL015326104 Jacob Bevier
+FEE CODE DESCRIPTION ITEM PRICE($) QUANTITY ITEM TOTAL($)
+3005 PROVISIONAL APPLICATION 
+FILING FEE 60.00 1 60.00
+TOTAL 
+AMOUNT: $60.00
+This Acknowledgement Receipt evidences receipt on the noted date by the USPTO of the indicated documents, characterized
+by the applicant, and including page counts, where applicable. It serves as evidence of receipt similar to a Post Card, as
+described in MPEP 503.
+New Applications Under 35 U.S.C. 111
+If a new application is being filed and the application includes the necessary components for filing date (see 37 CFR 1.53(b)-(d)
+and MPEP 506), a Filing Receipt (37 CFR 1.54) will be issued in due course and the date shown on this Acknowledgement
+Receipt will establish the filing date of the application
+National Stage of an International Application under 35 U.S.C. 371
+Page 1 of 2
+
+## Section 2: Page 2
+If a timely submission to enter the national stage of an international application is compliant with the conditions of 35 U.S.C.
+371 and other applicable requirements a Form PCT/DO/EO/903 indicating acceptance of the application as a national stage
+submission under 35 U.S.C. 371 will be issued in addition to the Filing Receipt, in due course.
+New International Application Filed with the USPTO as a Receiving Office
+If a new international application is being filed and the international application includes the necessary components for an
+international filing date (see PCT Article 11 and MPEP 1810), a Notification of the International Application Number and of the
+International Filing Date (Form PCT/RO/105) will be issued in due course, subject to prescriptions concerning national security,
+and the date shown on this Acknowledgement Receipt will establish the international filing date of the application.
+Page 2 of 2

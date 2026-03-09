@@ -1,0 +1,18 @@
+Source filename: DUMPSTERDIVERPICs.pdf
+Source relative path: product_specs/DUMPSTERDIVERPICs.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:42.786500+00:00
+
+## Section 1: Page 1
+Self-Righting Automatic 
+Dumpster Cleaning Device
+
+## Section 2: Page 2
+o Biodegradable foam adheres to walls,
+
+## Section 3: Page 3
+Production Process 
+1. Materials 
+Base Components 
+1. Outer Shell:

@@ -1,7 +1,10 @@
 Source filename: V9.pdf
 Source relative path: vendor_emails/V9.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:29.077805+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:20:01.241624+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: GT referral from Prof. Ng — aerosol spray characterization & VOC-compliant formulation
 Date: September 17, 2025 at 1:38:27 PM
@@ -18,7 +21,7 @@ Thank you again for your time. Talk soon.
 Very respectfully,
 Jacob Bevier
 Co-Founder, Brag & Bev LLC
-📞  760-490-3416 | ✉  bevier19jac@icloud.com
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
 Very respectfully, 
 Jacob Bevier
 7604903416
@@ -31,6 +34,7 @@ aware of anyone at GT who does this. 
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 1/7
 
+## Section 2: Page 2
 rw
  
 From: Jacob Bevier <bevier19jac@icloud.com>
@@ -66,6 +70,7 @@ greatly value your advice.
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 2/7
 
+## Section 3: Page 3
 Thank you again for your time and for sharing your expertise. It’s extremely helpful as we navigate
 this.
 Very respectfully,
@@ -97,6 +102,7 @@ through the atomizer and detect it on the part of interest.  Eg, a fluorescent 
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 3/7
 
+## Section 4: Page 4
 be readily visible with a black light or light of specific wavelength. Need to find a compatible
 tracer for the solvent used (ie, the liquid in the atomizer along with your disinfectant, or
 whatever it is).
@@ -118,7 +124,7 @@ Thank you for breaking down the distinctions—very helpful. To clarify:
 Yes, we’re interested in both the particle/droplet size distribution (PSD/SMD) a n d 
 applied measurements of spray behavior in a controlled space: coverage uniformity
 on a surface, pooling, and vertical reach. We see these as complementary: PSD tells
-us what the spray i s , while the chamber/surface tests tell us how it b e h a v e s  as a cleanser.
+us what the spray i s , while the chamber/surface tests tell us how it b e h a v e s as a cleanser.
 We do not yet know the exact droplet size; quantifying that (and linking it to
 formulation and hardware choices) is a big part of why we’re seeking expert support.
 Beyond measurement, we also need formulation development help to move from a
@@ -127,6 +133,7 @@ hoping to iterate on:
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 4/7
 
+## Section 5: Page 5
 Solvent/propellant ratios and viscosity control for atomization consistency,
 Surfactant/cleaning package selection that delivers measurable cleaning action within
 VOC limits,
@@ -159,7 +166,7 @@ would be measured.
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 5/7
 
- 
+## Section 6: Page 6
 rw
  
 From: Jacob Bevier <bevier19jac@icloud.com>
@@ -188,6 +195,7 @@ Co-Founder, Brag & Bev LLC
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 6/7
 
+## Section 7: Page 7
 📞 760-490-3416 | ✉ bevier19jac@icloud.com
  
  

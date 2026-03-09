@@ -1,7 +1,10 @@
 Source filename: N9.pdf
 Source relative path: vendor_emails/N9.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:22.252201+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:27.138667+00:00
+
+## Section 1: Page 1
 From: bevier19jac@icloud.combevier19jac@icloud.com
 Subject: Re: VOC compliance solution | List of ingredients/materials
 Date: September 26, 2025 at 10:12:57 AM
@@ -35,6 +38,7 @@ John Braganini
 3/7/26, 11:29 AM iCloud Mail
 https://www.icloud.com/mail/ 1/4
 
+## Section 2: Page 2
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Thursday, September 25, 2025 4:13 PM
 To: jbglm2@gmail.com
@@ -72,6 +76,7 @@ actuator trials.
 3/7/26, 11:29 AM iCloud Mail
 https://www.icloud.com/mail/ 2/4
 
+## Section 3: Page 3
 Pros
 BOV is propellant-free and often marketed as more eco-friendly.
 Allows us to see how our own formulas behave in BOV packaging with multiple actuator options.
@@ -112,6 +117,7 @@ up by VOC compliance hurdles. If you want to set up a meeting to follow-up with 
 3/7/26, 11:29 AM iCloud Mail
 https://www.icloud.com/mail/ 3/4
 
+## Section 4: Page 4
 send me an invite for anytime that is convenient for you.
 MB Industries is willing and able to fill our solutions into bag-on-valve (BOV) systems. This means
 the cleaning formulas go inside a sealed bag that’s pressurized by air, not propellant gases, so

@@ -1,0 +1,85 @@
+Source filename: TSG Mutual NDA (1).pdf
+Source relative path: partner_notes/TSG Mutual NDA (1).pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:42.706832+00:00
+
+## Section 1: Page 1
+NON-DISCLOSURE & CONFIDENTIALY AGREEMENT 
+ 
+This non-disclosure agreement ("Agreement") is entered into by The Starco Group and its affiliates having a place of business at 3137 E. 
+26th St Pacific, Vernon, CA 90058 ("TSG") and _______________________________________________________________ located at 
+__________________________________________________________________________________________________(" Recipient ".) 
+ 
+This Agreement is made in order for the parties to discuss certain confidential information regarding each parties business under the terms 
+that will mutually protect the confidential and proprietary nature of such information. 
+ 
+1. Confidential Information: TSG and Recipient mutually recognize that each party has developed and is the exclusive owner of a 
+substantial body of trade secrets and products. Confidential Information means any information, terms, conditions, financial 
+information, product information, marketing practices, customers, vendors, sales reps, distribution networks and distribution 
+footprints. Confidential Information shall also include, without limitation, know-how, product information, market information, 
+marketing information, test data, testing information, testing procedures, competitive testing and other confidential information 
+relating to its business, including, information regarding chemical formulas, customers, suppliers, business arrangements, potential 
+acquisitions or sale arrangements, technical and business data, processes, designs, ideas, trade secrets of either party, any nonpublic 
+information relating to either party's product, plans, designs, costs, prices, finances, marketing plans, business opportunities, business 
+models, business plans, personnel, affiliate companies, research, development, materials, raw materials and any other nonpublic 
+technical, business or marketing information of the party disclosing such information that the receiving party knows or has reason to 
+know the Discloser would like to treat as confidential for any purpose, such as maintaining a competitive advantage, minimizing legal 
+exposure or avoiding undesirable publicity. In addition, Confidential Information shall include, without limitation, information 
+relating to the Project, including the details thereof of and the Project itself is under strict confidentiality. 
+ 
+2. Nondisclosure: Except with the prior written consent of the disclosing party or as specifically provided herein, the recipient of the 
+disclosing party's Confidential Information shall not, and shall direct its affiliates and their respective directors, officers, employees, 
+agents, and other representatives (collectively, "representatives"), clients, vendors, partners, affiliates or entities in connection, not to 
+disclose or permit the disclosure to any third party of any Confidential Information disclosed to it by the disclosing party or such 
+disclosing party's affiliates or representatives. For purposes of this Agreement, a party's "affiliates" shall include any entity that 
+controls, is controlled by, or is under common control with such party, and a party's "representatives" shall include the representatives 
+of its affiliates. 
+ 
+3. Confidential Information shall not include information that (i) is or becomes generally known; (ii) is known at the time of disclosure 
+by Discloser; (iii) is independently developed by either party; (iv) is lawfully obtained by either party from a third party who has the 
+right to make such disclosure; (v) is released for publication by Discloser in writing. 
+ 
+4. The parties mutually agrees that for a period of three (3) years following the execution of this Agreement, and their employees, agents 
+or any affiliates shall hold all Confidential Information in strict trust and confidence and shall not disclose or use the sa me, except to 
+the extent necessary for the performance of this Agreement. Further, the parties shall not disclose Confidential Information to any 
+affiliate without written consent from an officer of either Company. 
+ 
+5. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original instrument, but all of 
+which together shall constitute only one and the same instrument. The validity, construction and enforceability of this Agreement 
+shall be governed in all respects by the laws of California. Each party to this Agreement hereby submits to the jurisdiction of the 
+courts of the State of California. 
+ 
+6. The parties warrant that they have the right to disclose the Confidential Information to the parties. Otherwise, all information is 
+provided "AS IS" and without any warranty, express or implied, including any warranty of merchantability or fitness for a particular 
+purpose. 
+ 
+7. This Agreement supersedes any and all prior representations, conditions, warranties, understanding, proposals or previous agreements 
+between the parties, oral or written, relating to the subject matter hereof and constitutes the complete agreement between the parties. 
+Should any of the provisions of this Agreement be found to be invalid by any court of competent jurisdiction, that portion shall be 
+deemed severed or restricted and the remainder of this Agreement shall remain in full force and effect. 
+ 
+8. If any action or proceeding shall be commenced to enforce or interpret this Agreement or any right arising in connection with this 
+Agreement, including the formation, interpretation, breach or termination thereof, including whether the claims asserted are arbitrable, 
+will be referred to and finally determined by arbitration in accordance with the JAMS International Arbitration Rules. The Tribunal 
+will consist of one arbitrator. The place of arbitration will be Los Angeles County in the State of California. Judgment upon the award 
+rendered by the arbitrator may be entered in any court having jurisdiction thereof. 
+ 
+The parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the date set forth below. 
+ 
+The Starco Group _________________________________: 
+ 
+By: By:__________________________________ 
+ 
+ _____________________________________ 
+Name and Title (Print) Name and Title (Print) 
+ 
+ ______________________________________ 
+Date Date 
+John Decker
+12-17-2024
+Brag & Bev L.L.C
+17 December 2024
+Jacob Bevier CEO
+Jacob Bevier 
+105 Pendleton Trail, Tyrone, GA 30290

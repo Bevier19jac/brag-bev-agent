@@ -1,7 +1,10 @@
 Source filename: H5.pdf
 Source relative path: vendor_emails/H5.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:20.091421+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:14.420580+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Brag & Bev Inquiry
 Date: September 18, 2025 at 12:14:32 PM
@@ -32,7 +35,7 @@ Subject: Re: Brag & Bev Inquiry
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 1/6
 
- 
+## Section 2: Page 2
 Hey Andrew,
 I would say neither, it would be more of a household cleanser used for a unique application.
 Without getting into specifics of the mechanical functions of the housing that will contain the
@@ -59,7 +62,7 @@ www.sprayproducts.com
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 2/6
 
- 
+## Section 3: Page 3
 From: Formspree <noreply@formspree.io>
 Sent: Wednesday, August 20, 2025 12:59 PM
 To: sales <Sales@sprayproducts.com>
@@ -82,6 +85,7 @@ address
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 3/6
 
+## Section 4: Page 4
 city
 Tyrone
  
@@ -102,6 +106,7 @@ website
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 4/6
 
+## Section 5: Page 5
 source
 search
  
@@ -130,6 +135,7 @@ Actuator integrated into housing, not a standard push-button.
 3/7/26, 11:32 AM iCloud Mail
 https://www.icloud.com/mail/ 5/6
 
+## Section 6: Page 6
 Exploring two trigger concepts: impact-triggered and manual delayed.
 Open to engineering recommendations on design and materials.
 Acceptable can size: standard 12–16 oz aerosol dimensions (flexible).

@@ -1,7 +1,10 @@
 Source filename: S8.pdf
 Source relative path: vendor_emails/S8.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:28.329930+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:58.517963+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Introduction for week of 9 February
 Date: February 6, 2026 at 5:45:35 PM
@@ -30,6 +33,7 @@ mike.johnston@rabbitpd.com
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 1/8
 
+## Section 2: Page 2
 On Fri, Feb 6, 2026 at 2:17 PM Jacob Bevier <bevier19jac@icloud.com> wrote:
 Hi Asif, and nice to meet you Mike,
 Thank you for the clarification and for acknowledging the impact this had on today’s meeting.
@@ -59,6 +63,7 @@ Hi Jacob,
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 2/8
 
+## Section 3: Page 3
 Thank you for your feedback. I understand the frustration this lack of proactive
 communication has caused, and I apologize for the impact on today's stakeholder
 meeting.
@@ -90,6 +95,7 @@ meeting.
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 3/8
 
+## Section 4: Page 4
 Given that we have already paid Rabbit, and that Joe was the sole mechanical point
 of contact, learning of his retirement on the day of this meeting represents a
 significant communication failure. The last substantive discussion I had with Joe was
@@ -121,6 +127,7 @@ responsibilities on the mechanical side of this project. We will need some time 
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 4/8
 
+## Section 5: Page 5
 get the new lead up to speed and aligned with the current progress.
 We appreciate your patience and will reach out as soon as we have an update on
 our technical representation for this project.
@@ -151,6 +158,7 @@ call, or if there is an immediate issue preventing you from joining.
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 5/8
 
+## Section 6: Page 6
 Thank you, and I look forward to your confirmation, hope to see ya later on
 today.
 Very respectfully,
@@ -175,6 +183,7 @@ _______________________________________________________________________________
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 6/8
 
+## Section 7: Page 7
 Very respectfully, 
 Jacob Bevier
 7604903416
@@ -202,6 +211,7 @@ I hope all is well.
 3/7/26, 11:05 AM iCloud Mail
 https://www.icloud.com/mail/ 7/8
 
+## Section 8: Page 8
 I’m attaching the latest testing report and summary deck from ARE
 Labs related to the cleanser spray coverage and vertical deposition
 work. The results were very helpful and point strongly toward the

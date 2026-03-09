@@ -1,7 +1,10 @@
 Source filename: S6.pdf
 Source relative path: vendor_emails/S6.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:27.958943+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:57.527869+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: ARE Labs - Follow Up
 Date: February 20, 2026 at 1:41:31 PM
@@ -31,6 +34,7 @@ additional cans to test, just let us know!
 3/7/26, 11:04 AM iCloud Mail
 https://www.icloud.com/mail/ 1/5
 
+## Section 2: Page 2
 Best,
  
 Weston Schaper
@@ -43,10 +47,10 @@ Vice President - R&D
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, February 10, 2026 1:37 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  Re: ARE Labs - Note on current spray can
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, February 10, 2026 1:37 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : Re: ARE Labs - Note on current spray can
  
 Jim,
  
@@ -58,22 +62,22 @@ Best,
 3/7/26, 11:04 AM iCloud Mail
 https://www.icloud.com/mail/ 2/5
 
- 
+## Section 3: Page 3
 Weston
  
 Get Outlook for iOS
-F r o m :  Jim Johnson <jjohnson@sprayproducts.com>
-S e n t :  Tuesday, February 10, 2026 12:12:47 PM
-T o :  Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Jim Johnson <jjohnson@sprayproducts.com>
+S e n t : Tuesday, February 10, 2026 12:12:47 PM
+T o : Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 What do you mean by lack of uniform coverage?    Does the spray pattern change throughout
 the dispensing?
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Tuesday, February 10, 2026 12:59 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Tuesday, February 10, 2026 12:59 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 Jim,
  
@@ -85,6 +89,7 @@ Best,
 3/7/26, 11:04 AM iCloud Mail
 https://www.icloud.com/mail/ 3/5
 
+## Section 4: Page 4
 Weston Schaper
 Vice President - R&D
 (main) 913-850-6630
@@ -95,10 +100,10 @@ Vice President - R&D
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Jim Johnson <jjohnson@sprayproducts.com>
-S e n t :  Monday, February 9, 2026 3:10 PM
-T o :  Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  RE: ARE Labs - Note on current spray can
+F r o m : Jim Johnson <jjohnson@sprayproducts.com>
+S e n t : Monday, February 9, 2026 3:10 PM
+T o : Weston Schaper <wschaper@arelabs.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : RE: ARE Labs - Note on current spray can
  
 The current bug foggers are activated by a person.  FYI, Jim
  
@@ -106,13 +111,14 @@ https://www.youtube.com/watch?v=w_KbSi9ZOxo
  
  
  
-F r o m :  Weston Schaper <wschaper@arelabs.com>
-S e n t :  Monday, February 9, 2026 3:47 PM
+F r o m : Weston Schaper <wschaper@arelabs.com>
+S e n t : Monday, February 9, 2026 3:47 PM
 3/7/26, 11:04 AM iCloud Mail
 https://www.icloud.com/mail/ 4/5
 
-T o :  Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
-S u b j e c t :  ARE Labs - Note on current spray can
+## Section 5: Page 5
+T o : Jim Johnson <jjohnson@sprayproducts.com>; Jacob Bevier <bevier19jac@icloud.com>
+S u b j e c t : ARE Labs - Note on current spray can
  
 Hey guys,
  

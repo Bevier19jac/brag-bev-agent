@@ -1,7 +1,10 @@
 Source filename: S14.pdf
 Source relative path: vendor_emails/S14.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:23.866179+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:35.823664+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Completed and ARE Labs results — next steps
 Date: February 4, 2026 at 1:54:34 PM
@@ -26,6 +29,7 @@ Jacob Bevier
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 1/13
 
+## Section 2: Page 2
 7604903416
 On Jan 30, 2026, at 6:58 AM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 Hi Jacob,
@@ -58,6 +62,7 @@ especially valuable as we think through potential adjustments.
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 2/13
 
+## Section 3: Page 3
 Would you be able to share your availability over the next week or so for a 30–45 minute call? I’ll
 do my best to accommodate schedules across time zones.
 Thanks in advance, and I look forward to connecting.
@@ -83,6 +88,7 @@ To: Jacob Bevier <bevier19jac@icloud.com>
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 3/13
 
+## Section 4: Page 4
 Cc: Andrew Wills <awills@sprayproducts.com>; sarahjbraganini@gmail.com; Shawn Johnson
 <SJohnson@sprayproducts.com>
 Subject: Re: Testing Completed and ARE Labs results — next steps
@@ -110,7 +116,7 @@ Hey Jim!
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 4/13
 
- 
+## Section 5: Page 5
 Appreciate you getting back to me so quickly.
 I think this is a good point to broaden the testing rather than lock anything in yet.
 With ARE Labs running controlled evaluations, it would be helpful to look at larger can sizes
@@ -139,6 +145,7 @@ size and fill weight?
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 5/13
 
+## Section 6: Page 6
 Thanks! Jim 
  
 Jim Johnson
@@ -167,6 +174,7 @@ bin. Several groups we spoke with previously felt that target wasn’t realistic
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 6/13
 
+## Section 7: Page 7
 showed otherwise — the spray consistently reached the interior lid surface, which is a
 major milestone and a strong validation of the direction you took.
 Additional positives from the testing:
@@ -199,6 +207,7 @@ On Dec 5, 2025, at 4:55 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 7/13
 
+## Section 8: Page 8
 Okay, it looks like it is out for delivery. Jim
  
 Jim Johnson
@@ -226,6 +235,7 @@ On Dec 5, 2025, at 2:51 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 8/13
 
+## Section 9: Page 9
 Hello.
  
 It was scheduled to arrive yesterday. Let us know. Jim
@@ -235,7 +245,7 @@ way Medina
 12/01/2
 5
 12/04/2
-5  
+5 
 88658744637
 0 - Jacob Bevier Ty
  
@@ -257,6 +267,7 @@ Cc: Andrew Wills <awills@sprayproducts.com>; Joyce Stasky
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 9/13
 
+## Section 10: Page 10
 <sarahjbraganini@gmail.com>
 Subject: Re: Availability for a brief call
  
@@ -285,7 +296,7 @@ Subject: Re: Availability for a brief call
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 10/13
 
- 
+## Section 11: Page 11
 Jacob Bevier
 105 Pendleton Trail
 Tyrone, GA 30290
@@ -314,6 +325,7 @@ Subject: Availability for a brief call
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 11/13
 
+## Section 12: Page 12
 Hi Andrew and Jim,
 I was hoping I could jump on a short call with you guys — even ten
 minutes would be helpful. My intention in trying to share the broader
@@ -349,6 +361,7 @@ adjust the workflow to whatever best fits Spray’s process.
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 12/13
 
+## Section 13: Page 13
 I really do appreciate your time and expertise, and I’m trying to navigate
 this industry the right way. A short call would go a long way in making
 sure we’re aligned and can continue productively.

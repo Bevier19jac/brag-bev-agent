@@ -1,7 +1,10 @@
 Source filename: S15.pdf
 Source relative path: vendor_emails/S15.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:24.202998+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:37.028912+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Completed and ARE Labs results — next steps
 Date: January 30, 2026 at 3:09:04 PM
@@ -31,6 +34,7 @@ on a time.
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 1/13
 
+## Section 2: Page 2
 Appreciate the flexibility, and I’m looking forward to the discussion.
 Very respectfully, 
 Jacob Bevier
@@ -62,6 +66,7 @@ that I think would benefit from a joint discussion.
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 2/13
 
+## Section 3: Page 3
 I’m working to coordinate a collaborative call that would include ARE Labs, mechanical
 design, and Spray Products so we can review the findings together, align on root cause, and
 determine next steps before moving into further iterations. Your input on the valve/actuation
@@ -88,6 +93,7 @@ Email: sjohnson@sprayproducts.com
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 3/13
 
+## Section 4: Page 4
 From: Jim Johnson <jjohnson@sprayproducts.com>
 Sent: Tuesday, January 13, 2026 7:32 AM
 To: Jacob Bevier <bevier19jac@icloud.com>
@@ -116,7 +122,7 @@ Subject: Re: Testing Completed and ARE Labs results — next steps
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 4/13
 
- 
+## Section 5: Page 5
 Hey Jim!
  
 Appreciate you getting back to me so quickly.
@@ -145,8 +151,7 @@ can size and fill weight?
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 5/13
 
- 
- 
+## Section 6: Page 6
 Thanks! Jim 
  
 Jim Johnson
@@ -172,6 +177,7 @@ really confirm that we are extremely close.
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 6/13
 
+## Section 7: Page 7
 One of the biggest open questions going into testing was whether the formulation
 and overall design approach could achieve sufficient vertical spray height inside a 96-
 gallon bin. Several groups we spoke with previously felt that target wasn’t realistic. The
@@ -205,8 +211,7 @@ On Dec 5, 2025, at 4:55 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 7/13
 
- 
- 
+## Section 8: Page 8
 Okay, it looks like it is out for delivery. Jim
  
 Jim Johnson
@@ -232,6 +237,7 @@ Very respectfully,
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 8/13
 
+## Section 9: Page 9
 Jacob B
  
 On Dec 5, 2025, at 2:51 PM, Jim Johnson <jjohnson@sprayproducts.com>
@@ -245,7 +251,7 @@ way Medina
 12/01/2
 5
 12/04/2
-5  
+5 
 88658744637
 0 - Jacob Bevier
  
@@ -262,6 +268,7 @@ www.sprayproducts.com
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 9/13
 
+## Section 10: Page 10
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Friday, December 5, 2025 2:15:58 PM
 To: Jim Johnson <jjohnson@sprayproducts.com>
@@ -289,6 +296,7 @@ Hi Jacab,
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 10/13
 
+## Section 11: Page 11
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Tuesday, November 25, 2025 12:58 PM
 To: Jim Johnson <jjohnson@sprayproducts.com>
@@ -317,6 +325,7 @@ necessary changes.  
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 11/13
 
+## Section 12: Page 12
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Tuesday, November 25, 2025 9:35 AM
 To: Andrew Wills <awills@sprayproducts.com>
@@ -352,6 +361,7 @@ From our side, the formulation targets remain:
 3/7/26, 11:08 AM iCloud Mail
 https://www.icloud.com/mail/ 12/13
 
+## Section 13: Page 13
 Foaming aerosol cleanser
 Peppermint essential oil included
 Lockdown actuator

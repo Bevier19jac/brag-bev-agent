@@ -1,7 +1,10 @@
 Source filename: S28.pdf
 Source relative path: vendor_emails/S28.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:26.343154+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:51.026591+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Update: Additional cans with conical spray actuators
 Date: January 13, 2026 at 8:27:53 AM
@@ -34,6 +37,7 @@ On Jan 12, 2026, at 4:22 PM, Weston Schaper <wschaper@arelabs.com> wrote:
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 1/3
 
+## Section 2: Page 2
 Jacob,
  
 Just resending the report just in case. Let us know if you have any questions.
@@ -50,16 +54,16 @@ Vice President - R&D
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Braeden Scott <bscott@arelabs.com>
-S e n t :  Thursday, January 8, 2026 4:20 PM
-T o :  bevier19jac@icloud.com
-C c :  Weston Schaper <wschaper@arelabs.com>; sarahjbraganini@gmail.com
-S u b j e c t :  Bragg & Bevier LLC Foaming Cleanser Spray Coverage Testing
+F r o m : Braeden Scott <bscott@arelabs.com>
+S e n t : Thursday, January 8, 2026 4:20 PM
+T o : bevier19jac@icloud.com
+C c : Weston Schaper <wschaper@arelabs.com>; sarahjbraganini@gmail.com
+S u b j e c t : Bragg & Bevier LLC Foaming Cleanser Spray Coverage Testing
  
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 2/3
 
- 
+## Section 3: Page 3
 Hello, I’m Braeden Scott. I’m an Assistant Scientist at ARE Labs that was tasked with completing
 the experiment on your product. Here are the latest results from yesterday’s testing. Please let me
 know your thoughts.

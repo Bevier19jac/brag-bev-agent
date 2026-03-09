@@ -1,7 +1,10 @@
 Source filename: Dd - 2.1 - Jacob Bevier - bevier19jac@icloud.com.pdf
 Source relative path: vendor_emails/Dd - 2.1 - Jacob Bevier - bevier19jac@icloud.com.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:19.646220+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:11.128610+00:00
+
+## Section 1: Page 1
 Design and Prototype Proposal
  Dd 2.1 
  
@@ -11,7 +14,7 @@ Prepared For
  +17604903416 
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 1 of 22
 
- 
+## Section 2: Page 2
 WATCH THE VIDEO BELOW TO LEARN WHY 
 ENTREPRENEURS, INVENTORS, AND 
 STARTUPS ALL CHOOSE RABBIT PRODUCT 
@@ -24,12 +27,14 @@ you'll need to take:
 2. Digitally sign and date the proposal 
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 2 of 22
 
+## Section 3: Page 3
 3. Make payment to ensure timely project kickoff by Wire 
 Transfer, E-check, or Credit Card 
 Thank you, 
 The Rabbit Product Design Team
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 3 of 22
 
+## Section 4: Page 4
 Top 5 Reasons Why Entrepreneurs, Inventors, 
 and Startups Choose Rabbit Product Design?
  
@@ -60,6 +65,7 @@ electronics, Research and Design Engineer
 Texas Instruments
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 4 of 22
 
+## Section 5: Page 5
 27 Years Average Experience of Staff
 We are a team of ALL senior-level design, engineering, and 
 marketing experts with an average of 27 years of experience. Our 
@@ -74,6 +80,7 @@ mistakes
 profitability
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 5 of 22
 
+## Section 6: Page 6
 • Frequent use of interns working for free and billed at the 
 standard rate
 • Only more prominent companies/brands get the top talent 
@@ -86,6 +93,7 @@ shorter time to market, and, once the product is launched, the
 greatest profitability.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 6 of 22
 
+## Section 7: Page 7
 How We Differ From Competition
 We are the only true End-To-End product design firm, and you 
 can compare options in the chart below. When we design your 
@@ -93,7 +101,7 @@ product, we also analyze patentability, engineering,
 manufacturing and marketing, and sales channels. We have 
 one overriding goal: your success in the marketplace at 
 sustainable, scalable margins. And that is precisely what we 
-will deliver for you.  
+will deliver for you. 
 * Not all services are in-house.
 1. Invention Company – offer animations and claim to find companies to license ideas, but most 
 have a success rate below .002%
@@ -102,6 +110,7 @@ delayed product launch, quit on you when things get complicated, or a better gig
 around.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 7 of 22
 
+## Section 8: Page 8
 3. Low-Cost Prototype Shop – most will deliver a prototype to meet the contract's obligations. 
 Still, it may not be manufacturable, cost-effective, or even sellable at the end of the day.
 4. Design Firm – most are focused on short-term profitability, use mostly junior-level staff, and 
@@ -111,12 +120,14 @@ to.
 senior-level resources. You get the best value of quality vs. cost.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 8 of 22
 
+## Section 9: Page 9
 Our Track Record Speaks For Itself
 Our team has launched over 1,000 products over the years. Below 
 is a small sampling of some of our favorite products developed. 
 Maybe your project will be added to our favorite list in the future.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 9 of 22
 
+## Section 10: Page 10
 Social Proof Video Testimonials
 Below are a some video testimonials from some recent clients. 
 Feel free to click the PLAY BUTTON for each to see what they 
@@ -135,6 +146,7 @@ Christopher Z.
 Philadelphia, PA
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 10 of 22
 
+## Section 11: Page 11
 Our 4 Phase End-To-End Process
 * The 4 Phase process diagram below shows the order of 
 steps from idea to product launch. Depending on your product 
@@ -144,6 +156,7 @@ be listed in Exhibit A. There will be a separate contract for
 each of the 4 phases, and you can go at your own pace.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 11 of 22
 
+## Section 12: Page 12
 HOW WE ADD MORE VALUE
 • Only Design Firm In U.S. with In-House Patent Research 
 • All Senior Level Designers And Engineers
@@ -152,6 +165,7 @@ HOW WE ADD MORE VALUE
 • Design and Marketing Coaching To Launch Your Product to the Market
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 12 of 22
 
+## Section 13: Page 13
 Exhibit A
 (Services, Descriptions, and Pricing)
 Concept:
@@ -161,7 +175,7 @@ Risks:
 sourcing and system validation outside of Rabbit PD scope.
 •Full compliment of features may exceed cost goals at Minimum Order Quantities (MOQ). 
 Assumptions:
--Quote for first iteration mechanical concept development for the trigger  mechanism, , 
+-Quote for first iteration mechanical concept development for the trigger mechanism, , 
 caking agent release, and self righting mechanism.
 -Quote includes initial initial system architecture layouts to assist in chemical component 
 supplier sourcing.
@@ -173,6 +187,7 @@ Scope:
 -Client communications 
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 13 of 22
 
+## Section 14: Page 14
 Name Price
 Mechanical (ONLY) RETAINER
 The following steps may be performed based on project needs: 
@@ -194,13 +209,14 @@ Total $11,430.00
 If you need a loan...
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 14 of 22
 
+## Section 15: Page 15
 Exhibit B
  
 (Bill Rates, Payment Terms, and Lead Time)
  
 Per Paragraphs 1 and 2 of the Agreement, this Exhibit B specifies all fees, payments, expenses, taxes, and 
 other charges due by Client to Rabbit. Specifically, it will include the scheduling of payments and the 
-defined circumstances for payment.   
+defined circumstances for payment. 
  
 A. Bill Rates
 1. Senior Industrial Designer, Senior Mechanical - $450/hr 
@@ -219,7 +235,7 @@ SWIFT: BOFAUS3N (for International Wires)
 C. Schedule of Payments
 a. The estimated cost for this agreement is $11,430.00 
 D. REFUNDS 
-   a. Hourly Retainer Services - if a project is stopped partially through or the full retainer is not needed a 
+ a. Hourly Retainer Services - if a project is stopped partially through or the full retainer is not needed a 
 refund will be given for unused retainer amount.
 E. Supplied Materials and/or Prototypes. Once project is completed and or closed you are responsible for 
 requesting and covering the cost to return any items originally sent to Rabbit for the development of your 
@@ -230,6 +246,7 @@ the items may be discarded after 90 days.
 Wire Transfer (see below for instructions)
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 15 of 22
 
+## Section 16: Page 16
 F. Reactivation Fee. Pursuant to Section 2(g) of this agreement, the Reactivation Fee will be 20% of the 
 total services listed in Exhibit A.
  
@@ -240,6 +257,7 @@ on product conflicts discovered during design.
  
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 16 of 22
 
+## Section 17: Page 17
 SERVICE AGREEMENT
 By Accepting this Service Agreement ("Agreement") made on the recorded date of electronic signing 
 ("Effective Date") by and between Rabbit Product Design, Inc., a Delaware Corporation ("Rabbit"), and a 
@@ -278,6 +296,7 @@ immediately to Rabbit and are the sole and exclusive property of Rabbit.
 3. Terms and Termination or Completion
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 17 of 22
 
+## Section 18: Page 18
 1. Terms. This Agreement becomes effective as of the Effective Date and continues until 
 completed or earlier terminated as set forth below.
 2. Termination for Breach. Either party may terminate this Agreement upon written notice in the 
@@ -321,6 +340,7 @@ UNLESS EXPRESSLY SET FORTH HEREIN TO THE CONTRARY, RABBIT MAKES NO
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION 
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 18 of 22
 
+## Section 19: Page 19
 THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
 PURPOSE, COURSE OF DEALING, AND USAGE OF TRADE.
 3. LIMITATION OF LIABILITY. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY 
@@ -364,6 +384,7 @@ under any applicable statute or the rule of law. In that case, it shall, to that
 omitted, and the balance of this Agreement shall be enforceable following its terms.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 19 of 22
 
+## Section 20: Page 20
 8. Exhibits. All exhibits referred to in this Agreement and attached hereto are incorporated into 
 this Agreement by reference and are made a part of hereof.
 9. Governing Law. The construction, interpretation, and performance of this Agreement and all 
@@ -382,8 +403,9 @@ expiration, cancellation, or termination of this Agreement for any reason.
 shall be deemed an original and constitute one instrument.
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 20 of 22
 
+## Section 21: Page 21
 PLEASE READ CAREFULLY BEFORE SIGNING THE CONTRACT:
-        Checking this box confirms that you understand this is a Time and Materials hourly 
+ Checking this box confirms that you understand this is a Time and Materials hourly 
 contract. You will be billed for each hour worked and for all materials purchased related to 
 your project or to validate the design. If Rabbit expects to exceed the initial retainer, we 
 will do our best to notify you in advance. Due to the fast nature of product development, 
@@ -404,7 +426,7 @@ product development process.
 not expect the test sample to function perfectly. We will do what is necessary to 
 validate the design, but we will need to use production processes and materials to 
 validate the product fully.
-• A fully working prototype does not guarantee issue-free manufacturing.  Final 
+• A fully working prototype does not guarantee issue-free manufacturing. Final 
 optimization of the design for manufacturing sometimes requires collaboration with 
 the chosen manufacturing partner. 
 • Shipping costs are not included in the estimates. You are responsible for paying all 
@@ -413,13 +435,15 @@ Disclosing Party
 Jacob Bevier 06 / 16 / 2025
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 21 of 22
 
- Rabbit Product Design, Inc
+## Section 22: Page 22
+Rabbit Product Design, Inc
 Adam Tavin
 Managing Partner
 105 Pendleton Trail, Tyrone, GA 
 Doc Number America/New_York 20 0 0 
 Document Ref: GMG5D-WAXUV-FYEPO-BRCGY Page 22 of 22
 
+## Section 23: Page 23
 REF. NUMBER
 GMG5D-WAXUV-FYEPO-BRCGY
 DOCUMENT COMPLETED BY ALL PARTIES ON

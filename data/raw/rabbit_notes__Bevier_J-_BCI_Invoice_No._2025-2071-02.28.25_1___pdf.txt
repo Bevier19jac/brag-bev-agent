@@ -1,0 +1,124 @@
+Source filename: Bevier, J- BCI Invoice No. 2025-2071-02.28.25 (1).pdf
+Source relative path: rabbit_notes/Bevier, J- BCI Invoice No. 2025-2071-02.28.25 (1).pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:57.687998+00:00
+
+## Section 1: Page 1
+THANKS FOR YOUR BUSINESS!!! 
+ 
+ 
+ 
+INVOICE 
+ 
+ 
+INVOICE # 2025-2071 
+ DATE 02/28/2025 
+TO 
+Jacob B. Bevier 
+105 Pendleton Trail 
+Tyrone, GA 30290 
+bevier19jac@icloud.com 
+ 
+FOR Term Sheet Draft 
+and Advisement 
+ 
+ 
+ 
+Invoice 2025-2071 is issued to Jacob B. Bevier in association with client advisement and the draft of an 
+investment term sheet for the Dumpster Diver product. 
+ 
+Specifically, the following hours were billed to Mr. Bevier’s account based on the discounted rate of $250 per 
+hour for Attorney C. Banks and $125 per hour for Paralegal L. Sealy: 
+ 
+Date CB Hours LS Hours Work Completed Fees 
+21-Jan 0.75 
+Review of background information provided by Mr. Bevier 
+and provided notes on moving forward with drafting a 
+term sheet 188 
+30-Jan 0.75 0.75 
+Zoom conversation with J. Bevier re: the terms previously 
+proposed by potential investor J. Braganini and his 
+preference adjusted proposed terms. 
+ 
+BCI asked to prepare the initial draft of the term sheet and 
+to negotiate the company's operating/ownership 
+agreement and licensing Agreement for the patent on Mr. 
+Jacob Bevier's behalf. 281 
+4-Feb 1.00 
+Prepare initial draft of term sheet and research additional 
+not originally proposed the Investor. 250 
+16-Feb 2.50 
+Prepare initial draft of the term sheet and share with Client 
+Bevier for his review. 625 
+17-Feb 0.50 
+Call with J. Bevier re: term sheet 
+ 
+Forward the term sheet to J. Braganini per Client's request 125 
+18-Feb 0.25 
+Review forwarded email from J. Braganini in response to 
+the term sheet 63
+
+## Section 2: Page 2
+Page 2 of 2 
+24-Feb 0.25 
+Follow-up with J. Bevier and send comments via email re: 
+future negotiations with J. Braganini that may not include 
+BCI. 63 
+ 
+ Total Due to BCI 1,594 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms: Payment is due within 3 days of receipt of this invoice via electronic mail 
+ 
+REMITTANCE INFORMATION 
+via Wire/ACH: via Check: Via Zelle: 
+Bank of America 
+2907 Crenshaw Boulevard 
+Los Angeles, California 90016 
+877-663-8648 
+ 
+Mail payment to the following address: 
+ 
+Bankable Consulting, Inc. 
+2275 Marietta Blvd NW 
+Ste. 270 
+Atlanta, GA 30318 
+ 
+Email chiquita@bankableconsultants.com 
+with Tracking 
+Information 
+ 
+Use the following email address: 
+chiquita@bankableconsultants.com 
+ 
+ 
+Email 
+chiquita@bankableconsultants.com 
+when payment has been sent 
+Account Number- 325177757657 
+ACH Routing Number- 121000358 
+ 
+Wire Routing Number- 026009593

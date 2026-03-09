@@ -1,0 +1,122 @@
+Source filename: Fork in the Road.pdf
+Source relative path: rabbit_notes/Fork in the Road.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:17:50.608014+00:00
+
+## Section 1: Page 1
+DUMPSTER DIVER
+**Evaluation of Production Paths Forward**
+Brag & Bev LLC
+John Braganini, Apollo Braganini, Sarah Braganini, Candice Aaron and Jacob Bevier
+
+## Section 2: Page 2
+Approach to Finding a New CHEMIST
+
+## Section 3: Page 3
+Universities / Colleges / Institutions
+• University of Minnesota
+• Georgia Tech (multiple departments, incl. Rodney 
+Weber contact)
+• North Carolina State University (multiple 
+departments)
+• Stony Brook University
+• Virginia Commonwealth University (VCU)
+• Purdue University
+• University of California, Irvine (UCI)
+• Central Michigan University
+• California Polytechnic State University (Cal Poly)
+• Texas A&M University (tamu.edu)
+• Colorado State University
+• Skidmore College
+• University of California, San Diego (UCSD)
+• Miami University
+• University of South Florida
+• University of New Mexico
+• New Jersey Institute of Technology (NJIT)
+• University of Michigan (multiple departments)
+• Imperial College London
+• University of South Carolina
+• Washington University in St. Louis (wustl.edu)
+• University of Texas
+• Tulane University
+• University of Maryland
+• University of Maryland School of Pharmacy (separate 
+department)
+• Clarkson University (clarkson.edu)
+• University of Denver (du.edu)
+• University of Edinburgh (ed.ac.uk)
+• University of Washington (uw.edu)
+• University of Utah (utah.edu)
+• University of California, Los Angeles (UCLA)
+• University of Warsaw, Poland (uw.edu.pl)
+• Virginia Tech (vt.edu)
+• University of North Dakota (und.edu)
+• Lund University, Sweden (lth.se)
+• University of Iowa
+• Penn State University
+
+## Section 4: Page 4
+Companies / Labs / Other Institutions
+• Freelance Formulations
+• Beakers and Bottles
+• ARE Labs
+• ATS (Aerosol Technical Solutions – 
+via John Chadwick)
+• Uno FormulationsDesign.lth.se 
+(likely tied to Lund University 
+design group)
+
+## Section 5: Page 5
+Path 1: DIY Formulas => MB Industries (BOV)
+• Process: Source our own chemicals, mix/test small 1L 
+batches, ship to MB Industries, Pennsylvania => MB fills 
+into BOV cans => they send back units to test.
+• Regulatory: No VOC concern; BOV is air-powered.
+• Cost: Approximately $1,000 for chemicals and supplies 
+for initial formulation batches. 
+• BOV is usually 20–50% more expensive than a 
+comparable traditional aerosol.
+• On a per-unit basis, depending on volume:
+o Traditional aerosol filling: $0.15–0.30 extra cost per 
+can.
+o BOV filling: $0.40–0.60 extra cost per can
+• Pros: Full control of formulation, BOV = eco-friendly 
+marketing edge.
+• Cons: Slower, more bench work on my end, even with the 
+DIY could be more costly in the long run.
+Aerosol Research and Engineering Labs
+
+## Section 6: Page 6
+4 DIY Formulations
+F1 — Baseline Foaming Cleanser — 1 L Batch Card
+Goal: Simple, clear, stable; good foam; VOC-free; BOV-ready. | Target pH: 5.8–6.0 | Viscosity: »250–400 cP
+F2 — Boosted Cleaning (Hydrotrope + Co-solvent) — 1 L Batch Card
+Goal: Better grease/soil tolerance; remains BOV-sprayable. | Target pH: 5.8–6.0 | Viscosity: »250–450 cP
+F3 — Heavy-Duty Anionic System — 1 L Batch Card
+Goal: Stronger cleaning; clearer rinse; anionicnforward. | Target pH: 5.8–6.0 | Viscosity: »300–600 cP
+F4 — Advanced (Builders + Polymer Anti-redeposition) — 1 L Batch Card
+Goal: Highest performance; watch clarity/viscosity & filtration. | Target pH: 5.8–6.0 | Viscosity: »300–600 cP
+
+## Section 7: Page 7
+Path 2: SprayProducts (Conventional Aerosol)
+• Process: SprayProducts handles formulation + nozzle pairing + filling.
+• Regulatory: VOC compliance not a problem (their expertise).
+• Notes: They emphasized confidence, attitude, and alignment with our vision.
+• Pros: Fastest to manufacturable solution, strong technical partner.
+• Cons: Standard aerosol format (less eco-friendly than BOV), VOC compliance still applies.
+
+## Section 8: Page 8
+Path Partner System VOC Compliance Cost Impact Speed Notes
+DIY + MB Ind MB Industries BOV No Concern / 
+Filled with Air
++ $0.15-$0.30/can Slowest You mix, they 
+fill
+SprayProducts SprayProducts Aerosol Not an issue Standard Fastest Very 
+confident in 
+their 
+capabilities
+Overview
+
+## Section 9: Page 9
+Fork in the Road

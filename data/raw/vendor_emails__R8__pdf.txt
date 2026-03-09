@@ -1,7 +1,10 @@
 Source filename: R8.pdf
 Source relative path: vendor_emails/R8.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:22.441385+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:29.128825+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Collaboration Inquiry — VOC-Compliant Aerosol Cleaner Development
 Date: September 16, 2025 at 3:30:31 PM
@@ -25,6 +28,6 @@ Thank you for your time and consideration.
 Warm regards,
 Jacob Bevier
 Co-Founder, Brag & Bev LLC
-📞  760-490-3416 | ✉  bevier19jac@icloud.com
+📞 760-490-3416 | ✉ bevier19jac@icloud.com
 3/7/26, 11:39 AM iCloud Mail
 https://www.icloud.com/mail/ 1/1

@@ -1,7 +1,10 @@
 Source filename: D76.pdf
 Source relative path: vendor_emails/D76.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:19.411694+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:09.654473+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Exploring Collaboration — Aerosol Cleaner Project Under VOC Constraints
 Date: September 17, 2025 at 9:50:41 AM
@@ -19,11 +22,11 @@ Thanks for reaching out. This is outside my lab's main area of expertise. Additi
 capacity to take on new projects, but thank you for thinking of us.
 Regards,
 Linsey
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, September 16, 2025 3:26 PM
-T o :  Marr, Linsey <lmarr@vt.edu>
-C c :  sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Exploring Collaboration — Aerosol Cleaner Project Under VOC Constraints
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, September 16, 2025 3:26 PM
+T o : Marr, Linsey <lmarr@vt.edu>
+C c : sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t : Exploring Collaboration — Aerosol Cleaner Project Under VOC Constraints
  
 Dear Dr. Marr,
 My name is Jacob Bevier, co-founder of Brag & Bev LLC. We have a deodorizer-baseline aerosol
@@ -31,6 +34,7 @@ prototype with good spray coverage and reach, and our next goal is to develop a 
 3/7/26, 11:36 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 compliant cleanser with real cleaning power.
 I believe your work in aerosol generation, air behavior, and measurement would make you a
 great partner. Specifically, I am looking for help with:
@@ -43,6 +47,6 @@ Would you be open to a ~20-minute call to see if this aligns with your lab’s c
 to share data and test constraints ahead of time.
 Best regards,
 Jacob Bevier
-📞  760-490-3416 | bevier19jac@icloud.com
+📞 760-490-3416 | bevier19jac@icloud.com
 3/7/26, 11:36 AM iCloud Mail
 https://www.icloud.com/mail/ 2/2

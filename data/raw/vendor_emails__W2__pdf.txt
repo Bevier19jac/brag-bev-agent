@@ -1,7 +1,10 @@
 Source filename: W2.pdf
 Source relative path: vendor_emails/W2.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:29.100558+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:20:01.311915+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: ARE Labs
 Date: January 12, 2026 at 10:27:31 AM
@@ -13,7 +16,7 @@ On Jan 12, 2026, at 9:44 AM, Braeden Scott <bscott@arelabs.com> wrote:
 3/7/26, 10:52 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
- 
+## Section 2: Page 2
 Hello Jacob,
  
 I Just wanted to check in with you and make sure you received my last email

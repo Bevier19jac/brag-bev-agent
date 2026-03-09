@@ -1,7 +1,10 @@
 Source filename: S21.pdf
 Source relative path: vendor_emails/S21.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:25.509592+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:45.506059+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Completed and ARE Labs results — next steps
 Date: January 29, 2026 at 3:41:59 PM
@@ -31,7 +34,7 @@ Good Morning Jacob,
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 1/12
 
- 
+## Section 2: Page 2
 Regards,
  
 Shawn Johnson
@@ -58,6 +61,7 @@ Jim Johnson
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 2/12
 
+## Section 3: Page 3
 Vice President of R&D
 Spray Products Corporation
 1000 Lake Road
@@ -87,6 +91,7 @@ forward.
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 3/12
 
+## Section 4: Page 4
 Very respectfully, Jacob Bevier 7604903416
  
 On Jan 12, 2026, at 4:56 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
@@ -113,6 +118,7 @@ Cell: 330-419-3372
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 4/12
 
+## Section 5: Page 5
 www.sprayproducts.com
  
 From: Jacob Bevier <bevier19jac@icloud.com>
@@ -144,6 +150,7 @@ already being achieved.
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 5/12
 
+## Section 6: Page 6
 From our standpoint, the difficult part — achieving height with acceptable foam behavior —
 has been addressed. What remains feels like a distribution refinement rather than any
 fundamental formulation change.
@@ -173,6 +180,7 @@ Cell: 330-419-3372
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 6/12
 
+## Section 7: Page 7
 www.sprayproducts.com
  
 From: Jacob Bevier <bevier19jac@icloud.com>
@@ -197,7 +205,7 @@ way Medina
 12/01/2
 5
 12/04/2
-5  
+5 
 88658744637
 0 - Jacob Bevier Tyron
  
@@ -205,6 +213,7 @@ way Medina
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 7/12
 
+## Section 8: Page 8
 Jim Johnson
  
 Vice President of R&D
@@ -232,8 +241,7 @@ wrote:
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 8/12
 
- 
- 
+## Section 9: Page 9
 Hi Jacab,
  
    The samples will ship tomorrow.  In our initial test we were ~ 40 inches.
@@ -260,6 +268,7 @@ wrote:
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 9/12
 
+## Section 10: Page 10
 Hi Jacob,
  
 We understand the goal.  What is your shipping address for samples?   Let’s
@@ -293,6 +302,7 @@ something unclear or creating complications unintentionally. A brief
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 10/12
 
+## Section 11: Page 11
 conversation would help me understand exactly what your team needs from
 me and how we can proceed within the structure you’re comfortable with.
 I haven’t shared the broader scope of the project yet because I’ve been
@@ -323,6 +333,7 @@ Jacob
 3/7/26, 11:11 AM iCloud Mail
 https://www.icloud.com/mail/ 11/12
 
+## Section 12: Page 12
 ARE Labs - 1…ting v1.0.pdf
 2.1 MB
 11048 - ARE…ray v1.0.pdf

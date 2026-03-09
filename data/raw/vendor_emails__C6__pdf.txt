@@ -1,9 +1,12 @@
 Source filename: C6.pdf
 Source relative path: vendor_emails/C6.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:17.389236+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:18:58.193542+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
-Subject: Re: b_Collaboration on Cleanser Aerosol ➜  From Deodorizer Baseline to VOC-Compliant
+Subject: Re: b_Collaboration on Cleanser Aerosol ➜ From Deodorizer Baseline to VOC-Compliant
 Product
 Date: September 17, 2025 at 3:05:57 PM
 To: Grinshpun, Sergey (grinshs)GRINSHS@UCMAIL.UC.EDU
@@ -29,15 +32,16 @@ University of Cincinnati
 3/7/26, 11:34 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 Cincinnati, OH 45267, USA
 TEL: 513-218-9180
 TEL: 513-558-0504
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, September 16, 2025 3:25 PM
-T o :  Grinshpun, Sergey (grinshs) <GRINSHS@UCMAIL.UC.EDU>
-C c :  sarahjbraganini@gmail.com
-S u b j e c t :  Collaboration on Cleanser Aerosol ➜ From Deodorizer Baseline to VOC-Compliant Product
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, September 16, 2025 3:25 PM
+T o : Grinshpun, Sergey (grinshs) <GRINSHS@UCMAIL.UC.EDU>
+C c : sarahjbraganini@gmail.com
+S u b j e c t : Collaboration on Cleanser Aerosol ➜ From Deodorizer Baseline to VOC-Compliant Product
  
 External Email: Use Caution
 Dear Dr. Grinshpun,

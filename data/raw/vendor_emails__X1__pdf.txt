@@ -1,7 +1,10 @@
 Source filename: X1.pdf
 Source relative path: vendor_emails/X1.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:29.264734+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:20:01.853283+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: VOC compliance solution | List of ingredients/materials
 Date: September 25, 2025 at 4:13:02 PM
@@ -31,6 +34,7 @@ Minimal effort required on our side.
 3/7/26, 11:30 AM iCloud Mail
 https://www.icloud.com/mail/ 1/5
 
+## Section 2: Page 2
 Cons
 Conventional aerosol path means VOC rules apply (though they are confident compliance is easy).
 Less differentiation compared to BOV packaging as BOV is less common and considered more "eco-
@@ -59,6 +63,7 @@ Jacob Bevier
 3/7/26, 11:30 AM iCloud Mail
 https://www.icloud.com/mail/ 2/5
 
+## Section 3: Page 3
 On Sep 23, 2025, at 1:28 PM, jbglm2@gmail.com wrote:
 Jacob,
  
@@ -68,11 +73,11 @@ John Braganini
 269-330-4205
  
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, September 23, 2025 1:22 PM
-T o :  jbglm2@gmail.com; sarahjbraganini@gmail.com
-C c :  Candice 💍 <candice.aaron@hotmail.com>; Abraganini@gmail.com
-S u b j e c t :  VOC compliance solution | List of ingredients/materials
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, September 23, 2025 1:22 PM
+T o : jbglm2@gmail.com; sarahjbraganini@gmail.com
+C c : Candice 💍 <candice.aaron@hotmail.com>; Abraganini@gmail.com
+S u b j e c t : VOC compliance solution | List of ingredients/materials
  
 Hi JB and Team,
 I wanted to share an exciting new development on how we can move forward without being held
@@ -87,6 +92,7 @@ options and really dial it in.
 3/7/26, 11:30 AM iCloud Mail
 https://www.icloud.com/mail/ 3/5
 
+## Section 4: Page 4
 I’m still maintaining our university interest, but this BOV pathway gives us a very practical, near-
 term route. Max from NYCO (good to keep in mind | fill big orders only 40,000+ units/order)
 connected me with Mark from MB Industries, and Mark(retired Army veteran) is enthusiastic
@@ -119,5 +125,6 @@ Jacob Bevier
 3/7/26, 11:30 AM iCloud Mail
 https://www.icloud.com/mail/ 4/5
 
+## Section 5: Page 5
 3/7/26, 11:30 AM iCloud Mail
 https://www.icloud.com/mail/ 5/5

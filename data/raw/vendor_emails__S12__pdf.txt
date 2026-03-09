@@ -1,7 +1,10 @@
 Source filename: S12.pdf
 Source relative path: vendor_emails/S12.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:23.429963+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:34.128171+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Completed and ARE Labs results — next steps
 Date: February 6, 2026 at 10:17:33 AM
@@ -30,6 +33,7 @@ Meeting ID: 274 886 294 376 16
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 1/14
 
+## Section 2: Page 2
 Passcode: mg9LF74n
 Need help? | System reference
 For organizers: Meeting options
@@ -55,6 +59,7 @@ Cc: Jim Johnson <jjohnson@sprayproducts.com>; Andrew Wills <awills@sprayproducts
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 2/14
 
+## Section 3: Page 3
 sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
 Subject: Re: Testing Completed and ARE Labs results — next steps
  
@@ -83,6 +88,7 @@ Shawn Johnson
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 3/14
 
+## Section 4: Page 4
 R&D Chemist
  
 Spray Products Corporation
@@ -110,6 +116,7 @@ Medina, Ohio 44256
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 4/14
 
+## Section 5: Page 5
 Cell: 330-419-3372
 www.sprayproducts.com
 From: Jacob Bevier <bevier19jac@icloud.com>
@@ -139,7 +146,7 @@ On Jan 12, 2026, at 4:56 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 5/14
 
- 
+## Section 6: Page 6
 Hi Jacob,
  
   I am glad the samples performed well! 
@@ -163,6 +170,7 @@ www.sprayproducts.com
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 6/14
 
+## Section 7: Page 7
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Monday, January 12, 2026 11:06:46 AM
 To: Jim Johnson <jjohnson@sprayproducts.com>
@@ -196,6 +204,7 @@ With that in mind, I wanted to ask about the best path forward:
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 7/14
 
+## Section 8: Page 8
 Do you have access to alternative nozzles or actuators that would produce a
 conical spray pattern, or a small variety we could evaluate?
 How would you recommend we go about obtaining additional cans configured
@@ -223,6 +232,7 @@ www.sprayproducts.com
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 8/14
 
+## Section 9: Page 9
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Friday, December 5, 2025 4:51:29 PM
 To: Jim Johnson <jjohnson@sprayproducts.com>
@@ -247,7 +257,7 @@ way Medina
 12/01/2
 5
 12/04/2
-5  
+5 
 88658744637
 0 - Jacob Bevier
  
@@ -257,6 +267,7 @@ Jim Johnson
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 9/14
 
+## Section 10: Page 10
 Vice President of R&D
 Spray Products Corporation
 1000 Lake Road
@@ -285,6 +296,7 @@ On Nov 25, 2025, at 2:39 PM, Jim Johnson
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 10/14
 
+## Section 11: Page 11
 Hi Jacab,
  
    The samples will ship tomorrow.  In our initial test we were ~ 40 inches.
@@ -313,6 +325,7 @@ Hi Jacob,
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 11/14
 
+## Section 12: Page 12
 We understand the goal.  What is your shipping address for samples? 
  Let’s have you evaluate a sample and then jump on a call with any
 necessary changes.  
@@ -346,6 +359,7 @@ unintentionally. A brief conversation would help me understand
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 12/14
 
+## Section 13: Page 13
 exactly what your team needs from me and how we can proceed
 within the structure you’re comfortable with.
 I haven’t shared the broader scope of the project yet because I’ve
@@ -378,5 +392,6 @@ Jacob
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 13/14
 
+## Section 14: Page 14
 3/7/26, 11:07 AM iCloud Mail
 https://www.icloud.com/mail/ 14/14

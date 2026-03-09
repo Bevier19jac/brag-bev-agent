@@ -1,0 +1,16 @@
+Source filename: DD_window_hole_template.pdf
+Source relative path: rabbit_notes/DD_window_hole_template.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:17:43.716451+00:00
+
+## Section 1: Page 1
+Dumpster Diver Window Bolt Pattern Template (6" window)
+Print at 100% (no scaling). T ape strips along each cut edge, drill at marks.Left Edge Strip
+Centerline
+1.0"
+5.0"
+Right Edge Strip
+Centerline
+1.0"
+5.0"

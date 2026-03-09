@@ -1,7 +1,10 @@
 Source filename: S36.pdf
 Source relative path: vendor_emails/S36.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:27.606927+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:56.335613+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: ARE Labs Follow Up
 Date: December 16, 2025 at 9:13:07 AM
@@ -29,6 +32,7 @@ Jacob,
 3/7/26, 11:18 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 Just following up to see if you wanted to proceed with the spray can testing with the large
 trash bin. Let me know if you have any questions or concerns.
  

@@ -1,7 +1,10 @@
 Source filename: S34.pdf
 Source relative path: vendor_emails/S34.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:27.475813+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:55.759748+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: ARE Labs Follow Up
 Date: January 5, 2026 at 6:53:14 PM
@@ -29,6 +32,7 @@ Vice President - R&D
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 1/7
 
+## Section 2: Page 2
 (direct) 913-850-6262
 (fax) 913-850-6635
  <image001.jpg>
@@ -36,11 +40,11 @@ https://www.icloud.com/mail/ 1/7
 Overland Park, KS 66213
 www.ARELabs.com
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Friday, December 19, 2025 8:37 AM
-T o :  Weston Schaper <wschaper@arelabs.com>
-C c :  sarahjbraganini@gmail.com
-S u b j e c t :  Re: ARE Labs Follow Up
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Friday, December 19, 2025 8:37 AM
+T o : Weston Schaper <wschaper@arelabs.com>
+C c : sarahjbraganini@gmail.com
+S u b j e c t : Re: ARE Labs Follow Up
  
 Good morning Weston,
 Thank you for the heads-up—and for keeping things moving, especially with the holiday staffing
@@ -59,6 +63,7 @@ Very respectfully, Jacob Bevier 7604903416
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 2/7
 
+## Section 3: Page 3
 On Dec 19, 2025, at 8:56 AM, Weston Schaper <wschaper@arelabs.com> wrote:
  
  
@@ -79,14 +84,15 @@ Weston
  
 Get Outlook for iOS
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, December 16, 2025 12:06:19 PM
-T o :  Weston Schaper <wschaper@arelabs.com>
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, December 16, 2025 12:06:19 PM
+T o : Weston Schaper <wschaper@arelabs.com>
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 3/7
 
-C c :  sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: ARE Labs Follow Up
+## Section 4: Page 4
+C c : sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t : Re: ARE Labs Follow Up
  
 Just make sure Sarah is included in the email if it deals with payments or anything.
  
@@ -111,13 +117,14 @@ send it to.
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 4/7
 
+## Section 5: Page 5
 Get Outlook for iOS
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, December 16, 2025 8:13:05 AM
-T o :  Weston Schaper <wschaper@arelabs.com>
-C c :  sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: ARE Labs Follow Up
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, December 16, 2025 8:13:05 AM
+T o : Weston Schaper <wschaper@arelabs.com>
+C c : sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t : Re: ARE Labs Follow Up
  
 Hey Weston,
  
@@ -139,6 +146,7 @@ challenge. We meet this week and then I will be sure to let you know. Thanks for
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 5/7
 
+## Section 6: Page 6
 following up and we will talk soon.
  
 Very respectfully, Jacob Bevier 7604903416
@@ -165,9 +173,6 @@ www.ARELabs.com
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 6/7
 
- 
- 
- 
- 
+## Section 7: Page 7
 3/7/26, 11:17 AM iCloud Mail
 https://www.icloud.com/mail/ 7/7

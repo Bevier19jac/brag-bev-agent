@@ -1,7 +1,10 @@
 Source filename: K8.pdf
 Source relative path: vendor_emails/K8.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:20.445857+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:17.151870+00:00
+
+## Section 1: Page 1
 From: Adam Tavinadam.tavin@rabbitpd.com
 Subject: Re: Brag & Bev
 Date: June 16, 2025 at 4:21:26 PM
@@ -30,6 +33,7 @@ Looking forward to next steps! Speak soon.
 3/7/26, 11:01 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 Very respectfully,
 Jacob Bevier
 Sent from my iPhone

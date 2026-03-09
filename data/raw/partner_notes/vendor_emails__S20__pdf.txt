@@ -1,0 +1,31 @@
+Source filename: S20.pdf
+Source relative path: vendor_emails/S20.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:25.202491+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Dumpster Diver Update
+Date: January 29, 2026 at 3:43:32 PM
+To: Joe Mcardlejoe.mcardle@rabbitpd.com
+Cc: sarahjbraganini@gmail.comsarahjbraganini@gmail.com
+Hi Joe,
+I hope all is well.
+I’m attaching the latest testing report and summary deck from ARE Labs related to the cleanser spray
+coverage and vertical deposition work. The results were very helpful and point strongly toward the
+actuator/latch geometry as a key factor influencing spray direction and overall coverage.
+I’m in the process of coordinating a collaborative call with ARE Labs and our aerosol/valve partner so
+we can walk through the findings together and align on mechanical design considerations before
+proceeding further. Given your role on the mechanical side, I’d really value your perspective in that
+discussion.
+Could you let me know your availability over the next week or so for a 30–45 minute call? I’m
+expecting to coordinate across East and West Coast schedules and will try to find a time that works
+for everyone.
+Looking forward to connecting and moving this forward together.
+Very respectfully, 
+Jacob Bevier
+7604903416
+11048 - ARE…ray v1.0.pdf
+1.3 MB
+ARE Labs - 1…ting v1.0.pdf
+2.1 MB
+3/7/26, 11:11 AM iCloud Mail
+https://www.icloud.com/mail/ 1/1

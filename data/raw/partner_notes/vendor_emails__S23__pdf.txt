@@ -1,0 +1,160 @@
+Source filename: S23.pdf
+Source relative path: vendor_emails/S23.pdf
+Source type: .pdf
+Processed at: 2026-03-09T13:56:25.797734+00:00
+From: Jacob Bevierbevier19jac@icloud.com
+Subject: Re: Testing Update
+Date: January 27, 2026 at 11:22:55 AM
+To: Weston Schaperwschaper@arelabs.com
+Cc: Jim Johnsonjjohnson@sprayproducts.com,
+sarahjbraganini@gmail.comsarahjbraganini@gmail.com, Joe
+Mcardlejoe.mcardle@rabbitpd.com
+Weston,
+Thanks for the update — I appreciate you reaching out before proceeding further.
+My recommendation would be to finish testing the remaining can on your end and compile a brief
+report summarizing the findings (spray pattern consistency, spray height, foaming/cleaning
+effectiveness, etc.). Once complete, I think it would be most productive to have everyone
+reviewing the same data set.
+I’ve copied Jim Johnson (Spray Products) and Joe McArdle (Rabbit Product Development) here
+for early situational awareness, as their input will be important as we determine next steps. After
+the report is available, I’d suggest we set up a joint call to walk through the results together and
+align on how the current performance compares to how we ultimately need it to function.
+If we can confirm that the can size and fill volume are sufficient — and that the primary refinement
+needed is the spray pattern — we can move this to the mechanical engineering side in parallel. The
+team at Rabbit is essentially waiting on finalized can dimensions so they can proceed with the
+aerosol housing and trigger mechanism while we continue dialing in the spray behavior.
+Open to any suggestions, comments, or alternative approaches from all — I think once we
+complete this iteration of testing and review it together, there’s more than enough brainpower in the
+room to find a clear path forward.
+Best regards,
+Jacob
+On Jan 27, 2026, at 10:05 AM, Weston Schaper <wschaper@arelabs.com> wrote:
+3/7/26, 11:12 AM iCloud Mail
+https://www.icloud.com/mail/ 1/5
+
+Jacob,
+ 
+I hope all is well. We tested 2 of the cans and saw a similar spray pattern where
+the mass is mostly off to one side/similar the previous cans. We have 1 can left
+to test. But wanted to reach out before we proceeded.
+ 
+We can either hop on a meeting or we can finish testing on our end, send you a
+report, and then meet.
+ 
+Let me know your thoughts.
+ 
+Best,
+ 
+Weston
+ 
+Get Outlook for iOS
+F r o m :  Weston Schaper <wschaper@arelabs.com>
+S e n t :  Thursday, January 22, 2026 1:12:11 PM
+T o :  Jacob Bevier <bevier19jac@icloud.com>
+C c :  Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>;
+sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage
+Testing
+ 
+Jacob, 
+ 
+We received the cans and have time to test today. We will follow up with results.
+Let us know if you have any questions in the meantime. 
+ 
+Best,
+ 
+Weston
+ 
+Get Outlook for iOS
+3/7/26, 11:12 AM iCloud Mail
+https://www.icloud.com/mail/ 2/5
+
+F r o m :  Jacob Bevier <bevier19jac@icloud.com>
+S e n t :  Wednesday, January 21, 2026 11:50:28 AM
+T o :  Weston Schaper <wschaper@arelabs.com>
+C c :  Ingrid <ingrid@arelabs.com>; jbalarashti arelabs.com <jbalarashti@arelabs.com>;
+sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
+S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray Coverage
+Testing
+ 
+Sounds good! 
+ 
+Talk soon…
+ 
+Jacob B
+On Jan 21, 2026, at 12:34 PM, Weston Schaper <wschaper@arelabs.com>
+wrote:
+Jacob,
+ 
+Nick is someone on our end and they were mistakenly added. Apologies for
+the confusion. We have not received the sample cans yet but will definitely
+let you know as soon as we do!
+ 
+Best,
+ 
+Weston Schaper
+Vice President - R&D
+(main) 913-850-6630
+(direct) 913-850-6262
+(fax) 913-850-6635
+ 
+3/7/26, 11:12 AM iCloud Mail
+https://www.icloud.com/mail/ 3/5
+
+12880 Metcalf Ave.
+Overland Park, KS 66213
+www.ARELabs.com
+ 
+F r o m :  Jacob Bevier <bevier19jac@icloud.com>
+S e n t :  Wednesday, January 21, 2026 11:22 AM
+T o :  Ingrid <ingrid@arelabs.com>
+C c :  jbalarashti arelabs.com <jbalarashti@arelabs.com>; Weston Schaper
+<wschaper@arelabs.com>
+S u b j e c t :  Re: ARE Labs -Final Invoice - Brag & Bev -11048.10.2- Foaming Cleanser Spray
+Coverage Testing
+ 
+Okay thanks Ingrid, 
+ 
+Who is nick@ampinnovations.com which is under my name on the invoice?
+Please keep sarahjbraganini@gmail.com in copy, especially when it comes
+to invoices. I will get this over to the team for review and we will go from
+there. To verify, have you received the cans from Spray Products already?
+ 
+Lastly, it is Brag & Bev, only one g in Brag.
+ 
+Thanks for the update and will speak soon. Have a great rest of your week
+and an even better weekend!
+Very respectfully, Jacob Bevier 7604903416
+ 
+On Jan 21, 2026, at 12:11 PM, Ingrid <ingrid@arelabs.com> wrote:
+ 
+ 
+Mr. Bevier, 
+ 
+Please find attached the final invoice with the charges for additional testing
+requested.  If you have any questions, please let us know.
+ 
+Thank you,
+3/7/26, 11:12 AM iCloud Mail
+https://www.icloud.com/mail/ 4/5
+
+ 
+ 
+Ingrid
+ 
+(main) 913-850-6630
+(direct) 913-850-6634
+((direct) 913-485-5488
+(fax) 913-850-6635
+ 
+<Outlook-LOGO Spira>
+ 
+12880 Metcalf Ave.
+Overland Park, KS 66213
+www.ARELabs.com
+ 
+<ARE Labs -Final Invoice - Bragg & Bev -11048.10.2- Foaming
+Cleanser Spray Coverage Testing.pdf>
+ 
+3/7/26, 11:12 AM iCloud Mail
+https://www.icloud.com/mail/ 5/5

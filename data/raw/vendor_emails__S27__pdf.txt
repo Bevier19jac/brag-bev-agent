@@ -1,7 +1,10 @@
 Source filename: S27.pdf
 Source relative path: vendor_emails/S27.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:26.273208+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:50.504460+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Completed and ARE Labs results — next steps
 Date: January 20, 2026 at 8:58:15 AM
@@ -18,6 +21,7 @@ On Jan 20, 2026, at 8:44 AM, Shawn Johnson <SJohnson@sprayproducts.com> wrote:
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 1/11
 
+## Section 2: Page 2
 Good Morning Jacob,
  
 3 samples are shipping to ARE labs today.
@@ -55,6 +59,7 @@ www.sprayproducts.com
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 2/11
 
+## Section 3: Page 3
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Monday, January 12, 2026 6:27:06 PM
 To: Jim Johnson <jjohnson@sprayproducts.com>
@@ -89,7 +94,8 @@ Hi Jacob,
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 3/11
 
-  I am glad the samples performed well! 
+## Section 4: Page 4
+I am glad the samples performed well! 
  
 We will send you another sample with an adjusted spray tip. Are you okay
 with the can size and fill weight?
@@ -125,6 +131,7 @@ spray height inside a 96-gallon bin. Several groups we spoke with previously
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 4/11
 
+## Section 5: Page 5
 felt that target wasn’t realistic. The testing showed otherwise — the spray
 consistently reached the interior lid surface, which is a major milestone and
 a strong validation of the direction you took.
@@ -158,8 +165,7 @@ On Dec 5, 2025, at 4:55 PM, Jim Johnson
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 5/11
 
- 
- 
+## Section 6: Page 6
 Okay, it looks like it is out for delivery. Jim
  
 Jim Johnson
@@ -193,12 +199,13 @@ It was scheduled to arrive yesterday. Let us know. Jim
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 6/11
 
+## Section 7: Page 7
 On the
 way Medina
 12/01/2
 5
 12/04/2
-5  
+5 
 88658744637
 0 - Ja
  
@@ -235,10 +242,11 @@ Hi Jacab,
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 7/11
 
-   The samples will ship tomorrow.  In our initial test we were ~ 40
+## Section 8: Page 8
+The samples will ship tomorrow. In our initial test we were ~ 40
 inches.
  
-    Thanks! Jim
+ Thanks! Jim
  
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Tuesday, November 25, 2025 12:58 PM
@@ -262,11 +270,12 @@ Hi Jacob,
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 8/11
 
-We understand the goal.  What is your shipping address for
-samples?   Let’s have you evaluate a sample and then jump
-on a call with any necessary changes.  
+## Section 9: Page 9
+We understand the goal. What is your shipping address for
+samples? Let’s have you evaluate a sample and then jump
+on a call with any necessary changes. 
  
-  Thanks! Jim
+ Thanks! Jim
  
 From: Jacob Bevier <bevier19jac@icloud.com>
 Sent: Tuesday, November 25, 2025 9:35 AM
@@ -293,6 +302,7 @@ so far beyond what we expected.
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 9/11
 
+## Section 10: Page 10
 That said, I understand Spray has internal policies you need
 to follow, and I’m not trying to push against them. I simply
 want to make sure I’m not asking for something unclear or
@@ -324,6 +334,7 @@ for your schedule.
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 10/11
 
+## Section 11: Page 11
 Very respectfully,
 Jacob
 760-490-3416

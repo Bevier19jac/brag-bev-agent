@@ -1,7 +1,10 @@
 Source filename: S29.pdf
 Source relative path: vendor_emails/S29.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:26.596417+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:52.214300+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Next round of testing
 Date: January 13, 2026 at 8:19:47 AM
@@ -33,6 +36,7 @@ We will send you 3 additional cans with a conical spray pattern for additional t
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 1/9
 
+## Section 2: Page 2
 Thanks! Jim 
 Jim Johnson
 Vice President of R&D
@@ -41,12 +45,12 @@ Spray Products Corporation
 Medina, Ohio 44256
 Cell: 330-419-3372
 www.sprayproducts.com
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Monday, January 12, 2026 6:27:06 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; sarahjbraganini@gmail.com
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Monday, January 12, 2026 6:27:06 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; sarahjbraganini@gmail.com
 <sarahjbraganini@gmail.com>; Shawn Johnson <SJohnson@sprayproducts.com>
-S u b j e c t :  Re: Testing Completed and ARE Labs results — next steps
+S u b j e c t : Re: Testing Completed and ARE Labs results — next steps
  
 Hey Jim!
 Appreciate you getting back to me so quickly.
@@ -65,8 +69,9 @@ On Jan 12, 2026, at 4:56 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 2/9
 
+## Section 3: Page 3
 Hi Jacob,
-  I am glad the samples performed well! 
+ I am glad the samples performed well! 
 We will send you another sample with an adjusted spray tip. Are you okay with the can size
 and fill weight?
 Thanks! Jim 
@@ -77,12 +82,12 @@ Spray Products Corporation
 Medina, Ohio 44256
 Cell: 330-419-3372
 www.sprayproducts.com
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Monday, January 12, 2026 11:06:46 AM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Monday, January 12, 2026 11:06:46 AM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
 sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Testing Completed and ARE Labs results — next steps
+S u b j e c t : Testing Completed and ARE Labs results — next steps
  
 Hi Jim,
 I wanted to follow up now that ARE Labs has completed formal testing on the cans your team
@@ -96,6 +101,7 @@ and a strong validation of the direction you took.
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 3/9
 
+## Section 4: Page 4
 Additional positives from the testing:
 Strong, consistent output
 Foam structure behaved well through full discharge
@@ -125,18 +131,19 @@ Jim Johnson
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 4/9
 
+## Section 5: Page 5
 Vice President of R&D
 Spray Products Corporation
 1000 Lake Road
 Medina, Ohio 44256
 Cell: 330-419-3372
 www.sprayproducts.com
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Friday, December 5, 2025 4:51:29 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Friday, December 5, 2025 4:51:29 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
 sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: Availability for a brief call
+S u b j e c t : Re: Availability for a brief call
  
 I have not received anything.
 Very respectfully,
@@ -144,7 +151,7 @@ Jacob B
 On Dec 5, 2025, at 2:51 PM, Jim Johnson <jjohnson@sprayproducts.com> wrote:
 Hello.
 It was scheduled to arrive yesterday. Let us know. Jim
-On the way Medina 12/01/25 12/04/25  886587446370 -
+On the way Medina 12/01/25 12/04/25 886587446370 -
 Jim Johnson
 Vice President of R&D
 Spray Products Corporation
@@ -155,12 +162,13 @@ www.sprayproducts.com
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 5/9
 
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Friday, December 5, 2025 2:15:58 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Joyce Stasky
+## Section 6: Page 6
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Friday, December 5, 2025 2:15:58 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Joyce Stasky
 <joyce@sprayproducts.com>; sarahjbraganini@gmail.com <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: Availability for a brief call
+S u b j e c t : Re: Availability for a brief call
  
 Good afternoon Jim,
 Just wanted to check the status on this and if it shipped?
@@ -173,17 +181,18 @@ Hi Jacab,
  
     Thanks! Jim
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, November 25, 2025 12:58 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, November 25, 2025 12:58 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
 sarahjbraganini@gmail.com
-S u b j e c t :  Re: Availability for a brief call
+S u b j e c t : Re: Availability for a brief call
  
 Jacob Bevier
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 6/9
 
+## Section 7: Page 7
 105 Pendleton Trail
 Tyrone, GA 30290
  
@@ -201,17 +210,18 @@ changes.  
  
   Thanks! Jim
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, November 25, 2025 9:35 AM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, November 25, 2025 9:35 AM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Joyce Stasky <joyce@sprayproducts.com>;
 sarahjbraganini@gmail.com
-S u b j e c t :  Availability for a brief call
+S u b j e c t : Availability for a brief call
  
 Hi Andrew and Jim,
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 7/9
 
+## Section 8: Page 8
 I was hoping I could jump on a short call with you guys — even ten minutes
 would be helpful. My intention in trying to share the broader scope of this
 project was purely as courtesy and to provide context, not because it was a
@@ -248,6 +258,7 @@ My availability is wide open — just let me know what works for your schedule.
 3/7/26, 11:14 AM iCloud Mail
 https://www.icloud.com/mail/ 8/9
 
+## Section 9: Page 9
 Very respectfully,
 Jacob
 760-490-3416

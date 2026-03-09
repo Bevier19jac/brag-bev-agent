@@ -1,7 +1,10 @@
 Source filename: N5.pdf
 Source relative path: vendor_emails/N5.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:22.063492+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:26.200893+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: NDA with SprayProducts
 Date: October 1, 2025 at 1:10:16 PM
@@ -31,6 +34,7 @@ Spray Produ….25 (1).docx
 3/7/26, 11:28 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 Download Open in Pages
 BragBev_ND…edlined.docx
 40 KB

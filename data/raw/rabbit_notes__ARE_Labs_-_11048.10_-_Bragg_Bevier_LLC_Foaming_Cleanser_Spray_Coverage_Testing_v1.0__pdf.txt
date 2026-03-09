@@ -1,0 +1,202 @@
+Source filename: ARE Labs - 11048.10 - Bragg & Bevier LLC Foaming Cleanser Spray Coverage Testing v1.0.pdf
+Source relative path: rabbit_notes/ARE Labs - 11048.10 - Bragg & Bevier LLC Foaming Cleanser Spray Coverage Testing v1.0.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:57.538108+00:00
+
+## Section 1: Page 1
+www.arelabs.com
+ARE Labs Inc.
+Title: Foaming Cleanser Spray Coverage Testing
+Client: Bragg & Bevier LLC
+Project #: 11048.10
+1/29/2026
+
+## Section 2: Page 2
+Testing Overview
+• Purpose of testing was to determine the spray coverage of 
+the product inside a 96-gallon trash bin.
+• 4 height levels in the trash bin were selected, including the 
+interior lid surface 
+• Mounted 16 1”x1” paper filter coupons (4 per height 
+including 4 on interior lid surface) to 96-gallon bin interior 
+walls using adhesive.
+• Initial mass of the spray can, and test coupons were 
+recorded.
+• Placed aerosol can upright at the center of the bin floor 
+using double sided tape to secure it.
+• Installed internal lighting and video recording device.
+• Actuated can for full discharge with the lid closed.
+
+## Section 3: Page 3
+Testing Overview
+• Allowed foam to settle for 3 minutes.
+• Post-testing mass of the coupons was taken, and the 
+surface deposition was calculated. 
+• Removed coupons and placed them in labeled containers.
+• Post-testing mass of the spray can was recorded.
+
+## Section 4: Page 4
+Configuration
+Coupons 13-16
+
+## Section 5: Page 5
+Configuration
+Front Back
+Bottom to top: 
+Coupons 4, 8, & 12
+Bottom to top: 
+Coupons 2, 6, & 10
+
+## Section 6: Page 6
+Configuration
+Left Right
+Bottom to top: 
+Coupons 1, 5, & 9
+Bottom to top: 
+Coupons 3, 7, & 11
+Bottom to top: 1ft, 
+2ft, & 3ft 
+markings
+
+## Section 7: Page 7
+Foaming Cleanser Spray 
+Coverage Results
+
+## Section 8: Page 8
+Trial #2 Results
+4 coupons at each height.
+
+## Section 9: Page 9
+Trial # 2 Mid-Point
+Coupons on the 1ft 
+level.
+Coupons on the 2ft 
+level.
+Coupons at the 3ft 
+level are out of frame.
+
+## Section 10: Page 10
+Trial #2 Mid-Point
+Since the spray was 
+fan shaped it mainly 
+only covered one side 
+and hardly anything 
+was got outside what is 
+displayed in the circle.
+
+## Section 11: Page 11
+Trial #3 Results
+4 coupons at each height.
+
+## Section 12: Page 12
+Trial #3 Mid-Point
+The spray for most of 
+the time was spraying 
+with a constant stream 
+but went to a full cone 
+shape when 10% of 
+the contents inside 
+remained.
+Spray can
+
+## Section 13: Page 13
+Trial #3 End-Point
+The latch on the nozzle 
+when pushed down 
+angles the spray 
+toward it and as a 
+result the spray can 
+mostly went towards 
+the corner that is 
+indicated.
+
+## Section 14: Page 14
+Trial #4 Results
+4 coupons at each height.
+
+## Section 15: Page 15
+Trial #4 Mid-Point
+The spray for most of 
+the time was spraying 
+with a constant stream 
+but went to a full cone 
+shape when 10% of 
+the contents inside 
+remained.
+
+## Section 16: Page 16
+Trial #4 End-Point
+The latch on the nozzle 
+when pushed down 
+angles the spray 
+toward it and as a 
+result the spray can 
+mostly went towards 
+the corner that is 
+indicated.
+
+## Section 17: Page 17
+Trial #5 Results
+4 coupons at each height.
+
+## Section 18: Page 18
+Trial #5 Mid-Point
+The spray for most of 
+the time was spraying 
+with a constant stream 
+but went to a full cone 
+shape when 10% of 
+the contents inside 
+remained.
+
+## Section 19: Page 19
+Trial #5 End-Point
+The latch on the nozzle 
+when pushed down 
+angles the spray 
+toward it and as a 
+result the spray can 
+mostly went towards 
+the corner that is 
+indicated.
+
+## Section 20: Page 20
+Trial 1&2 Summary
+• The 2nd spray can had more output than the can used in the 
+1st attempt.
+• The can sprayed high enough to reach the interior lid 
+surface.
+• The contents inside the can had a nice peppermint smell.
+• The fan shaped spray covered half the trash can.
+• Since the can sprays in a fan shape 5 of the 16 coupons 
+were the only ones to get wet. 1 at the 1ft level, 1 at the 2ft 
+level, 2 at the 3ft level, and 1 at the lid.
+
+## Section 21: Page 21
+Trial 3-5 Summary
+• The three new samples with the updated nozzle was tested.
+• The new samples that had the nozzle modified sprayed higher than the 
+two initial spray cans that were tested.
+• The can sprayed high enough to reach the interior lid surface.
+• The contents inside the can had a nice peppermint smell.
+• All tested cans discharged primarily as a single stream through most of 
+can life and transitioned to the intended full-cone only near depletion 
+(~final 10% remaining).
+• Since the cans spray in an angle towards the latch when actuated, they 
+covered half the trash can.
+
+## Section 22: Page 22
+Discussion
+• We noticed the spray mostly shoots in a constant stream until it 
+gets close to empty (around 10% left inside) and then it starts 
+spraying in a full cone shape as intended.
+• Spray plume was biased in a consistent direction due to the 
+latch on the nozzle being angled when the spray can is 
+activated, leading to preferential coverage of one side of the 
+bin.
+• This is likely due to high actuation pressure which directly 
+creates the two failure modes observed.
+• This can be fixed with valve selection (lower spring rate), 
+smoother latch mechanics, and reduced friction so the user 
+doesn’t need to push as hard.

@@ -1,7 +1,10 @@
 Source filename: L1.pdf
 Source relative path: vendor_emails/L1.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:20.992083+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:19.819810+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Next Steps while MNDA is being reviewed
 Date: November 19, 2025 at 4:13:04 PM
@@ -22,17 +25,18 @@ wrote:
 Thanks, Jacob.
 Have you disclosed or discussed this innovation outside the company to anyone not under NDA?
 Get Outlook for iOS
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, November 19, 2025 3:58:41 PM
-T o :  Schubkegel, Fred L. <flschubkegel@varnumlaw.com>
-C c :  jbglm2@gmail.com <jbglm2@gmail.com>; sarahjbraganini@gmail.com
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, November 19, 2025 3:58:41 PM
+T o : Schubkegel, Fred L. <flschubkegel@varnumlaw.com>
+C c : jbglm2@gmail.com <jbglm2@gmail.com>; sarahjbraganini@gmail.com
 <sarahjbraganini@gmail.com>; DeRegnaucourt, Staci R. <srderegnaucourt@varnumlaw.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Fred and Staci, 
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 1/22
 
+## Section 2: Page 2
 Your assumptions are correct, I filed myself, see the attached application and rudimentary pictures
 that I included in my filing. Application # 63/723,626
 The sketches were done after the filing but could maybe be used for the new filing or filing the
@@ -62,6 +66,7 @@ formal or informal drawings it may be possible to accommodate the timing, but
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 2/22
 
+## Section 3: Page 3
 would be a significant challenge and there would likely be expensive and significant
 clean-up work to be done after the fact.
  
@@ -93,13 +98,12 @@ unlawful. If you have received this communication in error, please immediately n
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 3/22
 
- 
- 
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, November 19, 2025 3:29 PM
-T o :  jbglm2@gmail.com
-C c :  Schubkegel, Fred L. <flschubkegel@varnumlaw.com>; sarahjbraganini@gmail.com
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+## Section 4: Page 4
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, November 19, 2025 3:29 PM
+T o : jbglm2@gmail.com
+C c : Schubkegel, Fred L. <flschubkegel@varnumlaw.com>; sarahjbraganini@gmail.com
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 All, 
 If we are scheduling a call for tomorrow can we wrap up NLT 2:30? That would be ideal for
@@ -121,6 +125,7 @@ contractor.
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 4/22
 
+## Section 5: Page 5
 We can get on a call from 1:30 p.m. to 2:30 p.m. EST tomorrow. Will that work?
  
  
@@ -129,11 +134,11 @@ John Braganini
 269-330-4205
  
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, November 19, 2025 1:11 PM
-T o :  jbglm2@gmail.com
-C c :  Sarah Braganini <sarahjbraganini@gmail.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, November 19, 2025 1:11 PM
+T o : jbglm2@gmail.com
+C c : Sarah Braganini <sarahjbraganini@gmail.com>
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
  
 Very respectfully, Jacob Bevier 7604903416
@@ -148,13 +153,12 @@ John Braganini
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 5/22
 
- 
- 
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, November 19, 2025 12:48 PM
-T o :  jbglm2@gmail.com
-C c :  sarahjbraganini@gmail.com
-S u b j e c t :  Fwd: Next Steps while MNDA is being reviewed
+## Section 6: Page 6
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, November 19, 2025 12:48 PM
+T o : jbglm2@gmail.com
+C c : sarahjbraganini@gmail.com
+S u b j e c t : Fwd: Next Steps while MNDA is being reviewed
  
 Hey John,
  
@@ -176,6 +180,7 @@ Date: Nov 19, 2025 at 9:19 AM
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 6/22
 
+## Section 7: Page 7
 To: Jacob Bevier <bevier19jac@icloud.com>, Jim Johnson
 <jjohnson@sprayproducts.com>
 Cc: Joyce Stasky <joyce@sprayproducts.com>, "sarahjbraganini@gmail.com"
@@ -198,14 +203,15 @@ do have policies in place for our agreements we need to follow.
 Thanks,
 AW
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, November 18, 2025 12:41 PM
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, November 18, 2025 12:41 PM
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 7/22
 
-T o :  Andrew Wills <awills@sprayproducts.com>; Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Joyce Stasky <joyce@sprayproducts.com>; sarahjbraganini@gmail.com
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+## Section 8: Page 8
+T o : Andrew Wills <awills@sprayproducts.com>; Jim Johnson <jjohnson@sprayproducts.com>
+C c : Joyce Stasky <joyce@sprayproducts.com>; sarahjbraganini@gmail.com
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Good afternoon Andrew and Jim,
 I reviewed the NDA with my counsel, and there are only two clarifications they
@@ -238,6 +244,7 @@ developed intellectual property.
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 8/22
 
+## Section 9: Page 9
 2. Any jointly developed work would require a separate written agreement
 outside of the NDA.
 These points are industry-standard whenever a company shares a patent-pending
@@ -267,6 +274,7 @@ Very respectfully, Jacob Bevier 7604903416
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 9/22
 
+## Section 10: Page 10
 On Nov 12, 2025, at 8:56 AM, Andrew Wills
 <awills@sprayproducts.com> wrote:
  
@@ -281,12 +289,12 @@ I can assure you that the language in our original MNDA protects your IP and our
 Thanks,
 AW
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, November 11, 2025 4:29 PM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, November 11, 2025 4:29 PM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
 <sarahjbraganini@gmail.com>; Joyce Stasky <joyce@sprayproducts.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Please find attached a tracked-changes version aligning Spray’s Mutual
 NDA with the previously executed Brag & Bev form—updated
@@ -296,6 +304,7 @@ ownership.
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 10/22
 
+## Section 11: Page 11
 Very respectfully, Jacob Bevier 7604903416
  
 On Nov 11, 2025, at 3:14 PM, Andrew Wills
@@ -310,12 +319,12 @@ document I sent. Or, we can proceed with our MNDA that I sent in the attached.
 Thanks,
 AW
  
-F r o m :  Andrew Wills
-S e n t :  Monday, November 3, 2025 10:09 AM
-T o :  'Jacob Bevier' <bevier19jac@icloud.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
+F r o m : Andrew Wills
+S e n t : Monday, November 3, 2025 10:09 AM
+T o : 'Jacob Bevier' <bevier19jac@icloud.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
 <sarahjbraganini@gmail.com>; Joyce Stasky <joyce@sprayproducts.com>
-S u b j e c t :  RE: Next Steps while MNDA is being reviewed
+S u b j e c t : RE: Next Steps while MNDA is being reviewed
  
 Thank you. We will get back to you by EOW or early next week, our team is at a trade
 show all week.
@@ -324,14 +333,15 @@ Thanks,
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 11/22
 
+## Section 12: Page 12
 AW
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Monday, November 3, 2025 10:04 AM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Monday, November 3, 2025 10:04 AM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
 <sarahjbraganini@gmail.com>; Joyce Stasky <joyce@sprayproducts.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Yes this is the one we amended. I just went ahead and signed it as
 well.
@@ -353,13 +363,13 @@ AW
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 12/22
 
- 
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Monday, November 3, 2025 9:47 AM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
+## Section 13: Page 13
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Monday, November 3, 2025 9:47 AM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
 <sarahjbraganini@gmail.com>; Joyce Stasky <joyce@sprayproducts.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Hey Andrew,
 Hope you’ve all been doing well. I must have missed your note
@@ -385,18 +395,19 @@ On Oct 29, 2025, at 12:44 PM, Andrew Wills
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 13/22
 
+## Section 14: Page 14
 Can you resend the red line version?
  
 Thanks,
 AW
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, October 29, 2025 12:42 PM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, October 29, 2025 12:42 PM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
 <sarahjbraganini@gmail.com>; Joyce Stasky
 <joyce@sprayproducts.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Yes we did change things, our legal team sent a whole
 different NDA.
@@ -413,17 +424,17 @@ I will have the NDA to you. You did not change anything within it correct?
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 14/22
 
- 
+## Section 15: Page 15
 Thanks,
 AW
  
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Wednesday, October 29, 2025 12:13 PM
-T o :  Andrew Wills <awills@sprayproducts.com>
-C c :  Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Wednesday, October 29, 2025 12:13 PM
+T o : Andrew Wills <awills@sprayproducts.com>
+C c : Jim Johnson <jjohnson@sprayproducts.com>; Sarah Braganini
 <sarahjbraganini@gmail.com>; Joyce Stasky
 <joyce@sprayproducts.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Hi Andrew and Jim,
 I hope you’re both doing well. I just wanted to check in
@@ -445,7 +456,7 @@ Co-Founder | Brag & Bev LLC
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 15/22
 
- 
+## Section 16: Page 16
 On Oct 14, 2025, at 3:32 PM, Jacob Bevier
 <bevier19jac@icloud.com> wrote:
  
@@ -474,14 +485,14 @@ AW
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 16/22
 
- 
-F r o m :  Jacob Bevier <bevier19jac@icloud.com>
-S e n t :  Tuesday, October 14, 2025 3:08 PM
-T o :  Jim Johnson <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>; Sarah
+## Section 17: Page 17
+F r o m : Jacob Bevier <bevier19jac@icloud.com>
+S e n t : Tuesday, October 14, 2025 3:08 PM
+T o : Jim Johnson <jjohnson@sprayproducts.com>
+C c : Andrew Wills <awills@sprayproducts.com>; Sarah
 Braganini <sarahjbraganini@gmail.com>; Joyce Stasky
 <joyce@sprayproducts.com>
-S u b j e c t :  Re: Next Steps while MNDA is being reviewed
+S u b j e c t : Re: Next Steps while MNDA is being reviewed
  
 Good afternoon,
  
@@ -506,7 +517,7 @@ Brag & Bev LLC 7604903416
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 17/22
 
- 
+## Section 18: Page 18
 On Oct 14, 2025, at 9:04 AM, Jacob Bevier
 <bevier19jac@icloud.com> wrote:
  
@@ -536,7 +547,7 @@ Brag & Bev LLC
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 18/22
 
- 
+## Section 19: Page 19
 On Oct 6, 2025, at 11:56 AM, Jim
 Johnson
 <jjohnson@sprayproducts.com>
@@ -551,11 +562,11 @@ Hi Jacob,
 concept, I worked on 2 prototypes last
 week.
  
-1.       Standard aerosol with a lock
+1. Standard aerosol with a lock
 down fogger and a string
 attached to lower down into the
 container.
-2.       Standard aerosol with a lock
+2. Standard aerosol with a lock
 down fogger and a base made of
 cardboard, to ensure the can is
 right side up, dropped down into
@@ -567,16 +578,17 @@ get moving on this development.
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 19/22
 
-      Thanks! Jim
+## Section 20: Page 20
+Thanks! Jim
  
-F r o m :  bevier19jac@icloud.com
+F r o m : bevier19jac@icloud.com
 <bevier19jac@icloud.com>
-S e n t :  Monday, October 6, 2025 10:28 AM
-T o :  Jim Johnson
+S e n t : Monday, October 6, 2025 10:28 AM
+T o : Jim Johnson
 <jjohnson@sprayproducts.com>
-C c :  Andrew Wills <awills@sprayproducts.com>;
+C c : Andrew Wills <awills@sprayproducts.com>;
 Sarah Braganini <sarahjbraganini@gmail.com>
-S u b j e c t :  Next Steps while MNDA is being
+S u b j e c t : Next Steps while MNDA is being
 reviewed
  
 Hey Jim,
@@ -598,6 +610,7 @@ is being reviewed by our legal team. 
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 20/22
 
+## Section 21: Page 21
 In the interim is there anything we can
 do? I really like our initial conversation,
 and I am eager to discuss this further
@@ -627,12 +640,7 @@ Brag & Bev LLC
 3/7/26, 11:21 AM iCloud Mail
 https://www.icloud.com/mail/ 21/22
 
- 
- 
- 
- 
- 
- 
+## Section 22: Page 22
 <BragBev_NDA_Redlined (2).docx>
  
 3/7/26, 11:21 AM iCloud Mail

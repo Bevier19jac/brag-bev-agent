@@ -1,7 +1,10 @@
 Source filename: S37.pdf
 Source relative path: vendor_emails/S37.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:27.642302+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:56.469986+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: RFQ from ARE Labs
 Date: December 16, 2025 at 9:09:24 AM
@@ -29,6 +32,7 @@ Hey JB and Sarah,
 3/7/26, 11:19 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 I just realized I sent this from a different email address then I intended
 and I wanted to make sure you guys saw this quote.
 I think have a certified lab testing and results will be better. They can

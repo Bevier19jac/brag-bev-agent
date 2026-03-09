@@ -1,0 +1,71 @@
+Source filename: Final_Dumpster_Cleaner_Pitch.pdf
+Source relative path: product_specs/Final_Dumpster_Cleaner_Pitch.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:43.014753+00:00
+
+## Section 1: Page 2
+Our Big Idea
+• High-expansion foam eliminates grime, grease, and odors effortlessly.
+• Affordable and simple to use for homeowners.
+• Eco-friendly, self-righting, single-use cleaner for residential bins.
+
+## Section 2: Page 3
+The Residential Cleaning Challenge
+• 125 million residential trash bins in the U.S. remain dirty.
+• Leads to odors, bacteria buildup, and unsanitary conditions.
+• Manual cleaning is inconvenient; professional services 
+are costly.
+
+## Section 3: Page 4
+How it Works
+1. Self-Righting Technology: Ensures upright activation for maximum coverage.
+2. Pull-Tab Activation: Simple and quick for users.
+3. High-Expansion Foam: Dissolves grime and eliminates odors in minutes.
+4. Eco-Friendly Design: Biodegradable and single-use.
+
+## Section 4: Page 5
+• Bin Compatibility: 30-96 gallon rolling trash bins.
+• Dimensions: 6-inch diameter x 8-inch height.
+• Activation: Pull-tab and impact-trigger.
+• Foam V olume: 250 mL.
+• Weight: 0.6 lbs.
+How it Works
+
+## Section 5: Page 6
+• 125 million trash bins in the U.S.
+• Growing demand for eco-friendly cleaning solutions.
+• Target market: homeowners and eco-conscious consumers.
+• Estimated market value: $1.5 billion.
+How it Works
+
+## Section 6: Page 7
+• Innovative Design: Patent-pending self-righting and foam activation.
+• Convenience: Single-use, no need for manual cleaning.
+• Cost-Effective: Affordable pricing for households.
+• Sustainability: Eco-friendly and biodegradable materials.
+How it Works
+
+## Section 7: Page 8
+• Funding Secured: $300,000
+• Projected Year 1 Revenue: $1.2M
+• Profit Margin: 68%
+• Scalable production and market growth opportunities.
+Financial Snapshot
+
+## Section 8: Page 9
+• Prototype Development: Months 1-3
+• Manufacturing Setup: Months 4-6
+• Product Launch: Months 6-12
+• Retail Partnerships: Months 9-12
+Key Milestones
+
+## Section 9: Page 10
+Let’s bring this revolutionary product to market!
+Contact: Jacob Bevier
+Phone: 760-490-3416
+Email: bevier19jac@icloud.com
+Contact: Apollo Braganini
+Phone: 616-706-5756
+Email: abraganini@gmail.com
+Thank You

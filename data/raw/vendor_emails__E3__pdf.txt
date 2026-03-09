@@ -1,7 +1,10 @@
 Source filename: E3.pdf
 Source relative path: vendor_emails/E3.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:19.709719+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:11.948595+00:00
+
+## Section 1: Page 1
 From: bevier19jac@icloud.combevier19jac@icloud.com
 Subject: Re: ARE Labs - Introductory Email - Product Development
 Date: September 29, 2025 at 10:23:48 AM
@@ -14,10 +17,10 @@ Very respectfully,
 Jacob Bevier
 Brag & Bev
 760 490-3416
-F r o m :  John Chadwick <chadwick.john@gmail.com>
-S e n t :  Monday, September 29, 2025 7:08 AM
-T o :  bevier19jac@icloud.com <bevier19jac@icloud.com>
-S u b j e c t :  Re: ARE Labs - Introductory Email - Product Development
+F r o m : John Chadwick <chadwick.john@gmail.com>
+S e n t : Monday, September 29, 2025 7:08 AM
+T o : bevier19jac@icloud.com <bevier19jac@icloud.com>
+S u b j e c t : Re: ARE Labs - Introductory Email - Product Development
  
 Hi Jacob,
 I am responding to Weston's introduction email. Apologies for the delay.
@@ -33,6 +36,7 @@ John Chadwick, Consultant
 3/7/26, 11:29 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 Aerosol Technical Solutions, LLC
 129 Harriman Hill Road
 Raymond, NH 03077

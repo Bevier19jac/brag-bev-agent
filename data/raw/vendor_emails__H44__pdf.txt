@@ -1,7 +1,10 @@
 Source filename: H44.pdf
 Source relative path: vendor_emails/H44.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:19.972178+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:13.432979+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Exploring Collaboration — Aerosol Cleaner Project Under VOC Constraints
 Date: September 16, 2025 at 3:26:41 PM
@@ -22,6 +25,6 @@ Would you be open to a ~20-minute call to see if this aligns with your lab’s c
 share data and test constraints ahead of time.
 Best regards,
 Jacob Bevier
-📞  760-490-3416 | bevier19jac@icloud.com
+📞 760-490-3416 | bevier19jac@icloud.com
 3/7/26, 11:40 AM iCloud Mail
 https://www.icloud.com/mail/ 1/1

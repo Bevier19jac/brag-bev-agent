@@ -1,7 +1,10 @@
 Source filename: S17.pdf
 Source relative path: vendor_emails/S17.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:24.464734+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:38.433145+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Dumpster Diver Update
 Date: January 30, 2026 at 9:35:48 AM
@@ -31,6 +34,7 @@ coverage.
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 1/2
 
+## Section 2: Page 2
 I’m in the process of coordinating a collaborative call with ARE Labs and our aerosol/valve partner
 so we can walk through the findings together and align on mechanical design considerations
 before proceeding further. Given your role on the mechanical side, I’d really value your

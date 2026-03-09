@@ -1,0 +1,11 @@
+Source filename: PTO_SB15A_FLT.pdf
+Source relative path: investor_docs/PTO_SB15A_FLT.pdf
+Source type: .pdf
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:16:36.837533+00:00
+
+## Section 1: Page 1
+63/723,626
+Jacob Bevier Self-Righting Automatic Dumpster Cleaner
+Jacob Benjamin Bevier
+12/7/2024 760 490-3416

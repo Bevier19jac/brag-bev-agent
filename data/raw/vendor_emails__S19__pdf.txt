@@ -1,7 +1,10 @@
 Source filename: S19.pdf
 Source relative path: vendor_emails/S19.pdf
 Source type: .pdf
-Processed at: 2026-03-09T13:56:24.973060+00:00
+Extraction method: pypdf text extraction
+Processed at: 2026-03-09T17:19:42.343402+00:00
+
+## Section 1: Page 1
 From: Jacob Bevierbevier19jac@icloud.com
 Subject: Re: Testing Completed and ARE Labs results — next steps
 Date: January 30, 2026 at 9:34:40 AM
@@ -30,6 +33,7 @@ Jim Johnson
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 1/13
 
+## Section 2: Page 2
 Vice President of R&D
 Spray Products Corporation
 1000 Lake Road
@@ -61,6 +65,7 @@ On Jan 20, 2026, at 8:44 AM, Shawn Johnson <SJohnson@sprayproducts.com> wrote:
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 2/13
 
+## Section 3: Page 3
 Good Morning Jacob,
  
 3 samples are shipping to ARE labs today.
@@ -88,7 +93,7 @@ Thanks! Jim 
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 3/13
 
- 
+## Section 4: Page 4
 Jim Johnson
  
 Vice President of R&D
@@ -115,6 +120,7 @@ and spray geometry interact before we narrow the field.
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 4/13
 
+## Section 5: Page 5
 Ideally, I’d like to test at least three cans per configuration so we have enough repetition to
 confirm consistency. I’m happy to defer to your recommendation on which larger sizes and
 nozzle/actuator options make the most sense to include.
@@ -143,6 +149,7 @@ Spray Products Corporation
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 5/13
 
+## Section 6: Page 6
 1000 Lake Road
 Medina, Ohio 44256
 Cell: 330-419-3372
@@ -174,6 +181,7 @@ performance. Because the nozzle produces a flat fan pattern, coverage inside the
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 6/13
 
+## Section 7: Page 7
 directional and one-sided. ARE Labs specifically noted that a round nozzle producing a
 conical spray pattern would significantly improve coverage and fully leverage the height
 and output already being achieved.
@@ -204,6 +212,7 @@ Spray Products Corporation
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 7/13
 
+## Section 8: Page 8
 Medina, Ohio 44256
 Cell: 330-419-3372
 www.sprayproducts.com
@@ -230,14 +239,13 @@ way Medina
 12/01/2
 5
 12/04/2
-5  
+5 
 88658744637
 0 - Jacob Bevier Ty
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 8/13
 
- 
- 
+## Section 9: Page 9
 Jim Johnson
  
 Vice President of R&D
@@ -263,7 +271,7 @@ Very respectfully, Jacob Bevier 7604903416
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 9/13
 
- 
+## Section 10: Page 10
 On Nov 25, 2025, at 2:39 PM, Jim Johnson <jjohnson@sprayproducts.com>
 wrote:
  
@@ -290,6 +298,7 @@ Very respectfully, Jacob Bevier 7604903416
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 10/13
 
+## Section 11: Page 11
 On Nov 25, 2025, at 9:43 AM, Jim Johnson
 <jjohnson@sprayproducts.com> wrote:
  
@@ -320,6 +329,7 @@ operate.
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 11/13
 
+## Section 12: Page 12
 To be transparent, the process has been slowed down quite a bit on our
 end due to the NDA language, and that’s been a little disappointing only
 because it has prevented us from moving forward with real development.
@@ -355,10 +365,6 @@ Jacob
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 12/13
 
- 
- 
- 
- 
- 
+## Section 13: Page 13
 3/7/26, 11:09 AM iCloud Mail
 https://www.icloud.com/mail/ 13/13
