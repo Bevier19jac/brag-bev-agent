@@ -1,21 +1,18 @@
 High-level view of partners and roles (subject to refinement)
 
 Rabbit Product Design
-- External product development and mechanical design partner associated with Dumpster Diver.
+- Associated with mechanical engineering, product design, and development discussions for Dumpster Diver.
 - Supports mechanical / engineering exploration, mechanism development, and design for manufacturability.
 - Exact scope, commercial terms, and responsibilities should be taken from specific contracts or statements of work, not assumed.
 
 Spray Products
-- External partner associated with aerosol formulation, packaging options, and related technical input.
+- Associated with aerosol formulation, packaging, and production-related discussions.
 - May help explore propellants, canister or device formats, and ways to deliver cleaning sprays or foams.
-- The exact formulations, safety data, and regulatory status are not defined here and must come from technical documentation.
+- Exact formulations, safety data, and regulatory status must come from technical documentation.
 
 ARE Labs
-- External testing and research partner associated with spray behavior, coverage, and related experiments.
-- May help evaluate how well different concepts coat interior bin surfaces, under controlled test conditions.
+- Associated with spray coverage testing and evaluation.
+- May help evaluate how well different concepts coat interior bin surfaces under controlled test conditions.
 - Detailed protocols and results should be taken from specific test reports, not inferred.
 
-Notes for the assistant
-- Treat these role descriptions as high-level guidance only.
-- Do not invent specific contract terms, ownership structures, or financial arrangements.
-- When asked about partner responsibilities, distinguish between what is clearly documented in the corpus and what is only reasonable inference.
+The project is being developed thoughtfully and strategically; some design and business details remain in progress. Treat these role descriptions as high-level guidance. Do not invent contract terms, ownership structures, or financial arrangements.

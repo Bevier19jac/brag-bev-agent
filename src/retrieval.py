@@ -34,6 +34,26 @@ def _iter_txt_files(root: Path) -> list[Path]:
     return sorted(p for p in root.rglob("*.txt") if p.is_file())
 
 
+def choose_k(question: str, default_k: int = 8, broad_k: int = 12) -> int:
+    """Use broader retrieval for broad/open-ended questions."""
+    q = question.lower().strip()
+    broad_phrases = (
+        "tell me everything you know",
+        "tell me everything about",
+        "what do you know about",
+        "summarize everything you know",
+        "summarize everything about",
+        "summarize ",
+        "explain the project",
+        "give me the big picture",
+        "overview of",
+        "big picture",
+    )
+    if any(phrase in q for phrase in broad_phrases):
+        return broad_k
+    return default_k
+
+
 def read_processed_documents(processed_dir: Path) -> list[ProcessedDocument]:
     documents: list[ProcessedDocument] = []
 

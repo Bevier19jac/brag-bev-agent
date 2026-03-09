@@ -1,0 +1,41 @@
+Source filename: ARI NDA.docx
+Source relative path: partner_notes/ARI NDA.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:47.656819+00:00
+
+## Section 1: Paragraphs
+Mutual Non-Disclosure Agreement
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of November 19th, 2024 by and between:
+Dixon Investment Inc. dba ARI, a Georgia S Corporation, with its principal place of business at 2523 S. McDonough Road, Orchard Hill, GA 30266 ("Receiving Party"),
+and
+Brag & Bev L.L.C with its principal place of business at 105 Pendleton Trail, Tyrone, GA 30290 ("Disclosing Party").
+Collectively referred to as the "Parties."
+1. Definition of Confidential Information
+For the purposes of this Agreement, "Confidential Information" shall mean any non-public information, including but not limited to, trade secrets, business plans, financial information, customer lists, and other proprietary information, disclosed by Aerosol Resource Innovations to the Receiving Party.
+2. Obligations of Receiving Party
+The Receiving Party agrees to:
+(a) Keep the Confidential Information strictly confidential and take all reasonable precautions to prevent unauthorized disclosure or use;
+(b) Limit access to the Confidential Information to employees, contractors, or agents with a need to know for the purpose of the disclosed information;
+(c) Not disclose, reproduce, or use the Confidential Information for any purpose other than the purpose for which it was disclosed;
+(d) Notify Aerosol Resource Innovations immediately upon becoming aware of any unauthorized disclosure or use of Confidential Information.
+3. Exclusions from Confidential Information
+The obligations of confidentiality shall not apply to information that:
+(a) Is or becomes publicly available through no fault of the Receiving Party;
+(b) Is already known to the Receiving Party at the time of disclosure;
+(c) Is independently developed by the Receiving Party without reference to the Confidential Information;
+(d) Is rightfully obtained by the Receiving Party from a third party without any restriction on disclosure.
+4. Duration of Confidentiality Obligations
+The obligations of confidentiality under this Agreement shall remain in effect for a period of 12 months, starting from the date of disclosure.
+5. Return or Destruction of Confidential Information
+Upon Aerosol Resource Innovations' written request or the termination of the business relationship between the Parties, the Receiving Party shall promptly return or, at Aerosol Resource Innovations' option, destroy all copies of the Confidential Information in its possession.
+6. Governing Law and Dispute Resolution
+This Agreement shall be governed by and construed in accordance with the laws of the state of Georgia. Any disputes arising out of or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of [arbitration organization], and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
+7. Miscellaneous
+(a) This Agreement constitutes the entire understanding between the Parties and supersedes all prior discussions, negotiations, and agreements.
+(b) Amendments to this Agreement must be in writing and signed by both Parties.
+(c) Failure to enforce any provision of this Agreement shall not constitute a waiver of any right to subsequently enforce that provision or any other provision.
+IN WITNESS WHEREOF, the Parties hereto have executed this Mutual Non-Disclosure Agreement as of the date first above written.
+Aerosol Resource Innovations Brag & Bev L.L.C
+By: ____________________ By: 
+[Your Name, Title] Jacob B. Bevier, CEO Date: _________________ Date: 12/20/2024

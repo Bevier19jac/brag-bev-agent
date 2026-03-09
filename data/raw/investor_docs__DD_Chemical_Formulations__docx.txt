@@ -1,0 +1,76 @@
+Source filename: DD_Chemical_Formulations.docx
+Source relative path: investor_docs/DD_Chemical_Formulations.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:42.987399+00:00
+
+## Section 1: Paragraphs
+Dumpster Diver Cleaning Solution Recipes
+Objective: The Dumpster Diver product is a trash can cleaning device with an aerosol fogger being an integral piece of the puzzle. My vision is a high expansion foaming cleaner with the intent to effectively clean, disinfect, deodorize, and deter animals from outdoor dumpsters and trash bins. The product should leave minimal residue, provide long-lasting odor control, and meet the needs of residential users and potentially commercial users in the near future. Below are five proposed formulations for the chemist’s evaluation and input.
+Recipe 1: Citrus Cleaner
+Ingredients:
+Water (Distilled): 70%
+Decyl Glucoside (Plant-Based Surfactant): 15%
+Citric Acid: 5%
+Ethanol (Food-Grade or Denatured): 5%
+Lemon Essential Oil: 3%
+Sodium Citrate (Chelating Agent): 2%
+Purpose:
+Disinfection: Citric acid and ethanol kill bacteria and germs.
+Deodorizing: Lemon essential oil neutralizes odors and leaves a fresh citrus scent.
+Animal Deterrent: Citrus scents are natural repellents for many animals.
+Recipe 2: Heavy-Duty Degreaser
+Ingredients:
+Water (Distilled): 60%
+Sodium Lauryl Sulfate (SLS): 15%
+Ethanol: 10%
+Citric Acid: 5%
+Sodium Citrate: 5%
+Tea Tree Oil (Optional): 5%
+Purpose:
+Disinfection: Tea tree oil and ethanol provide antimicrobial properties.
+Deodorizing: Citric acid and sodium citrate combat foul odors.
+Deep Cleaning: SLS cuts through grease and grime effectively.
+Animal Deterrent: Tea tree oil scent can deter certain pests.
+Recipe 3: Bio-Enzymatic Odor Neutralizer
+Ingredients:
+Water (Distilled): 65%
+Decyl Glucoside (Surfactant): 10%
+Protease Enzymes: 10%
+Lipase Enzymes: 5%
+Bacillus Strain Microbes: 5%
+Sodium Citrate: 5%
+Purpose:
+Disinfection: Enzymes break down organic waste and microbial contaminants.
+Deodorizing: Microbes neutralize odors by degrading waste.
+Animal Deterrent: Creates an environment less attractive to scavenging animals.
+Recipe 4: Natural Vinegar-Based Cleaner
+Ingredients:
+Water (Distilled): 70%
+Vinegar Powder (Acetic Acid): 10%
+Sodium Lauryl Sulfate (SLS): 10%
+Sodium Bicarbonate: 5%
+Orange Peel Oil (d-Limonene): 5%
+Purpose:
+Disinfection: Acetic acid and d-Limonene kill bacteria and germs effectively.
+Deodorizing: Orange oil provides a pleasant, long-lasting citrus scent.
+Animal Deterrent: Orange oil is known to repel pests and animals.
+Recipe 5: Sanitizing Cleaner with Oxygen Boost
+Ingredients:
+Water (Distilled): 60%
+Sodium Percarbonate (Oxygen Bleach): 10%
+Nonionic Surfactant (e.g., Polysorbate 20): 10%
+Citric Acid: 5%
+Sodium Gluconate: 5%
+Ethanol: 10%
+Purpose:
+Disinfection: Oxygen bleach and ethanol provide strong sanitizing effects.
+Deodorizing: Citric acid and sodium gluconate combat odors effectively.
+Deep Cleaning: Surfactants ensure grease and grime removal.
+Animal Deterrent: Minimal residual odors discourage pests from returning.
+Additional Notes for the Chemist:
+Aerosol Compatibility: The formulations should remain low-viscosity and suitable for atomization with aerosol foggers.
+Residue: The solution should leave minimal or no residue after application.
+Safety: The product must be safe for humans, animals, and the environment while maintaining efficacy.
+Testing Requirements: Conduct tests for atomization quality, cleaning efficacy, and animal deterrent effectiveness.
+Please provide feedback on these formulations, suggest modifications, or propose alternate ingredients to optimize the product for its intended purpose.

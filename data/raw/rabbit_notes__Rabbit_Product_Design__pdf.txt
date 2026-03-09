@@ -2,7 +2,7 @@ Source filename: Rabbit Product Design.pdf
 Source relative path: rabbit_notes/Rabbit Product Design.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:17:52.267022+00:00
+Processed at: 2026-03-09T23:59:07.822615+00:00
 
 ## Section 1: Page 1
 Document Ref: 1DBCF068-A2D5-474D-A200-BA1E36C25819 1/21

@@ -1,13 +1,9 @@
 Current status snapshot (approximate and evolving)
 
 - Brag & Bev LLC is actively developing the Dumpster Diver concept.
-- Dumpster Diver is treated as a working concept rather than a fully commercialized, locked-down product.
+- Dumpster Diver is a working concept rather than a fully commercialized, locked-down product.
 - Mechanical and product-level exploration has involved partners such as Rabbit Product Design (mechanical / engineering), Spray Products (aerosol formulation / packaging), and ARE Labs (spray / coverage testing).
 - Details of the mechanical design, triggering method, and internal layout are still being explored and may change as prototypes are built and evaluated.
-- Cleaning performance, safety details, regulatory steps, and manufacturing plans are also subject to ongoing work and should not be considered final unless supported by specific documents.
+- Cleaning performance, safety details, regulatory steps, and manufacturing plans are subject to ongoing work and should not be considered final unless supported by specific documents.
 
-Guidance for the assistant
-- Present this status as a general orientation, not as a legal or contractual statement.
-- When the user asks about “current status,” prefer specific dated documents in the corpus when available.
-- If the documents do not clearly say something is final, treat it as tentative or in progress.
-- Be explicit when something is an assumption or forecast rather than a documented fact.
+Guidance for the assistant: Present this status as a general orientation. When the user asks about current status, prefer specific dated documents in the corpus when available. If the documents do not clearly say something is final, treat it as tentative or in progress. Be explicit when something is an assumption or forecast rather than a documented fact.

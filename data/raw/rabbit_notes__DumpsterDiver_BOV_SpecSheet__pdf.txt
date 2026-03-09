@@ -2,7 +2,7 @@ Source filename: DumpsterDiver_BOV_SpecSheet.pdf
 Source relative path: rabbit_notes/DumpsterDiver_BOV_SpecSheet.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:17:44.231367+00:00
+Processed at: 2026-03-09T23:59:04.376508+00:00
 
 ## Section 1: Page 1
 Dumpster Diver — BOV Pilot Spec Sheet (F1–F4)

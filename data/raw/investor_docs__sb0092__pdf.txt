@@ -2,7 +2,7 @@ Source filename: sb0092.pdf
 Source relative path: investor_docs/sb0092.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:37.472756+00:00
+Processed at: 2026-03-09T23:58:47.331151+00:00
 
 ## Section 1: Page 1
 PTO/SB/92 (11-23) 

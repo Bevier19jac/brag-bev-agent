@@ -1,0 +1,34 @@
+Source filename: Pics_conceptualizing_vision.docx
+Source relative path: product_specs/Pics_conceptualizing_vision.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:49.595094+00:00
+
+## Section 1: Paragraphs
+Key Functional Components
+1. Pull Tab (Manual Safety Release)
+The pull tab serves as a manual arming mechanism and is located on the side of the actuator for ease of access.
+While in place, it physically blocks the actuator stem from moving, preventing accidental discharge during transit or handling.
+When manually removed by the user, it does not initiate spray but instead primes the unit, allowing it to respond to impact.
+2. Breakaway Actuator Stem (Impact-Triggered)
+With the pull tab removed, the internal actuator stem is held in place by a pressure-seated breakaway feature.
+Upon a vertical impact (such as being dropped into a bin), the force causes the stem to break free, rising upward.
+This motion activates the valve by pressing down on the can’s stem, releasing the internal contents in a one-time use.
+3. Rounded Conical Nozzle with Angled Spray Ports
+The nozzle features a rounded conical top with 4 to 6 angled spray ports, providing multi-directional dispersion.
+This pattern is designed to maximize inner surface coverage of the bin lid and walls.
+The actuator and nozzle are one integrated 3D-printable unit, reducing assembly complexity.
+Design Inspiration and Adaptation
+The mechanism is adapted from the Vulcan actuator architecture.
+Key adaptations include:
+A side-mounted pull tab to allow intuitive manual arming.
+A rounded head to deflect waste and debris while ensuring directional spray control.
+A breakaway impact-triggered actuator stem, enabling one-time use without risk of premature activation.
+A fit for standard 1-inch aerosol cans, maintaining compatibility with industry-standard components.
+Visual Variations Across Renders
+The attached visual renders represent conceptual variations of the final actuator model. While form factors may differ slightly, the underlying functional intent remains consistent across each version. The visuals aim to show multiple perspectives of:
+How the pull tab integrates into the body
+How the breakaway stem operates post-impact
+How the nozzle ports are distributed around the conical head
+Intended Use Case
+The final product is intended for one-time deployment after being tossed into a trash bin. Once the user removes the pull tab, the unit becomes active. Upon impact with the bottom of the bin, the actuator triggers and releases its internal cleaning contents, coating the bin’s interior in an omnidirectional spray pattern.

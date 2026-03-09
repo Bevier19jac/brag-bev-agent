@@ -1,0 +1,13 @@
+Source filename: DUMPSTERDIVER.docx
+Source relative path: rabbit_notes/DUMPSTERDIVER.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:59:04.332418+00:00
+
+## Section 1: Paragraphs
+Self-Righting Automatic Dumpster Cleaning Device
+Biodegradable foam adheres to walls, 
+ Production Process
+1. Materials
+Base Components
+Outer Shell:

@@ -2,7 +2,7 @@ Source filename: Complete_with_Docusign_Brag___Bev_Operating_.pdf
 Source relative path: rabbit_notes/Complete_with_Docusign_Brag___Bev_Operating_.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:17:41.669315+00:00
+Processed at: 2026-03-09T23:59:03.934557+00:00
 
 ## Section 1: Page 1
 THE INTERESTS IN BRAG & BEV, LLC HAVE NOT 

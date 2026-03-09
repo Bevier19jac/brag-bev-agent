@@ -1,0 +1,15 @@
+Source filename: Important numbers.docx
+Source relative path: investor_docs/Important numbers.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:43.854964+00:00
+
+## Section 1: Paragraphs
+Brag & Bev L.L.C
+EIN: 33-2295710
+UEI: MQ1KHF2EQWH1
+D-U-N-S #: 11-941-0168
+CAGE #:
+Bluevine Checking Account:
+Account #: 875106444768
+Routing #: 125109019

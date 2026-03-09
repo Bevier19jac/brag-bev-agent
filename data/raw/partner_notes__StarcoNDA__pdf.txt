@@ -2,7 +2,7 @@ Source filename: StarcoNDA.pdf
 Source relative path: partner_notes/StarcoNDA.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:41.966062+00:00
+Processed at: 2026-03-09T23:58:49.155255+00:00
 
 ## Section 1: Page 1
 NON-DISCLOSURE & CONFIDENTIALY AGREEMENT 

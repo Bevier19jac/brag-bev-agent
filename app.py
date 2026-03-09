@@ -48,7 +48,7 @@ try:
         get_processed_file_count,
     )
     from src.prompts import build_user_prompt
-    from src.retrieval import build_corpus, retrieve_chunks
+    from src.retrieval import build_corpus, choose_k, retrieve_chunks
 except Exception as exc:
     st.error(f"Startup import failure: {exc}")
     st.stop()
@@ -98,21 +98,7 @@ def run_agent(question: str, agent_key: str, top_k: int = TOP_K):
     if not corpus.chunks:
         return "Processed files were found, but no usable chunks were created.", []
 
-    # Modest dynamic k: use a slightly larger k for broad “tell me everything /
-    # summarize everything” style questions, otherwise use the default.
-    lowered = question.lower()
-    effective_k = top_k
-    if any(
-        phrase in lowered
-        for phrase in (
-            "tell me everything you know",
-            "tell me everything about",
-            "summarize everything you know",
-            "summarize everything about",
-            "what do you know about",
-        )
-    ):
-        effective_k = max(top_k, 10)
+    effective_k = choose_k(question, default_k=top_k, broad_k=12)
 
     try:
         retrieved = retrieve_chunks(question, corpus, top_k=effective_k)

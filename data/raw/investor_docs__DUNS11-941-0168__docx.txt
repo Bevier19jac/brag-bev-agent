@@ -1,0 +1,10 @@
+Source filename: DUNS11-941-0168.docx
+Source relative path: investor_docs/DUNS11-941-0168.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:43.839016+00:00
+
+## Section 1: Paragraphs
+Company Profile
+Brag & Bev L.L.C
+D-U-N-S #:11-941-0168

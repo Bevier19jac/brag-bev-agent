@@ -2,7 +2,7 @@ Source filename: Final_Dumpster_Cleaner_Pitch.pdf
 Source relative path: product_specs/Final_Dumpster_Cleaner_Pitch.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:43.014753+00:00
+Processed at: 2026-03-09T23:58:49.547780+00:00
 
 ## Section 1: Page 2
 Our Big Idea

@@ -2,7 +2,7 @@ Source filename: Rabbit.pdf
 Source relative path: partner_notes/Rabbit.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:40.927141+00:00
+Processed at: 2026-03-09T23:58:48.862954+00:00
 
 ## Section 1: Page 1
 Wednesday, November 27, 2024

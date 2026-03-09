@@ -2,7 +2,7 @@ Source filename: DDFinalBP.pdf
 Source relative path: investor_docs/DDFinalBP.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:26.591167+00:00
+Processed at: 2026-03-09T23:58:43.580630+00:00
 
 ## Section 1: Page 1
 The Self-Righting 

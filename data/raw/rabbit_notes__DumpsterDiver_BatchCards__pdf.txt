@@ -2,7 +2,7 @@ Source filename: DumpsterDiver_BatchCards.pdf
 Source relative path: rabbit_notes/DumpsterDiver_BatchCards.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:17:43.974441+00:00
+Processed at: 2026-03-09T23:59:04.357261+00:00
 
 ## Section 1: Page 1
 F1 — Baseline Foaming Cleanser — 1 L Batch Card

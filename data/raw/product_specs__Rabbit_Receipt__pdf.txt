@@ -2,7 +2,7 @@ Source filename: Rabbit_Receipt.pdf
 Source relative path: product_specs/Rabbit_Receipt.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:51.971476+00:00
+Processed at: 2026-03-09T23:58:52.785054+00:00
 
 ## Section 1: Page 1
 RECEIPT

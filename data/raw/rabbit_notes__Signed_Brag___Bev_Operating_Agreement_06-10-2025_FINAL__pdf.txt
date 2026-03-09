@@ -2,7 +2,7 @@ Source filename: Signed_Brag _ Bev_Operating Agreement_06-10-2025_FINAL.pdf
 Source relative path: rabbit_notes/Signed_Brag _ Bev_Operating Agreement_06-10-2025_FINAL.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:18:39.637407+00:00
+Processed at: 2026-03-09T23:59:20.428027+00:00
 
 ## Section 1: Page 1
 THE INTERESTS IN BRAG & BEV, LLC HAVE NOT 

@@ -2,7 +2,7 @@ Source filename: Bluevine bank verification letter 20241223.pdf
 Source relative path: investor_docs/Bluevine bank verification letter 20241223.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:25.557568+00:00
+Processed at: 2026-03-09T23:58:42.776956+00:00
 
 ## Section 1: Page 1
 Re: Brag & Bev L.L.C

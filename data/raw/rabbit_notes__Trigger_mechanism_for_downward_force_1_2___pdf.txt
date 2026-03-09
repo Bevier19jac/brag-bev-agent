@@ -2,7 +2,7 @@ Source filename: Trigger mechanism for downward force_1 (2).pdf
 Source relative path: rabbit_notes/Trigger mechanism for downward force_1 (2).pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:18:39.930761+00:00
+Processed at: 2026-03-09T23:59:21.409020+00:00
 
 ## Section 1: Page 1
 Trigger mechanism concept

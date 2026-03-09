@@ -2,7 +2,7 @@ Source filename: Dd - 2.1 - Jacob Bevier - bevier19jac@icloud.com (2).pdf
 Source relative path: rabbit_notes/Dd - 2.1 - Jacob Bevier - bevier19jac@icloud.com (2).pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:17:43.484466+00:00
+Processed at: 2026-03-09T23:59:04.279836+00:00
 
 ## Section 1: Page 1
 Design and Prototype Proposal

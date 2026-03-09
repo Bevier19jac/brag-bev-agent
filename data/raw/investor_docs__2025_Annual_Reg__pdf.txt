@@ -2,7 +2,7 @@ Source filename: 2025_Annual_Reg.pdf
 Source relative path: investor_docs/2025_Annual_Reg.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:25.481672+00:00
+Processed at: 2026-03-09T23:58:42.743637+00:00
 
 ## Section 1: Page 1
 STATE OF GEORGIA 

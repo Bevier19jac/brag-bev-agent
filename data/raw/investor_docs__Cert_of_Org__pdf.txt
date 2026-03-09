@@ -2,7 +2,7 @@ Source filename: Cert of Org.pdf
 Source relative path: investor_docs/Cert of Org.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:25.617559+00:00
+Processed at: 2026-03-09T23:58:42.817567+00:00
 
 ## Section 1: Page 1
 Control Number : 24223393

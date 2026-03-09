@@ -1,0 +1,20 @@
+Source filename: Supplier Questionnaire (1).pdf.docx
+Source relative path: product_specs/Supplier Questionnaire (1).pdf.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:53.012183+00:00
+
+## Section 1: Table 1
+Table 1
+ | | Brag & Bev L.L.C | Brag & Bev L.L.C
+ | | 105 Pendleton Trail, Tyrone, GA 30290 | 105 Pendleton Trail, Tyrone, GA 30290
+ | | 760 490-3416 | 760 490-3416
+ | | N/A | N/A
+ | | 1 | 1
+ | | Jacob Bevier | Jacob Bevier
+ | | Founder/CEO | Founder/CEO
+ | | 105 Pendleton Trail, Tyrone, GA 30290 | 105 Pendleton Trail, Tyrone, GA 30290
+ | | 760 490-3416 | 760 490-3416
+ | | bevier19jac@icloud.com | bevier19jac@icloud.com
+ | | | Aerosols
+ | | | Yes

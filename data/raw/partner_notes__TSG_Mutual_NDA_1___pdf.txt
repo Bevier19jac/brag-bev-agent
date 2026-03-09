@@ -2,7 +2,7 @@ Source filename: TSG Mutual NDA (1).pdf
 Source relative path: partner_notes/TSG Mutual NDA (1).pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:42.706832+00:00
+Processed at: 2026-03-09T23:58:49.412314+00:00
 
 ## Section 1: Page 1
 NON-DISCLOSURE & CONFIDENTIALY AGREEMENT 

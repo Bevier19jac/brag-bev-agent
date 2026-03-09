@@ -2,7 +2,7 @@ Source filename: N4.pdf
 Source relative path: vendor_emails/N4.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:19:25.973273+00:00
+Processed at: 2026-03-09T23:59:34.460669+00:00
 
 ## Section 1: Page 1
 From: sarahjbraganini@gmail.com

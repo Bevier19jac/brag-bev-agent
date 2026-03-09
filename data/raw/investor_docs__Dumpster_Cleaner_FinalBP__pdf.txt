@@ -2,7 +2,7 @@ Source filename: Dumpster_Cleaner_FinalBP.pdf
 Source relative path: investor_docs/Dumpster_Cleaner_FinalBP.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:26.952367+00:00
+Processed at: 2026-03-09T23:58:43.832434+00:00
 
 ## Section 1: Page 1
 Business Plan for the Self-Righting Automatic Dumpster Cleaner 

@@ -1,0 +1,106 @@
+Source filename: Provisional_Patent_Cover_Sheet_ _Content.docx
+Source relative path: investor_docs/Provisional_Patent_Cover_Sheet_ _Content.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:43.940692+00:00
+
+## Section 1: Paragraphs
+Provisional Patent Application Cover Sheet
+Under 35 U.S.C. 111(b)
+To comply with § 1.51(c)(1)
+1. Title of Invention
+Self-Righting Automatic Dumpster Cleaning Device
+2. Applicant Information
+Name: Jacob B. Bevier
+Address: 105 Pendleton Trail
+City: Tyrone
+State: Georgia
+ZIP Code: 30290
+Country: U.S.
+Email: bevier19jac@icloud.com
+Phone: 760 4903416
+3. Correspondence Address
+N/A
+4. Entity Status
+- Micro Entity 
+5. Application Details
+Filing as a Provisional Patent Application under 35 U.S.C. 111(b).
+Include this cover sheet to comply with § 1.51(c)(1).
+6. Signature and Date
+By signing below, I affirm that the information provided is accurate to the best of my knowledge.
+Signature: ___________________________
+Date: _______________________________
+Provisional Patent Application
+Self-Righting Automatic Dumpster Cleaning Device
+Background
+
+ Dumpsters are a breeding ground for grime, bacteria, and unpleasant odors, creating unsanitary and unpleasant conditions. 
+ Cleaning dumpsters is labor-intensive, time-consuming, and often neglected due to the inconvenience of traditional methods, 
+ which rely on external water sources, manual scrubbing, or costly professional services.
+
+ This invention addresses these issues by providing an automated, disposable, and eco-friendly solution that simplifies dumpster maintenance.
+ 
+Summary of the Invention
+
+ The Self-Righting Automatic Dumpster Cleaning Device is a disposable, self-righting device that automates the cleaning process for dumpsters. 
+ It features a weighted base for stability, a pressurized canister containing a biodegradable cleaning solution, and a 360° spray nozzle. 
+ The device activates upon impact or lid closure, spraying foam that adheres to and cleans the walls, floor, and lid of the dumpster.
+ 
+Detailed Description of the Invention
+
+ 1. **Outer Shell**:
+ - Made of biodegradable plastic or treated cardboard to minimize environmental impact.
+ - Dimensions:
+ - Residential Model: 6 inches tall, 4-inch diameter.
+ - Commercial Model: 10 inches tall, 6-inch diameter.
+
+ 2. **Weighted Base**:
+ - Contains encased recycled metal pellets or sand for self-righting stability.
+ - Includes an absorbent layer (e.g., silica gel or activated carbon) to soak up residual liquids in the dumpster.
+
+ 3. **Cleaning Solution Canister**:
+ - Pressurized aluminum or plastic container.
+ - Contains a biodegradable cleaning solution designed for foam expansion and adherence.
+ - Cleaning Solution Ingredients:
+ - Sodium Lauryl Sulfate (40%): Surfactant for grime removal.
+ - D-Limonene (20%): Citrus-based degreaser.
+ - Hydrogen Peroxide (10%): Antibacterial agent.
+ - Dimethyl Ether (30%): Eco-friendly propellant.
+
+ 4. **360° Spray Nozzle**:
+ - Multi-hole nozzle design ensures complete interior coverage of the dumpster.
+ - Spray radius:
+ - Residential Model: 5 feet.
+ - Commercial Model: 8 feet.
+
+ 5. **Activation Mechanism**:
+ - Impact-Triggered: Pressure-sensitive diaphragm bursts upon hitting the dumpster floor.
+ - Lid Closure Trigger: Sensor detects lid motion or darkness and activates spray.
+ - Timer Backup: Activates spray within 5 seconds if primary triggers fail.
+
+ How It Works:
+ - After trash pickup, the user tosses the device into the empty dumpster.
+ - The weighted base ensures the device lands upright.
+ - Spray mechanism activates and distributes foam, cleaning the dumpster's interior.
+ 
+Claims
+
+ 1. A disposable cleaning device that self-rights using a weighted base and sprays a biodegradable cleaning solution in a 360° arc.
+ 2. Dual activation mechanisms, including impact triggers and lid closure sensors, for reliable operation in diverse scenarios.
+ 3. Weighted base with integrated absorbent materials for liquid collection and odor reduction.
+ 4. Use of biodegradable and recyclable materials for environmentally friendly disposal.
+ 5. A cleaning solution that adheres to surfaces, neutralizes odors, and sanitizes effectively.
+ 
+Drawings/Illustrations
+
+ Please refer to attached diagrams labeled:
+ - Diagram 1: Exploded view of the device showing components.
+ - Diagram 2: Operational flow of activation and spray mechanism.
+ - Diagram 3: Dimensions and specifications for residential and commercial models.
+ 
+Inventor Information
+
+ Inventor Name: Jacob B. Bevier
+ Address: 105 Pendleton Trail
+ Email: bevier19jac@icloud.com
+ Phone: 760 490-3416

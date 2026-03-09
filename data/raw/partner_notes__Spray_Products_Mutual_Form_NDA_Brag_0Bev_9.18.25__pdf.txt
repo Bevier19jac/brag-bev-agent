@@ -2,7 +2,7 @@ Source filename: Spray Products Mutual Form NDA (Brag^0Bev) 9.18.25.pdf
 Source relative path: partner_notes/Spray Products Mutual Form NDA (Brag^0Bev) 9.18.25.pdf
 Source type: .pdf
 Extraction method: pypdf text extraction
-Processed at: 2026-03-09T17:16:41.660859+00:00
+Processed at: 2026-03-09T23:58:49.045234+00:00
 
 ## Section 1: Page 1
 MUTUAL NON-DISCLOSURE AGREEMENT 

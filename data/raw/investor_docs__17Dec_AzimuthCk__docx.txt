@@ -1,0 +1,90 @@
+Source filename: 17Dec_AzimuthCk.docx
+Source relative path: investor_docs/17Dec_AzimuthCk.docx
+Source type: .docx
+Extraction method: docx paragraphs and tables
+Processed at: 2026-03-09T23:58:42.527737+00:00
+
+## Section 1: Paragraphs
+The Self-Righting Automatic Dumpster Cleaner 
+Patent Pending: Application No. 63/723,626 (Confirmation No. 7443) 
+Executive Summary 
+The Self-Righting Automatic Dumpster Cleaner is a patent-pending, disposable, and eco-friendly innovation designed to transform dumpster and trash bin sanitation. This cutting-edge device utilizes advanced delivery methods to deploy high-expansion cleaning agents that effectively dissolve grime, grease, and neutralize odors, ensuring thorough and efficient cleaning.
+Equipped with self-righting technology, a user-friendly pull-tab activation system, and a 5-second backup timer, the device guarantees reliable performance and comprehensive coverage with every use. Its versatile design makes it ideal for both residential and commercial applications, meeting the increasing demand for cost-effective, hygienic, and sustainable cleaning solutions.
+By strategically positioning the Self-Righting Automatic Dumpster Cleaner across retail, online, and wholesale markets, this product sets a new standard in sanitation, providing households, businesses, and municipalities with an innovative tool to maintain cleaner, healthier environments.
+1. Conceptualization & Design Phase (Rabbit Product Development)
+Duration: Weeks 1-4
+Objectives:
+Finalize initial product design, ensuring impact-trigger integration and nozzle efficiency.
+Align the device dimensions with Starco’s standard can sizes (350-500ml).
+Confirm self-righting mechanics to guarantee the can sprays in all directions effectively.
+Deliverables:
+CAD models for the device.
+Design mock-ups to validate aesthetics, usability, and mechanical feasibility.
+Initial cost estimate for manufacturing prototypes.
+2. Chemical & Aerosol Development (Starco Collaboration)
+Duration: Weeks 5-8
+Objectives:
+Work with Starco to finalize the aerosol components:
+High-expansion foam formula based on:
+Sodium bicarbonate, citric acid, hydrogen peroxide, SLS, etc.
+Environmentally friendly propellant type.
+Confirm the reliability of aerosol release under impact activation.
+Deliverables:
+Prototype aerosol can with validated foam performance (consistency, expansion).
+Safety and compliance assessments for propellants and chemicals.
+Feedback to Rabbit for design adjustments (if required).
+3. Prototype Finalization (Rabbit Product Development)
+Duration: Weeks 9-12
+Objectives:
+Integrate aerosol solution from Starco into the device design.
+Conduct performance testing for:
+Foam expansion and coverage efficiency.
+Impact-trigger reliability under different force levels.
+Durability and self-righting stability.
+Deliverables:
+Working prototypes for field testing.
+Finalized production-ready design.
+4. Field Testing & Feedback
+Duration: Weeks 13-16
+Objectives:
+Test prototypes in real-life conditions (e.g., outdoor trash bins).
+Collect data on cleaning performance, ease of use, and durability.
+Incorporate adjustments based on feedback for optimal performance.
+Deliverables:
+Field test reports with performance metrics.
+Refined prototypes addressing any identified weaknesses.
+5. Pre-Production & Manufacturing Prep
+Duration: Weeks 17-20
+Objectives:
+Establish manufacturing partnerships for:
+Injection-molded casings (biodegradable HDPE/PLA).
+Aerosol production (Starco).
+Prepare for full-scale production, including quality control processes.
+Deliverables:
+Manufacturing contracts.
+Finalized Bill of Materials (BOM) and cost projections.
+6. Go-to-Market Strategy
+Duration: Weeks 21-24
+Objectives:
+Launch marketing campaigns emphasizing:
+Convenience for residential users.
+Eco-friendly, self-righting technology.
+Secure retail partnerships with Walmart, Home Depot, Target, and online platforms.
+Deliverables:
+Product launch plan with timelines.
+Marketing materials, including videos, images, and key messaging.
+Financial Overview
+Current Funding: $300,000 secured.
+Estimated Costs:
+Rabbit Product Development: $75,000
+Starco Aerosol Development: $50,000
+Prototype Testing & Adjustments: $30,000
+Pre-Production Setup: $45,000
+Marketing & Go-to-Market Launch: $100,000
+Projected Revenue Year 1:
+Residential Sales: $1.2M (focus on trash bins).
+Profit Margin: ~68% gross profit margin.
+Next Steps for Early January Presentation
+Finalize Proposal with Rabbit: Ensure Rabbit’s design team provides a detailed proposal and estimated timeline.
+Follow Up with Starco: Confirm aerosol development capabilities and request their timeline for prototypes.
+Prepare a Visual Deck: Include CAD models, a project timeline (above), and financials.
