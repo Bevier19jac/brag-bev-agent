@@ -1,11 +1,15 @@
 """
-Brag & Bev AI Agent — Query-only RAG on Render.
-Uses prebuilt Chroma at data/chroma. No uploads, no ingestion. Smoke mode: ?smoke=1
+Brag & Bev AI Agent — Lightweight query-only RAG on Render.
+Reads data/raw (.txt, .md, .json, .csv), TF-IDF retrieval, Groq for answers.
+No Chroma, no embeddings, no file upload. Smoke mode: ?smoke=1
 """
 from __future__ import annotations
 
 import os
 import sys
+import json
+import csv
+from io import StringIO
 from pathlib import Path
 
 import streamlit as st
@@ -14,7 +18,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # -----------------------------------------------------------------------------
-# Page config first
+# Page config first (must be first Streamlit command)
 # -----------------------------------------------------------------------------
 st.set_page_config(
     page_title="Brag & Bev AI Agent",
@@ -23,7 +27,7 @@ st.set_page_config(
 )
 
 # -----------------------------------------------------------------------------
-# Smoke-test mode
+# Smoke-test mode: render immediately, no heavy imports
 # -----------------------------------------------------------------------------
 def _smoke_requested() -> bool:
     try:
@@ -39,86 +43,136 @@ def _smoke_requested() -> bool:
 
 if _smoke_requested():
     st.success("Smoke test OK — Streamlit is running.")
-    st.caption("Add ?smoke=1 to the URL. No embeddings, Chroma, or Groq loaded.")
+    st.caption("Add ?smoke=1 to the URL. No TF-IDF or Groq loaded.")
     st.code(f"Python {sys.version}\nStreamlit {st.__version__}", language="text")
     st.stop()
 
 # -----------------------------------------------------------------------------
-# Constants
+# Constants — no heavy init at import
 # -----------------------------------------------------------------------------
-CHROMA_DIR = "data/chroma"
-EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+RAW_DIR = Path("data/raw")
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 100
+TOP_K = 5
+SUPPORTED_EXTENSIONS = {".txt", ".md", ".json", ".csv"}
 GROQ_MODEL = "llama-3.3-70b-versatile"
-RETRIEVAL_K = 5
 
 # -----------------------------------------------------------------------------
-# Prebuilt DB check — lightweight, no embeddings yet
+# Load text from data/raw (only .txt, .md, .json, .csv)
 # -----------------------------------------------------------------------------
-def _chroma_available() -> bool:
-    p = Path(CHROMA_DIR)
-    if not p.exists() or not p.is_dir():
-        return False
-    # Chroma persists chroma.sqlite3 and collection dirs
-    if (p / "chroma.sqlite3").exists():
-        return True
-    # Alternative layout: list dir and ensure non-empty
-    return any(p.iterdir())
+def _read_file(path: Path) -> str | None:
+    suffix = path.suffix.lower()
+    if suffix not in SUPPORTED_EXTENSIONS:
+        return None
+    try:
+        raw = path.read_bytes()
+        text = raw.decode("utf-8", errors="replace")
+    except Exception:
+        return None
+    if suffix == ".json":
+        try:
+            obj = json.loads(text)
+            return json.dumps(obj, indent=2)
+        except Exception:
+            return text
+    if suffix == ".csv":
+        try:
+            reader = csv.reader(StringIO(text))
+            return "\n".join(" | ".join(row) for row in reader)
+        except Exception:
+            return text
+    return text
 
-if not _chroma_available():
-    st.error("No prebuilt vector database found in data/chroma. Build it locally first.")
-    st.caption("Run indexing locally (e.g. index_docs.py), commit data/chroma, then redeploy.")
-    st.stop()
+def load_documents_from_raw():
+    """Return list of (source_name, text). Empty if data/raw missing or no supported files."""
+    if not RAW_DIR.exists() or not RAW_DIR.is_dir():
+        return []
+    out = []
+    for path in RAW_DIR.rglob("*"):
+        if not path.is_file():
+            continue
+        text = _read_file(path)
+        if text and text.strip():
+            out.append((path.name, text.strip()))
+    return out
 
 # -----------------------------------------------------------------------------
-# Lazy imports (only after smoke + chroma check)
+# Chunk text (simple fixed-size with overlap)
 # -----------------------------------------------------------------------------
-try:
-    from langchain_groq import ChatGroq
-    from langchain_huggingface import HuggingFaceEmbeddings
-    from langchain_community.vectorstores import Chroma
-    from langchain_core.messages import HumanMessage
-except ImportError as e:
-    st.error(f"Import error: {e}")
-    st.stop()
+def chunk_text(text: str, source: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP):
+    """Yield (chunk_text, source) for each chunk."""
+    if not text or not text.strip():
+        return
+    start = 0
+    text = text.replace("\r\n", "\n")
+    while start < len(text):
+        end = start + chunk_size
+        chunk = text[start:end]
+        if end < len(text):
+            last_br = chunk.rfind("\n")
+            if last_br > chunk_size // 2:
+                chunk = chunk[: last_br + 1]
+                end = start + len(chunk)
+        if chunk.strip():
+            yield (chunk.strip(), source)
+        start = end - overlap if overlap < end - start else end
+
+def build_chunks(docs: list[tuple[str, str]]):
+    """Return list of dicts: {"text": str, "source": str}."""
+    chunks = []
+    for source_name, text in docs:
+        for chunk_text_val, source in chunk_text(text, source_name):
+            chunks.append({"text": chunk_text_val, "source": source})
+    return chunks
 
 # -----------------------------------------------------------------------------
-# Cached resources — created only on first Run AI
+# TF-IDF retrieval — lazy import sklearn only when Run AI is used
 # -----------------------------------------------------------------------------
-@st.cache_resource
-def get_embeddings():
-    return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
+def run_tfidf_retrieval(chunks: list[dict], question: str, k: int = TOP_K):
+    """Return top-k chunks by TF-IDF cosine similarity. Uses sklearn."""
+    if not chunks or not question.strip():
+        return []
+    try:
+        from sklearn.feature_extraction.text import TfidfVectorizer
+        from sklearn.metrics.pairwise import cosine_similarity
+    except ImportError as e:
+        raise ImportError(f"scikit-learn required for retrieval: {e}") from e
+    texts = [c["text"] for c in chunks]
+    vectorizer = TfidfVectorizer(max_features=5000, stop_words="english", ngram_range=(1, 2))
+    try:
+        X = vectorizer.fit_transform(texts)
+    except Exception as e:
+        raise RuntimeError(f"TF-IDF fit failed: {e}") from e
+    q_vec = vectorizer.transform([question])
+    sims = cosine_similarity(q_vec, X).ravel()
+    top_indices = sims.argsort()[-k:][::-1]
+    return [chunks[i] for i in top_indices]
 
-@st.cache_resource
-def get_vectorstore():
-    return Chroma(
-        persist_directory=CHROMA_DIR,
-        embedding_function=get_embeddings(),
-    )
-
+# -----------------------------------------------------------------------------
+# Groq LLM — lazy import
+# -----------------------------------------------------------------------------
 def get_llm():
     api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
         raise ValueError(
             "GROQ_API_KEY is not set. Set it in Render Dashboard → Environment (or .env locally)."
         )
+    from langchain_groq import ChatGroq
+    from langchain_core.messages import HumanMessage
     return ChatGroq(
         model=GROQ_MODEL,
         temperature=0.2,
         api_key=api_key,
-    )
+    ), HumanMessage
 
-# -----------------------------------------------------------------------------
-# Prompt + RAG
-# -----------------------------------------------------------------------------
-def build_prompt(question: str, retrieved_chunks: list) -> str:
+def build_prompt(question: str, retrieved: list[dict]) -> str:
     context_block = "\n\n".join(
-        f"[Source: {d.metadata.get('source', 'unknown')}]\n{d.page_content}"
-        for d in retrieved_chunks
+        f"[Source: {c['source']}]\n{c['text']}" for c in retrieved
     )
     return f"""You are the Brag & Bev AI Agent.
 
-Answer the user's question using the provided context.
-If the answer is not in the documents, say it is not available in the knowledge base.
+Answer the user's question using the provided context from company documents.
+If the answer is not in the context, say it is not available in the knowledge base.
 
 User Question:
 {question}
@@ -128,37 +182,51 @@ Context:
 
 Answer:"""
 
-def run_rag(question: str, k: int = RETRIEVAL_K):
+def run_rag(question: str, k: int = TOP_K):
+    """Load data/raw -> chunk -> TF-IDF retrieve -> Groq -> (answer, retrieved_chunks)."""
+    docs = load_documents_from_raw()
+    if not docs:
+        return "No source documents found in data/raw.", []
+    chunks = build_chunks(docs)
+    if not chunks:
+        return "No source documents found in data/raw.", []
     try:
-        vectorstore = get_vectorstore()
-    except Exception as e:
-        return f"Vectorstore error: {e}", []
-    try:
-        docs = vectorstore.similarity_search(question, k=k)
+        retrieved = run_tfidf_retrieval(chunks, question, k=k)
     except Exception as e:
         return f"Retrieval error: {e}", []
-    if not docs:
-        return (
-            "No documents in the knowledge base or none match your question.",
-            [],
-        )
+    if not retrieved:
+        return "No matching chunks for your question.", []
     try:
-        llm = get_llm()
+        llm, HumanMessage = get_llm()
     except ValueError as e:
-        return str(e), docs
-    prompt = build_prompt(question, docs)
+        return str(e), retrieved
+    prompt = build_prompt(question, retrieved)
     try:
         response = llm.invoke([HumanMessage(content=prompt)])
         answer = response.content if hasattr(response, "content") else str(response)
     except Exception as e:
-        return f"LLM error: {e}", docs
-    return answer.strip(), docs
+        return f"LLM error: {e}", retrieved
+    return answer.strip(), retrieved
 
 # -----------------------------------------------------------------------------
-# UI — render immediately
+# UI — render immediately; data/raw check only when Run AI is clicked
 # -----------------------------------------------------------------------------
 st.title("Brag & Bev AI Agent")
-st.caption("Query the knowledge base. Uses prebuilt data/chroma (no uploads).")
+st.caption("Query-only: reads documents from data/raw, TF-IDF retrieval, Groq for answers.")
+
+# Optional: show data/raw status in sidebar
+with st.sidebar:
+    st.header("Source")
+    if RAW_DIR.exists() and RAW_DIR.is_dir():
+        docs = load_documents_from_raw()
+        if docs:
+            st.success(f"Found {len(docs)} file(s) in data/raw.")
+            for name, _ in docs:
+                st.caption(f"• {name}")
+        else:
+            st.warning("No supported files (.txt, .md, .json, .csv) in data/raw.")
+    else:
+        st.error("data/raw directory not found.")
 
 question = st.text_input("Ask a question", placeholder="e.g. What is the dumpster diver?")
 
@@ -166,17 +234,16 @@ if st.button("Run AI", type="primary"):
     if not (question and question.strip()):
         st.warning("Please enter a question.")
     else:
-        with st.spinner("Searching documents and generating answer..."):
+        with st.spinner("Loading documents, retrieving with TF-IDF, generating answer..."):
             try:
                 answer, retrieved = run_rag(question.strip())
                 st.subheader("Answer")
                 st.write(answer)
                 with st.expander("Retrieved context"):
                     if retrieved:
-                        for i, doc in enumerate(retrieved, 1):
-                            src = doc.metadata.get("source", "unknown")
-                            st.markdown(f"**{i}. {src}**")
-                            st.text(doc.page_content[:800] + ("..." if len(doc.page_content) > 800 else ""))
+                        for i, c in enumerate(retrieved, 1):
+                            st.markdown(f"**{i}. {c['source']}**")
+                            st.text(c["text"][:800] + ("..." if len(c["text"]) > 800 else ""))
                             st.divider()
                     else:
                         st.write("No chunks retrieved.")
