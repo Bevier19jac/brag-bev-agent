@@ -1,10 +1,9 @@
-# Brag & Bev AI Agent — lightweight query-only (Python 3.11)
-# No Chroma, no embeddings, no sentence-transformers. TF-IDF + Groq only.
+# Brag & Bev AI System — lightweight multi-agent retrieval (Python 3.11)
+# Render free-tier friendly: local processing + TF-IDF + direct Groq SDK.
 
-streamlit>=1.28.0,<2.0.0
+streamlit>=1.31.0,<2.0.0
 python-dotenv>=1.0.0,<2.0.0
-
-langchain-core>=0.3.0,<0.4.0
-langchain-groq>=0.2.0,<0.3.0
-
+groq>=0.11.0,<1.0.0
 scikit-learn>=1.3.0,<2.0.0
+pypdf>=4.0.0,<6.0.0
+python-docx>=1.1.0,<2.0.0
