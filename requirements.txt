@@ -1,5 +1,4 @@
-# Brag & Bev AI System — lightweight multi-agent retrieval (Python 3.11)
-# Render free-tier friendly: local processing + TF-IDF + direct Groq SDK.
+# Brag & Bev AI System — lightweight Render app + local multi-format ingestion
 
 streamlit>=1.31.0,<2.0.0
 python-dotenv>=1.0.0,<2.0.0
@@ -7,3 +6,8 @@ groq>=0.11.0,<1.0.0
 scikit-learn>=1.3.0,<2.0.0
 pypdf>=4.0.0,<6.0.0
 python-docx>=1.1.0,<2.0.0
+python-pptx>=0.6.23,<1.0.0
+openpyxl>=3.1.0,<4.0.0
+Pillow>=10.0.0,<12.0.0
+pytesseract>=0.3.10,<1.0.0
+PyMuPDF>=1.24.0,<2.0.0
