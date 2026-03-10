@@ -1,0 +1,11 @@
+Problem Context: Residential Trash Bin Cleaning
+
+Residential trash bins frequently accumulate food residue, liquids, bacteria, and odor. Over time this buildup can create strong smells, insect attraction, and unsanitary conditions.
+
+Most homeowners rarely clean their trash bins because the process is unpleasant and inconvenient. Cleaning typically requires dragging the bin to a hose, spraying it out, applying chemicals, and manually scrubbing the interior surfaces.
+
+Because this process is messy and time-consuming, bins often remain dirty for long periods.
+
+Dumpster Diver was conceived as a simple drop-in solution that could help coat the interior surfaces of a trash bin with a cleaning formulation after garbage pickup, reducing the amount of manual scrubbing required.
+
+The goal of the product is not to completely replace rinsing or occasional deep cleaning, but to make regular maintenance easier and less unpleasant for homeowners.
