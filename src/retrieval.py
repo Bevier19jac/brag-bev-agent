@@ -142,14 +142,29 @@ def retrieve_chunks(question: str, corpus: CorpusBundle, top_k: int = 5) -> list
         raise RuntimeError(f"Similarity search failed: {exc}") from exc
 
     ranked_indices = scores.argsort()[::-1]
-    results: list[RetrievedChunk] = []
+    candidates: list[RetrievedChunk] = []
     for index in ranked_indices:
         score = float(scores[index])
         if score <= 0:
             continue
         chunk = corpus.chunks[index]
-        results.append(RetrievedChunk(source=chunk.source, text=chunk.text, score=score))
-        if len(results) >= top_k:
+        candidates.append(RetrievedChunk(source=chunk.source, text=chunk.text, score=score))
+        if len(candidates) >= top_k * 2:
             break
 
-    return results
+    # Prefer diversity across source files: take one strong chunk per file first, then fill with remainder
+    selected: list[RetrievedChunk] = []
+    seen_sources: set[str] = set()
+    for c in candidates:
+        if c.source not in seen_sources:
+            selected.append(c)
+            seen_sources.add(c.source)
+            if len(selected) >= top_k:
+                break
+    for c in candidates:
+        if len(selected) >= top_k:
+            break
+        if c not in selected:
+            selected.append(c)
+
+    return selected
