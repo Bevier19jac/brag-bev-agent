@@ -1,20 +1,9 @@
-Key terms and working glossary for Brag & Bev / Dumpster Diver
+Brag & Bev LLC – Veteran-founded product development company created by Jacob Bevier. Focus: practical consumer products that solve real-world problems. First major product in development: Dumpster Diver.
 
-Brag & Bev LLC
-- A veteran-founded product development company focused on cleaning and consumer products.
-- Founded by Jacob Bevier. Currently in active development of the Dumpster Diver concept.
+Dumpster Diver – Self-righting trash bin cleaning concept for residential use. Intended to be dropped into an empty bin after garbage pickup. Uses mechanical or impact-triggered aerosol or foaming action to coat interior bin surfaces and reduce manual scrubbing. Simple to use; disposable or single-use; self-righting; mechanically activated.
 
-Dumpster Diver
-- A self-righting trash bin cleaning concept. Intended to be placed into a residential trash bin after garbage pickup, when the bin is mostly or fully empty.
-- Designed to trigger an internal cleaning action (aerosol or foaming spray) to help coat interior bin walls and reduce manual scrubbing. Exact mechanism, timing, and formulation are still under development.
+Self-righting – A device that orients itself into an upright or intended position after being dropped or jostled. For Dumpster Diver this supports predictable cleaning action and coverage inside the bin.
 
-Self-righting
-- A device that tends to orient itself into an upright or intended position after being dropped, knocked over, or jostled. For Dumpster Diver this helps make cleaning action and coverage more predictable.
+Aerosol / foaming cleaning action – Triggered release of cleaning material inside the bin. May be aerosol spray, foaming agent, or a combination. Formulation and regulatory details are under development.
 
-Aerosol / foaming cleaning action
-- Triggered release of cleaning material inside the bin. May take the form of aerosol sprays, foaming agents, or a combination. Exact ingredients, safety, and regulatory status must come from specific technical or regulatory documents.
-
-Bin cleaning goal
-- Reduce direct manual scrubbing and give users a way to periodically freshen or clean bins in between or after regular trash pickups.
-
-These definitions are high-level and may be updated as the project progresses. Treat them as directional context rather than final specifications.
+Bin cleaning goal – Reduce direct manual scrubbing and give users a way to periodically clean or freshen bins between or after regular trash pickups.

@@ -1,9 +1,9 @@
-Current status snapshot (approximate and evolving)
+Dumpster Diver is currently in active prototype development.
 
-- Brag & Bev LLC is actively developing the Dumpster Diver concept.
-- Dumpster Diver is a working concept rather than a fully commercialized, locked-down product.
-- Mechanical and product-level exploration has involved partners such as Rabbit Product Design (mechanical / engineering), Spray Products (aerosol formulation / packaging), and ARE Labs (spray / coverage testing).
-- Details of the mechanical design, triggering method, and internal layout are still being explored and may change as prototypes are built and evaluated.
-- Cleaning performance, safety details, regulatory steps, and manufacturing plans are subject to ongoing work and should not be considered final unless supported by specific documents.
+The project has progressed through early formulation and aerosol feasibility work. Recent work includes foaming cleanser formulation development, aerosol delivery feasibility testing, VOC compliance evaluation, and spray coverage testing.
 
-Guidance for the assistant: Present this status as a general orientation. When the user asks about current status, prefer specific dated documents in the corpus when available. If the documents do not clearly say something is final, treat it as tentative or in progress. Be explicit when something is an assumption or forecast rather than a documented fact.
+Spray Products has been assisting with aerosol-related work and provided sample aerosol cans for testing. Rabbit Product Development is now beginning the mechanical engineering phase. Rabbit recently received the sample cans from Spray Products and is starting CAD modeling to integrate the aerosol system into the product's self-righting structure and activation design. The first mechanical prototypes are expected to begin taking shape in CAD during this phase.
+
+Several engineering details remain under evaluation: actuation mechanism, spray geometry, mechanical trigger design, packaging format, and manufacturing approach.
+
+Dumpster Diver is a working concept; performance, safety, regulatory, and manufacturing plans are subject to ongoing work.

@@ -1,0 +1,11 @@
+How Dumpster Diver is intended to work:
+
+1. Trash is collected and the bin is emptied.
+2. The user drops Dumpster Diver into the empty bin.
+3. The device self-rights into an upright or intended position.
+4. A mechanical or impact-triggered aerosol or foaming cleaning action activates.
+5. Cleaning foam or spray coats interior bin surfaces.
+6. Residue and odor buildup are loosened.
+7. The user may rinse the bin if desired.
+
+The product is intended to be simple to use, disposable or single-use, self-righting, and mechanically activated. The goal is to reduce the need for hoses, scrubbing, and direct contact with waste residue. Exact actuation, spray geometry, and formulation details are still under development.

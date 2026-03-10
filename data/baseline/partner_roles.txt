@@ -1,18 +1,12 @@
-High-level view of partners and roles (subject to refinement)
+Partner roles for Dumpster Diver development:
 
-Rabbit Product Design
-- Associated with mechanical engineering, product design, and development discussions for Dumpster Diver.
-- Supports mechanical / engineering exploration, mechanism development, and design for manufacturability.
-- Exact scope, commercial terms, and responsibilities should be taken from specific contracts or statements of work, not assumed.
+Rabbit Product Development / Rabbit Product Design – Mike Johnston
+Mechanical engineering, product feasibility, CAD development. Housing and self-righting structure design. Activation mechanism design. Rabbit recently received sample aerosol cans from Spray Products and is starting CAD modeling to integrate the aerosol system into the product's self-righting structure and activation design.
 
-Spray Products
-- Associated with aerosol formulation, packaging, and production-related discussions.
-- May help explore propellants, canister or device formats, and ways to deliver cleaning sprays or foams.
-- Exact formulations, safety data, and regulatory status must come from technical documentation.
+Spray Products – Jim Johnson
+Aerosol formulation work, cleaning formulation support, aerosol packaging consultation, manufacturing considerations. Spray Products has assisted with aerosol-related work and has provided sample aerosol cans for testing.
 
-ARE Labs
-- Associated with spray coverage testing and evaluation.
-- May help evaluate how well different concepts coat interior bin surfaces under controlled test conditions.
-- Detailed protocols and results should be taken from specific test reports, not inferred.
+ARE Labs – Weston Schaper
+Spray coverage evaluation, formulation performance testing, aerosol behavior testing.
 
-The project is being developed thoughtfully and strategically; some design and business details remain in progress. Treat these role descriptions as high-level guidance. Do not invent contract terms, ownership structures, or financial arrangements.
+The project is developed in collaboration with these partners; specific scope and deliverables are defined in agreements and project documents.
