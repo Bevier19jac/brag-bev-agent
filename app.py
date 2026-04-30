@@ -46,7 +46,9 @@ try:
         SOURCE_DIR,
         count_supported_source_files,
         get_processed_file_count,
+        process_source_file,
     )
+    from src.organization import build_organized_index, to_csv, to_json
     from src.prompts import build_user_prompt
     from src.retrieval import build_corpus, choose_k, retrieve_chunks
 except Exception as exc:
@@ -190,32 +192,57 @@ st.caption(
 selected_agent_key = render_sidebar(DEFAULT_AGENT_KEY)
 selected_agent = get_agent(selected_agent_key)
 
-st.subheader(selected_agent.label)
-st.write(selected_agent.description)
+tabs = st.tabs(["Ask", "Organize Files"])
 
-question = st.text_area(
+with tabs[0]:
+    st.subheader(selected_agent.label)
+    st.write(selected_agent.description)
+
+    question = st.text_area(
     "Ask a question",
     height=140,
     placeholder="Ask about Dumpster Diver, business planning, partner notes, research, or communications.",
 )
 
-if st.button("Run AI", type="primary"):
-    if not question.strip():
-        st.warning("Please enter a question.")
-    else:
-        with st.spinner("Loading processed files, ranking chunks, and calling Groq..."):
-            answer, retrieved_chunks = run_agent(question.strip(), selected_agent.key)
-        st.subheader("Answer")
-        st.write(answer)
+    if st.button("Run AI", type="primary"):
+        if not question.strip():
+            st.warning("Please enter a question.")
+        else:
+            with st.spinner("Loading processed files, ranking chunks, and calling Groq..."):
+                answer, retrieved_chunks = run_agent(question.strip(), selected_agent.key)
+            st.subheader("Answer")
+            st.write(answer)
 
-        with st.expander("Retrieved context", expanded=False):
-            if retrieved_chunks:
-                for index, chunk in enumerate(retrieved_chunks, start=1):
-                    st.markdown(
-                        f"**{index}. {chunk.source}**  \n"
-                        f"Score: `{chunk.score:.4f}`"
-                    )
-                    st.text(chunk.text[:900] + ("..." if len(chunk.text) > 900 else ""))
-                    st.divider()
-            else:
-                st.write("No chunks retrieved.")
+            with st.expander("Retrieved context", expanded=False):
+                if retrieved_chunks:
+                    for index, chunk in enumerate(retrieved_chunks, start=1):
+                        st.markdown(
+                            f"**{index}. {chunk.source}**  \n"
+                            f"Score: `{chunk.score:.4f}`"
+                        )
+                        st.text(chunk.text[:900] + ("..." if len(chunk.text) > 900 else ""))
+                        st.divider()
+                else:
+                    st.write("No chunks retrieved.")
+
+with tabs[1]:
+    st.subheader("Organize Files")
+    uploads = st.file_uploader("Upload files to ingest and categorize", accept_multiple_files=True)
+    if uploads:
+        upload_dir = SOURCE_DIR / "uploaded"
+        upload_dir.mkdir(parents=True, exist_ok=True)
+        for up in uploads:
+            target = upload_dir / up.name
+            target.write_bytes(up.getbuffer())
+            process_source_file(target, PROCESSED_DIR)
+        st.success(f"Ingested {len(uploads)} uploaded file(s) into processed corpus.")
+
+    if st.button("Run Organization Analysis"):
+        rows = build_organized_index(PROCESSED_DIR)
+        if not rows:
+            st.warning("No processed files found in data/raw.")
+        else:
+            table_data = [r.__dict__ for r in rows]
+            st.dataframe(table_data, use_container_width=True)
+            st.download_button("Export CSV", data=to_csv(rows), file_name="organized_index.csv", mime="text/csv")
+            st.download_button("Export JSON", data=to_json(rows), file_name="organized_index.json", mime="application/json")

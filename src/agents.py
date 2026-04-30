@@ -5,6 +5,7 @@ from dataclasses import dataclass
 from src.prompts import (
     BUSINESS_PROMPT,
     COMMUNICATIONS_PROMPT,
+    ORGANIZATION_PROMPT,
     PRODUCT_PROMPT,
     RESEARCH_PROMPT,
 )
@@ -52,6 +53,15 @@ AGENTS = {
             "Summarizes partner, vendor, and meeting communications and extracts action items."
         ),
         system_prompt=COMMUNICATIONS_PROMPT,
+    ),
+    "organization": AgentConfig(
+        key="organization",
+        label="Organization Agent",
+        description=(
+            "Categorizes and organizes documents across Brag & Bev and Dumpster Diver "
+            "materials, including suggested folder structures and naming conventions."
+        ),
+        system_prompt=ORGANIZATION_PROMPT,
     ),
 }
 
